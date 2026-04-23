@@ -224,4 +224,62 @@ Que el 80% de los usuarios complete acciones clave en menos de 10 segundos
 
 El Lean UX Canvas presentado a continuación sintetiza los principales elementos del modelo de negocio y la propuesta de valor de la solución InstAlert. En este se integran el problema identificado, los segmentos de usuarios, los puntos de dolor, las soluciones propuestas, las hipótesis, las suposiciones y los resultados esperados, permitiendo visualizar de manera estructurada la relación entre las necesidades del usuario y las funcionalidades del producto. Este canvas sirve como base para la validación continua del proyecto mediante la experimentación y el enfoque iterativo propio de Lean UX.
 
+ A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
+https://canva.link/w0jjztdn8dpluhr
+
+
 ## 1.3 Segmentos objetivo
+
+Los segmentos presentados en esta sección se derivan del análisis realizado en el Lean UX Process, donde se identificaron los principales grupos de usuarios afectados por la problemática. A continuación, se detallan sus características demográficas, geográficas y comportamentales, así como información estadística relevante que sustenta la necesidad de la solución propuesta.
+
+
+Segmento 1: Residentes en zonas de riesgo medio-alto
+Descripción:
+ Personas que viven en zonas urbanas con niveles de inseguridad medio-alto y que buscan herramientas que les permitan sentirse más seguros en su entorno cotidiano.
+Características demográficas:
+Edad: 18 – 50 años
+Sexo: Masculino y femenino
+Nivel socioeconómico: B y C
+Ocupación: Estudiantes, trabajadores dependientes e independientes
+Características geográficas:
+Ubicación: Zonas urbanas
+Regiones: Lima Metropolitana y principales ciudades del Perú
+Características psicográficas:
+Uso constante de dispositivos móviles
+Preocupación por la seguridad personal
+Interés en prevenir riesgos
+Valoración de la tecnología como herramienta de apoyo
+Sustento estadístico:
+ Según el INEI, más del 80% de la población urbana percibe un incremento en la inseguridad ciudadana, lo que evidencia una alta demanda de soluciones orientadas a mejorar la seguridad personal.
+Segmento 2: Comerciantes en zonas de riesgo medio-alto
+Descripción:
+ Personas que trabajan o poseen negocios en zonas con alta incidencia delictiva y requieren herramientas que les permitan proteger sus bienes y reaccionar ante situaciones de riesgo.
+Características demográficas:
+Edad: 20 – 55 años
+Sexo: Masculino y femenino
+Nivel socioeconómico: C y D
+Ocupación: Dueños de negocios, emprendedores
+Características geográficas:
+Ubicación: Zonas urbanas y periféricas
+Regiones: Lima, Arequipa, Trujillo, entre otras
+Características psicográficas:
+Exposición constante a posibles robos
+Necesidad de respuesta inmediata
+Interés en proteger su inversión
+Valoración de herramientas colaborativas
+Sustento estadístico:
+ De acuerdo con el Ministerio Público y el INEI, los delitos contra el patrimonio, como robos, hurtos y extorsión, han mostrado un incremento sostenido en los últimos años, afectando principalmente a pequeños negocios en zonas urbanas.
+
+A continuación, se presentan datos estadísticos que evidencian la magnitud de la problemática de inseguridad ciudadana en el Perú, la cual impacta directamente en los segmentos identificados.
+
+
+Figura 1. Evolución de denuncias por robo y hurto en el Perú (2015–2024).
+Fuente: Elaboración propia a partir de datos del Instituto Nacional de Estadística e Informática (INEI, 2024)
+Como se observa en el gráfico, las denuncias por delitos contra el patrimonio han mostrado un incremento sostenido en los últimos años, lo que evidencia la creciente problemática de inseguridad en el país. Esta tendencia justifica la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de riesgo.
+
+
+
+Figura 2. Denuncias por el delito de extorsión en el Perú (2021–2025).
+Fuente: Ministerio Público – Oficina de Racionalización y Estadística; Instituto Nacional de Estadística e Informática (INEI, 2025).
+Como se observa en el gráfico, las denuncias por el delito de extorsión en el Perú han mostrado una tendencia creciente en los últimos años. Este incremento evidencia la persistencia y evolución de la criminalidad en el país, afectando tanto a ciudadanos como a comerciantes. Esta situación refuerza la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de inseguridad.
+
