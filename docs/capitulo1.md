@@ -128,7 +128,90 @@ Problem Statement (Pregunta de diseño)
 
 #### 1.2.2.2 Lean UX Assumptions
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
+En el enfoque Lean UX, las assumptions (suposiciones) representan hipótesis iniciales sobre los usuarios, sus necesidades, comportamientos y el valor que ofrece la solución. Estas suposiciones deben ser validadas posteriormente mediante pruebas con usuarios, prototipos y retroalimentación continua.
+A continuación, se presentan las principales suposiciones identificadas para el desarrollo de la solución InstAlert:
+1. Suposiciones sobre los usuarios
+Los usuarios desean sentirse más seguros durante sus desplazamientos diarios.
+Los usuarios valoran herramientas simples, rápidas e intuitivas, especialmente en situaciones de estrés.
+Los usuarios utilizan frecuentemente dispositivos móviles para acceder a información en tiempo real.
+Los usuarios están dispuestos a colaborar con su comunidad reportando incidentes.
+2. Suposiciones sobre el problema
+La falta de información en tiempo real incrementa la vulnerabilidad de los ciudadanos.
+La ausencia de comunicación efectiva entre vecinos limita la prevención de delitos.
+Los usuarios no cuentan con herramientas tecnológicas integradas para reaccionar ante emergencias.
+Las soluciones actuales son fragmentadas y poco eficientes.
+3. Suposiciones sobre la solución
+Una aplicación web centralizada mejorará la capacidad de respuesta ante situaciones de riesgo.
+La incorporación de un botón de pánico permitirá una reacción inmediata.
+Un sistema de reportes colaborativos mejorará la información disponible sobre incidentes.
+La visualización de zonas de riesgo ayudará a los usuarios a tomar mejores decisiones.
+4. Suposiciones sobre el valor del producto
+Los usuarios percibirán valor en una plataforma que mejore su seguridad personal.
+La rapidez y facilidad de uso serán factores clave para la adopción.
+La colaboración comunitaria será un elemento diferenciador frente a otras soluciones.
+5. Suposiciones sobre el negocio
+Existe una creciente demanda de soluciones tecnológicas enfocadas en seguridad ciudadana.
+El producto puede escalar a diferentes ciudades con problemáticas similares.
+Se pueden generar alianzas con entidades locales o comunidades vecinales.
+Conclusión de las assumptions
+Estas suposiciones guían el desarrollo inicial del producto InstAlert y permiten identificar los principales riesgos del proyecto. No obstante, deberán ser validadas mediante pruebas con usuarios reales, prototipos y experimentación continua, siguiendo los principios del enfoque Lean UX.
+
+
+
+   1.2.2.3 Lean UX Hypothesis Statements. 
+A continuación, se presentan las hipótesis del proyecto InstAlert, formuladas bajo el enfoque Lean UX, con el objetivo de validar las decisiones de diseño mediante métricas medibles.
+Hipótesis 1: Botón de pánico
+Creemos que:
+ Construir un botón de pánico accesible y de rápida activación
+Para:
+ Usuarios que se encuentran en situaciones de riesgo en zonas urbanas
+Lograremos:
+ Una reacción inmediata ante situaciones de peligro y una mayor probabilidad de recibir ayuda oportuna
+Sabremos que hemos tenido éxito cuando veamos:
+Que el botón se active en menos de 3 segundos
+Que el usuario complete la acción en 1 intento
+
+Hipótesis 2: Mapa de calor
+Creemos que:
+ Incorporar un sistema de mapas de calor con información actualizada sobre incidentes
+Para:
+ Usuarios que necesitan identificar zonas peligrosas en sus desplazamientos
+Lograremos:
+ Que los usuarios tomen decisiones más seguras al movilizarse
+Sabremos que hemos tenido éxito cuando veamos:
+Que al menos el 60% de los usuarios consulte el mapa antes de desplazarse
+Que el 50% de los usuarios modifique su ruta tras visualizar zonas de riesgo
+
+Hipótesis 3: Reportes comunitarios
+Creemos que:
+ Habilitar un sistema de reportes comunitarios en tiempo real
+Para:
+ Vecinos y comerciantes que desean compartir información relevante
+Lograremos:
+ Incrementar la colaboración entre usuarios y mejorar la información disponible
+Sabremos que hemos tenido éxito cuando veamos:
+Que se generen al menos 50 reportes semanales en zonas piloto
+Que el 40% de los reportes sean validados por otros usuarios
+Hipótesis 4: Notificaciones en tiempo real
+Creemos que:
+ Implementar notificaciones en tiempo real sobre incidentes cercanos
+Para:
+ Usuarios que necesitan mantenerse informados sobre su entorno
+Lograremos:
+ Una reacción preventiva ante posibles amenazas
+Sabremos que hemos tenido éxito cuando veamos:
+Que al menos el 65% de los usuarios interactúe con las alertas
+Que el 70% de los usuarios visualice la alerta en menos de 5 segundos
+Hipótesis 5: Interfaz intuitiva
+Creemos que:
+ Diseñar una interfaz simple e intuitiva
+Para:
+ Usuarios en situaciones de estrés o urgencia
+Lograremos:
+ Reducir la fricción en el uso de la aplicación en momentos críticos
+Sabremos que hemos tenido éxito cuando veamos:
+Que el 80% de los usuarios complete acciones clave en menos de 10 segundos
+
 
 #### 1.2.2.4 Lean UX Canvas
 
