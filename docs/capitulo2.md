@@ -199,3 +199,69 @@ User Task Matrix: Comerciantes en zonas de riesgo medio-alto
 | Consultar historial de incidentes de la zona | Medium | Low |
 | Registro y configuración de perfil | Low | High |
 | Consultar rutas seguras en tiempo real | Low | Medium |
+
+###2.3.3. User Journey Mapping
+
+Primer Segmento: Residentes de zonas de riesgo medio-alto
+
+![User Journey Mapping Residentes de zonas de riesgo medio-alto](assets/images/UX Canva/userjourneymapping-1.jpg)
+
+Segundo segmento: Comerciantes en zonas de riesgo medio-alto)
+
+![User Journey Mapping Comerciantes en zonas de riesgo medio-alto](assets/images/UX Canva/userjourneymapping-2.jpg)
+
+### 2.3.4. Empathy Mapping.
+
+Empathy Map Kiara Lluques
+
+![Empathy Map Kiara Lluques](assets/images/UX Canva/empathymap-kiara-lluques.jpg)
+
+Empathy Map Luan Enrique
+
+![Empathy Map Luan Enrique](assets/images/UX Canva/empathymap-luan-enrique.jpg)
+
+## 2.4. Big Picture Event Storming
+
+El equipo llevó a cabo una sesión de Big Picture Event Storming con el objetivo de comprender el dominio del negocio de InstAlert de manera integral. Esta técnica colaborativa permitió mapear el flujo completo de la solución, desde la detección de una amenaza hasta la resolución del incidente, alineando la visión técnica con las necesidades de los segmentos de usuarios identificados (Residentes y Comerciantes). A través de este proceso, se logró una primera aproximación visual de alto nivel que permitió explorar el panorama del negocio, identificar procesos críticos y exponer potenciales problemas u oportunidades de mejora en la experiencia del usuario.
+
+### 2.4.1 Etapas del Big Picture Event Storming
+
+#### 2.4.1.1 Generación de Eventos de Dominio (Domain Events)
+
+En esta fase inicial, el equipo se enfocó en identificar todos los hechos significativos que ocurren dentro del ecosistema de seguridad de InstAlert. Siguiendo la convención de la metodología, estos eventos se plasmaron en notas adhesivas de color naranja y se redactaron en tiempo pasado.
+Se identificaron eventos clave como Incidente sospechoso detectado, Botón de pánico activado, Alerta de estafa emitida y Ubicación en tiempo real compartida. Esta etapa permitió visibilizar la complejidad de las interacciones sin restricciones de orden.
+
+![Generación de Eventos de Dominio](assets/images/UX Canva/generacionde-eventosdedominio.jpg)
+
+#### 2.4.1.2 Ordenamiento Cronológico y Flujo de Trabajo
+
+Una vez generados los eventos, se procedió a organizarlos en una línea de tiempo de izquierda a derecha. Este ordenamiento permitió estructurar dos flujos principales de la aplicación: el Flujo Preventivo (orientado a la consulta de rutas y mapas de calor por parte del residente) y el Flujo Reactivo (enfocado en la respuesta inmediata ante emergencias para comerciantes y vecinos). Se utilizaron alineaciones verticales para representar acciones que ocurren en paralelo, como el envío simultáneo de notificaciones a serenazgo y contactos de confianza.
+
+![Ordenamiento Cronológico y Flujo de Trabajo](assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg)
+
+En esta etapa, el equipo organizó los eventos de dominio de manera cronológica, permitiendo identificar la secuencia de interacción desde que un usuario consulta el mapa de calor (prevención) hasta la activación del botón de pánico en situaciones críticas (reacción). Se establecieron dependencias lógicas donde los reportes comunitarios alimentan la inteligencia colectiva del sistema.
+
+#### 2.4.1.3 Identificación de Actores y Sistemas Externos
+
+Para otorgar contexto a los eventos, se añadieron capas de información identificando quién ejecuta las acciones y qué herramientas de terceros intervienen. Actores: Se definieron roles críticos como el Residente de zona de riesgo, el Comerciante, el Contacto de Confianza y el Operador de Serenazgo. Sistemas Externos: Se identificaron integraciones necesarias con Google Maps API para la geolocalización y Firebase para la gestión de notificaciones push en tiempo real.
+
+![Identificación de Actores y Sistemas Externos](assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg)
+
+#### 2.4.1.4 Storytelling y Validación (Reverse Storytelling)
+
+Finalmente, el equipo realizó una lectura crítica del muro para verificar la coherencia del dominio. Al narrar la historia de forma inversa, se identificaron vacíos lógicos y se añadieron post-its de color rosado para marcar "Puntos de Dolor" o problemas, tales como la validación de reportes falsos y la conectividad en sótanos o zonas de baja señal. Esta etapa garantizó que el sistema propuesto sea robusto ante situaciones de estrés real.
+
+## 2.5. Ubiquitous Language.
+
+| Término (Inglés) | Definición |
+| :--- | :--- |
+| Resident user | Ciudadano o estudiante que vive o transita frecuentemente por zonas de riesgo medio-alto y utiliza la plataforma para su prevención y seguridad personal. |
+| Merchant user | Comerciante que desarrolla sus actividades en áreas de riesgo medio-alto y requiere de una herramienta rápida para protegerse ante posibles robos o estafas. |
+| IoT Panic Button | Dispositivo físico inteligente conectado a la aplicación que permite al usuario emitir alertas sonoras instantáneas y solicitar auxilio de manera discreta e inmediata. |
+| Real-time alerts | Notificaciones enviadas de manera automática e inmediata a contactos de confianza y autoridades en el momento en que se activa una emergencia. |
+| Crime Heat Map | Representación visual en la plataforma que destaca las áreas geográficas con mayor incidencia delictiva, basándose en datos históricos y reportes recientes. |
+| Collaborative reports | Denuncias o avisos de incidentes (robos, agresiones, actividades sospechosas) generados por los usuarios, que pueden incluir evidencia en texto, foto o audio. |
+| Trusted contacts | Lista de personas (familiares, amigos o vecinos) previamente configurada por el usuario, quienes recibirán la ubicación y alerta de auxilio en caso de emergencia. |
+| Security Authorities | Fuerzas del orden (Policía Nacional, Serenazgo) con las que la plataforma busca integrarse y coordinar para agilizar la respuesta ante situaciones de peligro. |
+| Risk zones | Áreas urbanas o rurales identificadas dentro de la plataforma que presentan un alto índice de inseguridad ciudadana. |
+| Smart data analysis | Uso de Inteligencia Artificial para procesar el historial de reportes y datos actuales, permitiendo predecir patrones de delincuencia y mejorar la prevención ciudadana. |
