@@ -11,3 +11,13 @@
 * **Funciones Principales:** Reportes directos a autoridades, atención de emergencias médicas y, en algunos casos, acceso a cámaras de videovigilancia.
 * **Modelo de Costos:** Totalmente gratuito para el ciudadano (el municipio asume la inversión).
 * **Distribución:** Descarga en tiendas de aplicaciones y promoción en portales web municipales.
+
+### Competidor 2: CODISEC (Comité Distrital de Seguridad Ciudadana)
+
+* **Descripción:** No es una aplicación comercial, sino un organismo estatal que articula los esfuerzos de la Policía Nacional, municipios, fiscalía y ciudadanos para gestionar la seguridad local.
+* **Ventaja Competitiva:** Total respaldo gubernamental, capacidad para ejecutar políticas públicas y un enfoque de coordinación multisectorial.
+* **Público Objetivo:** Instituciones del Estado, gobiernos locales y ciudadanos que participan activamente en juntas vecinales.
+* **Estrategia de Marketing:** Comunicación a través de medios estatales, campañas de prevención y eventos de participación comunitaria.
+* **Funciones Principales:** Creación de planes de seguridad distrital, organización de vecinos y coordinación entre diferentes autoridades.
+* **Modelo de Costos:** Servicio público sin costo, sustentado por el presupuesto del Estado.
+* **Distribución:** Operación a través de dependencias gubernamentales y oficinas municipales.
