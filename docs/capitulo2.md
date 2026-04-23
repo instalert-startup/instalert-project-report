@@ -97,21 +97,15 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 
 **Entrevista 1**
 * **Entrevistado:** Maria Rocio de los Ángeles
-* **Edad:** 42 años
-* **Distrito:** Comas
-* **Duración:** 18:06
-* **Evidencia visual:** [![Evidencia 1](https://postimg.cc/rRmPRFrz)](https://postimg.cc/rRmPRFrz)
-* **Link de grabación:** [Google Drive - Entrevista 1](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
-* **Nota:** Evidencia de la quinta entrevista realizada.
+* **Edad:** 42 años | **Distrito:** Comas | **Duración:** 18:06
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450"></p>
+* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
 
 **Entrevista 2**
 * **Entrevistado:** Renzo Baldeon
-* **Edad:** 26 años
-* **Distrito:** Callao
-* **Duración:** 08:30
-* **Evidencia visual:** [![Evidencia 2](https://postimg.cc/D8SN20FK)](https://postimg.cc/D8SN20FK)
-* **Link de grabación:** [Google Drive - Entrevista 2](https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing)
-* **Nota:** Evidencia de la segunda entrevista realizada.
+* **Edad:** 26 años | **Distrito:** Callao | **Duración:** 08:30
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista Renzo Baldeon" width="450"></p>
+* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing)
 
 ---
 
@@ -119,19 +113,13 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 
 **Entrevista 3**
 * **Entrevistado:** Luis Acuña
-* **Edad:** 24 años
-* **Distrito:** Villa el Salvador
-* **Duración:** 07:30
-* **Evidencia visual:** [![Evidencia 3](https://postimg.cc/94hgtB7S)](https://postimg.cc/94hgtB7S)
-* **Link de grabación:** [Google Drive - Entrevista 3](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
-* **Observación:** El inicio efectivo de la entrevista se da en el minuto 00:00:32.
+* **Edad:** 24 años | **Distrito:** Villa el Salvador | **Duración:** 07:30
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista Luis Acuña" width="450"></p>
+* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
 
 **Entrevista 4**
 * **Entrevistado:** Ignacio Baulety
-* **Edad:** 27 años
-* **Distrito:** Ate
-* **Duración:** 13:41
-* **Evidencia visual:** [![Evidencia 4](https://postimg.cc/HV86qN4V)](https://postimg.cc/HV86qN4V)
-* **Link de grabación:** [SharePoint - Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
-* **Testimonio clave:** El entrevistado indica que experimenta con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o realizar actividades deportivas.
-
+* **Edad:** 27 años | **Distrito:** Ate | **Duración:** 13:41
+* **Testimonio clave:** *"El entrevistado indica que vive con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o hacer deporte."*
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista Ignacio Baulety" width="450"></p>
+* **Link de grabación:** [Ver en SharePoint](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
