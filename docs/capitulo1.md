@@ -105,7 +105,8 @@ Recursos técnicos y humanos acotados
 #### 1.2.2.1 Lean UX Problem Statements
 
 En esta sección se analiza el problema desde el enfoque Lean UX, identificando el dominio, los segmentos de clientes, los puntos de dolor y la oportunidad de solución, con el objetivo de definir una propuesta de valor clara para el desarrollo del producto.
-Domain (Dominio del problema)
+
+####Domain (Dominio del problema)
 El dominio del problema corresponde a la seguridad ciudadana en entornos urbanos, específicamente en zonas con niveles de riesgo medio-alto donde los ciudadanos están expuestos a delitos como robos y asaltos.
 Customer Segments (Segmentos de clientes)
 Ciudadanos que transitan frecuentemente por zonas de riesgo
