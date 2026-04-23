@@ -153,7 +153,7 @@ Manifiesta un escepticismo profundo hacia la policía y el serenazgo debido a la
 
 User persona Joan Marcelo - Residente de zona de riesgo medio-alto 
 
-![UserPersona-JoanMarcelo](assets/images/UX Canva/userpersona-joan-marcelo.jpg)
+![UserPersona-JoanMarcelo](../assets/images/UX Canva/userpersona-joan-marcelo.jpg)
 
 ***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
 
