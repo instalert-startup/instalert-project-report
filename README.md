@@ -24,7 +24,7 @@ Ingeniería de Software
 
 ## NRC
 
-[Colocar NRC]
+10155
 
 ## Profesor
 
