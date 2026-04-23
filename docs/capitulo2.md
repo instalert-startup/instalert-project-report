@@ -90,3 +90,48 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 | **Introducción** | 1. ¿Podría proporcionar sus nombres y apellidos?<br>2. ¿Qué edad tiene actualmente?<br>3. ¿En qué distrito reside usted? |
 | **Preguntas para Segmento 1: Vecinos de zonas de riesgo medio-alto** | 1. ¿En qué circunstancias o momentos específicos experimenta mayor inseguridad al transitar por su zona de residencia? ¿Cuál es su percepción de seguridad durante sus desplazamientos cotidianos?<br>2. ¿Qué medidas preventivas adopta actualmente para desplazarse de forma segura en su localidad? ¿De qué manera estas estrategias de movilidad han llegado a afectarle en algún aspecto?<br>3. ¿Podría describir alguna situación de riesgo en su zona donde se le dificultó reaccionar o solicitar auxilio? En caso de no haberlo vivido personalmente, ¿tiene conocimiento de algún incidente cercano? ¿Qué factores considera que complicaron la respuesta de los afectados?<br>4. ¿De qué forma garantiza su protección personal ante la presencia de riesgos en la vía pública o en su vecindario?<br>5. Si tuviera acceso a una herramienta de asistencia para situaciones de riesgo en su comunidad, ¿bajo qué funciones esperaría que esta le brinde soporte?<br>6. ¿Qué obstáculos o deficiencias identifica en los canales de solicitud de ayuda disponibles ante una emergencia?<br>7. ¿A través de qué medios se informa habitualmente sobre los sucesos de inseguridad ocurridos en su sector?<br>8. ¿Ha percibido, mediante experiencias propias o eventos observados, alguna falta de fiabilidad en las autoridades correspondientes?<br>9. Ante una situación de vulnerabilidad, ¿considera que un botón de pánico sería una herramienta eficaz? De ser así, ¿cuál sería el aporte específico de este mecanismo?<br>10. ¿Cree que disponer de datos precisos sobre las áreas con mayor índice de criminalidad en su zona le resultaría beneficioso?<br>11. ¿Considera de utilidad contar con reportes actualizados sobre incidentes recientes? En caso afirmativo, ¿cuál sería el motivo?<br>12. ¿Qué información específica y detallada requeriría usted en cada reporte de incidente?<br>13. Si existiera la posibilidad de incluir una descripción que permita identificar al responsable en el reporte, ¿considera que esto le sería de ayuda? ¿De qué manera?<br>14. ¿Cuentan los residentes con un canal de comunicación definido para reportar y alertar sobre diversas situaciones de interés comunitario?<br>15. ¿Forma usted parte de juntas de vecinos o redes de apoyo enfocadas en la seguridad ciudadana?<br>16. ¿Qué acciones o proyectos considera que la comunidad de vecinos podría ejecutar para optimizar la seguridad del entorno? |
 | **Preguntas para Segmento 2: Comerciantes en zonas de riesgo medio-alto** | 1. ¿Ha experimentado en algún momento una sensación de inseguridad durante el desempeño de sus labores? De ser así, ¿cuáles fueron los motivos?<br>2. En su operatividad diaria, ¿en qué escenarios específicos identifica una mayor vulnerabilidad dentro de su establecimiento (apertura, cierre, gestión de efectivo o periodos de soledad)?<br>3. ¿Recuerda alguna circunstancia en la que la integridad de su negocio se viera comprometida y no contara con una capacidad de respuesta inmediata? ¿Podría describir el suceso?<br>4. ¿Con qué periodicidad y qué tan actuales son los hechos delictivos registrados en este sector?<br>5. ¿Qué modalidades delictivas considera que afectan con mayor frecuencia al sector comercial de esta zona?<br>6. ¿Ha repercutido el estado de la seguridad ciudadana en el rendimiento operativo o financiero de su empresa? En caso afirmativo, ¿de qué forma?<br>7. Además de los robos o asaltos, ¿existen otros agentes o factores que le generen una percepción de riesgo?<br>8. ¿Considera que el contacto con las fuerzas del orden o la solicitud de auxilio es accesible en su localidad? De lo contrario, ¿qué elementos dificultan este proceso?<br>9. ¿Estima usted que las autoridades asignadas a su jurisdicción son dignas de confianza? ¿Cuáles son los fundamentos de su postura? <br>10. ¿Considera que la implementación de un botón de pánico resultaría de utilidad para su protección?<br>11. ¿Bajo qué supuestos de riesgo proyectaría usted el uso de un botón de pánico (por ejemplo: tentativa de hurto, clientes hostiles, extorsión o sospecha de seguimiento)?<br>12. ¿Estima que esta herramienta optimizaría la asistencia de las autoridades si permitiera el envío de alertas directas a las unidades más cercanas?<br>13. ¿Cree que disponer de información exacta sobre los puntos críticos de incidencia delictiva en su zona le sería de ayuda?<br>14. ¿Qué datos técnicos o descriptivos desearía recibir acerca de dichos incidentes? |
+
+#### 2.2.2. Registro de entrevistas
+
+### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
+
+**Entrevista 1**
+* **Entrevistado:** Maria Rocio de los Ángeles
+* **Edad:** 42 años
+* **Distrito:** Comas
+* **Duración:** 18:06
+* **Evidencia visual:** [![Evidencia 1](https://postimg.cc/rRmPRFrz)](https://postimg.cc/rRmPRFrz)
+* **Link de grabación:** [Google Drive - Entrevista 1](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
+* **Nota:** Evidencia de la quinta entrevista realizada.
+
+**Entrevista 2**
+* **Entrevistado:** Renzo Baldeon
+* **Edad:** 26 años
+* **Distrito:** Callao
+* **Duración:** 08:30
+* **Evidencia visual:** [![Evidencia 2](https://postimg.cc/D8SN20FK)](https://postimg.cc/D8SN20FK)
+* **Link de grabación:** [Google Drive - Entrevista 2](https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing)
+* **Nota:** Evidencia de la segunda entrevista realizada.
+
+---
+
+### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
+
+**Entrevista 3**
+* **Entrevistado:** Luis Acuña
+* **Edad:** 24 años
+* **Distrito:** Villa el Salvador
+* **Duración:** 07:30
+* **Evidencia visual:** [![Evidencia 3](https://postimg.cc/94hgtB7S)](https://postimg.cc/94hgtB7S)
+* **Link de grabación:** [Google Drive - Entrevista 3](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
+* **Observación:** El inicio efectivo de la entrevista se da en el minuto 00:00:32.
+
+**Entrevista 4**
+* **Entrevistado:** Ignacio Baulety
+* **Edad:** 27 años
+* **Distrito:** Ate
+* **Duración:** 13:41
+* **Evidencia visual:** [![Evidencia 4](https://postimg.cc/HV86qN4V)](https://postimg.cc/HV86qN4V)
+* **Link de grabación:** [SharePoint - Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
+* **Testimonio clave:** El entrevistado indica que experimenta con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o realizar actividades deportivas.
+
