@@ -93,15 +93,23 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 
 #### 2.2.2. Registro de entrevistas
 
-### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
+### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
 
 **Entrevista 1**
-* **Entrevistado:** Maria Rocio de los Ángeles
-* **Edad:** 42 años | **Distrito:** Comas | **Duración:** 18:06
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450"></p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
+* **Entrevistado:** Luis Acuña
+* **Edad:** 24 años | **Distrito:** Villa el Salvador | **Duración:** 07:30
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista Luis Acuña" width="450"></p>
+* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
+* **Nota:** El inicio efectivo de la entrevista se da en el minuto 00:00:32.
 
 **Entrevista 2**
+* **Entrevistado:** Ignacio Baulety
+* **Edad:** 27 años | **Distrito:** Ate | **Duración:** 13:41
+* **Testimonio clave:** *"El entrevistado indica que vive con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o hacer deporte."*
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista Ignacio Baulety" width="450"></p>
+* **Link de grabación:** [Ver en SharePoint](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
+
+**Entrevista 3**
 * **Entrevistado:** Renzo Baldeon
 * **Edad:** 26 años | **Distrito:** Callao | **Duración:** 08:30
 * **Evidencia:** <p align="left"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista Renzo Baldeon" width="450"></p>
@@ -109,17 +117,10 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 
 ---
 
-### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
-
-**Entrevista 3**
-* **Entrevistado:** Luis Acuña
-* **Edad:** 24 años | **Distrito:** Villa el Salvador | **Duración:** 07:30
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista Luis Acuña" width="450"></p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
+### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
 
 **Entrevista 4**
-* **Entrevistado:** Ignacio Baulety
-* **Edad:** 27 años | **Distrito:** Ate | **Duración:** 13:41
-* **Testimonio clave:** *"El entrevistado indica que vive con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o hacer deporte."*
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista Ignacio Baulety" width="450"></p>
-* **Link de grabación:** [Ver en SharePoint](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
+* **Entrevistado:** Maria Rocio de los Ángeles
+* **Edad:** 42 años | **Distrito:** Comas | **Duración:** 18:06
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450"></p>
+* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
