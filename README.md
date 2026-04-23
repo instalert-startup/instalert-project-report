@@ -47,7 +47,7 @@ InstAlert
 * Piero Leonardo Molina Falcón — u201610857
 * Sebastian Victor Andre Diaz Mendoza — u202415638
 * Alexander Paolo Justo Yauricasa — u20191c054
-* Nombre: Breithner Rodolfo Perez Encarnación — u202418577 
+* Breithner Rodolfo Perez Encarnación — u202418577 
 
 ---
 
