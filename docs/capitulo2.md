@@ -125,6 +125,14 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 * **Evidencia:** <p align="left"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450"></p>
 * **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
 
+**Entrevista 5**
+* **Entrevistado:** Alejandro Alvarado
+* **Edad:** 22 años | **Distrito:** El Callao | **Duración:** 5:15
+* **Evidencia:** <p align="left"><img src="https://postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista Alejandro Alvarado" width="450"></p>
+* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing)
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 #### **Segmento 1: Residentes en zonas de riesgo medio-alto**
@@ -146,6 +154,13 @@ Residente de la Provincia Constitucional del Callao, Renzo describe su zona como
 La experiencia de María en Comas revela el profundo impacto psicológico y económico que genera la delincuencia en el sector comercial. Identifica una vulnerabilidad crítica en horas de baja afluencia peatonal, donde la soledad de las calles incrementa el temor a ser asaltada sin recibir auxilio. Tras un intento de robo traumático, describe un entorno hostil de extorsiones y hurtos cíclicos que la han obligado a reducir su horario de atención, provocando una caída en sus ingresos. 
 
 Manifiesta un escepticismo profundo hacia la policía y el serenazgo debido a la lentitud de sus intervenciones. Ante esto, propone un dispositivo de alerta inmediata (botón de pánico) y destaca la importancia de una base de datos comunitaria que registre métodos delictivos. Esta información no solo serviría para la organización preventiva de los vecinos, sino también como un mecanismo de presión para exigir resultados a las autoridades.
+
+**Entrevista 5 (Alejandro Alvarado):**
+La experiencia de Alejandro Alvarado, quien apoya en la conducción de la bodega de abarrotes de sus padres en el Callao, expone la crítica vulnerabilidad de los negocios familiares frente a una delincuencia que sobrepasa la capacidad de respuesta estatal. Alejandro identifica una vulnerabilidad crítica durante el cierre del local y el manejo de efectivo, momentos en los que la exposición al riesgo se agrava por la presencia constante de individuos bajo efectos de sustancias que ejercen una coacción indirecta sobre el negocio. Tras haber presenciado un asalto a mano armada contra un colega cercano —donde la víctima perdió 2000 soles—, Alejandro describe un entorno de inseguridad sistémica donde los asaltos, las estafas digitales (pagos fraudulentos) y el robo de vehículos de clientes ocurren de manera semanal.
+
+Esta crisis de inseguridad ha degradado directamente la competitividad y el desempeño económico de la bodega; la falta de garantías de seguridad en los alrededores ha ahuyentado a la clientela que solía acudir en vehículos, reduciendo el flujo de ventas. Pese a que el establecimiento cuenta con seguridad interna, la magnitud del riesgo (ocho puertas de acceso custodiadas por solo dos guardias) genera un estado de alerta y fatiga emocional en el personal, que debe trabajar bajo una tensión constante.
+
+En cuanto a la percepción de la fuerza pública, Alejandro manifiesta un escepticismo fundamentado en la ineficacia operativa: a pesar de trabajar a menos de 10 minutos de una comisaría, la demora en las intervenciones (superando los 15 minutos) y la saturación de las líneas telefónicas han roto el vínculo de confianza con la policía. Ante este escenario de abandono institucional, Alejandro valida con urgencia la implementación de un botón de pánico que funcione como un canal de alerta directa, evitando el deficiente sistema de llamadas tradicional. Para él, esta herramienta no solo debe servir para la reacción inmediata, sino también para alimentar un sistema de inteligencia comunitaria que clasifique zonas y horarios de riesgo. Esta información permitiría a los comerciantes del Callao transitar y operar bajo un enfoque preventivo, transformando el miedo individual en una red de protección colectiva que ayude a evitar tragedias.
 
 ## 2.3. Needfinding.
 
