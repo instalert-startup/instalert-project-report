@@ -14,7 +14,7 @@ Asimismo, la aplicación busca fomentar la colaboración entre ciudadanos y enti
 El equipo está conformado por estudiantes de Ingeniería de Software con habilidades complementarias en desarrollo, diseño y gestión de proyectos, lo que permite abordar de manera integral la creación de la solución tecnológica propuesta.
 Integrante 1:
 Nombre: Piero Leonardo Molina Falcón
-
+![Piero Leonardo Molina Falcón](../assets/images/team/piero.png)
 Código de estudiante: U201610857
 Carrera: Ingeniería de software 
 Descripción: Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos.
