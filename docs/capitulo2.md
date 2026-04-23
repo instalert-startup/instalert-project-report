@@ -146,3 +146,56 @@ Residente de la Provincia Constitucional del Callao, Renzo describe su zona como
 La experiencia de María en Comas revela el profundo impacto psicológico y económico que genera la delincuencia en el sector comercial. Identifica una vulnerabilidad crítica en horas de baja afluencia peatonal, donde la soledad de las calles incrementa el temor a ser asaltada sin recibir auxilio. Tras un intento de robo traumático, describe un entorno hostil de extorsiones y hurtos cíclicos que la han obligado a reducir su horario de atención, provocando una caída en sus ingresos. 
 
 Manifiesta un escepticismo profundo hacia la policía y el serenazgo debido a la lentitud de sus intervenciones. Ante esto, propone un dispositivo de alerta inmediata (botón de pánico) y destaca la importancia de una base de datos comunitaria que registre métodos delictivos. Esta información no solo serviría para la organización preventiva de los vecinos, sino también como un mecanismo de presión para exigir resultados a las autoridades.
+
+## 2.3. Needfinding.
+
+### 2.3.1. User Personas
+
+User persona Joan Marcelo - Residente de zona de riesgo medio-alto 
+
+![User Persona Joan Marcelo](assets/images/UX Canva/userpersona-joan-marcelo.jpg)
+
+***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
+
+User persona Maria Torres - Comerciante de zona de riesgo medio-alto
+
+![User Persona Maria Torres](assets/images/UX Canva/userpersona-maria-torres.jpg)
+
+***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
+
+### 2.3.2. User Task Matrix.
+
+User Task Matrix: Residente de zona de riesgo medio-alto
+
+| Tareas de Usuario | Frecuencia | Importancia |
+| :--- | :---: | :---: |
+| Registro y configuración de perfil | Low | High |
+| Visualizar mapa de calor de incidentes | High | High |
+| Consultar rutas seguras en tiempo real | High | High |
+| Recibir alertas de zonas de riesgo próximas | High | High |
+| Consultar historial de incidentes de la zona | High | Medium |
+| Configurar contactos de confianza | Medium | High |
+| Validar reportes de otros usuarios | Medium | Medium |
+| Configurar notificaciones personalizadas | Medium | Low |
+| Reportar robo o asalto presenciado | Medium | High |
+| Coordinar acciones con vecinos | Medium | Medium |
+| Activar botón de pánico (Emergencia) | Low | High |
+| Solicitar asistencia de serenazgo/policía | Low | High |
+
+User Task Matrix: Comerciantes en zonas de riesgo medio-alto
+
+| Tareas de Usuario | Frecuencia | Importancia |
+| :--- | :---: | :---: |
+| Reportar estafa o billetes falsos | High | High |
+| Reportar robo o asalto presenciado | High | High |
+| Coordinar acciones con colegas/vecinos | High | High |
+| Configurar contactos de confianza | High | High |
+| Recibir alertas de zonas de riesgo próximas | High | High |
+| Activar botón de pánico (Emergencia) | Medium | High |
+| Validar reportes de otros usuarios | Medium | Medium |
+| Solicitar asistencia de serenazgo/policía | Medium | High |
+| Visualizar mapa de calor de incidentes | Medium | Medium |
+| Configurar notificaciones personalizadas | Medium | Medium |
+| Consultar historial de incidentes de la zona | Medium | Low |
+| Registro y configuración de perfil | Low | High |
+| Consultar rutas seguras en tiempo real | Low | Medium |
