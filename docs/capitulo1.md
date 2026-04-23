@@ -106,23 +106,29 @@ Recursos técnicos y humanos acotados
 
 En esta sección se analiza el problema desde el enfoque Lean UX, identificando el dominio, los segmentos de clientes, los puntos de dolor y la oportunidad de solución, con el objetivo de definir una propuesta de valor clara para el desarrollo del producto.
 
-####Domain (Dominio del problema)
+Domain (Dominio del problema)
 El dominio del problema corresponde a la seguridad ciudadana en entornos urbanos, específicamente en zonas con niveles de riesgo medio-alto donde los ciudadanos están expuestos a delitos como robos y asaltos.
+
 Customer Segments (Segmentos de clientes)
 Ciudadanos que transitan frecuentemente por zonas de riesgo
 Comerciantes con negocios en áreas vulnerables
 Personas que buscan herramientas para mejorar su seguridad personal
+
 Pain Points (Puntos de dolor)
 Falta de información en tiempo real sobre incidentes cercanos
 Imposibilidad de reaccionar rápidamente ante situaciones de peligro
 Ausencia de comunicación efectiva entre vecinos
 Sensación constante de inseguridad
+
 Gap (Brecha identificada)
 Actualmente, no existe una herramienta digital integrada que permita a los usuarios prevenir, reportar y reaccionar ante situaciones de inseguridad en tiempo real, combinando información, comunicación y acción inmediata en una sola plataforma.
+
 Vision / Strategy (Visión del producto)
 InstAlert busca convertirse en una plataforma web que centralice la información de seguridad ciudadana, permita la colaboración entre usuarios y facilite la reacción inmediata ante incidentes, mediante funcionalidades como alertas en tiempo real, reportes comunitarios y visualización de zonas de riesgo.
+
 Initial Segment (Segmento inicial)
 El enfoque inicial estará dirigido a ciudadanos y comerciantes de zonas urbanas de riesgo medio-alto, especialmente aquellos que dependen de su movilidad diaria y requieren mayor seguridad en sus desplazamientos.
+
 Problem Statement (Pregunta de diseño)
 ¿Cómo podríamos brindar a vecinos y comerciantes de zonas de riesgo medio-alto una forma rápida, accesible y efectiva de prevenir, reportar y reaccionar ante situaciones de inseguridad?
 
