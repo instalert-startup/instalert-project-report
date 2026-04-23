@@ -153,13 +153,13 @@ Manifiesta un escepticismo profundo hacia la policía y el serenazgo debido a la
 
 User persona Joan Marcelo - Residente de zona de riesgo medio-alto 
 
-![UserPersona-JoanMarcelo](../assets/images/UX Canva/userpersona-joan-marcelo.jpg)
+<p align="left"><img src="../assets/images/UX Canva/userpersona-joan-marcelo.jpg" width="450"></p>
 
 ***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
 
 User persona Maria Torres - Comerciante de zona de riesgo medio-alto
 
-![UserPersona-MariaTorres](assets/images/UX Canva/userpersona-maria-torres.jpg)
+<p align="left"><img src="../assets/images/UX Canva/userpersona-maria-torres.jpg" width="450"></p>
 
 ***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
 
@@ -200,25 +200,26 @@ User Task Matrix: Comerciantes en zonas de riesgo medio-alto
 | Registro y configuración de perfil | Low | High |
 | Consultar rutas seguras en tiempo real | Low | Medium |
 
-###2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping
 
 Primer Segmento: Residentes de zonas de riesgo medio-alto
 
-![UserJourney-MappingResidentes de zonas de riesgo medio-alto](assets/images/UX Canva/userjourneymapping-1.jpg)
+<p align="left"><img src="../assets/images/UX Canva/userjourneymapping-1.jpg" width="450"></p>
 
 Segundo segmento: Comerciantes en zonas de riesgo medio-alto)
 
-![UserJourney-MappingComerciantes en zonas de riesgo medio-alto](assets/images/UX Canva/userjourneymapping-2.jpg)
+
+<p align="left"><img src="../assets/images/UX Canva/userjourneymapping-2.jpg" width="450"></p>
 
 ### 2.3.4. Empathy Mapping.
 
 Empathy Map Kiara Lluques
 
-![EmpathyMap-KiaraLluques](assets/images/UX Canva/empathymap-kiara-lluques.jpg)
+<p align="left"><img src="../assets/images/UX Canva/empathymap-kiara-lluques.jpg" width="450"></p>
 
 Empathy Map Luan Enrique
 
-![EmpathyMap-LuanEnrique](assets/images/UX Canva/empathymap-luan-enrique.jpg)
+<p align="left"><img src="../assets/images/UX Canva/empathymap-luan-enrique.jpg" width="450"></p>
 
 ## 2.4. Big Picture Event Storming
 
@@ -231,13 +232,15 @@ El equipo llevó a cabo una sesión de Big Picture Event Storming con el objetiv
 En esta fase inicial, el equipo se enfocó en identificar todos los hechos significativos que ocurren dentro del ecosistema de seguridad de InstAlert. Siguiendo la convención de la metodología, estos eventos se plasmaron en notas adhesivas de color naranja y se redactaron en tiempo pasado.
 Se identificaron eventos clave como Incidente sospechoso detectado, Botón de pánico activado, Alerta de estafa emitida y Ubicación en tiempo real compartida. Esta etapa permitió visibilizar la complejidad de las interacciones sin restricciones de orden.
 
-![GeneracióndeEventos](assets/images/UX Canva/generacionde-eventosdedominio.jpg)
+
+<p align="left"><img src="../assets/images/UX Canva/generacionde-eventosdedominio.jpg" width="450"></p>
 
 #### 2.4.1.2 Ordenamiento Cronológico y Flujo de Trabajo
 
 Una vez generados los eventos, se procedió a organizarlos en una línea de tiempo de izquierda a derecha. Este ordenamiento permitió estructurar dos flujos principales de la aplicación: el Flujo Preventivo (orientado a la consulta de rutas y mapas de calor por parte del residente) y el Flujo Reactivo (enfocado en la respuesta inmediata ante emergencias para comerciantes y vecinos). Se utilizaron alineaciones verticales para representar acciones que ocurren en paralelo, como el envío simultáneo de notificaciones a serenazgo y contactos de confianza.
 
-![OrdenamientoCronológico-FlujodeTrabajo](assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg)
+
+<p align="left"><img src="../assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg" width="450"></p>
 
 En esta etapa, el equipo organizó los eventos de dominio de manera cronológica, permitiendo identificar la secuencia de interacción desde que un usuario consulta el mapa de calor (prevención) hasta la activación del botón de pánico en situaciones críticas (reacción). Se establecieron dependencias lógicas donde los reportes comunitarios alimentan la inteligencia colectiva del sistema.
 
@@ -245,7 +248,7 @@ En esta etapa, el equipo organizó los eventos de dominio de manera cronológica
 
 Para otorgar contexto a los eventos, se añadieron capas de información identificando quién ejecuta las acciones y qué herramientas de terceros intervienen. Actores: Se definieron roles críticos como el Residente de zona de riesgo, el Comerciante, el Contacto de Confianza y el Operador de Serenazgo. Sistemas Externos: Se identificaron integraciones necesarias con Google Maps API para la geolocalización y Firebase para la gestión de notificaciones push en tiempo real.
 
-![IdentificacióndeActores-SistemasExternos](assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg)
+<p align="left"><img src="../assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg" width="450"></p>
 
 #### 2.4.1.4 Storytelling y Validación (Reverse Storytelling)
 
