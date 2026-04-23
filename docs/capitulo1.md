@@ -43,10 +43,10 @@ Aporte al equipo: He participado en la definición del proyecto, en la redacció
 La inseguridad ciudadana es una problemática creciente que afecta tanto a residentes como a comerciantes en diversas zonas urbanas. Este fenómeno impacta directamente en la calidad de vida, la percepción de seguridad y el desarrollo de actividades económicas.
 Para analizar esta situación de manera estructurada, se utiliza la metodología 5W2H, la cual permite identificar los aspectos clave del problema:
 
-What (¿Qué está ocurriendo?)
+     What (¿Qué está ocurriendo?)
 Se presenta una alta incidencia de delitos como robos, asaltos y actos de vandalismo en zonas urbanas consideradas de riesgo medio-alto, generando una constante sensación de inseguridad en los ciudadanos.
 
-Why (¿Por qué ocurre?)
+     Why (¿Por qué ocurre?)
 Las principales causas del problema incluyen:
 Falta de acceso a información en tiempo real sobre incidentes cercanos
 Escasa comunicación entre vecinos y comerciantes
@@ -54,16 +54,16 @@ Limitada presencia o respuesta de las autoridades
 Ausencia de herramientas tecnológicas integradas
 
 
-Who (¿A quién afecta?)
+     Who (¿A quién afecta?)
 Residentes en zonas con alta percepción de inseguridad
 Comerciantes expuestos a robos o vandalismo
 
-Where (¿Dónde ocurre?)
+     Where (¿Dónde ocurre?)
 Zonas urbanas de riesgo medio-alto
 Calles con poca iluminación
 Áreas con baja presencia policial
 
-When (¿Cuándo ocurre?)
+     When (¿Cuándo ocurre?)
 Horarios nocturnos
 Momentos de baja afluencia
 Situaciones sin vigilancia
@@ -76,8 +76,10 @@ Ausencia de alertas inmediatas
 
     How much (¿Cuánto impacto tiene?)
 La magnitud de la inseguridad ciudadana en el Perú se refleja en el incremento sostenido de delitos contra el patrimonio, como robos y hurtos.
+
 Según el Sistema Nacional de Seguridad Ciudadana (SINASEC), las denuncias pasaron de aproximadamente 150 mil en 2015 a más de 230 mil en 2023, superando las 240 mil en 2024. Esta tendencia continúa en aumento en 2025, especialmente en zonas urbanas densamente pobladas.
 Además, más del 80 % de la población urbana percibe un incremento en la inseguridad, lo que evidencia un impacto no solo económico, sino también psicológico y social.
+
 Conclusión del análisis 5W2H: 
 Del análisis realizado, se concluye que la inseguridad ciudadana en zonas urbanas de riesgo medio-alto no solo responde a la alta incidencia de delitos, sino también a la falta de acceso a información en tiempo real, la limitada comunicación entre los ciudadanos y la ausencia de herramientas tecnológicas que integren mecanismos de prevención y respuesta.
 Esta situación incrementa la vulnerabilidad de los usuarios, quienes se ven obligados a modificar su comportamiento cotidiano para evitar riesgos. En este contexto, se identifica la oportunidad de desarrollar una solución tecnológica que permita mejorar la capacidad de reacción, fomentar la colaboración comunitaria y proporcionar información oportuna para la toma de decisiones en situaciones de peligro.
@@ -166,7 +168,8 @@ Estas suposiciones guían el desarrollo inicial del producto InstAlert y permite
 
 
 
-   1.2.2.3 Lean UX Hypothesis Statements. 
+#### 1.2.2.3 Lean UX Hypothesis Statements. 
+
 A continuación, se presentan las hipótesis del proyecto InstAlert, formuladas bajo el enfoque Lean UX, con el objetivo de validar las decisiones de diseño mediante métricas medibles.
 
 Hipótesis 1: Botón de pánico
