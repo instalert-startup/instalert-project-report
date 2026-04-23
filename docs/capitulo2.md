@@ -128,7 +128,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 **Entrevista 5**
 * **Entrevistado:** Alejandro Alvarado
 * **Edad:** 22 años | **Distrito:** El Callao | **Duración:** 5:15
-* **Evidencia:** <p align="left"><img src="https://postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista Alejandro Alvarado" width="450"></p>
+* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista Alejandro Alvarado" width="450"></p>
 * **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing)
 
 
