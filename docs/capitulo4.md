@@ -178,23 +178,33 @@ Nota. La tabla muestra los apartados del sistema de navegación dentro del app
 Los mock-ups de la landing page de InstAlert presentan la versión visual final de la interfaz, integrando los lineamientos definidos en el Style Guidelines. Se han aplicado colores de alto contraste, tipografías legibles y componentes interactivos que facilitan la navegación del usuario.
 La propuesta busca optimizar la experiencia del usuario mediante una interfaz clara, accesible y orientada a la acción, permitiendo comprender rápidamente el funcionamiento de la plataforma y acceder a sus principales funcionalidades.
 
-imagen mockup
+<p align="center">
+  <img src="../assets/images/mockup_landing/header.png" alt="Header Landing Page" width="700">
+</p>
 
 La pantalla de inicio del mockup de la Landing Page de InstAlert presenta el encabezado principal con las secciones de navegación como Inicio, Cómo funciona, Beneficios, Comunidad y Contacto, además del botón de acceso para iniciar sesión. En la sección principal se muestra el bloque introductorio de la propuesta de valor de la plataforma, destacando la prevención y respuesta ante situaciones de riesgo en tiempo real mediante alertas y visualización de zonas peligrosas. Asimismo, se incluye una representación visual mediante un mapa interactivo con puntos de alerta, reforzando el enfoque de seguridad urbana y monitoreo en tiempo real que ofrece la aplicación. 
 
-imagen mockup
+<p align="center">
+  <img src="../assets/images/mockup_landing/comofunciona.png" alt="Cómo funciona" width="700">
+</p>
 
 La sección “¿Cómo funciona?” del mockup de la Landing Page de InstAlert muestra de forma clara y resumida el funcionamiento principal de la plataforma mediante tres bloques informativos. El primero permite a los usuarios reportar incidentes de manera rápida ante situaciones de riesgo; el segundo presenta el mapa de zonas peligrosas, donde se visualizan áreas de alto riesgo para evitar rutas inseguras; y el tercero ofrece alertas inmediatas sobre incidentes cercanos a la ubicación del usuario. Esta estructura facilita la comprensión rápida del servicio y refuerza la propuesta de valor centrada en la prevención y seguridad ciudadana.
 
-imagen mockup
+<p align="center">
+  <img src="../assets/images/mockup_landing/porqueusar.png" alt="Por qué usar InstAlert" width="700">
+</p>
 
 La sección “¿Por qué usar InstAlert?” del mockup de la Landing Page destaca los principales beneficios que ofrece la plataforma, enfocándose en la protección, prevención y respuesta rápida ante situaciones de riesgo. A través de tres bloques informativos, se presentan ventajas clave como la seguridad en tiempo real mediante alertas inmediatas sobre incidentes cercanos, la toma de decisiones más seguras gracias a la consulta de zonas de riesgo antes de desplazarse, y la construcción de una comunidad preventiva donde los usuarios colaboran reportando incidentes para proteger a los demás. Esta sección refuerza el valor diferencial de InstAlert como una solución integral de seguridad ciudadana.
 
-imagen mockup
+<p align="center">
+  <img src="../assets/images/mockup_landing/testimonios.png" alt="Testimonios" width="700">
+</p>
 
 La sección “Lo que dicen nuestros usuarios” del mockup de la Landing Page presenta testimonios de personas que utilizan InstAlert y han mejorado su sensación de seguridad en su vida diaria. A través de tres testimonios acompañados de imágenes representativas, se muestran experiencias positivas relacionadas con la prevención de zonas peligrosas, la tranquilidad al recibir alertas de emergencia y la importancia de una comunidad informada y colaborativa. Esta sección busca generar confianza en los nuevos usuarios, reforzando la credibilidad de la plataforma mediante experiencias reales y cercanas.
 
-imagen mockup
+<p align="center">
+  <img src="../assets/images/mockup_landing/footer.png" alt="Footer Landing Page" width="700">
+</p>
 
 La sección final del mockup de la Landing Page corresponde al pie de página (footer), donde se presenta información institucional y de contacto de InstAlert. En esta parte se incluye el logotipo de la plataforma, una breve frase que refuerza su propósito de protección y seguridad comunitaria, así como los principales accesos de navegación hacia las secciones del sitio. Además, se muestran los datos de contacto como correo electrónico y número telefónico, junto con los derechos reservados de la plataforma. Esta sección permite fortalecer la identidad de la marca y ofrecer canales directos de comunicación para los usuarios.
 
