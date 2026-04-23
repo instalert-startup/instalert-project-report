@@ -250,6 +250,30 @@ La sección final del mockup de la Landing Page corresponde al pie de página (f
 
 ### 4.4.1 Web Applications Wireframes
 
+<p align="center">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-1.jpg"  width="900">
+</p>
+
+Este wireframe de la sección de login está diseñado con la información exacta para que el usuario inicie sesión de manera eficiente, aplicando principios de visibilidad del sistema y diagnóstico de errores mediante retroalimentación clara. Su arquitectura separa visualmente el acceso de la creación de cuenta, utilizando botones de acción explícitos (CTAs) y opciones de baja fricción, como el ingreso con Google, para minimizar pasos innecesarios. Finalmente, el flujo logra un equilibrio ideal entre usabilidad y seguridad al incorporar autenticación de dos factores (2FA) para proteger datos sensibles antes de redirigir al Dashboard, garantizando un acceso ágil y exclusivo para usuarios verificados.
+
+<p align="center">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-2.jpg"  width="700">
+</p>
+
+Este wireframe del dashboard funciona como el nodo central del sistema bajo el patrón hub-and-spoke, articulando los flujos principales sin sobrecargar la interfaz. Su diseño cumple con la heurística de flexibilidad y eficiencia al ofrecer atajos directos a funciones críticas —como el mapa, autoridades, botón de pánico, reportes y notificaciones—, lo que permite al usuario comprender el contexto de un vistazo y actuar en apenas uno o dos toques. Al mantener una estructura limpia y predecible, se reduce drásticamente la carga cognitiva y el tiempo de respuesta, priorizando una navegación ágil que resulta fundamental para gestionar escenarios de urgencia con rapidez y eficacia.
+
+<p align="center">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-3.jpg"  width="700">
+</p>
+
+Este wireframe, enfocado en la gestión de dispositivos IoT, presenta el estado general de los equipos proporcionando exactamente la información necesaria. Su diseño permite al usuario visualizar el estado básico y acceder, en solo uno o dos toques, a la configuración específica de un dispositivo para ejecutar acciones clave como emparejar, desemparejar o ajustar alertas. Al aislar estas tareas técnicas fuera del Dashboard, se evita la saturación visual de la pantalla principal y se reduce el riesgo de errores al operar un solo equipo a la vez. En conjunto, este flujo garantiza el control de seguridad y la trazabilidad, agilizando las gestiones frecuentes mediante botones de acción (CTAs) claros y una navegación de retorno intuitiva y fluida.
+
+<p align="center">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-4.jpg"  width="700">
+</p>
+
+La sección del Mapa funciona como la herramienta principal de conciencia situacional en tiempo real, visualizando incidentes a través de marcadores y mapas de calor. Su diseño integra filtros de búsqueda avanzados (por tipo, fecha e intensidad) y permite al usuario acceder a detalles contextuales o acciones rápidas en apenas uno o dos toques, facilitando la transición directa de la observación a la acción sin sobrecargar el Dashboard. Además, el flujo del "Modo Trayecto" garantiza un desplazamiento seguro al establecer destinos, activar alertas y mostrar métricas clave con opciones claras de cancelación. A nivel visual, la interfaz reduce la carga cognitiva al mostrar información concisa, emplear estratégicamente los colores y aplicar el principio de proximidad, agrupando de forma lógica los componentes relacionados para una toma de decisiones rápida e informada.
+
 ### 4.4.2 Web Applications Wireflow Diagrams
 
 ### 4.4.2. Web Applications Mock-ups.
