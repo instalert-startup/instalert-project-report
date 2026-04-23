@@ -214,6 +214,34 @@ La sección final del mockup de la Landing Page corresponde al pie de página (f
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
+### 4.4.2. Web Applications Mock-ups.
+Los mock-ups de la aplicación web de InstAlert representan la versión visual final de la plataforma, integrando los elementos definidos en el Design System y consolidando la experiencia de usuario planteada en los wireframes. En esta etapa se evidencia una mayor fidelidad visual, incorporando jerarquía tipográfica, uso estratégico del color, componentes reutilizbles, accesibilidad y una arquitectura de información orientada a la rapidez de respuesta en situaciones de riesgo.
+Cada pantalla ha sido diseñada priorizando la claridad operativa y la reducción de la carga cognitiva del usuario, permitiendo acceder rápidamente a funciones esenciales como el inicio de sesión, la recuperación de cuenta, la gestión del perfil y el monitoreo de alertas dentro del dashboard principal. Asimismo, se aplican principios de diseño inclusivo mediante interfaces limpias, botones de acción claramente identificables (CTAs), contraste visual adecuado y estructuras intuitivas que facilitan la navegación para distintos perfiles de usuarios.
+La consistencia visual se mantiene mediante el uso uniforme de la paleta cromática institucional, tipografía coherente, iconografía funcional y patrones de navegación previsibles, fortaleciendo la usabilidad general del sistema y generando una mayor percepción de confianza y seguridad dentro de la plataforma.
+ 
+Mock-up Login
+El mock-up de la sección de inicio de sesión presenta una interfaz limpia y centrada en la autenticación segura del usuario, manteniendo una jerarquía visual clara que facilita el acceso inmediato a las funciones principales del sistema. La distribución organiza de forma intuitiva los campos de correo electrónico y contraseña, junto con accesos directos para recuperación de cuenta y autenticación mediante Google, reduciendo fricción en el proceso de ingreso.
+La aplicación de botones primarios destacados, campos bien delimitados y mensajes visualmente comprensibles mejora la experiencia de usuario y disminuye la probabilidad de errores durante el acceso. Además, el diseño transmite seguridad y confianza mediante una estructura minimalista y una correcta utilización del contraste visual.
+
+imagen login
+
+Mock-up Register
+El mock-up de registro de usuario mantiene la coherencia visual del sistema, ampliando el flujo de autenticación mediante una interfaz orientada a la creación rápida y segura de nuevas cuentas. La organización de los campos de registro prioriza la simplicidad del proceso, evitando sobrecargar al usuario con información innecesaria y permitiendo una experiencia de alta usabilidad.
+La disposición secuencial de los formularios, junto con botones de acción claramente visibles, facilita la comprensión del flujo y reduce errores de validación. La consistencia en el uso de componentes, tipografía y paleta de colores fortalece la percepción de profesionalismo y confiabilidad dentro de la plataforma.
+
+imagen register
+
+Mock-up Forgot Password
+El mock-up de recuperación de contraseña está diseñado para ofrecer una solución rápida y sencilla ante problemas de acceso, priorizando la eficiencia y la claridad del proceso. La interfaz reduce la carga cognitiva al presentar únicamente la información necesaria para recuperar la cuenta, evitando pasos innecesarios y mejorando la experiencia de usuario.
+La presencia de instrucciones claras, campos simplificados y botones de confirmación visibles permite al usuario comprender rápidamente el flujo de recuperación. Este diseño refuerza la accesibilidad y la usabilidad, garantizando una interacción intuitiva incluso en situaciones de urgencia o frustración.
+
+ imagen forgot
+
+ Mock-up Dashboard Principal
+El mock-up del dashboard funciona como el centro operativo principal de la plataforma, consolidando el acceso a las funciones críticas bajo una arquitectura de información clara y eficiente. La interfaz organiza visualmente el mapa principal, las tarjetas de resumen, las alertas activas y los accesos rápidos a funciones como reportes, autoridades, botón de pánico y monitoreo de zonas de riesgo.
+La jerarquía visual permite que el usuario identifique de inmediato la información más relevante mediante el uso de colores estratégicos, espacios amplios y agrupación lógica de componentes. Esta estructura reduce significativamente la carga cognitiva y facilita la toma de decisiones rápidas en escenarios de emergencia, fortaleciendo la eficiencia operativa del sistema y la percepción de seguridad del usuario.
+
+imagen dash
 ### 4.4.3 Web Applications Mock-ups
 
 ### 4.4.4 Web Applications User Flow Diagrams
