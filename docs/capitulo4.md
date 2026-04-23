@@ -173,6 +173,44 @@ Nota. La tabla muestra los apartados del sistema de navegación dentro del app
 
 ### 4.3.1 Landing Page Wireframe
 
+El diseño del wireframe para la landing page de InstAlert se fundamenta en criterios de usabilidad y correcta distribución visual. Su propósito principal es conducir al usuario de forma intuitiva y ágil hacia la comprensión de la propuesta de valor del sistema. A continuación, se detalla su composición:
+
+***1. Encabezado (Header)***
+
+Presenta el logo de la aplicación y un menú interactivo con las opciones de Inicio, Quiénes somos, Funcionalidades, Comunidad y Contacto, además del botón principal de descarga. Este elemento está fijado en la pantalla para permitir que el usuario se desplace fácilmente sin perder las opciones de navegación.
+
+<p align="left">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-1.jpg"  width="700">
+</p>
+
+<p align="left">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-2.jpg"  width="700">
+</p>
+
+***2. Hero Section:***
+
+Se trata del primer elemento que visualiza el usuario, enfocado en comunicar rápidamente el valor de la plataforma. Integra el título principal (“Botón de pánico, mapas de calor y notificaciones/comunidad en una sola app”) y se acompaña de un componente gráfico (placeholder) diseñado para ilustrar la herramienta.
+
+<p align="left">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-3.jpg"  width="700">
+</p>
+
+<p align="left">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-4.jpg"  width="700">
+</p>
+
+
+La plataforma destaca funcionalidades esenciales, como la emisión de reportes y la conexión directa con autoridades, diseñadas para brindar soporte efectivo y real durante emergencias. Asimismo, incluye una sección de contacto donde los usuarios pueden ingresar su información o dirigirse a las redes sociales oficiales para estar al tanto de las novedades. Para concluir, se presenta un cuadro comparativo detallando tres modelos de suscripción (gratuito, personal y familiar), lo que orienta al usuario a seleccionar el plan más conveniente para sus necesidades.
+
+<p align="left">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-5.jpg"  width="700">
+</p>
+
+<p align="left">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-6.jpg"  width="700">
+</p>
+
+
 ### 4.3.2 Landing Page Mock-up
 
 Los mock-ups de la landing page de InstAlert presentan la versión visual final de la interfaz, integrando los lineamientos definidos en el Style Guidelines. Se han aplicado colores de alto contraste, tipografías legibles y componentes interactivos que facilitan la navegación del usuario.
