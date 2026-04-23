@@ -5,7 +5,7 @@ EP02	Gestión de Alertas de Emergencia <br>
 EP03	Reportes Comunitarios de Incidentes <br>
 EP04	Gestión del Landing Pague <br>
 EP05	Visualización de Zonas de Riesgo <br>
-EP06	Visualización de Zonas de Riesgo <br>
+EP06	Visualización de testimonios o casos de uso <br>
 EP07	Red de Apoyo y Contactos de Emergencia <br><br>
 
 | Epic | titulo | descripcion |Criterios de Aceptacion|Relacionado con Epic ID|
