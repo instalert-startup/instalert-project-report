@@ -160,6 +160,7 @@ La colaboración comunitaria será un elemento diferenciador frente a otras solu
 Existe una creciente demanda de soluciones tecnológicas enfocadas en seguridad ciudadana.
 El producto puede escalar a diferentes ciudades con problemáticas similares.
 Se pueden generar alianzas con entidades locales o comunidades vecinales.
+
 Conclusión de las assumptions
 Estas suposiciones guían el desarrollo inicial del producto InstAlert y permiten identificar los principales riesgos del proyecto. No obstante, deberán ser validadas mediante pruebas con usuarios reales, prototipos y experimentación continua, siguiendo los principios del enfoque Lean UX.
 
@@ -167,6 +168,7 @@ Estas suposiciones guían el desarrollo inicial del producto InstAlert y permite
 
    1.2.2.3 Lean UX Hypothesis Statements. 
 A continuación, se presentan las hipótesis del proyecto InstAlert, formuladas bajo el enfoque Lean UX, con el objetivo de validar las decisiones de diseño mediante métricas medibles.
+
 Hipótesis 1: Botón de pánico
 Creemos que:
  Construir un botón de pánico accesible y de rápida activación
@@ -199,6 +201,7 @@ Lograremos:
 Sabremos que hemos tenido éxito cuando veamos:
 Que se generen al menos 50 reportes semanales en zonas piloto
 Que el 40% de los reportes sean validados por otros usuarios
+
 Hipótesis 4: Notificaciones en tiempo real
 Creemos que:
  Implementar notificaciones en tiempo real sobre incidentes cercanos
@@ -209,6 +212,7 @@ Lograremos:
 Sabremos que hemos tenido éxito cuando veamos:
 Que al menos el 65% de los usuarios interactúe con las alertas
 Que el 70% de los usuarios visualice la alerta en menos de 5 segundos
+
 Hipótesis 5: Interfaz intuitiva
 Creemos que:
  Diseñar una interfaz simple e intuitiva
@@ -251,6 +255,7 @@ Interés en prevenir riesgos
 Valoración de la tecnología como herramienta de apoyo
 Sustento estadístico:
  Según el INEI, más del 80% de la población urbana percibe un incremento en la inseguridad ciudadana, lo que evidencia una alta demanda de soluciones orientadas a mejorar la seguridad personal.
+ 
 Segmento 2: Comerciantes en zonas de riesgo medio-alto
 Descripción:
  Personas que trabajan o poseen negocios en zonas con alta incidencia delictiva y requieren herramientas que les permitan proteger sus bienes y reaccionar ante situaciones de riesgo.
