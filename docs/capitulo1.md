@@ -222,4 +222,6 @@ Que el 80% de los usuarios complete acciones clave en menos de 10 segundos
 
 #### 1.2.2.4 Lean UX Canvas
 
+El Lean UX Canvas presentado a continuación sintetiza los principales elementos del modelo de negocio y la propuesta de valor de la solución InstAlert. En este se integran el problema identificado, los segmentos de usuarios, los puntos de dolor, las soluciones propuestas, las hipótesis, las suposiciones y los resultados esperados, permitiendo visualizar de manera estructurada la relación entre las necesidades del usuario y las funcionalidades del producto. Este canvas sirve como base para la validación continua del proyecto mediante la experimentación y el enfoque iterativo propio de Lean UX.
+
 ## 1.3 Segmentos objetivo
