@@ -124,3 +124,25 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 * **Edad:** 42 años | **Distrito:** Comas | **Duración:** 18:06
 * **Evidencia:** <p align="left"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450"></p>
 * **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
+
+### 2.2.3. Análisis de entrevistas
+
+#### **Segmento 1: Residentes en zonas de riesgo medio-alto**
+
+**Entrevista 1 (Luis Acuña):**
+El entrevistado experimenta una mayor sensación de inseguridad durante las horas nocturnas y en zonas desoladas. Esta percepción lo obliga a adoptar medidas preventivas que restringen significativamente su libertad personal, tales como ocultar objetos de valor y limitar sus rutas habituales. Ante la respuesta tardía de las autoridades y la carencia de canales formales de auxilio, Luis depende de redes sociales y grupos vecinales informales para mantenerse alerta. Para mitigar esta vulnerabilidad, considera indispensable una herramienta tecnológica que integre un botón de pánico, envío de ubicación en tiempo real y mapas con reportes detallados. Subraya que la tecnología debe complementarse con una mejor organización vecinal, instalación de cámaras y mayor iluminación.
+
+**Entrevista 2 (Ignacio Baulety):**
+Ignacio manifiesta experimentar con frecuencia una inestabilidad emocional derivada de la inseguridad en su entorno, afectando sus rutinas básicas de estudio, trabajo y deporte. Esta situación se agrava por la nula organización vecinal y la escasa presencia policial en su zona, factores que incrementan su sensación de desprotección. Como estrategia de autoprotección, ha desarrollado una rutina que limita sus desplazamientos a horarios de alta circulación y rutas por avenidas principales o zonas comerciales. El análisis de su testimonio revela que la percepción de peligro no solo afecta su tranquilidad psicológica, sino que condiciona severamente su calidad de vida y libertad de movimiento.
+
+**Entrevista 3 (Renzo Baldeon):**
+Residente de la Provincia Constitucional del Callao, Renzo describe su zona como un entorno peligroso marcado por robos, vandalismo y altercados constantes. Habiendo sido víctima del hurto de su teléfono celular, destaca la ineficacia de la policía, cuya intervención fue de escasa ayuda. Aunque su comunidad cuenta con una red de apoyo vecinal para la instalación de cámaras y alarmas, reconoce que estos esfuerzos son insuficientes para cubrir la demanda de seguridad actual. El entrevistado enfatiza la necesidad de contar con una aplicación especializada que brinde soporte directo y efectivo en situaciones de riesgo para suplir las deficiencias de las autoridades.
+
+---
+
+#### **Segmento 2: Comerciantes en zonas de riesgo medio-alto**
+
+**Entrevista 4 (Maria Rocio de los Ángeles):**
+La experiencia de María en Comas revela el profundo impacto psicológico y económico que genera la delincuencia en el sector comercial. Identifica una vulnerabilidad crítica en horas de baja afluencia peatonal, donde la soledad de las calles incrementa el temor a ser asaltada sin recibir auxilio. Tras un intento de robo traumático, describe un entorno hostil de extorsiones y hurtos cíclicos que la han obligado a reducir su horario de atención, provocando una caída en sus ingresos. 
+
+Manifiesta un escepticismo profundo hacia la policía y el serenazgo debido a la lentitud de sus intervenciones. Ante esto, propone un dispositivo de alerta inmediata (botón de pánico) y destaca la importancia de una base de datos comunitaria que registre métodos delictivos. Esta información no solo serviría para la organización preventiva de los vecinos, sino también como un mecanismo de presión para exigir resultados a las autoridades.
