@@ -12,15 +12,21 @@ Asimismo, la aplicación busca fomentar la colaboración entre ciudadanos y enti
 ### 1.1.2 Perfiles de integrantes del equipo
 
 El equipo está conformado por estudiantes de Ingeniería de Software con habilidades complementarias en desarrollo, diseño y gestión de proyectos, lo que permite abordar de manera integral la creación de la solución tecnológica propuesta.
+
 Integrante 1:
 Nombre: Piero Leonardo Molina Falcón
-![Piero Leonardo Molina Falcón](../assets/images/team/piero.png)
+
+<img src="../assets/images/team/piero.png" alt="Piero Molina" width="250">
+
 Código de estudiante: U201610857
 Carrera: Ingeniería de software 
 Descripción: Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos.
 Aporte al equipo: He participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, he contribuido en la organización del equipo, asegurando el avance del proyecto de manera coordinada.
+
 Integrante 2:
 Nombre: Sebastian Victor Andre Diaz Mendoza
+
+<img src="../assets/images/team/Sebastian.jpg" alt="Sebastian Diaz" width="250">
 
 Código de estudiante: u202415638
 Carrera: Ingeniería de software 
@@ -30,10 +36,22 @@ Aporte al equipo: Aporte en la presentación de idea y fundamento del proyecto a
 Integrante 3:
 Nombre: Alexander Paolo Justo Yauricasa
 
+<img src="../assets/images/team/Alexander .png" alt="Alexander Justo" width="250">
+
 Código de estudiante: u20191c054
 Carrera: Ingeniería de software 
 Descripción: Soy Alexander Justo, estudiante de Ingeniería de Software. En este proyecto me he enfocado en parte de los HUs y Product Backlog. Poseo conocimientos en estructuras de datos, algoritmos y bases de datos, además de una sólida capacidad de razonamiento lógico y organizado. Asimismo, manejo paradigmas como la programación orientada a objetos y aplico técnicas relacionadas con la complejidad algorítmica.
 Aporte al equipo: He participado en la definición del proyecto, en la redacción del Capítulo III, parte del los HUs y Product Backlog. Además, ha aportado en la organización del equipo y en la asignación de tareas.
+
+Integrante 4:
+Nombre: Breithner Rodolfo Perez Encarnación 
+
+<img src="../assets/images/team/Breithner .png" alt="Breithner Perez" width="250">
+
+Código de estudiante: u202418577
+Carrera: Ingeniería de software
+Descripción:Soy Breithner Rodolfo Perez Encarnación, estudiante de Ingeniería de Software de 4to ciclo. En mis proyectos me he enfoncadao en los diseños del Web Applications Wireframes. Poseo conocimientos sólidos en bases de datos (SQL y MongoDB), estructuración de diagramas UML y documentación con Swagger, además de una fuerte orientación hacia el diseño de soluciones estructuradas. Asimismo, aplico buenas prácticas de desarrollo.
+Aporte al equipo: He participado en el capitulo II en la parte de Empathy Maping, User Journey Mapping y en el Capitulo IV en la parte de anding Page Wireframe. y Web Applications Wireframes.
 
 
 ## 1.2 Solution Profile
@@ -231,8 +249,13 @@ Que el 80% de los usuarios complete acciones clave en menos de 10 segundos
 
 El Lean UX Canvas presentado a continuación sintetiza los principales elementos del modelo de negocio y la propuesta de valor de la solución InstAlert. En este se integran el problema identificado, los segmentos de usuarios, los puntos de dolor, las soluciones propuestas, las hipótesis, las suposiciones y los resultados esperados, permitiendo visualizar de manera estructurada la relación entre las necesidades del usuario y las funcionalidades del producto. Este canvas sirve como base para la validación continua del proyecto mediante la experimentación y el enfoque iterativo propio de Lean UX.
 
+<p align="center">
+  <img src="../assets/images/UX Canva/leanuxcanva.png" alt="UX Canvas" width="700">
+</p>
+
  A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
-https://canva.link/w0jjztdn8dpluhr
+ 
+[Ver Lean UX Canvas completo en Canva](https://canva.link/w0jiztdn8dpluhr)
 
 
 ## 1.3 Segmentos objetivo
@@ -280,12 +303,17 @@ Sustento estadístico:
 
 A continuación, se presentan datos estadísticos que evidencian la magnitud de la problemática de inseguridad ciudadana en el Perú, la cual impacta directamente en los segmentos identificados.
 
+<p align="center">
+  <img src="../assets/images/stadistics/figura1.png" alt="Figura 1" width="700">
+</p>
 
 Figura 1. Evolución de denuncias por robo y hurto en el Perú (2015–2024).
 Fuente: Elaboración propia a partir de datos del Instituto Nacional de Estadística e Informática (INEI, 2024)
 Como se observa en el gráfico, las denuncias por delitos contra el patrimonio han mostrado un incremento sostenido en los últimos años, lo que evidencia la creciente problemática de inseguridad en el país. Esta tendencia justifica la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de riesgo.
 
-
+<p align="center">
+  <img src="../assets/images/stadistics/figura2.png" alt="Figura 2" width="700">
+</p>
 
 Figura 2. Denuncias por el delito de extorsión en el Perú (2021–2025).
 Fuente: Ministerio Público – Oficina de Racionalización y Estadística; Instituto Nacional de Estadística e Informática (INEI, 2025).
