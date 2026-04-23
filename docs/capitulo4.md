@@ -68,17 +68,84 @@ El uso de bordes suaves y sombras sutiles contribuye a una interfaz limpia y org
 Finalmente, cada elemento del diseño ha sido pensado para cumplir un propósito funcional dentro de la experiencia, asegurando que la interfaz no solo sea atractiva, sino también eficiente en contextos donde la rapidez y la precisión son esenciales.
 Además, el diseño considera principios de diseño responsive, asegurando que la interfaz mantenga su funcionalidad y claridad en distintos dispositivos y tamaños de pantalla. 
 
-## 4.2 Information Architecture
 
-### 4.2.1 Organization Systems
+## 4.2. Information Architecture.
+### 4.2.1. Organization Systems.
+Para nuestra aplicación se opta por una organización visual jerárquica con elementos secuenciales. Esto permite que el usuario identifique fácilmente los puntos clave, organizando el contenido en categorías como “Alertas”, “Reportes” o “Comunidad”, y en subcategorías dentro de cada una. Así, la información se presenta de forma clara y sin sobrecargar. <br>
+Además, en ciertas secciones se incorporan flujos secuenciales que guían al usuario paso a paso para completar tareas o llegar a páginas específicas. Esta estructura facilita aplicar principios de arquitectura de información como claridad, accesibilidad, navegación enfocada y facilidad de uso. Finalmente, gracias a la investigación previa, se asegura que el contenido de cada categoría sea relevante y útil para el usuario.<br>
 
-### 4.2.2 Labeling Systems
+<img src="OrganizationSystems1"> <br>
+Nota: Diagrama de organización de información de las aplicaciones <br>
 
-### 4.2.3 SEO Tags and Meta Tags
+<img src="OrganizationSystems2"> <br>
+Nota: Diagrama de organización de información del landing page <br>
 
-### 4.2.4 Searching Systems
+link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQUZ5Ykx2d3FOaVRIUmpvaXc4Tk5lTWw1R2xEK0ZaMjZEWXlueDBvQUJ1ODFYNWYrS2kwYWdJYUJkQUJ5cEdTSzROakxtRzVMTGhFdUlXODZ5LzBvV2hXVjk3MUZLOTFGTHpyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=9527554603  
 
-### 4.2.5 Navigation Systems
+### 4.2.2. Labeling Systems.
+Para este trabajo se optó por una taxonomía jerárquica que estructura la app y el sitio web mediante nodos principales y ramificaciones lógicas, agrupando los elementos según su similitud (por ejemplo, secciones informativas como “Visión” y “Misión”, y funciones interactivas como “Mapa” y “Reportes”). Este enfoque mejora la navegación intuitiva y disminuye la confusión del usuario, en línea con los principios de arquitectura de la información que priorizan la claridad y la escalabilidad del contenido.
+Esta decisión responde a la necesidad de gestionar el contenido como “objetos” dinámicos con atributos y ciclos de vida, lo que permite ofrecer alternativas relevantes para distintos tipos de usuarios, desde quienes solo buscan información hasta aquellos que interactúan activamente reportando incidentes.<br>
+
+<img src="LabelingSystems1"> <br>
+Nota. Labeling de las aplicaciones. <br>
+<img src="LabelingSystems2"> <br>
+Nota. Labeling del landing page.<br>
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Para asegurar la correcta indexación y visibilidad de InstAlert en los motores de búsqueda, se ha definido una estrategia de SEO que diferencia el tratamiento de la Landing Page, orientada a la conversión de usuarios (vecinos y comerciantes), frente a la Web Application, enfocada en la usabilidad y gestión. En ambos casos, se integrarán etiquetas fundamentales: el Title se configurará para reflejar la propuesta de valor única de cada sección, mientras que la Meta Description sintetizará la capacidad de respuesta y prevención de la plataforma para atraer clics relevantes. Se utilizarán Keywords estratégicas como "seguridad ciudadana", "botón de pánico", "mapas de calor" y "alertas en tiempo real" para captar la intención de búsqueda del segmento objetivo, y se definirá el tag Author como "InstAlert Development Team" para establecer la autoría oficial. Esta configuración no solo optimiza el posicionamiento orgánico, sino que también garantiza una presentación coherente y profesional del ecosistema de seguridad en los resultados de búsqueda.
+
+
+### 4.2.4. Searching Systems.
+
+Se optó por integrar esta característica en el funcionamiento del mapa de calor, para ello se utilizaron los filtros de Tipo de incidente, Fecha, Intensidad, Ubicación, Frecuencia.
+Filtros y descripciones para incidentes:
+
+
+|FILTROS	   	|	DESCRIPCIÓN|
+|----|----|
+|Tipo de incidente	|		Muestra que clase de reportes o eventos se desean visualizar en el mapa, como robos, accidentes, emergencias médicas, incendios u otros. |
+|Fecha        |                     Muestra información según un período específico, ya sea por día, semana, mes o un rango de tiempo definido por el usuario.
+|Intensidad| Muestra el nivel de riesgo o gravedad de los incidentes en la zona, diferenciándolos por categorías como bajo, medio o alto.|
+|Frecuencia|Permite visualizar únicamente aquellas áreas que superan un número máximo de reportes, destacando las zonas más activas.|
+
+Nota. La tabla muestra los filtros que se pueden aplicar para los incidentes. <br>
+
+Para el sistema de búsqueda de la sección Comunidad, se definieron filtros que permiten a los usuarios navegar de manera clara y organizada entre foros y publicaciones. Estos filtros facilitan la localización de contenidos relevantes, reducen la sobrecarga de información y aseguran que cada usuario pueda encontrar con rapidez lo que más le interesa.
+
+|FILTROS		|			DESCRIPCIÓN|
+|---|---|
+|Tipo de incidente|
+Filtra las publicaciones y foros según su temática (seguridad, eventos locales, prevención, avisos oficiales, etc.).|
+|Fecha|Permite ordenar las publicaciones por día, semana, mes o rango personalizado, mostrando primero los contenidos más recientes o históricos.|
+|Popularidad|Destaca los foros y publicaciones con mayor número de interacciones (me gusta, comentarios, compartidos).|
+|Entidades / Usuarios|Permite seleccionar publicaciones hechas por entidades oficiales, organizaciones comunitarias o usuarios particulares.|
+|Ubicación|Filtra las publicaciones según la zona geográfica del usuario, mostrando primero las más cercanas a su área de interés.|
+
+Nota. La tabla muestra los filtros que se pueden aplicar para la pestaña de comunidad InstAlert
+
+
+### 4.2.5. Navigation Systems.
+
+La arquitectura de navegación se estructura en diferentes apartados que permiten al usuario identificar y acceder de forma clara a la información más relevante de la aplicación. Cada sección cumple una función específica dentro del sistema de navegación.
+|NOMBRE		|			DESCRIPCIÓN|
+|-|-|
+|Inicio|Es la primera cara de la página web, donde se presenta la aplicación y sus funcionalidades básicas.|
+|Producto|Se mostrará información detallada del producto en sus diferentes versiones, incluyendo características, beneficios y distintas opciones de descarga.|
+|Noticias|Se presenta información sobre actualizaciones, lanzamientos, mejoras del producto y anuncios relevantes para los usuarios. InstAlert|
+|Sobre nosotros|Ofrece una descripción de la misión, visión, valores y trayectoria de la empresa o equipo desarrollador, resaltando su compromiso con los usuarios.|
+
+Nota. La tabla muestra los apartados que se pueden encontrar para la arquitectura de navegación
+Para el sistema de navegación de la aplicación, se optó por organizar la información en distintas secciones, con el objetivo de ofrecer una presentación visual más ordenada y facilitar la orientación del usuario. Asimismo, se reducirá el uso de elementos textuales y se acordó que los componentes interactivos estén acompañados de un título breve que describa claramente su función.
+|NOMBRE				|	DESCRIPCIÓN|
+|-|-|
+|Dashboard|Muestra la información principal sobre la situación actual, incluye acceso directo al botón de pánico y presenta el estado actual del celular.|
+|Mapa|Presenta un mapa de calor que resalta las zonas según su nivel de riesgo y muestra la ubicación de los reportes y alertas más recientes.|
+|Reportes|Exhibe los reportes más recientes clasificados por hora y fecha, con un énfasis en los reportes generados por el propio usuario.|
+|Comunidad|Contiene publicaciones de entidades y organizaciones, ordenadas cronológicamente según el tiempo de emisión.|
+|Dispositivos|Indica el estado de los dispositivos que utilizan la aplicación y muestra información básica de los dispositivos de contactos que otorgaron permiso de visualización.|
+|Configuración|Presenta una serie de opciones agrupadas en distintos segmentos para personalizar la aplicación y su servicio|
+Nota. La tabla muestra los apartados del sistema de navegación dentro del app
 
 ## 4.3 Landing Page UI Design
 
