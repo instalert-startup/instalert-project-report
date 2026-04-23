@@ -276,6 +276,57 @@ La sección del Mapa funciona como la herramienta principal de conciencia situac
 
 ### 4.4.2 Web Applications Wireflow Diagrams
 
+#### 4.4.2. Web Applications Wireflow Diagrams
+
+Esta sección detalla el flujo de interacción de los usuarios con la aplicación web, alineando las capacidades técnicas del sistema con las metas específicas de cada segmento identificado.
+
+---
+
+### **Segmento 1: Residentes en zonas de riesgo medio-alto**
+
+**User Goal:** Informar a la comunidad sobre un hecho delictivo para prevenir a otros usuarios. Como residente, quiero visualizar el mapa de calor de incidentes comunitarios y filtrar por tipo de delito para identificar zonas de alto riesgo y planificar una ruta segura antes de salir de casa.
+
+**Task Flow:**
+<p align="center">
+  <img src="Imagen/taskflow1.PNG" width="700"> <br>
+</p>
+
+**Wireflow:**
+<p align="center">
+  <img src="Imagen/wireflow.PNG" width="800"> <br>
+</p>
+
+**Descripción del flujo:**
+Para planificar una ruta segura, el usuario inicia el proceso desde la pantalla principal de la aplicación web dirigiéndose directamente a la sección del mapa interactivo. Una vez allí, utiliza el panel de herramientas para seleccionar los filtros específicos según el tipo de incidencia o el periodo de tiempo que desea consultar; tras aplicar estas preferencias, el sistema procesa la información y despliega dinámicamente un mapa de calor que resalta las zonas con mayor actividad delictiva y puntos críticos de riesgo. Esta visualización detallada permite al residente identificar patrones de inseguridad en tiempo real y tomar decisiones informadas sobre su desplazamiento antes de salir de casa, garantizando así una navegación más segura por su comunidad.
+
+---
+
+### **Segmento 2: Comerciantes en zonas de riesgo medio-alto**
+
+**User Goal:** Como comerciante, quiero activar el botón de pánico web de manera inmediata y gestionar la red de apoyo para solicitar auxilio ante un peligro inminente en mi ubicación y coordinar la ayuda necesaria.
+
+**Task Flow:**
+<p align="center">
+  <img src="Imagen/taskflow2.PNG" width="700"> <br>
+</p>
+
+**Wireflow:**
+<p align="center">
+  <img src="Imagen/wireflow.PNG" width="800"> <br>
+</p>
+
+**Descripción del flujo:**
+Para gestionar una situación de emergencia crítica, el usuario accede a la funcionalidad principal de la aplicación web donde encuentra el botón de pánico diseñado para una activación inmediata con un solo clic. Al activarse la alerta, el sistema captura automáticamente la ubicación en tiempo real y, de forma simultánea, dispara notificaciones de auxilio a la red de apoyo previamente configurada, que incluye contactos de confianza, brigadas vecinales y autoridades locales. Tras el despliegue de la señal de socorro, la interfaz permite al usuario monitorear el estado de la respuesta y gestionar su círculo de ayuda, facilitando la coordinación de la asistencia necesaria mientras se mantiene un canal de comunicación abierto para actualizaciones sobre el incidente.
+
+---
+
+### **Enlaces de Referencia**
+
+Para una inspección técnica detallada de los diagramas y prototipos, se adjuntan los siguientes recursos:
+
+* **Visualización del Task Flow (LucidChart):** [Acceder al diagrama](https://lucid.app/lucidchart/fd581f14-d978-4213-bc90-02e3491e89bf/edit?viewport_loc=355%2C96%2C2024%2C1696%2C0_0&invitationId=inv_f209cdf9-2155-45bb-9a73-deae91179ddb)
+* **Prototipo de Wireframes (Figma):** [Acceder al diseño en Figma](https://www.figma.com/design/CJkpPRq0OH5zXtwyLWALfS/Sin-t%C3%ADtulo?node-id=0-1&t=MtAnEd5sb2PpVe4Q-1)
+
 ### 4.4.2. Web Applications Mock-ups.
 Los mock-ups de la aplicación web de InstAlert representan la versión visual final de la plataforma, integrando los elementos definidos en el Design System y consolidando la experiencia de usuario planteada en los wireframes. En esta etapa se evidencia una mayor fidelidad visual, incorporando jerarquía tipográfica, uso estratégico del color, componentes reutilizbles, accesibilidad y una arquitectura de información orientada a la rapidez de respuesta en situaciones de riesgo.
 Cada pantalla ha sido diseñada priorizando la claridad operativa y la reducción de la carga cognitiva del usuario, permitiendo acceder rápidamente a funciones esenciales como el inicio de sesión, la recuperación de cuenta, la gestión del perfil y el monitoreo de alertas dentro del dashboard principal. Asimismo, se aplican principios de diseño inclusivo mediante interfaces limpias, botones de acción claramente identificables (CTAs), contraste visual adecuado y estructuras intuitivas que facilitan la navegación para distintos perfiles de usuarios.
