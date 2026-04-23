@@ -293,7 +293,7 @@ Esta sección detalla el flujo de interacción de los usuarios con la aplicació
 
 **Wireflow:**
 <p align="center">
-  <img src="Imagen/wireflow.PNG" width="800"> <br>
+  <img src="Imagen/wireflow1.PNG" width="800"> <br>
 </p>
 
 **Descripción del flujo:**
@@ -312,7 +312,7 @@ Para planificar una ruta segura, el usuario inicia el proceso desde la pantalla 
 
 **Wireflow:**
 <p align="center">
-  <img src="Imagen/wireflow.PNG" width="800"> <br>
+  <img src="Imagen/wireflow2.PNG" width="800"> <br>
 </p>
 
 **Descripción del flujo:**
