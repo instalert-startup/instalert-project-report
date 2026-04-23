@@ -74,10 +74,10 @@ Además, el diseño considera principios de diseño responsive, asegurando que l
 Para nuestra aplicación se opta por una organización visual jerárquica con elementos secuenciales. Esto permite que el usuario identifique fácilmente los puntos clave, organizando el contenido en categorías como “Alertas”, “Reportes” o “Comunidad”, y en subcategorías dentro de cada una. Así, la información se presenta de forma clara y sin sobrecargar. <br>
 Además, en ciertas secciones se incorporan flujos secuenciales que guían al usuario paso a paso para completar tareas o llegar a páginas específicas. Esta estructura facilita aplicar principios de arquitectura de información como claridad, accesibilidad, navegación enfocada y facilidad de uso. Finalmente, gracias a la investigación previa, se asegura que el contenido de cada categoría sea relevante y útil para el usuario.<br>
 
-<img src="OrganizationSystems1"> <br>
+<img src="Imagen/OrganizationSystems1"> <br>
 Nota: Diagrama de organización de información de las aplicaciones <br>
 
-<img src="OrganizationSystems2"> <br>
+<img src="Imagen/OrganizationSystems2"> <br>
 Nota: Diagrama de organización de información del landing page <br>
 
 link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQUZ5Ykx2d3FOaVRIUmpvaXc4Tk5lTWw1R2xEK0ZaMjZEWXlueDBvQUJ1ODFYNWYrS2kwYWdJYUJkQUJ5cEdTSzROakxtRzVMTGhFdUlXODZ5LzBvV2hXVjk3MUZLOTFGTHpyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=9527554603  
@@ -86,9 +86,9 @@ link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQU
 Para este trabajo se optó por una taxonomía jerárquica que estructura la app y el sitio web mediante nodos principales y ramificaciones lógicas, agrupando los elementos según su similitud (por ejemplo, secciones informativas como “Visión” y “Misión”, y funciones interactivas como “Mapa” y “Reportes”). Este enfoque mejora la navegación intuitiva y disminuye la confusión del usuario, en línea con los principios de arquitectura de la información que priorizan la claridad y la escalabilidad del contenido.
 Esta decisión responde a la necesidad de gestionar el contenido como “objetos” dinámicos con atributos y ciclos de vida, lo que permite ofrecer alternativas relevantes para distintos tipos de usuarios, desde quienes solo buscan información hasta aquellos que interactúan activamente reportando incidentes.<br>
 
-<img src="LabelingSystems1"> <br>
+<img src="Imagen/LabelingSystems1"> <br>
 Nota. Labeling de las aplicaciones. <br>
-<img src="LabelingSystems2"> <br>
+<img src="Imagen/LabelingSystems2"> <br>
 Nota. Labeling del landing page.<br>
 
 ### 4.2.3. SEO Tags and Meta Tags
