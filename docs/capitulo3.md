@@ -41,7 +41,7 @@ EP07	Red de Apoyo y Contactos de Emergencia <br><br>
 | HU29 |Panel de monitoreo para contactos   | Como contacto de confianza, quiero acceder a un panel de control cuando recibo una alerta para visualizar la ubicación y estado del usuario en tiempo real.  | **Escenario 1: Acceso al panel** <br> _Dado_ que el contacto recibe un aviso de emergencia <br> _Cuando_ abre el enlace en su navegador <br> _Entonces_ el sistema despliega un mapa dinámico con la ubicación del usuario y botones de llamada rápida <br> **Escenario 2: Sesión caducada** <br> _Dado_ que el incidente fue resuelto hace más de 24 horas <br> _Cuando_ el contacto intenta acceder al panel <br> _Entonces_ el sistema deniega el acceso por motivos de privacidad <br>| EP7 |
 
 ## 3.2.Impact Mapping
-![Impact Mapping].(ImpactMapping.png)
+<img src="ImpactMapping.png">
 
 ## 3.3.Product Backlog
 
