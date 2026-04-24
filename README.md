@@ -1,10 +1,10 @@
 <div align="center">
 
-   # ✨ Informe Trabajo TB1 ✨
+   #  Informe Trabajo TB1 
 
 <img src="./assets/images/Banner-UPC.png" alt="Banner UPC">
 
-### Universidad Peruana de Ciencias Aplicadas 🎓
+### Universidad Peruana de Ciencias Aplicadas
 
 # InstAlert
 
