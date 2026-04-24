@@ -1,3 +1,11 @@
+<div align="center">
+
+   # ✨ Informe Trabajo Final ✨
+
+<img src="./assets/images/Banner-UPC.png" alt="Banner UPC">
+
+### Universidad Peruana de Ciencias Aplicadas 🎓
+
 # InstAlert
 
 ## Plataforma Web de Seguridad Ciudadana
@@ -41,15 +49,18 @@ InstAlert Startup
 InstAlert
 
 ---
-
+<div align='left'>
 ## Integrantes
 
 * Piero Leonardo Molina Falcón — u201610857
 * Sebastian Victor Andre Diaz Mendoza — u202415638
 * Alexander Paolo Justo Yauricasa — u20191c054
-* Breithner Rodolfo Perez Encarnación — u202418577 
+* Breithner Rodolfo Perez Encarnación — u202418577
 
+</div>
 ---
+
+</div>
 
 # Tabla de Contenidos
 
