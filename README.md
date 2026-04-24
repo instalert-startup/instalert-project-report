@@ -1,6 +1,6 @@
 <div align="center">
 
-   # ✨ Informe Trabajo Final ✨
+   # ✨ Informe Trabajo TB1 ✨
 
 <img src="./assets/images/Banner-UPC.png" alt="Banner UPC">
 
