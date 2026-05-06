@@ -150,7 +150,7 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En este Sprint, los miembros del equipo de desarrollo de software de KSI han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
-<img src="Imagen/landingPage-InstAlert">
+<img src="Imagen/landingPage-InstAlert.png">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
