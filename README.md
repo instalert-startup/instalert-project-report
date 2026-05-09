@@ -2,7 +2,10 @@
 
 # **Universidad Peruana de Ciencias Aplicadas**
 
-[![UPC Logo](https://media.discordapp.net/attachments/610911183339388978/1497066255251804221/UPC_logo_transparente.png?ex=69ec2b19&is=69ead999&hm=ced69157a843edd5c74c1d049127a66e70fd728125fb2a4694bd219328da7de9&=&format=webp&quality=lossless)](https://www.upc.edu.pe)
+
+<img src="assets/images/team/logoupc.png" width="400">
+
+
 
 ### **Informe de Trabajo Final**
 
