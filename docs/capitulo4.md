@@ -391,9 +391,8 @@ La jerarquía visual permite que el usuario identifique de inmediato la informac
   <img src="../assets/images/mockapplicationweb/dashboard.png" alt="Dashboard" width="700">
 </p>
 
-### 4.4.3 Web Applications Mock-ups
+### 4.4.3 Web Applications User Flow Diagrams
 
-### 4.4.4 Web Applications User Flow Diagrams
 
 ## 4.5 Web Applications Prototyping
 
