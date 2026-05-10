@@ -16,7 +16,8 @@ Respetuoso (en el manejo de información sensible)
 Directo y enfocado a la acción (priorizando claridad sobre expresividad)
 Para la definición de estos lineamientos, se tomaron como referencia principios de diseño centrados en el usuario y sistemas de diseño modernos como Material Design (Google, 2014) , priorizando la claridad, la jerarquía visual y la accesibilidad en entornos digitales. 
 
-4.1.1.1. Tipografía
+**4.1.1.1. Tipografía**
+
 La tipografía de InstAlert ha sido seleccionada para garantizar claridad, rapidez de lectura y accesibilidad, especialmente en situaciones donde el usuario necesita interpretar información de forma inmediata.
 
 <p align="center">
@@ -37,44 +38,72 @@ Para el contenido general de la aplicación se emplea la tipografía Roboto, ele
   <img src="../assets/images/style-guidelines/Tipografía de Texto Regular.png" alt="Tipografía de Texto Regular" width="700">
 </p>
 
-4.1.1.2. Colores
+**4.1.1.2. Colores**
+
 La paleta de colores de InstAlert ha sido diseñada para comunicar alerta, urgencia y estabilidad, asegurando una experiencia visual clara y efectiva.
 
 <p align="center">
   <img src="../assets/images/style-guidelines/Paleta_de_colores.png" alt="Paleta de colores" width="700">
 </p>
 
-Paleta Principal
-Rojo (#E53935): Representa peligro, emergencia y alerta. Es el color principal de la plataforma, utilizado en notificaciones críticas y acciones importantes.
-Gris Oscuro (#1E1E1E): Aporta seriedad, enfoque y contraste. Se utiliza como base para fondos y elementos estructurales.
-Blanco (#FFFFFF): Permite una lectura clara y limpia, generando equilibrio visual y mejorando la accesibilidad.
-Paleta Secundaria
-Amarillo (#FFC107): Indica advertencias o riesgos moderados. Funciona como un nivel intermedio entre normalidad y peligro.
-Azul (#1976D2): Representa confianza, información y estabilidad. Se utiliza en elementos informativos o de interacción secundaria.
-Gris Claro (#F5F5F5): Se emplea como fondo para separar secciones sin generar ruido visual.
+**Paleta Principal**
 
-<p align="center">
-  <img src="../assets/images/style-guidelines/Paleta_de_colores.png" alt="Paleta de colores" width="700">
-</p>
+Rojo (#E53935)
 
-4.1.1.3. Espaciado
+Representa peligro, emergencia y alerta. Es el color principal de la plataforma, utilizado en notificaciones críticas y acciones importantes.
+
+Azul Nocturno (#0F172A)
+
+Aporta profundidad, estabilidad y contraste visual. Se utiliza como color base del dashboard, sidebar, paneles y fondos principales del sistema.
+
+Blanco (#FFFFFF)
+
+Permite una lectura clara y limpia, generando equilibrio visual y mejorando la accesibilidad.
+
+**Paleta Secundaria**
+
+Verde (#00C853)
+
+Representa éxito, confirmación y estados positivos del sistema.
+
+Amarillo (#FFC107)
+
+Indica advertencias o riesgos moderados. Funciona como un nivel intermedio entre normalidad y peligro.
+
+Azul (#1976D2)
+
+Representa confianza, información y estabilidad. Se utiliza en elementos informativos o de interacción secundaria.
+
+Gris Grafito (#1E293B)
+
+Utilizado en contenedores, tarjetas y elementos secundarios del dashboard para mantener jerarquía visual y profundidad.
+
+Gris Borde (#334155)
+
+Se usa para bordes, divisiones y líneas suaves que organizan visualmente la interfaz.
+
+Gris Claro (#F5F5F5)
+
+Se emplea como fondo para separar secciones sin generar ruido visual.
+
+
+**4.1.1.3. Espaciado**
+
 El espaciado en la interfaz de InstAlert sigue una estructura basada en múltiplos de 8 (8, 16, 24, 32 y 48 píxeles), lo que permite mantener consistencia y orden visual en toda la plataforma.
 Este sistema facilita la organización de los elementos, mejora la legibilidad y evita la saturación de información, algo fundamental en una aplicación donde el usuario debe identificar rápidamente datos relevantes. Además, permite una adaptación fluida a diferentes dispositivos, garantizando una experiencia consistente tanto en escritorio como en dispositivos móviles.
 
-4.1.1.4. Iconografía
+**4.1.1.4. Iconografía**
+
 La iconografía en InstAlert se basa en un estilo minimalista y lineal, utilizando íconos simples y universalmente reconocibles que facilitan la comprensión inmediata.
-Se prioriza el uso de símbolos claros como:
-🚨 Alertas
-📍 Ubicación
-🔔 Notificaciones
-👤 Perfil
+
 Estos elementos permiten reducir la carga cognitiva del usuario, facilitando la navegación incluso en situaciones de estrés o urgencia. Además, los íconos mantienen coherencia visual con el diseño general, reforzando la identidad de la plataforma.
 
 <p align="center">
   <img src="../assets/images/style-guidelines/Iconografia.png" alt="Iconografía" width="700">
 </p>
 
-4.1.1.5. Tono de Comunicación y Lenguaje Aplicado
+**4.1.1.5. Tono de Comunicación y Lenguaje Aplicado**
+
 El tono de InstAlert es directo, claro y orientado a la acción. La plataforma está diseñada para transmitir información de manera rápida y efectiva, evitando ambigüedades o lenguaje innecesario.
 Se utiliza un lenguaje sencillo y comprensible, priorizando frases cortas y mensajes concretos como:
 “Alerta cercana detectada”
