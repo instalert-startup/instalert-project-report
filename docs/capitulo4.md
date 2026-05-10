@@ -371,11 +371,112 @@ La jerarquía visual permite que el usuario identifique de inmediato la informac
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Design-Level Event Storming
+El diseño por niveles del Event Storming es una técnica colaborativa, similar al Big Picture, pero más profunda que busca especificar los Bounded Context pertenecientes al negocio. En otras palabras, DLES es una técnica perteneciente al Domain Driven Design que nos permitirá entender los microservicios de nuestro negocio a un nivel mucho más específico que en un Big Picture.
+
+A continuación, presentaremos los pasos a seguir para ejecutar la técnica:
+
+En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Storming.
+
+**Step 1: Unstructured Exploration**
+
+<p align="center">
+<img src="./docs/imagen/step1.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 2: Chronology**
+
+<p align="center">
+<img src="./docs/imagen/step2.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 3: Pain Points**
+
+<p align="center">
+<img src="./docs/imagen/step3.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 4: Pivotal Points**
+
+<p align="center">
+<img src="./docs/imagen/step4.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 5: Commands**
+
+<p align="center">
+<img src="./docs/imagen/step5.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 6: Policies**
+
+<p align="center">
+<img src="./docs/imagen/step6.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 7: Read Models**
+
+<p align="center">
+<img src="./docs/imagen/step7.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 8: External Systems**
+
+<p align="center">
+<img src="./docs/imagen/step8.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 9: Aggregates**
+
+<p align="center">
+<img src="./docs/imagen/step9.jpg" style="width: 800px; height: 700px">
+</p>
+
+**Step 10: Bounded Contexts**
+
+<p align="center">
+<img src="./docs/imagen/step10.jpg" style="width: 800px; height: 700px">
+</p>
 
 ### 4.6.2 Software Architecture Context Diagram
 
+Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuarios y los sistemas externos.
+
+<p align="center">
+<img src="./docs/imagen/contextdiagram.png" style="width: 800px; height: 700px">
+</p>
+
 ### 4.6.3 Software Architecture Container Diagrams
+
+Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (aplicaciones y bases de datos).
+
+<p align="center">
+<img src="./docs/imagen/containerdiagrams.png" style="width: 800px; height: 700px">
+</p>
 
 ### 4.6.4 Software Architecture Components Diagrams
 
+Hacemos "zoom" a la caja del Monolithic API para ver sus módulos internos, alineados a los Bounded Contexts que definimos anteriormente.
+
+<p align="center">
+<img src="./docs/imagen/componentsdiagrams.png" style="width: 800px; height: 700px">
+</p>
+
 ## 4.7 Software Object-Oriented Design
+
+### 4.7.1 Class Diagrams
+
+Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
+
+<p align="center">
+<img src="./docs/imagen/classdiagrams.jpg" style="width: 800px; height: 700px">
+</p>
+
+## 4.8 Database Design. 
+
+### 4.8.1 Database Diagrams. 
+
+Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
+
+<p>
+<img src="./docs/imagen/databasediagram.jpg">
+</p>
