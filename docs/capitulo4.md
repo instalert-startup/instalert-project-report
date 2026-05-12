@@ -395,6 +395,16 @@ La jerarquía visual permite que el usuario identifique de inmediato la informac
 
 
 ## 4.5 Web Applications Prototyping
+Con el objetivo de evaluar y perfeccionar la accesibilidad y la experiencia de usuario antes del desarrollo final de **InstAlert**, se elaboró un prototipo interactivo centrado en la navegación web. Este modelo funcional permite simular de forma integral el recorrido del usuario dentro de la plataforma, facilitando la exploración directa de sus secciones, elementos y flujos de interacción tal como se espera en su versión final online.
+
+El prototipo de **InstAlert** fue diseñado siguiendo principios de arquitectura de la información clara, jerarquía visual lógica y diseño inclusivo, priorizando siempre la facilidad de uso. Se cuidó que cada componente respete estándares de usabilidad y coherencia visual, lo que favorece una navegación fluida e intuitiva.
+
+A partir de maquetas de alta fidelidad y criterios de usabilidad previamente definidos, esta versión navegable actúa como una fiel representación de la futura interfaz. Así, se convierte en una herramienta clave para validar decisiones de diseño, detectar posibles fricciones y garantizar una experiencia consistente y accesible desde el navegador.
+
+## Recursos del Proyecto
+
+**Link al prototipo interactivo:** [InstAlert OpenSource en Figma](https://www.figma.com/design/qgC2525lUTmrjbKto3RO2m/InstAlert-OpenSource?node-id=129-394&t=LUlM460orC439bHg-1)
+
 
 ## 4.6 Domain-Driven Software Architecture
 
@@ -470,7 +480,7 @@ En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Stormin
 Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuarios y los sistemas externos.
 
 <p align="center">
-<img src="./docs/imagen/contextdiagram.png" style="width: 800px; height: 700px">
+<img src="./docs/Imagen/c41.PNG" style="width: 800px; height: 700px">
 </p>
 
 ### 4.6.3 Software Architecture Container Diagrams
@@ -478,15 +488,19 @@ Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuar
 Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (aplicaciones y bases de datos).
 
 <p align="center">
-<img src="./docs/imagen/containerdiagrams.png" style="width: 800px; height: 700px">
+<img src="./docs/Imagen/c42.PNG" style="width: 800px; height: 700px">
 </p>
 
 ### 4.6.4 Software Architecture Components Diagrams
 
+<p align="center">
+<img src="./docs/Imagen/c42.PNG" style="width: 800px; height: 700px">
+</p>
+
 Hacemos "zoom" a la caja del Monolithic API para ver sus módulos internos, alineados a los Bounded Contexts que definimos anteriormente.
 
 <p align="center">
-<img src="./docs/imagen/componentsdiagrams.png" style="width: 800px; height: 700px">
+<img src="assets/images/mockapplicationweb" style="width: 800px; height: 700px">
 </p>
 
 ## 4.7 Software Object-Oriented Design
@@ -496,7 +510,7 @@ Hacemos "zoom" a la caja del Monolithic API para ver sus módulos internos, alin
 Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
 <p align="center">
-<img src="./docs/imagen/classdiagrams.jpg" style="width: 800px; height: 700px">
+<img src="./docs/Imagen/classdiagrams.jpg" style="width: 800px; height: 700px">
 </p>
 
 ## 4.8 Database Design. 
