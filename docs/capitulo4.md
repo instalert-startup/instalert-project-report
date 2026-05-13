@@ -16,7 +16,8 @@ Respetuoso (en el manejo de información sensible)
 Directo y enfocado a la acción (priorizando claridad sobre expresividad)
 Para la definición de estos lineamientos, se tomaron como referencia principios de diseño centrados en el usuario y sistemas de diseño modernos como Material Design (Google, 2014) , priorizando la claridad, la jerarquía visual y la accesibilidad en entornos digitales. 
 
-4.1.1.1. Tipografía
+**4.1.1.1. Tipografía**
+
 La tipografía de InstAlert ha sido seleccionada para garantizar claridad, rapidez de lectura y accesibilidad, especialmente en situaciones donde el usuario necesita interpretar información de forma inmediata.
 
 <p align="center">
@@ -37,44 +38,72 @@ Para el contenido general de la aplicación se emplea la tipografía Roboto, ele
   <img src="../assets/images/style-guidelines/Tipografía de Texto Regular.png" alt="Tipografía de Texto Regular" width="700">
 </p>
 
-4.1.1.2. Colores
+**4.1.1.2. Colores**
+
 La paleta de colores de InstAlert ha sido diseñada para comunicar alerta, urgencia y estabilidad, asegurando una experiencia visual clara y efectiva.
 
 <p align="center">
   <img src="../assets/images/style-guidelines/Paleta_de_colores.png" alt="Paleta de colores" width="700">
 </p>
 
-Paleta Principal
-Rojo (#E53935): Representa peligro, emergencia y alerta. Es el color principal de la plataforma, utilizado en notificaciones críticas y acciones importantes.
-Gris Oscuro (#1E1E1E): Aporta seriedad, enfoque y contraste. Se utiliza como base para fondos y elementos estructurales.
-Blanco (#FFFFFF): Permite una lectura clara y limpia, generando equilibrio visual y mejorando la accesibilidad.
-Paleta Secundaria
-Amarillo (#FFC107): Indica advertencias o riesgos moderados. Funciona como un nivel intermedio entre normalidad y peligro.
-Azul (#1976D2): Representa confianza, información y estabilidad. Se utiliza en elementos informativos o de interacción secundaria.
-Gris Claro (#F5F5F5): Se emplea como fondo para separar secciones sin generar ruido visual.
+**Paleta Principal**
 
-<p align="center">
-  <img src="../assets/images/style-guidelines/Paleta_de_colores.png" alt="Paleta de colores" width="700">
-</p>
+Rojo (#E53935)
 
-4.1.1.3. Espaciado
+Representa peligro, emergencia y alerta. Es el color principal de la plataforma, utilizado en notificaciones críticas y acciones importantes.
+
+Azul Nocturno (#0F172A)
+
+Aporta profundidad, estabilidad y contraste visual. Se utiliza como color base del dashboard, sidebar, paneles y fondos principales del sistema.
+
+Blanco (#FFFFFF)
+
+Permite una lectura clara y limpia, generando equilibrio visual y mejorando la accesibilidad.
+
+**Paleta Secundaria**
+
+Verde (#00C853)
+
+Representa éxito, confirmación y estados positivos del sistema.
+
+Amarillo (#FFC107)
+
+Indica advertencias o riesgos moderados. Funciona como un nivel intermedio entre normalidad y peligro.
+
+Azul (#1976D2)
+
+Representa confianza, información y estabilidad. Se utiliza en elementos informativos o de interacción secundaria.
+
+Gris Grafito (#1E293B)
+
+Utilizado en contenedores, tarjetas y elementos secundarios del dashboard para mantener jerarquía visual y profundidad.
+
+Gris Borde (#334155)
+
+Se usa para bordes, divisiones y líneas suaves que organizan visualmente la interfaz.
+
+Gris Claro (#F5F5F5)
+
+Se emplea como fondo para separar secciones sin generar ruido visual.
+
+
+**4.1.1.3. Espaciado**
+
 El espaciado en la interfaz de InstAlert sigue una estructura basada en múltiplos de 8 (8, 16, 24, 32 y 48 píxeles), lo que permite mantener consistencia y orden visual en toda la plataforma.
 Este sistema facilita la organización de los elementos, mejora la legibilidad y evita la saturación de información, algo fundamental en una aplicación donde el usuario debe identificar rápidamente datos relevantes. Además, permite una adaptación fluida a diferentes dispositivos, garantizando una experiencia consistente tanto en escritorio como en dispositivos móviles.
 
-4.1.1.4. Iconografía
+**4.1.1.4. Iconografía**
+
 La iconografía en InstAlert se basa en un estilo minimalista y lineal, utilizando íconos simples y universalmente reconocibles que facilitan la comprensión inmediata.
-Se prioriza el uso de símbolos claros como:
-🚨 Alertas
-📍 Ubicación
-🔔 Notificaciones
-👤 Perfil
+
 Estos elementos permiten reducir la carga cognitiva del usuario, facilitando la navegación incluso en situaciones de estrés o urgencia. Además, los íconos mantienen coherencia visual con el diseño general, reforzando la identidad de la plataforma.
 
 <p align="center">
   <img src="../assets/images/style-guidelines/Iconografia.png" alt="Iconografía" width="700">
 </p>
 
-4.1.1.5. Tono de Comunicación y Lenguaje Aplicado
+**4.1.1.5. Tono de Comunicación y Lenguaje Aplicado**
+
 El tono de InstAlert es directo, claro y orientado a la acción. La plataforma está diseñada para transmitir información de manera rápida y efectiva, evitando ambigüedades o lenguaje innecesario.
 Se utiliza un lenguaje sencillo y comprensible, priorizando frases cortas y mensajes concretos como:
 “Alerta cercana detectada”
@@ -362,20 +391,129 @@ La jerarquía visual permite que el usuario identifique de inmediato la informac
   <img src="../assets/images/mockapplicationweb/dashboard.png" alt="Dashboard" width="700">
 </p>
 
-### 4.4.3 Web Applications Mock-ups
+### 4.4.3 Web Applications User Flow Diagrams
 
-### 4.4.4 Web Applications User Flow Diagrams
 
 ## 4.5 Web Applications Prototyping
+Con el objetivo de evaluar y perfeccionar la accesibilidad y la experiencia de usuario antes del desarrollo final de **InstAlert**, se elaboró un prototipo interactivo centrado en la navegación web. Este modelo funcional permite simular de forma integral el recorrido del usuario dentro de la plataforma, facilitando la exploración directa de sus secciones, elementos y flujos de interacción tal como se espera en su versión final online.
+
+El prototipo de **InstAlert** fue diseñado siguiendo principios de arquitectura de la información clara, jerarquía visual lógica y diseño inclusivo, priorizando siempre la facilidad de uso. Se cuidó que cada componente respete estándares de usabilidad y coherencia visual, lo que favorece una navegación fluida e intuitiva.
+
+A partir de maquetas de alta fidelidad y criterios de usabilidad previamente definidos, esta versión navegable actúa como una fiel representación de la futura interfaz. Así, se convierte en una herramienta clave para validar decisiones de diseño, detectar posibles fricciones y garantizar una experiencia consistente y accesible desde el navegador.
+
+## Recursos del Proyecto
+
+**Link al prototipo interactivo:** [InstAlert OpenSource en Figma](https://www.figma.com/design/qgC2525lUTmrjbKto3RO2m/InstAlert-OpenSource?node-id=129-394&t=LUlM460orC439bHg-1)
+
 
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Design-Level Event Storming
+El diseño por niveles del Event Storming es una técnica colaborativa, similar al Big Picture, pero más profunda que busca especificar los Bounded Context pertenecientes al negocio. En otras palabras, DLES es una técnica perteneciente al Domain Driven Design que nos permitirá entender los microservicios de nuestro negocio a un nivel mucho más específico que en un Big Picture.
+
+A continuación, presentaremos los pasos a seguir para ejecutar la técnica:
+
+En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Storming.
+
+**Step 1: Unstructured Exploration**
+
+<p align="center">
+ <img src="../assets/images/mockapplicationweb/step1.jpg" alt="Paso 1" width="700">
+</p>
+
+**Step 2: Chronology**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step2.jpg" alt="Paso 2" width="700">
+</p>
+
+**Step 3: Pain Points**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step3.jpg" alt="Paso 3" width="700">
+</p>
+
+**Step 4: Pivotal Points**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step4.jpg" alt="Paso 4" width="700">
+</p>
+
+**Step 5: Commands**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step5.jpg" alt="Paso 5" width="700">
+</p>
+
+**Step 6: Policies**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step6.jpg" alt="Paso 6" width="700">
+</p>
+
+**Step 7: Read Models**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step7.jpg" alt="Paso 7" width="700">
+</p>
+
+**Step 8: External Systems**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step8.jpg" alt="Paso 8" width="700">
+</p>
+
+**Step 9: Aggregates**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step9.jpg" alt="Paso 9" width="700">
+</p>
+
+**Step 10: Bounded Contexts**
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/step10.jpg" alt="Paso 10" width="700">
+</p>
 
 ### 4.6.2 Software Architecture Context Diagram
 
+Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuarios y los sistemas externos.
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/c41.PNG" alt="Tipografía" width="700">
+</p>
+
 ### 4.6.3 Software Architecture Container Diagrams
+
+Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (aplicaciones y bases de datos).
+
+<p align="center">
+<img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
+</p>
 
 ### 4.6.4 Software Architecture Components Diagrams
 
+<p align="center">
+<img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
+</p>
+
+
 ## 4.7 Software Object-Oriented Design
+
+### 4.7.1 Class Diagrams
+
+Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
+
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/classdiagrams.jpg" alt="ClassDiagram" width="700">
+</p>
+
+## 4.8 Database Design. 
+
+### 4.8.1 Database Diagrams. 
+
+Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
+
+<p>
+    <img src="../assets/images/mockapplicationweb/databasediagram.jpg" alt="DBDiagram" width="700">
+</p>
