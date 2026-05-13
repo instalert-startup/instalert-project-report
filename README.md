@@ -190,6 +190,14 @@ Molina Falcón, Piero Leonardo (u201610857)
 # <a name="_heading=h.nsca8d7rezbs"></a>**Contenido**
 # <a name="_heading=h.8gxu27autull"></a>**Registro de Versiones del Informe**
 # <a name="_heading=h.iqfc12at5bpt"></a>**Project Report Collaboration Insights**
+
+Repositorio donde está el project report: https://github.com/instalert-startup/instalert-project-report
+
+"Para la elaboración de la documentación técnica, se utilizó Google Docs como plataforma de trabajo colaborativo, migrando posteriormente el contenido al archivo README del repositorio principal en GitHub. En esta entrega, el README ha sido actualizado para incluir los avances del Sprint 2 y los artefactos del proceso Lean UX, tales como las declaraciones de problemas, suposiciones e hipótesis, los cuales fueron fundamentales para definir las funcionalidades críticas de seguridad y respuesta ante emergencias de InstAlert."
+
+
+
+
 # <a name="_heading=h.wkpb2ihpzcry"></a>**Contenido**
 # <a name="_heading=h.nbg6pah72qg3"></a>**Student Outcome**
 1. # <a name="_heading=h.iv3t72wpl8ge"></a>**Capítulo I: Introducción**
