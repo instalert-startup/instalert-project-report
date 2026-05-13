@@ -497,9 +497,6 @@ Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (ap
 <img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
 </p>
 
-<p align="center">
-<img src="assets/images/mockapplicationweb" style="width: 800px; height: 700px">
-</p>
 
 ## 4.7 Software Object-Oriented Design
 
