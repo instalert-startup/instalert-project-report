@@ -183,29 +183,45 @@ URL LANDING PAGE DESPLEGADA: https://instalert-startup.github.io/landing-page/
 
 #### 5.2.2.1. Sprint Planning 2
 
+#### 5.2.2.1. Sprint Planning 2
+
 | Sprint # | Sprint 2 |
 | :--- | :--- |
 | **Sprint Planning Background** | |
-| Date | [DD/MM/YYYY] |
-| Time | [00:00 AM/PM] |
-| Location | [Ej: Google Meet / Teams] |
-| Prepared By | [Nombre del encargado] |
-| Attendees (to planning meeting) | [Nombre 1]<br>[Nombre 2]<br>[Nombre 3]<br>[Nombre 4] |
-| **Sprint 2 Review Summary** | [Resumen de lo que se enfocó el equipo durante este sprint, entregables clave y bases desarrolladas]. |
-| **Sprint 2 Retrospective Summary** | [Resumen de las conclusiones del equipo, qué funcionó bien, colaboración y puntos de mejora para el siguiente sprint]. |
+| Date | 10/05/2026 |
+| Time | 5:30 PM |
+| Location | Virtual |
+| Prepared By | Sebastian Victor Andre Diaz Mendoza |
+| Attendees (to planning meeting) | Piero Leonardo Molina Falcón<br>Sebastian Victor Andre Diaz Mendoza<br>Alexander Paolo Justo Yauricasa<br>Breithner Rodolfo Perez Encarnación |
+| **Sprint 2 Review Summary** | Durante este sprint, el equipo se enfocó de lleno en el desarrollo e implementación de la interfaz de usuario (UI) de la aplicación web InstAlert. Se logró maquetar, diseñar e integrar la experiencia visual abarcando un total de 23 Historias de Usuario (HU). Esto incluyó la creación de componentes interactivos, vistas de reportes, mapas de zonas de riesgo y flujos de navegación, sentando toda la base frontend de la plataforma. |
+| **Sprint 2 Retrospective Summary** | El equipo demostró una gran capacidad de ejecución y coordinación para manejar el alto volumen de tareas visuales. El uso de componentes reutilizables agilizó significativamente el desarrollo de las 28 HU. Como punto de mejora, identificamos que para los próximos sprints debemos optimizar los tiempos de revisión en los Pull Requests para evitar cuellos de botella antes de integrar la lógica de negocio y la conexión con bases de datos. |
 | **Sprint Goal & User Stories** | |
-| **Sprint 2 Goal** | [Objetivo principal a entregar y validar al final de este sprint]. |
-| **Sprint 2 Velocity** | [Puntos de historia completados, Ej: 20] |
-| **Sum of Story Points** | [Suma total de puntos de historia planificados, Ej: 20] |
+| **Sprint 2 Goal** | Completar el diseño y la maquetación frontend de la aplicación web InstAlert, garantizando que las interfaces de las 28 HU planificadas sean totalmente funcionales a nivel visual, responsivas y alineadas con la guía de estilos, dejando el proyecto listo para la integración con los servicios del backend. |
+| **Sprint 2 Velocity** | 84 |
+| **Sum of Story Points** | 84 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-| Team Member | GitHub Username | [Área 1, Ej: Web App] | [Área 2, Ej: Backend] | [Área 3, Ej: Documentación] |
-| :--- | :--- | :--- | :--- | :--- |
-| [Nombre 1] | [Usuario 1] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
-| [Nombre 2] | [Usuario 2] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
-| [Nombre 3] | [Usuario 3] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
-| [Nombre 4] | [Usuario 4] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
+Durante el desarrollo del Sprint 2, se han identificado distintos aspectos funcionales relacionados al diseño y construcción de la aplicación web de InstAlert. Con el objetivo de organizar el trabajo del equipo de manera eficiente, se ha elaborado una matriz de Liderazgo y Colaboración (LACX), donde se asigna a cada integrante el rol de líder (L) en los módulos clave del desarrollo que se le han asignado, y el rol de colaborador (C) en otros aspectos. 
+
+Los aspectos definidos para este Sprint, basados en las 28 Historias de Usuario trabajadas, son:
+
+1. **Apartado de Login:** Registro e inicio de sesión.
+2. **Apartado de Configuración:** Perfil, preferencias de notificación y comunidades cercanas.
+3. **Apartado de Comunidad:** Solicitudes de apoyo, asistentes rápidos y panel de monitoreo.
+4. **Botón de Emergencia y Dashboard:** Envío, recepción, historial y cancelación de alertas con geolocalización.
+5. **Reportes:** Creación, adjunto de evidencias y filtros de incidentes y zonas.
+6. **Mapa de Riesgo:** Visualización, filtros por nivel de riesgo y búsqueda de direcciones.
+7. **Revisión general y mejoras:** Pruebas visuales, responsividad y ajustes de UI/UX conjuntos.
+
+A continuación, se presenta la matriz de responsabilidades del equipo:
+
+| Team Member (Last Name, First Name) | GitHub Username | Login | Configuration | Community | Emergency Button & Dashboard | Reports | Risk Map | Review and improvements |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Justo Yauricasa, Alexander Paolo | AlexanderJusto | L | L | L | C | C | C | C |
+| Diaz Mendoza, Sebastian Victor Andre | DiazDeveloper | C | C | C | L | C | C | C |
+| Perez Encarnación, Breithner Rodolfo | Breithner1 | C | C | C | C | L | C | C |
+| Molina Falcón, Piero Leonardo | PieroMFAL | C | C | C | C | C | L | C |
 
 #### 5.2.2.3. Sprint Backlog 2
 
