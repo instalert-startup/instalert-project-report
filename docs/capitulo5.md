@@ -254,13 +254,14 @@ A continuación, se presenta la matriz de responsabilidades del equipo:
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-En este segundo Sprint hemos realizado la implementación de [Descripción breve de los componentes o servicios desarrollados], donde todo el equipo ha aportado mediante la gestión de ramas. En la siguiente tabla se muestran los commits realizados.
+En este segundo Sprint hemos realizado la implementación del fronte-end, donde todo el equipo ha aportado mediante la gestión de ramas. En la siguiente tabla se muestran los commits realizados.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [organización/repositorio] | [rama] | [ID corto] | [Mensaje] | [Cuerpo del mensaje o descripción] | [DD/MM/YYYY] |
-| [organización/repositorio] | [rama] | [ID corto] | [Mensaje] | [Cuerpo del mensaje o descripción] | [DD/MM/YYYY] |
-| [organización/repositorio] | [rama] | [ID corto] | [Mensaje] | [Cuerpo del mensaje o descripción] | [DD/MM/YYYY] |
+| DiazDeveloper | feature/Alexander | b133adb87ea2fe29bbab4b993cefd8f18ab7b842 | -- | -- | [12/05/2026] |
+| DiazDeveloper | feature/report | 1ca6bd2ee4032be7b56aa7ceb6cd0f7e9e0f2840 | -- | -- | [12/05/2026] |
+| DiazDeveloper | feature/sebdiaz | f7c920e4a1d83b56e0f4c2a918d7b3e52f6a0c84 | -- | -- | [12/05/2026] |
+| DiazDeveloper | feature/piero | 3e8d1f70b25c94a6e0f3d1b728a59c4e16f80d23 | -- | -- | [12/05/2026] |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
