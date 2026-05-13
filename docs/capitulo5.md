@@ -286,8 +286,6 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas e
 
 <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Tipografía" width="700">
 
-<img src="../assets/images/mockapplicationweb/evidencia8.jpeg" alt="Tipografía" width="700">
-
 <img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Tipografía" width="700">
 
 <img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Tipografía" width="700">
