@@ -276,6 +276,10 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas e
 
 <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Tipografía" width="700">
 
+<img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Tipografía" width="700">
+
+<img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Tipografía" width="700">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 [Detallar si en este sprint se emplearon servicios de terceros, APIs externas, bases de datos (SQL/NoSQL) o servicios en la nube. Si no se usaron, indicar que no se requirieron servicios adicionales para esta iteración].
