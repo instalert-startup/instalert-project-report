@@ -178,3 +178,85 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Documentación y Despliegue: Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 URL LANDING PAGE DESPLEGADA: https://instalert-startup.github.io/landing-page/
 
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint # | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| Date | [DD/MM/YYYY] |
+| Time | [00:00 AM/PM] |
+| Location | [Ej: Google Meet / Teams] |
+| Prepared By | [Nombre del encargado] |
+| Attendees (to planning meeting) | [Nombre 1]<br>[Nombre 2]<br>[Nombre 3]<br>[Nombre 4] |
+| **Sprint 2 Review Summary** | [Resumen de lo que se enfocó el equipo durante este sprint, entregables clave y bases desarrolladas]. |
+| **Sprint 2 Retrospective Summary** | [Resumen de las conclusiones del equipo, qué funcionó bien, colaboración y puntos de mejora para el siguiente sprint]. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal** | [Objetivo principal a entregar y validar al final de este sprint]. |
+| **Sprint 2 Velocity** | [Puntos de historia completados, Ej: 20] |
+| **Sum of Story Points** | [Suma total de puntos de historia planificados, Ej: 20] |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member | GitHub Username | [Área 1, Ej: Web App] | [Área 2, Ej: Backend] | [Área 3, Ej: Documentación] |
+| :--- | :--- | :--- | :--- | :--- |
+| [Nombre 1] | [Usuario 1] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
+| [Nombre 2] | [Usuario 2] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
+| [Nombre 3] | [Usuario 3] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
+| [Nombre 4] | [Usuario 4] | [Líder / Colaborador] | [Líder / Colaborador] | [Líder / Colaborador] |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+| User Story Id | User Story Title | Work Item/Task Id | Work Item/Task Title | Description | Estimation | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
+| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
+| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
+| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+En este segundo Sprint hemos realizado la implementación de [Descripción breve de los componentes o servicios desarrollados], donde todo el equipo ha aportado mediante la gestión de ramas. En la siguiente tabla se muestran los commits realizados.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [organización/repositorio] | [rama] | [ID corto] | [Mensaje] | [Cuerpo del mensaje o descripción] | [DD/MM/YYYY] |
+| [organización/repositorio] | [rama] | [ID corto] | [Mensaje] | [Cuerpo del mensaje o descripción] | [DD/MM/YYYY] |
+| [organización/repositorio] | [rama] | [ID corto] | [Mensaje] | [Cuerpo del mensaje o descripción] | [DD/MM/YYYY] |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En este Sprint, los miembros del equipo de desarrollo de software han completado [mencionar qué se completó, ej: el frontend de la aplicación web / la integración de la base de datos]. A continuación, mostramos imágenes que demuestran el funcionamiento de nuestra plataforma.
+
+<img src="[Ruta/a/tu/Imagen.png]">
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+[Detallar si en este sprint se emplearon servicios de terceros, APIs externas, bases de datos (SQL/NoSQL) o servicios en la nube. Si no se usaron, indicar que no se requirieron servicios adicionales para esta iteración].
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+**Resumen**
+Durante este Sprint, nos hemos enfocado en el despliegue de [Nombre de la aplicación o módulo]. Las actividades realizadas incluyen la configuración del entorno y el despliegue. A continuación, se detalla el proceso seguido.
+
+**Actividades Realizadas**
+
+- [Actividad 1, Ej: Configuración de Base de Datos]: [Descripción de la actividad].
+- [Actividad 2, Ej: Configuración de Proyectos para Integración]: [Descripción de la actividad].
+- [Actividad 3, Ej: Despliegue de la Web App]: [Descripción de la actividad].
+
+**Enlace al Repositorio:** [URL del repositorio]  
+**Enlace de Despliegue:** [URL del proyecto desplegado, si aplica]  
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida. 
+
+- **Diseño y Desarrollo:** [Resumen de cómo se dividieron y ejecutaron las tareas de código y diseño].
+- **Documentación y Despliegue:** [Resumen de cómo se manejó la redacción del informe y las configuraciones de hosting/servidores].
+
+*[Opcional: Puedes incluir aquí imágenes de los analíticos de GitHub o herramientas de Jira/Trello si tu equipo las utiliza]*
+
+
