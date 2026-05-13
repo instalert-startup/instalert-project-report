@@ -274,7 +274,7 @@ Evidencia visual:
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
 
-<img src="../assets/images/mockapplicationweb/evidencia3.jpg" alt="Tipografía" width="700">
+<img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Tipografía" width="700">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
