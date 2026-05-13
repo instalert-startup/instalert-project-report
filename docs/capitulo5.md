@@ -227,10 +227,30 @@ A continuación, se presenta la matriz de responsabilidades del equipo:
 
 | User Story Id | User Story Title | Work Item/Task Id | Work Item/Task Title | Description | Estimation | Assigned To | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
-| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
-| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
-| US-[XX] | [Título de US] | T[XX] | [Título de Tarea] | [Descripción detallada de la tarea] | [X]h | [Nombre] | [Done / Doing / To Do] |
+| US-01 | Registro de usuario | T01 | Interfaz de Registro | Maquetación del formulario para crear una nueva cuenta. | 3h | Alexander Justo | To Do |
+| US-02 | Inicio de sesión | T02 | Interfaz de Login | Maquetación de la vista de autenticación de usuarios. | 2h | Alexander Justo | To Do |
+| US-03 | Configuración de perfil | T03 | Vista Perfil y Comunidades | Diseño de los campos de usuario y apartado de comunidades cercanas. | 4h | Alexander Justo | To Do |
+| US-23 | Configurar preferencias de notificación | T04 | UI Preferencias Notificación | Diseño de toggles y opciones para configuración de alertas. | 2h | Alexander Justo | To Do |
+| US-26 | Solicitar apoyo a la comunidad cercana | T05 | Modal de Apoyo | Interfaz para emitir solicitudes de ayuda a vecinos. | 3h | Alexander Justo | To Do |
+| US-27 | Solicitar un asistente rápido | T06 | Vista de Asistente Rápido | Maquetación del panel de solicitud de asistencia. | 2h | Alexander Justo | To Do |
+| US-28 | Panel de monitoreo para contactos | T07 | UI Monitoreo Contactos | Diseño de lista y estado activo de contactos asignados. | 3h | Alexander Justo | To Do |
+| US-04 | Envío de alerta de emergencia | T08 | UI Botón de Emergencia | Diseño del botón principal y pantalla de confirmación. | 4h | Sebastian Diaz | To Do |
+| US-05 | Geolocalización automática en alertas | T09 | UI Indicador de Ubicación | Componente visual que muestra las coordenadas capturadas. | 2h | Sebastian Diaz | To Do |
+| US-06 | Recepción de alertas cercanas | T10 | UI Alertas Entrantes | Tarjetas visuales para notificar emergencias en la zona. | 3h | Sebastian Diaz | To Do |
+| US-07 | Cancelación de alerta | T11 | Modal de Cancelación | Interfaz con confirmación de seguridad para anular alerta. | 2h | Sebastian Diaz | To Do |
+| US-08 | Historial de alertas | T12 | UI Lista de Historial | Tabla o timeline con el registro de alertas previas. | 3h | Sebastian Diaz | To Do |
+| US-09 | Creación de reportes de incidentes | T13 | Formulario de Reporte | Maquetación del modal/página para detallar un incidente. | 3h | Breithner Perez | To Do |
+| US-10 | Adjuntar evidencia a reportes | T14 | UI Subida de Archivos | Diseño de zona drag & drop y vista previa de imágenes. | 2h | Breithner Perez | To Do |
+| US-11 | Visualización de reportes en el mapa | T15 | UI Pines en Mapa | Diseño de marcadores visuales para incidentes en el mapa. | 3h | Breithner Perez | To Do |
+| US-12 | Filtro de reportes | T16 | UI Controles de Filtro | Selectores para filtrar incidentes por fecha y categoría. | 2h | Breithner Perez | To Do |
+| US-22 | Reporte de zonas con poca iluminación | T17 | UI Reporte Iluminación | Variante del formulario adaptada a reportes de vía pública. | 2h | Breithner Perez | To Do |
+| US-23 | Recibir alertas de emergencia cercanas | T18 | Popups de Emergencia | Diseño de la notificación emergente tipo banner. | 2h | Breithner Perez | To Do |
+| US-25 | Recibir notificaciones de actividad comunitaria | T19 | Feed de Actividad | Diseño del listado lateral de notificaciones comunitarias. | 3h | Breithner Perez | To Do |
+| US-26 | Enviar alerta a contactos de emergencia | T20 | UI Selector de Contactos | Interfaz para seleccionar a quién notificar en una alerta. | 2h | Breithner Perez | To Do |
+| US-18 | Visualizar mapa de zonas de riesgo | T21 | UI Mapa Base | Contenedor principal para la visualización cartográfica. | 4h | Piero Molina | To Do |
+| US-19 | Filtrar zonas por nivel de riesgo | T22 | UI Capas de Riesgo | Botones/Selectores de niveles (Alto, Medio, Bajo). | 3h | Piero Molina | To Do |
+| US-20 | Consultar detalles de una zona de riesgo | T23 | Tarjeta de Detalles de Zona | Panel lateral flotante con estadísticas de la zona clicada. | 3h | Piero Molina | To Do |
+| US-21 | Búsqueda de direcciones específicas | T24 | UI Barra de Búsqueda | Componente de input con diseño de autocompletado. | 2h | Piero Molina | To Do |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
