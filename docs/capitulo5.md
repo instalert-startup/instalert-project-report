@@ -244,7 +244,15 @@ En este segundo Sprint hemos realizado la implementación de [Descripción breve
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-En este Sprint, los miembros del equipo de desarrollo de software han completado [mencionar qué se completó, ej: el frontend de la aplicación web / la integración de la base de datos]. A continuación, mostramos imágenes que demuestran el funcionamiento de nuestra plataforma.
+Basado en el ejemplo que me proporcionaste y en la información de tu proyecto InstAlert, aquí tienes la redacción adaptada para tu reporte de sprint:
+
+Durante este sprint, se desarrollaron 22 historias de usuario únicas centradas en la implementación de la aplicación web de InstAlert. Este sprint se enfocó en crear funcionalidades clave orientadas a la seguridad ciudadana, tales como el sistema de autenticación y configuración de cuentas, la implementación de un botón de emergencia con geolocalización automática, el módulo de reportes comunitarios y la visualización interactiva de mapas de riesgo. Las historias incluyen tanto el diseño de interfaces de usuario como la implementación de funciones críticas como el envío y recepción de alertas cercanas, la creación de reportes de incidentes con evidencia adjunta, y la capacidad de solicitar apoyo a la comunidad cercana.
+
+El equipo completó con éxito todas las tareas planificadas para los apartados de Login, Configuración, Comunidad, Botón de emergencia, Reportes y Mapa de riesgo. Además, se logró un diseño responsive para todas las secciones clave de la aplicación, garantizando una experiencia de usuario fluida, intuitiva —fundamental para reducir la fricción en situaciones de alto estrés o urgencia— y completamente alineada con los objetivos estratégicos de prevención y reacción rápida de la plataforma.
+
+Evidencia visual:
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
 
 <img src="[Ruta/a/tu/Imagen.png]">
 
