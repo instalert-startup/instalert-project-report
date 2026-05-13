@@ -480,7 +480,7 @@ En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Stormin
 Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuarios y los sistemas externos.
 
 <p align="center">
-<img src="./docs/Imagen/c41.PNG" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/c41.PNG" alt="Tipografía" width="700">
 </p>
 
 ### 4.6.3 Software Architecture Container Diagrams
@@ -488,13 +488,13 @@ Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuar
 Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (aplicaciones y bases de datos).
 
 <p align="center">
-<img src="./docs/Imagen/c42.PNG" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
 </p>
 
 ### 4.6.4 Software Architecture Components Diagrams
 
 <p align="center">
-<img src="./docs/Imagen/c42.PNG" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
 </p>
 
 Hacemos "zoom" a la caja del Monolithic API para ver sus módulos internos, alineados a los Bounded Contexts que definimos anteriormente.
