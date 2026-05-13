@@ -280,9 +280,18 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas e
 
 <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Tipografía" width="700">
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-[Detallar si en este sprint se emplearon servicios de terceros, APIs externas, bases de datos (SQL/NoSQL) o servicios en la nube. Si no se usaron, indicar que no se requirieron servicios adicionales para esta iteración].
+Durante el Sprint 2, el desarrollo del frontend de InstAlert para las funcionalidades de autenticación, alertas de emergencia, reportes de incidentes, visualización del mapa de riesgos, gestión de comunidades y notificaciones se implementó utilizando una API fake. Esta API simulada se localiza en la carpeta `server` y dentro se encuentra el archivo `db.json`, el cual contiene toda la información de los datos utilizados. El uso de esta fake API (JSON Server) nos permitió emular las operaciones de una base de datos real y validar la interfaz gráfica sin depender del backend definitivo.
+
+| Endpoint Simulado (Fake API) | Entidad Principal Gestionada | Operaciones CRUD Soportadas (Simuladas) vía JSON Server | Futuro Alcance con OpenAPI |
+| :--- | :--- | :--- | :--- |
+| `http://localhost:3000/users` | Usuarios (Users) | GET, POST, PUT | Documentación para el registro de usuarios, inicio de sesión, configuración de perfil y gestión de contactos de emergencia. |
+| `http://localhost:3000/alerts` | Alertas (Alerts) | GET, POST, PUT, DELETE | Documentación para gestionar el envío, recepción, historial y cancelación de alertas de emergencia con geolocalización. |
+| `http://localhost:3000/reports` | Reportes (Reports) | GET, POST | Documentación para la creación de reportes de incidentes, adjuntar evidencias y aplicar filtros de búsqueda. |
+| `http://localhost:3000/risk-zones` | Zonas de Riesgo (Risk Zones) | GET | Documentación para consultar las coordenadas, detalles y niveles de riesgo de las zonas mostradas en el mapa interactivo. |
+| `http://localhost:3000/communities` | Comunidades (Communities) | GET, POST | Documentación para obtener información de las comunidades cercanas y gestionar solicitudes de apoyo o asistentes rápidos. |
+| `http://localhost:3000/notifications` | Notificaciones (Notifications) | GET, POST, DELETE | Documentación para gestionar las preferencias del usuario, recibir alertas entrantes y notificaciones de actividad comunitaria. |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
