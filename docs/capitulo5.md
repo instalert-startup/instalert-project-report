@@ -274,11 +274,17 @@ Evidencia visual:
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
 
+incio de sesion
+
 <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Tipografía" width="700">
+
+configuracion de perfil
 
 <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Tipografía" width="700">
 
 <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Tipografía" width="700">
+
+boton de panico
 
 <img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Tipografía" width="700">
 
