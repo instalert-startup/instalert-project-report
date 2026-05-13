@@ -418,61 +418,61 @@ En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Stormin
 **Step 1: Unstructured Exploration**
 
 <p align="center">
-<img src="./docs/imagen/step1.jpg" style="width: 800px; height: 700px">
+ <img src="../assets/images/mockapplicationweb/step1.jpg" alt="Paso 1" width="700">
 </p>
 
 **Step 2: Chronology**
 
 <p align="center">
-<img src="./docs/imagen/step2.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step2.jpg" alt="Paso 2" width="700">
 </p>
 
 **Step 3: Pain Points**
 
 <p align="center">
-<img src="./docs/imagen/step3.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step3.jpg" alt="Paso 3" width="700">
 </p>
 
 **Step 4: Pivotal Points**
 
 <p align="center">
-<img src="./docs/imagen/step4.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step4.jpg" alt="Paso 4" width="700">
 </p>
 
 **Step 5: Commands**
 
 <p align="center">
-<img src="./docs/imagen/step5.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step5.jpg" alt="Paso 5" width="700">
 </p>
 
 **Step 6: Policies**
 
 <p align="center">
-<img src="./docs/imagen/step6.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step6.jpg" alt="Paso 6" width="700">
 </p>
 
 **Step 7: Read Models**
 
 <p align="center">
-<img src="./docs/imagen/step7.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step7.jpg" alt="Paso 7" width="700">
 </p>
 
 **Step 8: External Systems**
 
 <p align="center">
-<img src="./docs/imagen/step8.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step8.jpg" alt="Paso 8" width="700">
 </p>
 
 **Step 9: Aggregates**
 
 <p align="center">
-<img src="./docs/imagen/step9.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step9.jpg" alt="Paso 9" width="700">
 </p>
 
 **Step 10: Bounded Contexts**
 
 <p align="center">
-<img src="./docs/imagen/step10.jpg" style="width: 800px; height: 700px">
+<img src="../assets/images/mockapplicationweb/step10.jpg" alt="Paso 10" width="700">
 </p>
 
 ### 4.6.2 Software Architecture Context Diagram
@@ -497,8 +497,6 @@ Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (ap
 <img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
 </p>
 
-Hacemos "zoom" a la caja del Monolithic API para ver sus módulos internos, alineados a los Bounded Contexts que definimos anteriormente.
-
 <p align="center">
 <img src="assets/images/mockapplicationweb" style="width: 800px; height: 700px">
 </p>
@@ -510,7 +508,7 @@ Hacemos "zoom" a la caja del Monolithic API para ver sus módulos internos, alin
 Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
 <p align="center">
-<img src="./docs/Imagen/classdiagrams.jpg" style="width: 800px; height: 700px">
+  <img src="assets/images/classdiagrams.jpg" style="width: 800px; height: 700px">
 </p>
 
 ## 4.8 Database Design. 
@@ -520,5 +518,5 @@ Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una repr
 Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
 
 <p>
-<img src="./docs/imagen/databasediagram.jpg">
+<img src="assets/images/classdiagrams.jpg" style="width: 800px; height: 700px">
 </p>
