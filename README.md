@@ -195,7 +195,7 @@ Repositorio donde está el project report: https://github.com/instalert-startup/
 
 "Para la elaboración de la documentación técnica, se utilizó Google Docs como plataforma de trabajo colaborativo, migrando posteriormente el contenido al archivo README del repositorio principal en GitHub. En esta entrega, el README ha sido actualizado para incluir los avances del Sprint 2 y los artefactos del proceso Lean UX, tales como las declaraciones de problemas, suposiciones e hipótesis, los cuales fueron fundamentales para definir las funcionalidades críticas de seguridad y respuesta ante emergencias de InstAlert."
 
-
+<img src="../assets/images/mockapplicationweb/git report.jpg" alt="Tipografía" width="700">
 
 
 # <a name="_heading=h.wkpb2ihpzcry"></a>**Contenido**
