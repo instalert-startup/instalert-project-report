@@ -278,21 +278,25 @@ incio de sesion
 
 <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Tipografía" width="700">
 
-configuracion de perfil
+Configuracion de perfil
 
 <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Tipografía" width="700">
 
 <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Tipografía" width="700">
 
-boton de panico
+Boton de panico
 
 <img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Tipografía" width="700">
 
 <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Tipografía" width="700">
 
+Reportes
+
 <img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Tipografía" width="700">
 
 <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Tipografía" width="700">
+
+Mapa de Riesgo
 
 <img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Tipografía" width="700">
 
