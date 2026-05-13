@@ -505,7 +505,7 @@ Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (ap
 Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
 <p align="center">
-  <img src="assets/images/classdiagrams.jpg" style="width: 800px; height: 700px">
+  <img src="../assets/images/mockapplicationweb/classdiagrams.jpg" alt="ClassDiagram" width="700">
 </p>
 
 ## 4.8 Database Design. 
@@ -515,5 +515,5 @@ Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una repr
 Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
 
 <p>
-<img src="assets/images/classdiagrams.jpg" style="width: 800px; height: 700px">
+    <img src="../assets/images/mockapplicationweb/databasediagram.jpg" alt="DBDiagram" width="700">
 </p>
