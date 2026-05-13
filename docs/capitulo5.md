@@ -307,6 +307,9 @@ Mapa de Riesgo
 
 <img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Tipografía" width="700">
 
+**Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 2, el desarrollo del frontend de InstAlert para las funcionalidades de autenticación, alertas de emergencia, reportes de incidentes, visualización del mapa de riesgos, gestión de comunidades y notificaciones se implementó utilizando una API fake. Esta API simulada se localiza en la carpeta `server` y dentro se encuentra el archivo `db.json`, el cual contiene toda la información de los datos utilizados. El uso de esta fake API (JSON Server) nos permitió emular las operaciones de una base de datos real y validar la interfaz gráfica sin depender del backend definitivo.
@@ -323,16 +326,11 @@ Durante el Sprint 2, el desarrollo del frontend de InstAlert para las funcionali
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 **Resumen**
-Durante este Sprint, nos hemos enfocado en el despliegue de [Nombre de la aplicación o módulo]. Las actividades realizadas incluyen la configuración del entorno y el despliegue. A continuación, se detalla el proceso seguido.
+Durante este Sprint, el equipo se centró exclusivamente en el despliegue de la interfaz de usuario de nuestra aplicación web InstAlert. Para el alojamiento y la distribución del frontend en un entorno de producción accesible públicamente, utilizamos **Firebase Hosting**. 
 
-**Actividades Realizadas**
+Es importante destacar que, en cuanto a los servicios de backend, la arquitectura del proyecto contempla el uso de una API para gestionar y guardar la información registrada por los usuarios, así como el manejo de alertas y reportes. Sin embargo, en esta iteración, dicha lógica de integración y persistencia de datos aún no ha sido implementada, ya que el objetivo principal del sprint fue consolidar y validar la maquetación visual (UI) de las vistas.
 
-- [Actividad 1, Ej: Configuración de Base de Datos]: [Descripción de la actividad].
-- [Actividad 2, Ej: Configuración de Proyectos para Integración]: [Descripción de la actividad].
-- [Actividad 3, Ej: Despliegue de la Web App]: [Descripción de la actividad].
-
-**Enlace al Repositorio:** [URL del repositorio]  
-**Enlace de Despliegue:** [URL del proyecto desplegado, si aplica]  
+**Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
