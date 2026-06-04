@@ -5,56 +5,101 @@
 ### 1.1.1 Descripción de la Startup
 
 La startup InstAlert nace como una propuesta tecnológica enfocada en mejorar la seguridad en entornos urbanos con altos niveles de riesgo. Su objetivo principal es brindar a los ciudadanos una herramienta digital que les permita anticiparse a situaciones peligrosas y actuar de manera rápida y eficiente.
+
 La solución consiste en una aplicación web que integra diversas funcionalidades orientadas a la seguridad, tales como un sistema de alertas de emergencia, reportes generados por la comunidad, visualización de zonas de riesgo mediante mapas interactivos y canales de comunicación entre usuarios.
 El valor diferencial de la propuesta radica en centralizar, dentro de una sola plataforma, tanto mecanismos de prevención como de reacción. Esto permite que el usuario no solo esté informado sobre su entorno, sino que también pueda responder de forma inmediata ante situaciones de riesgo, incluso en contextos de alta presión.
 Asimismo, la aplicación busca fomentar la colaboración entre ciudadanos y entidades locales, promoviendo una red de apoyo que contribuya a mejorar la seguridad colectiva.
 
-### 1.1.2 Perfiles de integrantes del equipo
+### 1.1.2  Perfiles de integrantes del equipo
 
-El equipo está conformado por estudiantes de Ingeniería de Software con habilidades complementarias en desarrollo, diseño y gestión de proyectos, lo que permite abordar de manera integral la creación de la solución tecnológica propuesta.
+<table border="1" cellspacing="0" cellpadding="2">
+<thead>
+<tr>
 
-Integrante 1:
-Nombre: Piero Leonardo Molina Falcón
+<th>
+Foto
+</th>
+<th>
+Apellido y nombre
+</th>
+<th>
+Carrera
+</th>
+<th>
+Acerca de
+</th>
 
-<img src="../assets/images/team/piero.png" alt="Piero Molina" width="250">
+</tr>
+</thead>
 
-Código de estudiante: U201610857
-Carrera: Ingeniería de software 
-Descripción: Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos.
-Aporte al equipo: He participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, he contribuido en la organización del equipo, asegurando el avance del proyecto de manera coordinada.
+<tbody>
 
-Integrante 2:
-Nombre: Sebastian Victor Andre Diaz Mendoza
+<tr>
+<th>
+<img src="../assets/images/team/piero.png" alt="Foto">
+</th>
+<th>
+Molina Falcón, Piero Leonardo
+</th>
+<th>
+Ingeniería de Software
+</th>
+<th>
+Código: U201610857. Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos. Aporte al equipo: He participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, he contribuido en la organización del equipo, asegurando el avance del proyecto de manera coordinada.
+</th>
+</tr>
 
-<img src="../assets/images/team/Sebastian.jpg" alt="Sebastian Diaz" width="250">
+<tr>
+<th>
+<img src="../assets/images/team/Sebastian.jpg" alt="Foto">
+</th>
+<th>
+Diaz Mendoza, Sebastian Victor Andre
+</th>
+<th>
+Ingeniería de Software
+</th>
+<th>
+Código: u202415638. Soy Sebastian Diaz, actualmente estudio la carrera de ingenieria de software y para el presente proyecto me he enfocado en diseño de experiencia de usuario (UX/UI), además soy responsable de la interacción y usabilidad. Cuento con dominio en estructura de datos, algoritmos y base de datos. Con una capacidad de razonamiento lógico y ordenado, con conocimiento en paradigmas como la programación orientada a objetos y técnicas de aplicación en la complejidad algorítmica. Aporte al equipo: Aporte en la presentación de idea y fundamento del proyecto además de desarrollo en los capítulo II y IV. Con alta proactividad en el desarrollo del proyecto.
+</th>
+</tr>
 
-Código de estudiante: u202415638
-Carrera: Ingeniería de software 
-Descripción: Soy Sebastian Diaz, actualmente estudio la carrera de ingenieria de software y para el presente proyecto me he enfocado en diseño de experiencia de usuario (UX/UI), además soy responsable de la interacción y usabilidad. Cuento con dominio en estructura de datos, algoritmos y base de datos. Con una capacidad de razonamiento lógico y ordenado, con conocimiento en paradigmas como la programación orientada a objetos y técnicas de aplicación en la complejidad algorítmica.
-Aporte al equipo: Aporte en la presentación de idea y fundamento del proyecto además de desarrollo en los capítulo II y IV. Con alta proactividad en el desarrollo del proyecto
+<tr>
+<th>
+<img src="../assets/images/team/Alexander .png" alt="Foto">
+</th>
+<th>
+Justo Yauricasa, Alexander Paolo
+</th>
+<th>
+Ingeniería de Software
+</th>
+<th>
+Código: u20191c054. Soy Alexander Justo, estudiante de Ingeniería de Software. En este proyecto me he enfocado en parte de los HUs y Product Backlog. Poseo conocimientos en estructuras de datos, algoritmos y bases de datos, además de una sólida capacidad de razonamiento lógico y organizado. Asimismo, manejo paradigmas como la programación orientada a objetos y aplico técnicas relacionadas con la complejidad algorítmica. Aporte al equipo: He participado en la definición del proyecto, en la redacción del Capítulo III, parte del los HUs y Product Backlog. Además, ha aportado en la organización del equipo y en la asignación de tareas.
+</th>
+</tr>
 
-Integrante 3:
-Nombre: Alexander Paolo Justo Yauricasa
+<tr>
+<th>
+<img src="../assets/images/team/Breithner .png" alt="Foto">
+</th>
+<th>
+Perez Encarnación, Breithner Rodolfo
+</th>
+<th>
+Ingeniería de Software
+</th>
+<th>
+Código: u202418577. Soy Breithner Rodolfo Perez Encarnación, estudiante de Ingeniería de Software de 4to ciclo. En mis proyectos me he enfoncadao en los diseños del Web Applications Wireframes. Poseo conocimientos sólidos en bases de datos (SQL y MongoDB), estructuración de diagramas UML y documentación con Swagger, además de una fuerte orientación hacia el diseño de soluciones estructuradas. Asimismo, aplico buenas prácticas de desarrollo. Aporte al equipo: He participado en el capitulo II en la parte de Empathy Maping, User Journey Mapping y en el Capitulo IV en la parte de anding Page Wireframe. y Web Applications Wireframes.
+</th>
+</tr>
 
-<img src="../assets/images/team/Alexander .png" alt="Alexander Justo" width="250">
-
-Código de estudiante: u20191c054
-Carrera: Ingeniería de software 
-Descripción: Soy Alexander Justo, estudiante de Ingeniería de Software. En este proyecto me he enfocado en parte de los HUs y Product Backlog. Poseo conocimientos en estructuras de datos, algoritmos y bases de datos, además de una sólida capacidad de razonamiento lógico y organizado. Asimismo, manejo paradigmas como la programación orientada a objetos y aplico técnicas relacionadas con la complejidad algorítmica.
-Aporte al equipo: He participado en la definición del proyecto, en la redacción del Capítulo III, parte del los HUs y Product Backlog. Además, ha aportado en la organización del equipo y en la asignación de tareas.
-
-Integrante 4:
-Nombre: Breithner Rodolfo Perez Encarnación 
-
-<img src="../assets/images/team/Breithner .png" alt="Breithner Perez" width="250">
-
-Código de estudiante: u202418577
-Carrera: Ingeniería de software
-Descripción:Soy Breithner Rodolfo Perez Encarnación, estudiante de Ingeniería de Software de 4to ciclo. En mis proyectos me he enfoncadao en los diseños del Web Applications Wireframes. Poseo conocimientos sólidos en bases de datos (SQL y MongoDB), estructuración de diagramas UML y documentación con Swagger, además de una fuerte orientación hacia el diseño de soluciones estructuradas. Asimismo, aplico buenas prácticas de desarrollo.
-Aporte al equipo: He participado en el capitulo II en la parte de Empathy Maping, User Journey Mapping y en el Capitulo IV en la parte de anding Page Wireframe. y Web Applications Wireframes.
+</tbody>
+</table>
 
 
 ## 1.2 Solution Profile
+
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -69,28 +114,28 @@ Las principales causas del problema incluyen:
 Falta de acceso a información en tiempo real sobre incidentes cercanos
 Escasa comunicación entre vecinos y comerciantes
 Limitada presencia o respuesta de las autoridades
-Ausencia de herramientas tecnológicas integradas
+Ausencia de herramientas tecnológicas integradas.
 
 
      Who (¿A quién afecta?)
 Residentes en zonas con alta percepción de inseguridad
-Comerciantes expuestos a robos o vandalismo
+Comerciantes expuestos a robos o vandalismo.
 
      Where (¿Dónde ocurre?)
 Zonas urbanas de riesgo medio-alto
 Calles con poca iluminación
-Áreas con baja presencia policial
+Áreas con baja presencia policial.
 
      When (¿Cuándo ocurre?)
 Horarios nocturnos
 Momentos de baja afluencia
-Situaciones sin vigilancia
+Situaciones sin vigilancia.
 
      How (¿Cómo ocurre?)
 Los delitos se producen aprovechando:
 Falta de información preventiva
 Desorganización comunitaria
-Ausencia de alertas inmediatas
+Ausencia de alertas inmediatas.
 
     How much (¿Cuánto impacto tiene?)
 La magnitud de la inseguridad ciudadana en el Perú se refleja en el incremento sostenido de delitos contra el patrimonio, como robos y hurtos.
@@ -99,6 +144,7 @@ Según el Sistema Nacional de Seguridad Ciudadana (SINASEC), las denuncias pasar
 Además, más del 80 % de la población urbana percibe un incremento en la inseguridad, lo que evidencia un impacto no solo económico, sino también psicológico y social.
 
 Conclusión del análisis 5W2H: 
+
 Del análisis realizado, se concluye que la inseguridad ciudadana en zonas urbanas de riesgo medio-alto no solo responde a la alta incidencia de delitos, sino también a la falta de acceso a información en tiempo real, la limitada comunicación entre los ciudadanos y la ausencia de herramientas tecnológicas que integren mecanismos de prevención y respuesta.
 Esta situación incrementa la vulnerabilidad de los usuarios, quienes se ven obligados a modificar su comportamiento cotidiano para evitar riesgos. En este contexto, se identifica la oportunidad de desarrollar una solución tecnológica que permita mejorar la capacidad de reacción, fomentar la colaboración comunitaria y proporcionar información oportuna para la toma de decisiones en situaciones de peligro.
 
@@ -132,13 +178,13 @@ El dominio del problema corresponde a la seguridad ciudadana en entornos urbanos
 Customer Segments (Segmentos de clientes)
 Ciudadanos que transitan frecuentemente por zonas de riesgo
 Comerciantes con negocios en áreas vulnerables
-Personas que buscan herramientas para mejorar su seguridad personal
+Personas que buscan herramientas para mejorar su seguridad personal.
 
 Pain Points (Puntos de dolor)
 Falta de información en tiempo real sobre incidentes cercanos
 Imposibilidad de reaccionar rápidamente ante situaciones de peligro
 Ausencia de comunicación efectiva entre vecinos
-Sensación constante de inseguridad
+Sensación constante de inseguridad.
 
 Gap (Brecha identificada)
 Actualmente, no existe una herramienta digital integrada que permita a los usuarios prevenir, reportar y reaccionar ante situaciones de inseguridad en tiempo real, combinando información, comunicación y acción inmediata en una sola plataforma.
@@ -150,7 +196,7 @@ Initial Segment (Segmento inicial)
 El enfoque inicial estará dirigido a ciudadanos y comerciantes de zonas urbanas de riesgo medio-alto, especialmente aquellos que dependen de su movilidad diaria y requieren mayor seguridad en sus desplazamientos.
 
 Problem Statement (Pregunta de diseño)
-¿Cómo podríamos brindar a vecinos y comerciantes de zonas de riesgo medio-alto una forma rápida, accesible y efectiva de prevenir, reportar y reaccionar ante situaciones de inseguridad?
+¿Cómo podríamos brindar a vecinos y comerciantes de zonas de riesgo medio-alto una forma rápida, accesible y efectiva de prevenir, reportar y reaccionar ante situaciones de inseguridad?.
 
 
 #### 1.2.2.2 Lean UX Assumptions
@@ -162,20 +208,24 @@ Los usuarios desean sentirse más seguros durante sus desplazamientos diarios.
 Los usuarios valoran herramientas simples, rápidas e intuitivas, especialmente en situaciones de estrés.
 Los usuarios utilizan frecuentemente dispositivos móviles para acceder a información en tiempo real.
 Los usuarios están dispuestos a colaborar con su comunidad reportando incidentes.
+
 2. Suposiciones sobre el problema
 La falta de información en tiempo real incrementa la vulnerabilidad de los ciudadanos.
 La ausencia de comunicación efectiva entre vecinos limita la prevención de delitos.
 Los usuarios no cuentan con herramientas tecnológicas integradas para reaccionar ante emergencias.
 Las soluciones actuales son fragmentadas y poco eficientes.
+
 3. Suposiciones sobre la solución
 Una aplicación web centralizada mejorará la capacidad de respuesta ante situaciones de riesgo.
 La incorporación de un botón de pánico permitirá una reacción inmediata.
 Un sistema de reportes colaborativos mejorará la información disponible sobre incidentes.
 La visualización de zonas de riesgo ayudará a los usuarios a tomar mejores decisiones.
+
 4. Suposiciones sobre el valor del producto
 Los usuarios percibirán valor en una plataforma que mejore su seguridad personal.
 La rapidez y facilidad de uso serán factores clave para la adopción.
 La colaboración comunitaria será un elemento diferenciador frente a otras soluciones.
+
 5. Suposiciones sobre el negocio
 Existe una creciente demanda de soluciones tecnológicas enfocadas en seguridad ciudadana.
 El producto puede escalar a diferentes ciudades con problemáticas similares.
@@ -199,7 +249,7 @@ Lograremos:
  Una reacción inmediata ante situaciones de peligro y una mayor probabilidad de recibir ayuda oportuna
 Sabremos que hemos tenido éxito cuando veamos:
 Que el botón se active en menos de 3 segundos
-Que el usuario complete la acción en 1 intento
+Que el usuario complete la acción en 1 intento.
 
 Hipótesis 2: Mapa de calor
 Creemos que:
@@ -210,7 +260,7 @@ Lograremos:
  Que los usuarios tomen decisiones más seguras al movilizarse
 Sabremos que hemos tenido éxito cuando veamos:
 Que al menos el 60% de los usuarios consulte el mapa antes de desplazarse
-Que el 50% de los usuarios modifique su ruta tras visualizar zonas de riesgo
+Que el 50% de los usuarios modifique su ruta tras visualizar zonas de riesgo.
 
 Hipótesis 3: Reportes comunitarios
 Creemos que:
@@ -221,7 +271,7 @@ Lograremos:
  Incrementar la colaboración entre usuarios y mejorar la información disponible
 Sabremos que hemos tenido éxito cuando veamos:
 Que se generen al menos 50 reportes semanales en zonas piloto
-Que el 40% de los reportes sean validados por otros usuarios
+Que el 40% de los reportes sean validados por otros usuarios.
 
 Hipótesis 4: Notificaciones en tiempo real
 Creemos que:
@@ -232,7 +282,7 @@ Lograremos:
  Una reacción preventiva ante posibles amenazas
 Sabremos que hemos tenido éxito cuando veamos:
 Que al menos el 65% de los usuarios interactúe con las alertas
-Que el 70% de los usuarios visualice la alerta en menos de 5 segundos
+Que el 70% de los usuarios visualice la alerta en menos de 5 segundos.
 
 Hipótesis 5: Interfaz intuitiva
 Creemos que:
@@ -242,12 +292,16 @@ Para:
 Lograremos:
  Reducir la fricción en el uso de la aplicación en momentos críticos
 Sabremos que hemos tenido éxito cuando veamos:
-Que el 80% de los usuarios complete acciones clave en menos de 10 segundos
+Que el 80% de los usuarios complete acciones clave en menos de 10 segundos.
 
 
 #### 1.2.2.4 Lean UX Canvas
 
 El Lean UX Canvas presentado a continuación sintetiza los principales elementos del modelo de negocio y la propuesta de valor de la solución InstAlert. En este se integran el problema identificado, los segmentos de usuarios, los puntos de dolor, las soluciones propuestas, las hipótesis, las suposiciones y los resultados esperados, permitiendo visualizar de manera estructurada la relación entre las necesidades del usuario y las funcionalidades del producto. Este canvas sirve como base para la validación continua del proyecto mediante la experimentación y el enfoque iterativo propio de Lean UX.
+
+**Figura 1:**
+
+*Lean ux canvas*
 
 <p align="center">
   <img src="../assets/images/UX Canva/leanuxcanva.png" alt="UX Canvas" width="700">
@@ -263,59 +317,62 @@ El Lean UX Canvas presentado a continuación sintetiza los principales elementos
 Los segmentos presentados en esta sección se derivan del análisis realizado en el Lean UX Process, donde se identificaron los principales grupos de usuarios afectados por la problemática. A continuación, se detallan sus características demográficas, geográficas y comportamentales, así como información estadística relevante que sustenta la necesidad de la solución propuesta.
 
 
-Segmento 1: Residentes en zonas de riesgo medio-alto
-Descripción:
+- Segmento 1: Residentes en zonas de riesgo medio-alto
+
+  - Descripción:
  Personas que viven en zonas urbanas con niveles de inseguridad medio-alto y que buscan herramientas que les permitan sentirse más seguros en su entorno cotidiano.
-Características demográficas:
-Edad: 18 – 50 años
-Sexo: Masculino y femenino
-Nivel socioeconómico: B y C
+  - Características demográficas:
+  - Edad: 18 – 50 años
+  - Sexo: Masculino y femenino
+  - Nivel socioeconómico: B y C
 Ocupación: Estudiantes, trabajadores dependientes e independientes
-Características geográficas:
-Ubicación: Zonas urbanas
-Regiones: Lima Metropolitana y principales ciudades del Perú
-Características psicográficas:
-Uso constante de dispositivos móviles
-Preocupación por la seguridad personal
-Interés en prevenir riesgos
-Valoración de la tecnología como herramienta de apoyo
-Sustento estadístico:
+  - Características geográficas:
+  - Ubicación: Zonas urbanas
+  - Regiones: Lima Metropolitana y principales ciudades del Perú
+  - Características psicográficas:
+    - Uso constante de dispositivos móviles
+    - Preocupación por la seguridad personal
+    - Interés en prevenir riesgos
+    - Valoración de la tecnología como herramienta de apoyo
+  - Sustento estadístico:
  Según el INEI, más del 80% de la población urbana percibe un incremento en la inseguridad ciudadana, lo que evidencia una alta demanda de soluciones orientadas a mejorar la seguridad personal.
  
-Segmento 2: Comerciantes en zonas de riesgo medio-alto
-Descripción:
+- Segmento 2: Comerciantes en zonas de riesgo medio-alto
+  - Descripción:
  Personas que trabajan o poseen negocios en zonas con alta incidencia delictiva y requieren herramientas que les permitan proteger sus bienes y reaccionar ante situaciones de riesgo.
-Características demográficas:
-Edad: 20 – 55 años
-Sexo: Masculino y femenino
-Nivel socioeconómico: C y D
-Ocupación: Dueños de negocios, emprendedores
-Características geográficas:
-Ubicación: Zonas urbanas y periféricas
-Regiones: Lima, Arequipa, Trujillo, entre otras
-Características psicográficas:
-Exposición constante a posibles robos
-Necesidad de respuesta inmediata
-Interés en proteger su inversión
-Valoración de herramientas colaborativas
-Sustento estadístico:
+  - Características demográficas:
+  - Edad: 20 – 55 años
+  - Sexo: Masculino y femenino
+  - Nivel socioeconómico: C y D
+  - Ocupación: Dueños de negocios, emprendedores
+  - Características geográficas:
+  - Ubicación: Zonas urbanas y periféricas
+  - Regiones: Lima, Arequipa, Trujillo, entre otras
+  - Características psicográficas:
+    - Exposición constante a posibles robos
+    - Necesidad de respuesta inmediata
+    - Interés en proteger su inversión
+    - Valoración de herramientas colaborativas
+  - Sustento estadístico:
  De acuerdo con el Ministerio Público y el INEI, los delitos contra el patrimonio, como robos, hurtos y extorsión, han mostrado un incremento sostenido en los últimos años, afectando principalmente a pequeños negocios en zonas urbanas.
 
 A continuación, se presentan datos estadísticos que evidencian la magnitud de la problemática de inseguridad ciudadana en el Perú, la cual impacta directamente en los segmentos identificados.
 
+
 <p align="center">
-  <img src="../assets/images/stadistics/figura1.png" alt="Figura 1" width="700">
+  <img src="../assets/images/stadistics/figura1.png" alt="Figura 1" width="450">
 </p>
 
-Figura 1. Evolución de denuncias por robo y hurto en el Perú (2015–2024).
+**Figura 2:** Evolución de denuncias por robo y hurto en el Perú (2015–2024).
 Fuente: Elaboración propia a partir de datos del Instituto Nacional de Estadística e Informática (INEI, 2024)
 Como se observa en el gráfico, las denuncias por delitos contra el patrimonio han mostrado un incremento sostenido en los últimos años, lo que evidencia la creciente problemática de inseguridad en el país. Esta tendencia justifica la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de riesgo.
 
+
 <p align="center">
-  <img src="../assets/images/stadistics/figura2.png" alt="Figura 2" width="700">
+  <img src="../assets/images/stadistics/figura2.png" alt="Figura 2" width="450">
 </p>
 
-Figura 2. Denuncias por el delito de extorsión en el Perú (2021–2025).
+**Figura 3:** Denuncias por el delito de extorsión en el Perú (2021–2025).
 Fuente: Ministerio Público – Oficina de Racionalización y Estadística; Instituto Nacional de Estadística e Informática (INEI, 2025).
 Como se observa en el gráfico, las denuncias por el delito de extorsión en el Perú han mostrado una tendencia creciente en los últimos años. Este incremento evidencia la persistencia y evolución de la criminalidad en el país, afectando tanto a ciudadanos como a comerciantes. Esta situación refuerza la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de inseguridad.
 
