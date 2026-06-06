@@ -125,12 +125,10 @@ Además, el diseño considera principios de diseño responsive, asegurando que l
 Para nuestra aplicación se opta por una organización visual jerárquica con elementos secuenciales. Esto permite que el usuario identifique fácilmente los puntos clave, organizando el contenido en categorías como “Alertas”, “Reportes” o “Comunidad”, y en subcategorías dentro de cada una. Así, la información se presenta de forma clara y sin sobrecargar. <br>
 Además, en ciertas secciones se incorporan flujos secuenciales que guían al usuario paso a paso para completar tareas o llegar a páginas específicas. Esta estructura facilita aplicar principios de arquitectura de información como claridad, accesibilidad, navegación enfocada y facilidad de uso. Finalmente, gracias a la investigación previa, se asegura que el contenido de cada categoría sea relevante y útil para el usuario.<br>
 
-<img src="Imagen/OrganizationSystems1"> <br>
 <img src="../assets/images/style-guidelines/OrganizationSystems1.png" alt="Iconografía" width="700">
 Nota: Diagrama de organización de información de las aplicaciones <br>
 
 <img src="../assets/images/style-guidelines/OrganizationSystems2.png" alt="Iconografía" width="700">
-<img src="Imagen/OrganizationSystems2"> <br>
 Nota: Diagrama de organización de información del landing page <br>
 
 link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQUZ5Ykx2d3FOaVRIUmpvaXc4Tk5lTWw1R2xEK0ZaMjZEWXlueDBvQUJ1ODFYNWYrS2kwYWdJYUJkQUJ5cEdTSzROakxtRzVMTGhFdUlXODZ5LzBvV2hXVjk3MUZLOTFGTHpyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=9527554603  
@@ -211,11 +209,11 @@ El diseño del wireframe para la landing page de InstAlert se fundamenta en crit
 
 Presenta el logo de la aplicación y un menú interactivo con las opciones de Inicio, Quiénes somos, Funcionalidades, Comunidad y Contacto, además del botón principal de descarga. Este elemento está fijado en la pantalla para permitir que el usuario se desplace fácilmente sin perder las opciones de navegación.
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-1.jpg"  width="700">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-2.jpg"  width="700">
 </p>
 
@@ -223,22 +221,22 @@ Presenta el logo de la aplicación y un menú interactivo con las opciones de In
 
 Se trata del primer elemento que visualiza el usuario, enfocado en comunicar rápidamente el valor de la plataforma. Integra el título principal (“Botón de pánico, mapas de calor y notificaciones/comunidad en una sola app”) y se acompaña de un componente gráfico (placeholder) diseñado para ilustrar la herramienta.
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-3.jpg"  width="700">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-4.jpg"  width="700">
 </p>
 
 
 La plataforma destaca funcionalidades esenciales, como la emisión de reportes y la conexión directa con autoridades, diseñadas para brindar soporte efectivo y real durante emergencias. Asimismo, incluye una sección de contacto donde los usuarios pueden ingresar su información o dirigirse a las redes sociales oficiales para estar al tanto de las novedades. Para concluir, se presenta un cuadro comparativo detallando tres modelos de suscripción (gratuito, personal y familiar), lo que orienta al usuario a seleccionar el plan más conveniente para sus necesidades.
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-5.jpg"  width="700">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-6.jpg"  width="700">
 </p>
 
