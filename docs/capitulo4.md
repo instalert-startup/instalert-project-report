@@ -126,8 +126,10 @@ Para nuestra aplicación se opta por una organización visual jerárquica con el
 Además, en ciertas secciones se incorporan flujos secuenciales que guían al usuario paso a paso para completar tareas o llegar a páginas específicas. Esta estructura facilita aplicar principios de arquitectura de información como claridad, accesibilidad, navegación enfocada y facilidad de uso. Finalmente, gracias a la investigación previa, se asegura que el contenido de cada categoría sea relevante y útil para el usuario.<br>
 
 <img src="Imagen/OrganizationSystems1"> <br>
+<img src="../assets/images/style-guidelines/OrganizationSystems1.png" alt="Iconografía" width="700">
 Nota: Diagrama de organización de información de las aplicaciones <br>
 
+<img src="../assets/images/style-guidelines/OrganizationSystems2.png" alt="Iconografía" width="700">
 <img src="Imagen/OrganizationSystems2"> <br>
 Nota: Diagrama de organización de información del landing page <br>
 
@@ -137,9 +139,10 @@ link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQU
 Para este trabajo se optó por una taxonomía jerárquica que estructura la app y el sitio web mediante nodos principales y ramificaciones lógicas, agrupando los elementos según su similitud (por ejemplo, secciones informativas como “Visión” y “Misión”, y funciones interactivas como “Mapa” y “Reportes”). Este enfoque mejora la navegación intuitiva y disminuye la confusión del usuario, en línea con los principios de arquitectura de la información que priorizan la claridad y la escalabilidad del contenido.
 Esta decisión responde a la necesidad de gestionar el contenido como “objetos” dinámicos con atributos y ciclos de vida, lo que permite ofrecer alternativas relevantes para distintos tipos de usuarios, desde quienes solo buscan información hasta aquellos que interactúan activamente reportando incidentes.<br>
 
-<img src="Imagen/LabelingSystems1"> <br>
+<img src="../assets/images/style-guidelines/LabelingSystems1.png" alt="Iconografía" width="700">
 Nota. Labeling de las aplicaciones. <br>
-<img src="Imagen/LabelingSystems2"> <br>
+
+<img src="../assets/images/style-guidelines/LabelingSystems2.png" alt="Iconografía" width="700">
 Nota. Labeling del landing page.<br>
 
 ### 4.2.3. SEO Tags and Meta Tags
