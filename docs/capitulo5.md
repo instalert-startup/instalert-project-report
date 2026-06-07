@@ -19,7 +19,6 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - Frontend: Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
 
 - Configuración del Entorno de Desarrollo ItelliJ IDEA
-
     - Editor de Código: IntelliJ IDEA.
     - Propósito: Desarrollo de software y edición de código.
     - Ruta de descarga: https://www.jetbrains.com/idea/download/
@@ -41,7 +40,9 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 **Software Development HTML:**
 
 - Descripción: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
-- Enlace: https://www.w3schools.com/html/default.asp CSS:
+- Enlace: https://www.w3schools.com/html/default.asp 
+
+**CSS:**
 
 Con KSI, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
@@ -72,16 +73,17 @@ En el Source Code Style Guide, presentaremos las convenciones, estilos, diseños
 
 - Nombres Descriptivos: Utiliza nombres de clases e IDs que sean descriptivos y significativos, facilitando la comprensión del propósito de cada elemento. Por ejemplo, en lugar de box, usa project-card.
 - Indentación: Indenta correctamente el código HTML para mejorar la legibilidad y mantener una estructura clara.
-- Etiquetas Semánticas: Emplea etiquetas semánticas apropiadas, como <header>, <nav>, <main>, y <footer>, para mejorar la accesibilidad y el SEO del sitio.
+- Etiquetas Semánticas: Emplea etiquetas semánticas apropiadas, como `<header>`, `<nav>`, `<main>`, y `<footer>`, para mejorar la accesibilidad y el SEO del sitio.
 - Comentarios: Usa comentarios para explicar secciones complejas o partes importantes del código HTML, facilitando la comprensión para otros desarrolladores.
 
 **CSS**
 
 - Nombres Descriptivos: Utiliza nombres de clases y selectores que sean descriptivos y coherentes para facilitar la identificación y el mantenimiento de los estilos. Por ejemplo, usa btn-submit en lugar de btn.
-- Agrupación y Comentarios: Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros, como /_ Estilos de botones _/. Esto organiza el código y facilita su navegación.
+- Agrupación y Comentarios: Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros, como `/* Estilos de botones */`. Esto organiza el código y facilita su navegación.
 - Preferencia por Clases: Prefiere el uso de clases en lugar de IDs para estilos reutilizables y más flexibles.
 - Compatibilidad y Prefijos: Utiliza prefijos de vendedor y asegúrate de que el código sea compatible con diferentes navegadores cuando sea necesario.
 - Medidas Relativas: Usa medidas relativas como em, rem, y % en lugar de medidas absolutas para mejorar la flexibilidad y la accesibilidad del diseño.
+
 ### 5.1.4. Software Deployment Configuration.
 
 En los siguientes pasos se explicará cómo llevar a cabo la implementación de nuestro sitio web utilizando GitHub Pages
@@ -96,7 +98,7 @@ Dentro del menú de ajustes, elegimos la opción "Pages".
 
 En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
 
-### 5.2. Landing Page, Services & Applications Implementation
+## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
@@ -150,14 +152,17 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En este Sprint, los miembros del equipo de desarrollo de software de KSI han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
-<img src="Imagen/landingPage-InstAlert.png">
+<p align="center">
+  <img src="Imagen/landingPage-InstAlert.png" alt="Landing Page InstAlert">
+</p>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Resumen Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
+**Resumen**
+Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
 
 **Actividades Realizadas**
 
@@ -171,6 +176,7 @@ Repositorio de Código: Configuración del repositorio en GitHub para la integra
 Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting. Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 Enlace al Repositorio: https://github.com/instalert-startup/landing-page 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
 
@@ -178,10 +184,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Documentación y Despliegue: Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 URL LANDING PAGE DESPLEGADA: https://instalert-startup.github.io/landing-page/
 
-
 ### 5.2.2. Sprint 2
-
-#### 5.2.2.1. Sprint Planning 2
 
 #### 5.2.2.1. Sprint Planning 2
 
@@ -275,40 +278,61 @@ Evidencia visual:
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
 
-incio de sesion
+Inicio de sesión
 
-<img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Inicio de sesión" width="700">
+</p>
 
-Configuracion de perfil
+Configuración de perfil
 
-<img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Configuración de perfil 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Configuración de perfil 2" width="700">
+</p>
 
-Boton de panico
+Botón de pánico
 
-<img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Botón de pánico 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Botón de pánico 2" width="700">
+</p>
 
 Reportes
 
-<img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Reportes 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Reportes 2" width="700">
+</p>
 
 Mapa de Riesgo
 
-<img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Mapa de Riesgo 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Mapa de Riesgo 2" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia11.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia11.jpeg" alt="Mapa de Riesgo 3" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Mapa de Riesgo 4" width="700">
+</p>
 
 **Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
-
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -340,5 +364,3 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - **Documentación y Despliegue:** [Resumen de cómo se manejó la redacción del informe y las configuraciones de hosting/servidores].
 
 *[Opcional: Puedes incluir aquí imágenes de los analíticos de GitHub o herramientas de Jira/Trello si tu equipo las utiliza]*
-
-
