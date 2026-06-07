@@ -1,5 +1,5 @@
 # InstAlert
-<p align="center"> <img src="./assets/images/Banner-UPC.png" alt="Banner UPC" width="100"></p>
+<p align="center">  <img src="https://imgur.com/IFP8FSt.png" alt="logoupc" width="100"></p>
 
 <p align="center">Universidad: Universidad Peruana de Ciencias Aplicadas (UPC)</p>
 <p align="center">Facultad: Facultad de Ingeniería</p>
