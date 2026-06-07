@@ -10,10 +10,11 @@ Asimismo, esta guía funciona como un repositorio centralizado de recursos de di
 El branding de InstAlert está diseñado para transmitir urgencia, seguridad y confiabilidad, elementos fundamentales en una plataforma orientada a la prevención de riesgos. A través de una estética moderna, clara y funcional, se busca facilitar la comprensión rápida de la información y permitir al usuario actuar de forma inmediata.
 La identidad visual combina colores de alto contraste con elementos minimalistas, priorizando la legibilidad y la rapidez de interacción. El diseño evita elementos innecesarios o decorativos, enfocándose en una experiencia directa y efectiva. De esta manera, InstAlert logra comunicar su propósito principal: mantener a los usuarios informados y protegidos en todo momento.
 En cuanto a las dimensiones del tono de comunicación, InstAlert se posiciona como:
-Serio (debido a la naturaleza crítica de la seguridad)
-Formal (para transmitir confianza y credibilidad)
-Respetuoso (en el manejo de información sensible)
-Directo y enfocado a la acción (priorizando claridad sobre expresividad)
+* Serio (debido a la naturaleza crítica de la seguridad)
+* Formal (para transmitir confianza y credibilidad)
+* Respetuoso (en el manejo de información sensible)
+* Directo y enfocado a la acción (priorizando claridad sobre expresividad)
+
 Para la definición de estos lineamientos, se tomaron como referencia principios de diseño centrados en el usuario y sistemas de diseño modernos como Material Design (Google, 2014) , priorizando la claridad, la jerarquía visual y la accesibilidad en entornos digitales. 
 
 **4.1.1.1. Tipografía**
@@ -49,43 +50,33 @@ La paleta de colores de InstAlert ha sido diseñada para comunicar alerta, urgen
 **Paleta Principal**
 
 Rojo (#E53935)
-
 Representa peligro, emergencia y alerta. Es el color principal de la plataforma, utilizado en notificaciones críticas y acciones importantes.
 
 Azul Nocturno (#0F172A)
-
 Aporta profundidad, estabilidad y contraste visual. Se utiliza como color base del dashboard, sidebar, paneles y fondos principales del sistema.
 
 Blanco (#FFFFFF)
-
 Permite una lectura clara y limpia, generando equilibrio visual y mejorando la accesibilidad.
 
 **Paleta Secundaria**
 
 Verde (#00C853)
-
 Representa éxito, confirmación y estados positivos del sistema.
 
 Amarillo (#FFC107)
-
 Indica advertencias o riesgos moderados. Funciona como un nivel intermedio entre normalidad y peligro.
 
 Azul (#1976D2)
-
 Representa confianza, información y estabilidad. Se utiliza en elementos informativos o de interacción secundaria.
 
 Gris Grafito (#1E293B)
-
 Utilizado en contenedores, tarjetas y elementos secundarios del dashboard para mantener jerarquía visual y profundidad.
 
 Gris Borde (#334155)
-
 Se usa para bordes, divisiones y líneas suaves que organizan visualmente la interfaz.
 
 Gris Claro (#F5F5F5)
-
 Se emplea como fondo para separar secciones sin generar ruido visual.
-
 
 **4.1.1.3. Espaciado**
 
@@ -106,9 +97,10 @@ Estos elementos permiten reducir la carga cognitiva del usuario, facilitando la 
 
 El tono de InstAlert es directo, claro y orientado a la acción. La plataforma está diseñada para transmitir información de manera rápida y efectiva, evitando ambigüedades o lenguaje innecesario.
 Se utiliza un lenguaje sencillo y comprensible, priorizando frases cortas y mensajes concretos como:
-“Alerta cercana detectada”
-“Reportar incidente”
-“Zona de riesgo”
+* “Alerta cercana detectada”
+* “Reportar incidente”
+* “Zona de riesgo”
+
 Este enfoque permite que el usuario entienda inmediatamente la situación y pueda actuar sin confusión. Al mismo tiempo, el tono mantiene un nivel de formalidad que transmite confianza y seguridad, reforzando el propósito de la plataforma.
 
 ### 4.1.2 Web Style Guidelines
@@ -119,17 +111,20 @@ El uso de bordes suaves y sombras sutiles contribuye a una interfaz limpia y org
 Finalmente, cada elemento del diseño ha sido pensado para cumplir un propósito funcional dentro de la experiencia, asegurando que la interfaz no solo sea atractiva, sino también eficiente en contextos donde la rapidez y la precisión son esenciales.
 Además, el diseño considera principios de diseño responsive, asegurando que la interfaz mantenga su funcionalidad y claridad en distintos dispositivos y tamaños de pantalla. 
 
-
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Para nuestra aplicación se opta por una organización visual jerárquica con elementos secuenciales. Esto permite que el usuario identifique fácilmente los puntos clave, organizando el contenido en categorías como “Alertas”, “Reportes” o “Comunidad”, y en subcategorías dentro de cada una. Así, la información se presenta de forma clara y sin sobrecargar. <br>
 Además, en ciertas secciones se incorporan flujos secuenciales que guían al usuario paso a paso para completar tareas o llegar a páginas específicas. Esta estructura facilita aplicar principios de arquitectura de información como claridad, accesibilidad, navegación enfocada y facilidad de uso. Finalmente, gracias a la investigación previa, se asegura que el contenido de cada categoría sea relevante y útil para el usuario.<br>
 
-<img src="../assets/images/style-guidelines/OrganizationSystems1.png" alt="Iconografía" width="700">
-Nota: Diagrama de organización de información de las aplicaciones <br>
+<p align="center">
+  <img src="../assets/images/style-guidelines/OrganizationSystems1.png" alt="Iconografía" width="700"><br>
+  Nota: Diagrama de organización de información de las aplicaciones
+</p>
 
-<img src="../assets/images/style-guidelines/OrganizationSystems2.png" alt="Iconografía" width="700">
-Nota: Diagrama de organización de información del landing page <br>
+<p align="center">
+  <img src="../assets/images/style-guidelines/OrganizationSystems2.png" alt="Iconografía" width="700"><br>
+  Nota: Diagrama de organización de información del landing page
+</p>
 
 link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQUZ5Ykx2d3FOaVRIUmpvaXc4Tk5lTWw1R2xEK0ZaMjZEWXlueDBvQUJ1ODFYNWYrS2kwYWdJYUJkQUJ5cEdTSzROakxtRzVMTGhFdUlXODZ5LzBvV2hXVjk3MUZLOTFGTHpyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=9527554603  
 
@@ -137,66 +132,70 @@ link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQU
 Para este trabajo se optó por una taxonomía jerárquica que estructura la app y el sitio web mediante nodos principales y ramificaciones lógicas, agrupando los elementos según su similitud (por ejemplo, secciones informativas como “Visión” y “Misión”, y funciones interactivas como “Mapa” y “Reportes”). Este enfoque mejora la navegación intuitiva y disminuye la confusión del usuario, en línea con los principios de arquitectura de la información que priorizan la claridad y la escalabilidad del contenido.
 Esta decisión responde a la necesidad de gestionar el contenido como “objetos” dinámicos con atributos y ciclos de vida, lo que permite ofrecer alternativas relevantes para distintos tipos de usuarios, desde quienes solo buscan información hasta aquellos que interactúan activamente reportando incidentes.<br>
 
-<img src="../assets/images/style-guidelines/LabelingSystems1.png" alt="Iconografía" width="700">
-Nota. Labeling de las aplicaciones. <br>
+<p align="center">
+  <img src="../assets/images/style-guidelines/LabelingSystems1.png" alt="Iconografía" width="700"><br>
+  Nota. Labeling de las aplicaciones.
+</p>
 
-<img src="../assets/images/style-guidelines/LabelingSystems2.png" alt="Iconografía" width="700">
-Nota. Labeling del landing page.<br>
+<p align="center">
+  <img src="../assets/images/style-guidelines/LabelingSystems2.png" alt="Iconografía" width="700"><br>
+  Nota. Labeling del landing page.
+</p>
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 Para asegurar la correcta indexación y visibilidad de InstAlert en los motores de búsqueda, se ha definido una estrategia de SEO que diferencia el tratamiento de la Landing Page, orientada a la conversión de usuarios (vecinos y comerciantes), frente a la Web Application, enfocada en la usabilidad y gestión. En ambos casos, se integrarán etiquetas fundamentales: el Title se configurará para reflejar la propuesta de valor única de cada sección, mientras que la Meta Description sintetizará la capacidad de respuesta y prevención de la plataforma para atraer clics relevantes. Se utilizarán Keywords estratégicas como "seguridad ciudadana", "botón de pánico", "mapas de calor" y "alertas en tiempo real" para captar la intención de búsqueda del segmento objetivo, y se definirá el tag Author como "InstAlert Development Team" para establecer la autoría oficial. Esta configuración no solo optimiza el posicionamiento orgánico, sino que también garantiza una presentación coherente y profesional del ecosistema de seguridad en los resultados de búsqueda.
-
 
 ### 4.2.4. Searching Systems.
 
 Se optó por integrar esta característica en el funcionamiento del mapa de calor, para ello se utilizaron los filtros de Tipo de incidente, Fecha, Intensidad, Ubicación, Frecuencia.
 Filtros y descripciones para incidentes:
 
-
-|FILTROS	   	|	DESCRIPCIÓN|
-|----|----|
-|Tipo de incidente	|		Muestra que clase de reportes o eventos se desean visualizar en el mapa, como robos, accidentes, emergencias médicas, incendios u otros. |
-|Fecha        |                     Muestra información según un período específico, ya sea por día, semana, mes o un rango de tiempo definido por el usuario.
-|Intensidad| Muestra el nivel de riesgo o gravedad de los incidentes en la zona, diferenciándolos por categorías como bajo, medio o alto.|
-|Frecuencia|Permite visualizar únicamente aquellas áreas que superan un número máximo de reportes, destacando las zonas más activas.|
+| FILTROS | DESCRIPCIÓN |
+| :--- | :--- |
+| **Tipo de incidente** | Muestra que clase de reportes o eventos se desean visualizar en el mapa, como robos, accidentes, emergencias médicas, incendios u otros. |
+| **Fecha** | Muestra información según un período específico, ya sea por día, semana, mes o un rango de tiempo definido por el usuario. |
+| **Intensidad** | Muestra el nivel de riesgo o gravedad de los incidentes en la zona, diferenciándolos por categorías como bajo, medio o alto. |
+| **Frecuencia** | Permite visualizar únicamente aquellas áreas que superan un número máximo de reportes, destacando las zonas más activas. |
 
 Nota. La tabla muestra los filtros que se pueden aplicar para los incidentes. <br>
 
 Para el sistema de búsqueda de la sección Comunidad, se definieron filtros que permiten a los usuarios navegar de manera clara y organizada entre foros y publicaciones. Estos filtros facilitan la localización de contenidos relevantes, reducen la sobrecarga de información y aseguran que cada usuario pueda encontrar con rapidez lo que más le interesa.
 
-|FILTROS		|			DESCRIPCIÓN|
-|---|---|
-|Tipo de incidente|
-Filtra las publicaciones y foros según su temática (seguridad, eventos locales, prevención, avisos oficiales, etc.).|
-|Fecha|Permite ordenar las publicaciones por día, semana, mes o rango personalizado, mostrando primero los contenidos más recientes o históricos.|
-|Popularidad|Destaca los foros y publicaciones con mayor número de interacciones (me gusta, comentarios, compartidos).|
-|Entidades / Usuarios|Permite seleccionar publicaciones hechas por entidades oficiales, organizaciones comunitarias o usuarios particulares.|
-|Ubicación|Filtra las publicaciones según la zona geográfica del usuario, mostrando primero las más cercanas a su área de interés.|
+| FILTROS | DESCRIPCIÓN |
+| :--- | :--- |
+| **Tipo de incidente** | Filtra las publicaciones y foros según su temática (seguridad, eventos locales, prevención, avisos oficiales, etc.). |
+| **Fecha** | Permite ordenar las publicaciones por día, semana, mes o rango personalizado, mostrando primero los contenidos más recientes o históricos. |
+| **Popularidad** | Destaca los foros y publicaciones con mayor número de interacciones (me gusta, comentarios, compartidos). |
+| **Entidades / Usuarios** | Permite seleccionar publicaciones hechas por entidades oficiales, organizaciones comunitarias o usuarios particulares. |
+| **Ubicación** | Filtra las publicaciones según la zona geográfica del usuario, mostrando primero las más cercanas a su área de interés. |
 
 Nota. La tabla muestra los filtros que se pueden aplicar para la pestaña de comunidad InstAlert
-
 
 ### 4.2.5. Navigation Systems.
 
 La arquitectura de navegación se estructura en diferentes apartados que permiten al usuario identificar y acceder de forma clara a la información más relevante de la aplicación. Cada sección cumple una función específica dentro del sistema de navegación.
-|NOMBRE		|			DESCRIPCIÓN|
-|-|-|
-|Inicio|Es la primera cara de la página web, donde se presenta la aplicación y sus funcionalidades básicas.|
-|Producto|Se mostrará información detallada del producto en sus diferentes versiones, incluyendo características, beneficios y distintas opciones de descarga.|
-|Noticias|Se presenta información sobre actualizaciones, lanzamientos, mejoras del producto y anuncios relevantes para los usuarios. InstAlert|
-|Sobre nosotros|Ofrece una descripción de la misión, visión, valores y trayectoria de la empresa o equipo desarrollador, resaltando su compromiso con los usuarios.|
+
+| NOMBRE | DESCRIPCIÓN |
+| :--- | :--- |
+| **Inicio** | Es la primera cara de la página web, donde se presenta la aplicación y sus funcionalidades básicas. |
+| **Producto** | Se mostrará información detallada del producto en sus diferentes versiones, incluyendo características, beneficios y distintas opciones de descarga. |
+| **Noticias** | Se presenta información sobre actualizaciones, lanzamientos, mejoras del producto y anuncios relevantes para los usuarios. InstAlert |
+| **Sobre nosotros** | Ofrece una descripción de la misión, visión, valores y trayectoria de la empresa o equipo desarrollador, resaltando su compromiso con los usuarios. |
 
 Nota. La tabla muestra los apartados que se pueden encontrar para la arquitectura de navegación
+
 Para el sistema de navegación de la aplicación, se optó por organizar la información en distintas secciones, con el objetivo de ofrecer una presentación visual más ordenada y facilitar la orientación del usuario. Asimismo, se reducirá el uso de elementos textuales y se acordó que los componentes interactivos estén acompañados de un título breve que describa claramente su función.
-|NOMBRE				|	DESCRIPCIÓN|
-|-|-|
-|Dashboard|Muestra la información principal sobre la situación actual, incluye acceso directo al botón de pánico y presenta el estado actual del celular.|
-|Mapa|Presenta un mapa de calor que resalta las zonas según su nivel de riesgo y muestra la ubicación de los reportes y alertas más recientes.|
-|Reportes|Exhibe los reportes más recientes clasificados por hora y fecha, con un énfasis en los reportes generados por el propio usuario.|
-|Comunidad|Contiene publicaciones de entidades y organizaciones, ordenadas cronológicamente según el tiempo de emisión.|
-|Dispositivos|Indica el estado de los dispositivos que utilizan la aplicación y muestra información básica de los dispositivos de contactos que otorgaron permiso de visualización.|
-|Configuración|Presenta una serie de opciones agrupadas en distintos segmentos para personalizar la aplicación y su servicio|
+
+| NOMBRE | DESCRIPCIÓN |
+| :--- | :--- |
+| **Dashboard** | Muestra la información principal sobre la situación actual, incluye acceso directo al botón de pánico y presenta el estado actual del celular. |
+| **Mapa** | Presenta un mapa de calor que resalta las zonas según su nivel de riesgo y muestra la ubicación de los reportes y alertas más recientes. |
+| **Reportes** | Exhibe los reportes más recientes clasificados por hora y fecha, con un énfasis en los reportes generados por el propio usuario. |
+| **Comunidad** | Contiene publicaciones de entidades y organizaciones, ordenadas cronológicamente según el tiempo de emisión. |
+| **Dispositivos** | Indica el estado de los dispositivos que utilizan la aplicación y muestra información básica de los dispositivos de contactos que otorgaron permiso de visualización. |
+| **Configuración** | Presenta una serie de opciones agrupadas en distintos segmentos para personalizar la aplicación y su servicio |
+
 Nota. La tabla muestra los apartados del sistema de navegación dentro del app
 
 ## 4.3 Landing Page UI Design
@@ -228,7 +227,6 @@ Se trata del primer elemento que visualiza el usuario, enfocado en comunicar rá
 <p align="center">
   <img src="../assets/images/mockup_landing/landing-page-wireframe-4.jpg"  width="700">
 </p>
-
 
 La plataforma destaca funcionalidades esenciales, como la emisión de reportes y la conexión directa con autoridades, diseñadas para brindar soporte efectivo y real durante emergencias. Asimismo, incluye una sección de contacto donde los usuarios pueden ingresar su información o dirigirse a las redes sociales oficiales para estar al tanto de las novedades. Para concluir, se presenta un cuadro comparativo detallando tres modelos de suscripción (gratuito, personal y familiar), lo que orienta al usuario a seleccionar el plan más conveniente para sus necesidades.
 
@@ -382,11 +380,13 @@ Mock-up Forgot Password
 El mock-up de recuperación de contraseña está diseñado para ofrecer una solución rápida y sencilla ante problemas de acceso, priorizando la eficiencia y la claridad del proceso. La interfaz reduce la carga cognitiva al presentar únicamente la información necesaria para recuperar la cuenta, evitando pasos innecesarios y mejorando la experiencia de usuario.
 La presencia de instrucciones claras, campos simplificados y botones de confirmación visibles permite al usuario comprender rápidamente el flujo de recuperación. Este diseño refuerza la accesibilidad y la usabilidad, garantizando una interacción intuitiva incluso en situaciones de urgencia o frustración.
 
-<p align="center">  <img src="../assets/images/mockapplicationweb/forgot.png" alt="Olvidé mi contraseña" width="700"></p>
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/forgot.png" alt="Olvidé mi contraseña" width="700">
+</p>
 
  Mock-up Dashboard Principal
 El mock-up del dashboard funciona como el centro operativo principal de la plataforma, consolidando el acceso a las funciones críticas bajo una arquitectura de información clara y eficiente. La interfaz organiza visualmente el mapa principal, las tarjetas de resumen, las alertas activas y los accesos rápidos a funciones como reportes, autoridades, botón de pánico y monitoreo de zonas de riesgo.
-La jerarquía visual permite que el usuario identifique de inmediato la información más relevante mediante el uso de colores estratégicos, espacios amplios y agrupación lógica de componentes. Esta estructura reduce significativamente la carga cognitiva y facilita la toma de decisiones rápidas en escenarios de emergencia, fortaleciendo la eficiencia operativa del sistema y la percepción de seguridad del usuario.
+La jerarquía visual permite que el usuario identifique de inmediato la información más relevante mediante el uso de colores estratégicos, espacios amplios y agrupación lógica de componentes. Esta estructura reduce significativamente la carga cognitiva y facilita la toma de decisiones rápidas en escenarios de emergencia, fortal强化 la eficiencia operativa del sistema y la percepción de seguridad del usuario.
 
 <p align="center">
   <img src="../assets/images/mockapplicationweb/dashboard.png" alt="Dashboard" width="700">
@@ -515,6 +515,6 @@ Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una repr
 
 Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
 
-<p>
+<p align="center">
     <img src="../assets/images/mockapplicationweb/databasediagram.jpg" alt="DBDiagram" width="700">
 </p>
