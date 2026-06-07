@@ -132,11 +132,11 @@ Para la elaboración del informe, se utilizó Google Docs como plataforma de tra
       - 5.2.2.7. Software Deployment Evidence for Sprint Review
       - 5.2.2.8. Team Collaboration Insights during Sprint
 
-- [Conclusiones y Recomendaciones]
+- Conclusiones y Recomendaciones
   
-- [Video About-the-Team]
+- Video About-the-Team
   
-- [Bibliografía]
+- Bibliografía
   
-- [Anexos]
+- Anexos
 
