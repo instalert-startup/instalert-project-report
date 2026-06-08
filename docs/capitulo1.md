@@ -94,6 +94,22 @@ Código: u202418577. Soy Breithner Rodolfo Perez Encarnación, estudiante de Ing
 </th>
 </tr>
 
+<tr>
+<th>
+<img src="../assets/images/team/Jhoan.jpg" alt="Foto">
+</th>
+<th>
+Jhoan Darner Janampa Gutierrez
+</th>
+<th>
+Ingeniería de Software
+</th>
+<th>
+Código: U202323319. Estudiante de la carrera de Ingeniería de Software, con un gran interés en el desarrollo de software y el diseño, implementación y gestión de bases de datos. Me caracterizo por mi capacidad para analizar problemas, proponer soluciones tecnológicas eficientes y desarrollar aplicaciones orientadas a satisfacer necesidades reales de los usuarios.
+Poseo conocimientos en programación, estructuras de datos, algoritmos y modelado de bases de datos, aplicando principios de calidad y buenas prácticas de desarrollo para construir soluciones limpias, mantenibles y escalables. Asimismo, tengo experiencia trabajando en equipo bajo metodologías colaborativas, participando activamente en proyectos académicos donde he fortalecido habilidades de comunicación, organización y resolución de problemas.
+</th>
+</tr>
+
 </tbody>
 </table>
 
