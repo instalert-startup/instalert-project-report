@@ -125,7 +125,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing" title="Title">https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing</p></td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing" title="Title">entrevista</p></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
     <td>00:00 min</td>
@@ -174,7 +174,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b" title="Title">https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b" title="Title">entrevista</p></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
     <td>00:00 min</td>
@@ -222,7 +222,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing" title="Title">https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing</p></td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing" title="Title">entrevista</p></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
     <td>00:00 min</td>
@@ -277,7 +277,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing" title="Title">https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing</p></td>
+    <td><p><a target="_blank"  href="https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing" title="Title">entrevista</p></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
     <td>00:00 min</td>
@@ -326,7 +326,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing" title="Title">https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing</p></td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing" title="Title">entrevista</p></td>
   </tr>
     <td>Timing donde inicia la entrevista<br></td>
     <td>00:00 min</td>
