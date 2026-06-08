@@ -94,56 +94,258 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 
 ### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
 
-**Entrevista 1**
-* **Entrevistado:** Luis Acuña
-* **Edad:** 24 años | **Distrito:** Villa el Salvador | **Duración:** 07:30
-* **Evidencia:** 
-<p align="center">
-  <img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista Luis Acuña" width="450">
-</p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
-* **Nota:** El inicio efectivo de la entrevista se da en el minuto 00:00:32.
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Luis Acuña</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Acuña</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Villa el Salvador</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing" title="Title">https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing</p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>7:30 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    - PONEN RESUMEN PES
+</td>
+  </tr>
+</tbody>
+</table>
 
-**Entrevista 2**
-* **Entrevistado:** Ignacio Baulety
-* **Edad:** 27 años | **Distrito:** Ate | **Duración:** 13:41
-* **Testimonio clave:** *"El entrevistado indica que vive con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o hacer deporte."*
-* **Evidencia:** 
-<p align="center">
-  <img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista Ignacio Baulety" width="450">
-</p>
-* **Link de grabación:** [Ver en SharePoint](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
 
-**Entrevista 3**
-* **Entrevistado:** Renzo Baldeon
-* **Edad:** 26 años | **Distrito:** Callao | **Duración:** 08:30
-* **Evidencia:** 
-<p align="center">
-  <img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista Renzo Baldeon" width="450">
-</p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing)
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ignacio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Baulety</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>27 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td> Ate </td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b" title="Title">https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b</p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>13:41 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		- PONEN RESUMEN PES
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Renzo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Baldeon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Callao </td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing" title="Title">https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing</p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>08:30 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    - PONEN RESUMEN PES
+</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ---
 
 ### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
 
-**Entrevista 4**
-* **Entrevistado:** Maria Rocio de los Ángeles
-* **Edad:** 42 años | **Distrito:** Comas | **Duración:** 18:06
-* **Evidencia:** 
-<p align="center">
-  <img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450">
-</p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
 
-**Entrevista 5**
-* **Entrevistado:** Alejandro Alvarado
-* **Edad:** 22 años | **Distrito:** El Callao | **Duración:** 5:15
-* **Evidencia:** 
-<p align="center">
-  <img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista Alejandro Alvarado" width="450">
-</p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing)
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Maria Rocio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>de los Ángeles</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>42 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Comas </td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing" title="Title">https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing</p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>18:06 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    - PONEN RESUMEN PES
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alejandro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Alvarado</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Callao </td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing" title="Title">https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing</p></td>
+  </tr>
+    <td>Timing donde inicia la entrevista<br></td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista<br></td>
+    <td>5:15 min</td>
+  <tr>
+    <td>Resumen</td>
+    <td>
+    - PONEN RESUMEN PES
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
 
 ### 2.2.3. Análisis de entrevistas
 
