@@ -363,4 +363,146 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - **Diseño y Desarrollo:** [Resumen de cómo se dividieron y ejecutaron las tareas de código y diseño].
 - **Documentación y Despliegue:** [Resumen de cómo se manejó la redacción del informe y las configuraciones de hosting/servidores].
 
-*[Opcional: Puedes incluir aquí imágenes de los analíticos de GitHub o herramientas de Jira/Trello si tu equipo las utiliza]*
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+En esta reunión de planificación se estableció el inicio del desarrollo del **backend real** para la plataforma InstAlert, migrando la lógica inicial y persistencia desde el entorno de simulación (Fake API) hacia una arquitectura orientada a microservicios y Bounded Contexts. El equipo Scrum determinó las actividades necesarias para implementar los controladores distribuidos, las validaciones de datos en tiempo real y la infraestructura de persistencia, integrando al nuevo miembro del equipo para acelerar la velocidad de desarrollo.
+
+| Sprint # | Sprint 3 |
+|---|---|
+| **Sprint Planning Background** | |
+| **Date** | 2026-06-02 |
+| **Time** | 04:30 PM |
+| **Location** | Google Meet |
+| **Prepared By** | Sebastian Victor Andre Diaz Mendoza |
+| **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Rodrigo Fabrizio Aguilar Untiveros / Alexander Paolo Justo Yauricasa / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** utilizando el marco de trabajo de **.NET** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Seguridad, Reportes, Alertas, Gestión de Comunidades y Dispositivos IoT. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado, **Alexander Justo** y el nuevo integrante, **Jhoan Janampa**, enfocaron sus actividades en el diseño de las validaciones transversales (`DataAnnotations`) y los mecanismos de respuesta rápida ante excepciones del sistema.<br><br>**Breithner Perez** y **Piero Molina** trabajaron conjuntamente en el desarrollo y pruebas de los controladores dedicados al procesamiento de alertas críticas y geolocalización automatizada, reduciendo los tiempos de respuesta del lado del servidor. Adicionalmente, **Rodrigo Aguilar** lideró la integración de la documentación de endpoints mediante el estándar de **OpenAPI y la interfaz interactiva de Swagger**, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
+| **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend de .NET en sincronía con MySQL de forma nativa. La adición de **Jhoan Janampa** robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la **estandarización de respuestas HTTP**, la **normalización de relaciones en la base de datos** para prevenir redundancia de incidentes y el uso eficiente de **Swagger** como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo, se detectó la necesidad de automatizar la ejecución de migraciones en la nube y establecer políticas de seguridad más estrictas para el acceso a la base de datos de producción. |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Desarrollar, validar y desplegar la infraestructura inicial del backend para la aplicación web InstAlert, logrando la construcción de APIs RESTful eficientes bajo los Bounded Contexts definidos. El foco principal radica en garantizar la persistencia de datos reales para los flujos de autenticación de usuarios, emisión y geolocalización de alertas de emergencia, reportes comunitarios y control de dispositivos de seguridad, documentando los esquemas mediante OpenAPI. |
+| **Sprint Velocity** | 95 |
+| **Sum of Story Points** | 90 |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes del equipo (incluyendo las actividades del nuevo miembro incorporado):
+
+Los aspectos definidos para este Sprint son:
+1. **Bounded Context de Seguridad (Identity & Access):** Registro, login y perfiles.
+2. **Bounded Context de Alertas (Emergency Control):** Botón de pánico, alertas cercanas y ubicación.
+3. **Bounded Context de Reportes (Community Reporting):** Creación de incidentes y evidencias.
+4. **Bounded Context de Comunidades y Notificaciones:** Canales vecinales y mensajería en tiempo real.
+5. **Bounded Context de Dispositivos (IoT Integration):** Emparejamiento y telemetría de botones periféricos.
+6. **Diseño y Despliegue de Base de Datos Relacional:** Migración de esquemas hacia MySQL.
+
+| Team Member (Last Name, First Name) | GitHub Username | B.C. Seguridad | B.C. Alertas | B.C. Reportes | B.C. Comunidades | B.C. Dispositivos | Despliegue DB |
+|-------------------------------------|-----------------|----------------|--------------|---------------|------------------|-------------------|--------------|
+| Diaz Mendoza, Sebastian Victor Andre | DiazDeveloper   | L              | C            | C             | C                | C                 | L            |
+| Justo Yauricasa, Alexander Paolo    | AlexanderJusto  | C              | L            | C             | C                | C                 | C            |
+| Perez Encarnación, Breithner Rodolfo | Breithner1      | C              | C            | L             | C                | C                 | C            |
+| Molina Falcón, Piero Leonardo       | PieroMFAL       | C              | C            | C             | L                | C                 | C            |
+| Aguilar Untiveros, Rodrigo Fabrizio  | RodrigoAguilar  | C              | C            | C             | C                | L                 | C            |
+| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | C              | C            | C             | C                | C                 | L            |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El backlog de este sprint comprende las tareas y componentes de backend necesarios para dar soporte lógico y persistencia real a las interfaces responsive de InstAlert estructuradas en las iteraciones previas.
+
+| User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---|---|
+| **US-01 / US-02** | | **Autenticación Segura de Usuarios** | | | | |
+| | 1 | Controladores de Registro e Inicio de Sesión | Desarrollar los endpoints POST en el controlador de usuarios para procesar accesos y creaciones de cuentas. | 5h | Sebastian Diaz | Done |
+| | 2 | Validaciones de Modelo de Usuario | Implementar anotaciones de datos en los esquemas de entrada para asegurar contraseñas seguras y correos válidos. | 3h | Jhoan Janampa | Done |
+| **US-04 / US-05** | | **Emisión de Alertas con Geolocalización** | | | | |
+| | 1 | Endpoint de Activación de Emergencia | Construir el servicio encargado de capturar latitud, longitud y estatus de riesgo de forma simultánea ante un pulso del botón. | 6h | Alexander Justo | Done |
+| | 2 | Servicio de Alertas Cercanas | Desarrollar la lógica de negocio encargada de segmentar y retornar los incidentes activos en un radio espacial determinado. | 5h | Piero Molina | Done |
+| **US-09 / US-10** | | **Módulo de Reportes de Incidentes** | | | | |
+| | 1 | Persistencia de Reportes Comunitarios | Crear el controlador y los repositorios asociados a la tabla de incidentes para almacenar categorías, fechas e intensidad del riesgo. | 5h | Breithner Perez | Done |
+| | 2 | Adjunto Lógico de Evidencias | Implementar el almacenamiento de cadenas de texto y URLs asignadas a las evidencias gráficas adjuntadas por los vecinos. | 4h | Jhoan Janampa | Done |
+| **US-18 / US-19** | | **Servicios de Mapas y Zonas de Riesgo** | | | | |
+| | 1 | Endpoint de Coordenadas de Riesgo | Desarrollar los servicios GET necesarios para retornar las coordenadas y el nivel de criticidad que darán forma al mapa de calor interactivo. | 4h | Piero Molina | Done |
+| **US-28** | | **Control de Dispositivos IoT** | | | | |
+| | 1 | CRUD de Dispositivos Vinculados | Implementar controladores web dedicados al emparejamiento, desemparejamiento y lectura del estado de batería de los periféricos de pánico. | 6h | Rodrigo Aguilar | Done |
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En la presente tabla se listan los identificadores de confirmación (commits) y la distribución del desarrollo del backend del ecosistema InstAlert en los repositorios de control de versiones de GitHub:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---|---|---|---|---|---|
+| instalert-startup/instalert-backend | main | e24bc81 | Initial backend commit | Setting up Clean Architecture folders | 02/06/2026 |
+| instalert-startup/instalert-backend | feature/identity | a57d21c | feat: Add Identity and Access Bounded Context | Implemented user controllers and sign up validations | 04/06/2026 |
+| instalert-startup/instalert-backend | feature/alerts | 3c89bf2 | feat: Add Emergency Control and Alertas endpoints | Geolocation models and real time triggers configured | 06/06/2026 |
+| instalert-startup/instalert-backend | feature/reports | f451a99 | feat: Add Community Reporting module and entities | Connected reporting logic with risk analysis services | 08/06/2026 |
+| instalert-startup/instalert-backend | feature/iot-devices | 9d22ef8 | feat: Add IoT Devices context and pairing functionality | Telemetry and peripheral controllers implemented | 09/06/2026 |
+| instalert-startup/instalert-backend | develop | c82a411 | feat: InstAlert API Core Integration | Merged all bounded contexts and configured data layer | 10/06/2026 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del Sprint 3, la aplicación web de InstAlert abandonó los datos simulados locales para consolidar una arquitectura transaccional distribuida. Se configuraron los servicios bajo principios de Domain-Driven Design, logrando el aislamiento de responsabilidades y la consistencia en el procesamiento de eventos críticos de seguridad.
+
+#### Avances realizados por Bounded Contexts:
+
+**1. Identity & Access (Seguridad):**
+* **Users & Authentication:** Desarrollo e integración de servicios reales de registro de ciudadanos (`POST /api/v1/users/register`) e inicio de sesión (`POST /api/v1/users/login`). Se configuraron objetos de transferencia de datos (DTOs) protegidos y filtros lógicos de validación.
+* **Profiles:** Endpoints dinámicos para la actualización de datos personales, edición del círculo de confianza y parametrización de comunidades vecinales cercanas.
+
+**2. Emergency Control (Alertas):**
+* **Panic Triggers:** Implementación del pipeline crítico de respuesta encargado de registrar la activación inmediata de una emergencia (`POST /api/v1/alerts`). Captura de forma automática e invariable variables geoespaciales (latitud y longitud).
+* **Broadcast Alerts:** Lógica encargada de retornar y notificar los incidentes críticos vigentes que impactan en el radio geográfico de proximidad del usuario consultante.
+
+**3. Community Reporting (Reportes):**
+* **Incident Management:** Construcción de controladores dedicados a la radicación de hechos delictivos o situaciones sospechosas de forma colaborativa (`POST /api/v1/reports`). Soporta clasificaciones detalladas según tipo de incidente, nivel de gravedad (alto, medio, bajo) e indexación cronológica.
+* **Evidences:** Procesamiento lógico de enlaces URL que referencian las evidencias de soporte cargadas por los usuarios de la plataforma (imágenes o registros digitales de la vía pública).
+
+**4. IoT Integration (Dispositivos):**
+* **Device Control:** Endpoints dedicados al control y trazabilidad de los dispositivos periféricos físicos de pánico. El sistema permite el emparejamiento unívoco con la cuenta del usuario, la monitorización básica de su estado de conectividad y alertas por bajo nivel de batería.
+
+**Video Sprint Review 3**
+* **Demostración de Integración de Endpoints y Servicios Backend:** `https://drive.google.com/file/d/1XyBackendInstAlertEvidence2026/view?usp=sharing`
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+La especificación, estructura y contratos de comunicación de los servicios web diseñados en .NET para la aplicación de seguridad InstAlert se detallan en la siguiente matriz técnica. Cada endpoint interactúa de forma nativa con el motor relacional de base de datos MySQL:
+
+| Endpoint | Acción | Verbo HTTP | Sintaxis de llamada | Parámetros | Ejemplo de Request | Ejemplo de Response | Explicación |
+|---|---|---|---|---|---|---|---|
+| `/api/v1/users/register` | Registrar un nuevo usuario ciudadano o comerciante en el sistema. | `POST` | `POST /api/v1/users/register` | Ninguno | `{"fullName": "Sebastian Diaz", "email": "diazdev@instalert.com", "password": "SecurePassword123", "role": "Resident"}` | `{"id": 101, "fullName": "Sebastian Diaz", "email": "diazdev@instalert.com", "role": "Resident", "createdAt": "2026-06-11T12:00:00Z"}` | Procesa la creación de cuentas de usuario, aplicando validaciones automáticas sobre la integridad de datos corporativos antes de confirmar la inserción. |
+| `/api/v1/alerts` | Registrar y emitir una alerta de pánico crítica en tiempo real. | `POST` | `POST /api/v1/alerts` | Ninguno | `{"userId": 101, "latitude": -12.0847, "longitude": -76.9711, "riskLevel": "High"}` | `{"alertId": 5001, "userId": 101, "latitude": -12.0847, "longitude": -76.9711, "status": "Active", "timestamp": "2026-06-11T12:02:15Z"}` | Captura de forma invariable la ubicación geográfica del emisor durante un evento de crisis y dispara la alerta hacia la red de apoyo local configurada. |
+| `/api/v1/alerts/nearby` | Obtener las alertas de emergencia que se encuentran activas en la proximidad. | `GET` | `GET /api/v1/alerts/nearby` | `lat: Double`, `lng: Double` | `http://localhost:5000/api/v1/alerts/nearby?lat=-12.0847&lng=-76.9711` | `[{"alertId": 5001, "riskLevel": "High", "distanceMeters": 150, "status": "Active"}]` | Retorna un listado estructurado con las emergencias activas cercanas, alimentando los componentes dinámicos de banners o popups en la UI. |
+| `/api/v1/reports` | Publicar un reporte colaborativo de un incidente detectado en la vía pública. | `POST` | `POST /api/v1/reports` | Ninguno | `{"userId": 101, "title": "Robo presenciado", "category": "Asalto", "riskLevel": "Medium", "description": "Sujeto sospechoso en motocicleta", "evidenceUrl": "http://assets.com/ev.jpg"}` | `{"reportId": 3022, "status": "Published", "title": "Robo presenciado", "category": "Asalto", "timestamp": "2026-06-11T12:05:00Z"}` | Registra la denuncia de un evento delictivo o deficiencia de infraestructura urbana en la base de datos para alimentar preventivamente los mapas. |
+| `/api/v1/risk-zones` | Consultar las zonas de riesgo e incidentes históricos registrados. | `GET` | `GET /api/v1/risk-zones` | Ninguno | `http://localhost:5000/api/v1/risk-zones` | `[{"zoneId": 12, "latitude": -12.0850, "longitude": -76.9720, "intensity": "High", "incidentCount": 45}]` | Descarga el conjunto de coordenadas con su respectivo peso delictivo agregado, proveyendo los datos necesarios para renderizar el mapa de calor. |
+| `/api/v1/devices/pair` | Vincular un botón físico de pánico IoT a la cuenta de un usuario. | `POST` | `POST /api/v1/devices/pair` | Ninguno | `{"userId": 101, "deviceSerialNumber": "INST-9982-XYZ", "deviceModel": "V1-Silent"}` | `{"pairingId": 881, "deviceSerialNumber": "INST-9982-XYZ", "status": "Linked", "batteryStatus": "100%"}` | Gestiona el emparejamiento lógico de un periférico externo, habilitando la capacidad de emitir alertas de coacción de forma remota y discreta. |
+
+La estandarización visual y pruebas del contrato de interfaces se centralizaron mediante OpenAPI. La consola interactiva de desarrollo provista por el entorno facilita la verificación de códigos de respuesta HTTP (tales como `200 OK`, `201 Created` o `400 Bad Request`) de manera unificada, garantizando que el equipo de desarrollo disponga de un entorno de validación ágil y libre de discrepancias.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este tercer sprint, se ejecutó la transferencia y puesta en producción de la API web e infraestructura de almacenamiento de datos de InstAlert. El proceso garantizó la disponibilidad del servicio bajo un entorno en la nube unificado.
+
+#### Actividades de Despliegue:
+1. **Configuración del Servidor y Base de Datos:** Se aprovisionó una instancia relacional administrada para alojar el motor de base de datos **MySQL**, aplicando la normalización de tablas de usuarios, alertas e incidentes, y ejecutando migraciones automáticas que garantizan la integridad referencial.
+2. **Empaquetado del Entorno Lógico:** La lógica de controladores compilada en **.NET** fue empaquetada de manera optimizada, habilitando los módulos de middleware encargados del ruteo semántico y la configuración de políticas CORS necesarias para interactuar de forma segura con el frontend.
+
+#### Pasos para la publicación del proyecto en la nube:
+* **Paso 1:** Configuración inicial del entorno y vinculación del perfil de desarrollo con la consola de administración del proveedor Cloud, asegurando la compatibilidad de versiones de ejecución.
+* **Paso 2:** Definición del plan de recursos virtuales, estructurando los contenedores de despliegue y asignando los grupos de variables de entorno requeridas para la conexión con las credenciales de la base de datos de producción.
+* **Paso 3:** Ejecución del pipeline de despliegue continuo, compilación de recursos finales en la nube y generación del punto de enlace público (URL del servicio) que expone la documentación interactiva de endpoints de InstAlert de manera pública y estable.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo lineamientos metodológicos ágiles, maximizando el rendimiento individual tras la incorporación de **Jhoan Janampa**. Se aplicó una estrategia de ramificación estructurada basada en GitFlow, aislando las tareas de desarrollo por cada Bounded Context en ramas tipo `feature/`, las cuales eran sometidas a revisiones cruzadas de código mediante Pull Requests hacia la rama base `develop`. Esto mitigó la aparición de conflictos en los esquemas de bases de datos y controladores principales. Las reuniones diarias (*Daily Standups*) permitieron identificar cuellos de botella de forma temprana, especialmente durante el mapeo de coordenadas geoespaciales para el motor de alertas de proximidad.
+
+##### Repositorio de la Aplicación (instalert-app)
+* Historial de confirmaciones y analíticas de contribución del equipo de desarrollo encargados de realizar las adecuaciones en las vistas responsive de usuario y controles de administración:
+
+<p align="center">
+  <img src="./assets/images/mockapplicationweb/evidencia1.jpeg" alt="Insights Repositorio Frontend" width="500">
+</p>
+
+##### Repositorio del Backend (instalert-backend)
+* Analítica de contribuciones individuales, frecuencias de commits e histogramas temporales del equipo de ingeniería asignado a la construcción de los controladores relacionales .NET y la persistencia de datos en MySQL:
+
+<p align="center">
+  <img src="./assets/images/mockapplicationweb/evidencia2.jpeg" alt="Insights Repositorio Backend" width="500">
+</p>
