@@ -376,8 +376,8 @@ En esta reunión de planificación se estableció el inicio del desarrollo del *
 | **Location** | Google Meet |
 | **Prepared By** | Sebastian Victor Andre Diaz Mendoza |
 | **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Rodrigo Fabrizio Aguilar Untiveros / Alexander Paolo Justo Yauricasa / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
-| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** utilizando el marco de trabajo de **.NET** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Seguridad, Reportes, Alertas, Gestión de Comunidades y Dispositivos IoT. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado, **Alexander Justo** y el nuevo integrante, **Jhoan Janampa**, enfocaron sus actividades en el diseño de las validaciones transversales (`DataAnnotations`) y los mecanismos de respuesta rápida ante excepciones del sistema.<br><br>**Breithner Perez** y **Piero Molina** trabajaron conjuntamente en el desarrollo y pruebas de los controladores dedicados al procesamiento de alertas críticas y geolocalización automatizada, reduciendo los tiempos de respuesta del lado del servidor. Adicionalmente, **Rodrigo Aguilar** lideró la integración de la documentación de endpoints mediante el estándar de **OpenAPI y la interfaz interactiva de Swagger**, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
-| **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend de .NET en sincronía con MySQL de forma nativa. La adición de **Jhoan Janampa** robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la **estandarización de respuestas HTTP**, la **normalización de relaciones en la base de datos** para prevenir redundancia de incidentes y el uso eficiente de **Swagger** como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo, se detectó la necesidad de automatizar la ejecución de migraciones en la nube y establecer políticas de seguridad más estrictas para el acceso a la base de datos de producción. |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** utilizando el marco de trabajo de **.NET** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Seguridad, Reportes, Alertas, Gestión de Comunidades y Dispositivos IoT. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado, Alexander Justo y el nuevo integrante, Jhoan Janampa, enfocaron sus actividades en el diseño de las validaciones transversales (`DataAnnotations`) y los mecanismos de respuesta rápida ante excepciones del sistema.<br><br>Breithner Perez** y Piero Molina trabajaron conjuntamente en el desarrollo y pruebas de los controladores dedicados al procesamiento de alertas críticas y geolocalización automatizada, reduciendo los tiempos de respuesta del lado del servidor. Adicionalmente, Rodrigo Aguilar lideró la integración de la documentación de endpoints mediante el estándar de OpenAPI y la interfaz interactiva de Swagger, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
+| **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend en sincronía con la base de datos de forma nativa. La adición de Jhoan Janampa robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la estandarización de respuestas HTTP, la normalización de relaciones en la base de datos para prevenir redundancia de incidentes y el uso eficiente de Swagger como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo, se detectó la necesidad de automatizar la ejecución de migraciones en la nube y establecer políticas de seguridad más estrictas para el acceso a la base de datos de producción. |
 | **Sprint Goal & User Stories** | |
 | **Sprint Goal** | Desarrollar, validar y desplegar la infraestructura inicial del backend para la aplicación web InstAlert, logrando la construcción de APIs RESTful eficientes bajo los Bounded Contexts definidos. El foco principal radica en garantizar la persistencia de datos reales para los flujos de autenticación de usuarios, emisión y geolocalización de alertas de emergencia, reportes comunitarios y control de dispositivos de seguridad, documentando los esquemas mediante OpenAPI. |
 | **Sprint Velocity** | 95 |
@@ -388,22 +388,21 @@ En esta reunión de planificación se estableció el inicio del desarrollo del *
 Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes del equipo (incluyendo las actividades del nuevo miembro incorporado):
 
 Los aspectos definidos para este Sprint son:
-1. **Bounded Context de Seguridad (Identity & Access):** Registro, login y perfiles.
-2. **Bounded Context de Alertas (Emergency Control):** Botón de pánico, alertas cercanas y ubicación.
-3. **Bounded Context de Reportes (Community Reporting):** Creación de incidentes y evidencias.
-4. **Bounded Context de Comunidades y Notificaciones:** Canales vecinales y mensajería en tiempo real.
-5. **Bounded Context de Dispositivos (IoT Integration):** Emparejamiento y telemetría de botones periféricos.
+1. **Bounded Context de Account:** Registro, login y perfiles.
+2. **Bounded Context de Emergency:** Botón de pánico.
+4. **Bounded Context de Comunities:** Canales vecinales y mensajería en tiempo real.
+5. **Bounded Context de Incidents:** Creación de incidentes, evidencias y mapa de calor.
 6. **Diseño y Despliegue de Base de Datos Relacional:** Migración de esquemas hacia MySQL.
 
-| Team Member (Last Name, First Name) | GitHub Username | B.C. Seguridad | B.C. Alertas | B.C. Reportes | B.C. Comunidades | B.C. Dispositivos | Despliegue DB |
-|-------------------------------------|-----------------|----------------|--------------|---------------|------------------|-------------------|--------------|
-| Diaz Mendoza, Sebastian Victor Andre | DiazDeveloper   | L              | C            | C             | C                | C                 | L            |
-| Justo Yauricasa, Alexander Paolo    | AlexanderJusto  | C              | L            | C             | C                | C                 | C            |
-| Perez Encarnación, Breithner Rodolfo | Breithner1      | C              | C            | L             | C                | C                 | C            |
-| Molina Falcón, Piero Leonardo       | PieroMFAL       | C              | C            | C             | L                | C                 | C            |
-| Aguilar Untiveros, Rodrigo Fabrizio  | RodrigoAguilar  | C              | C            | C             | C                | L                 | C            |
-| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | C              | C            | C             | C                | C                 | L            |
 
+| Team Member (Last Name, First Name) | GitHub Username | B.C. Account | B.C. Emergency | B.C. Communities | B.C. Incidents | Despliegue DB |
+|-------------------------------------|-----------------|--------------|----------------|------------------|----------------|--------------|
+| Diaz Mendoza, Sebastian Victor Andre | DiazDeveloper   | L            | C              | C                | C              | L            |
+| Justo Yauricasa, Alexander Paolo    | AlexanderJusto  | C            | L              | C                | C              | C            |
+| Perez Encarnación, Breithner Rodolfo | Breithner1      | C            | C              | C                | L              | C            |
+| Molina Falcón, Piero Leonardo       | PieroMFAL       | C            | C              | L                | C              | C            |
+| Aguilar Untiveros, Rodrigo Fabrizio  | RodrigoAguilar  | C            | C              | C                | C              | C            |
+| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | C            | C              | C                | C              | L            |
 #### 5.2.3.3. Sprint Backlog 3
 
 El backlog de este sprint comprende las tareas y componentes de backend necesarios para dar soporte lógico y persistencia real a las interfaces responsive de InstAlert estructuradas en las iteraciones previas.
@@ -506,3 +505,343 @@ La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo
 <p align="center">
   <img src="./assets/images/mockapplicationweb/evidencia2.jpeg" alt="Insights Repositorio Backend" width="500">
 </p>
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+**User flows utilizados para la validación:**
+
+* **Segmento 1: Residentes en zonas de riesgo medio-alto**
+    * Como residente, quiero visualizar el mapa de calor de incidentes comunitarios y filtrar por tipo de delito para identificar zonas de alto riesgo y planificar una ruta segura antes de salir de casa.
+    * Como residente, quiero interactuar con el sistema de búsqueda y filtros en el feed de comunidad para localizar publicaciones preventivas o alertas históricas emitidas por mis vecinos.
+
+* **Segmento 2: Comerciantes en zonas de riesgo medio-alto**
+    * Como comerciante, quiero activar el botón de pánico web de manera inmediata para capturar mi geolocalización y notificar en tiempo real a mi red de apoyo ante un peligro inminente.
+    * Como comerciante, quiero acceder a la sección de control de dispositivos IoT para vincular o validar el estado de batería de mis periféricos físicos de pánico silencioso de forma centralizada.
+
+**Preguntas de Validación de Producto:**
+
+| Sección / Segmento | Preguntas de la Entrevista de Validación |
+| :--- | :--- |
+| **Introducción (Común)** | 1. ¿Podría proporcionar sus nombres y apellidos, edad y distrito?<br>2. Antes de empezar, ¿podrías contarme brevemente qué entiendes o esperas de una app como la nuestra, enfocada en seguridad ciudadana? |
+| **Segmento 1: Residentes en zonas de riesgo medio-alto** | 1. ¿Qué tan fácil fue para ti entender el uso del botón de pánico de la aplicación?<br>2. ¿Hubo algo en la interfaz que te confundió o te hizo dudar mientras la usabas?<br>3. Si ocurriera una emergencia real, ¿confiarías en usar esta app web para comunicarte con tus vecinos o autoridades? ¿Por qué sí o por qué no?<br>4. ¿Qué función o característica te pareció más útil y cuál cambiarías o mejorarías?<br>5. ¿Qué tan rápido sentiste que podrías reaccionar ante una emergencia usando el botón de pánico?<br>6. ¿Sientes que la app web te permitiría formular mejores rutas luego de probarla?<br>7. ¿Sientes que faltó información o elementos importantes en algunas de las pantallas?<br>8. ¿Qué impresión te dejó la forma en que la confirmación de que la alerta fue enviada? ¿Crees que fue la más clara?<br>9. ¿Los sistemas de búsqueda en los apartados de publicaciones o reportes, te parecen adecuados? (¿Crees que los filtros son útiles, las etiquetas pueden mejorar, etc.?)<br>10. ¿Sientes que la app web tiene información faltante?<br>11. ¿Qué elemento de la app hizo que sintieras más control de la situación que antes?<br>12. Después de usar la app, ¿dirías que vale la pena usarla para una situación real, o qué dirías que falta para que consideres sólida la web? |
+| **Segmento 2: Comerciantes en zonas de riesgo medio-alto** | 1. ¿Qué funciones del prototipo te parecen más útiles para tu negocio (por ejemplo, botón de pánico, reportes, alertas)?<br>2. En tu rutina diaria, ¿en qué momento te parece más útil tener acceso rápido al botón de pánico dentro del local? (Por ejemplo, al abrir, cerrar o atender a un cliente sospechoso).<br>3. En base a lo que has probado, ¿tendrías una percepción de utilidad alta sobre la app web?<br>4. ¿Qué tan importante te parece tener un historial de incidentes que hayan ocurrido de forma aledaña a tu negocio o en otros negocios?<br>5. Si pudieras mejorar una función del app para adaptarla mejor a la realidad de tu negocio, ¿cuál sería y por qué?<br>6. ¿Qué elementos visuales o de diseño te ayudaron (o dificultaron) a comprender rápidamente lo que debías hacer?<br>7. ¿Qué te pareció la claridad de los mensajes o retroalimentaciones que muestra la app después de presionar el botón?<br>8. ¿Qué te transmitió el diseño general del prototipo (seguridad, confianza, simplicidad, saturación, etc.)?<br>9. Si pudieras sugerir una función nueva que no esté en el app web pero que aumente tu seguridad o tranquilidad, ¿cuál sería?<br>10. ¿Qué tipo de soporte o acompañamiento te gustaría recibir por parte del equipo de InstAlert (por ejemplo, capacitación breve, asistencia técnica, guía de uso)?<br>11. Si InstAlert estuviera disponible en el mercado hoy, ¿lo implementarías en tu negocio? ¿Por qué sí o por qué no? |
+
+#### 5.3.2. Registro de Entrevistas
+
+### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="[Link_de_Evidencia_1]" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td><a target="_blank" href="[Link_de_Video_1]">Ver Video de Validación</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td> ... </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="[Link_de_Evidencia_2]" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td><a target="_blank" href="[Link_de_Video_2]">Ver Video de Validación</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td> ... </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="[Link_de_Evidencia_3]" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td><a target="_blank" href="[Link_de_Video_3]">Ver Video de Validación</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td> ... </td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="[Link_de_Evidencia_4]" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td><a target="_blank" href="[Link_de_Video_4]">Ver Video de Validación</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td> ... </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td> ... </td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="[Link_de_Evidencia_5]" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td><a target="_blank" href="[Link_de_Video_5]">Ver Video de Validación</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td> ... min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td> ... </td>
+  </tr>
+</tbody>
+</table>
+
+### 5.3.3. Evaluaciones según heurísticas
+
+#### UX Heuristics & Principles Evaluation
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Desarrollo de Aplicaciones Open Source  
+**SECCIÓN**: 10155  
+**PROFESORES**: Hugo Allan Mori Paiva  
+**AUDITOR**: InstAlert Development Team  
+**INTEGRANTES DEL EQUIPO**:
+* Diaz Mendoza, Sebastian Victor Andre
+* Aguilar Untiveros, Rodrigo Fabrizio
+* Justo Yauricasa, Alexander Paolo
+* Molina Falcón, Piero Leonardo
+* Perez Encarnación, Breithner Rodolfo
+* Janampa Gutierrez, Jhoan Darner
+
+**CLIENTE(S) / USUARIOS EVALUADORES**:
+* 
+* 
+* 
+* 
+* 
+
+**SITE O APP A EVALUAR**: InstAlert Web Application
+
+**TAREAS A EVALUAR**:
+El alcance de esta evaluación de usabilidad e interfaz comprende la revisión de los flujos frontend integrados con los servicios del backend:
+
+* Envío de alertas críticas mediante el botón de pánico de la app web
+* Captura y visualización del componente indicador de geolocalización automática
+* Recepción de notificaciones push de emergencias en el feed y banners laterales
+* Radicación y filtros de reportes de incidentes comunitarios (robos, asaltos, poca iluminación)
+* Adjunto lógico y lectura de evidencias en las tarjetas de incidentes
+* Visualización, búsqueda de direcciones y selección de capas del mapa de calor de riesgo
+* Configuración de perfil de usuario y de preferencias de alertas de proximidad
+* Configuración e interacción de la barra lateral de navegación del sistema
+
+
+**ESCALA DE SEVERIDAD**:
+Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios se clasifican bajo la siguiente escala estandarizada:
+
+| Nivel | Descripción |
+| :--- | :--- |
+| **1** | **Problema superficial**: Puede ser fácilmente superado por el usuario o su ocurrencia es muy baja. Requiere corrección solo si existe disponibilidad de tiempo en el sprint. |
+| **2** | **Problema menor**: Su ocurrencia es moderada o añade una fricción ligera al flujo del usuario. Se le asigna prioridad baja de resolución de cara al siguiente release. |
+| **3** | **Problema mayor**: Ocurre con frecuencia, dificulta el flujo crítico o los usuarios requieren asistencia para resolverlo. Requiere corrección prioritaria de alta urgencia. |
+| **4** | **Problema muy grave**: Error crítico de alto impacto que impide al usuario completar la tarea o compromete la seguridad del flujo. Imperativo solucionarlo antes del despliegue final. |
+
+#### TABLA RESUMEN DE HALLAZGOS:
+
+| # | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
+| :- | :--- | :---: | :--- |
+| 1 | Los campos de entrada y texto informativo de los filtros secundarios en el mapa de calor tienen un color grisáceo con bajo contraste, dificultando su visibilidad en pantallas con baja iluminación. | 1 | Estética, diseño visual y accesibilidad |
+| 2 | La descripción y detalles específicos del sospechoso en las tarjetas expandibles del reporte de incidentes tienen textos muy pegados, afectando la distribución y asimetría de la interfaz en resoluciones medianas. | 1 | Consistencia, estándares y diseño minimalista |
+| 3 | El control de cierre de sesión no está disponible de forma directa en el menú lateral principal, obligando al usuario a ingresar a las secciones de configuración profunda del perfil para salir del sistema. | 1 | Control y libertad del usuario |
+
+#### DETALLE DEL PROBLEMA #1:
+* **Severidad**: 1
+* **Heurística / Principio violado**: Estética, diseño visual y accesibilidad
+* **Descripción del Hallazgo**: Durante las pruebas de filtrado en el mapa de zonas de riesgo, los usuarios manifestaron que los selectores de rango de fecha y categoría delictiva poseen bordes y fuentes en un tono grisáceo (`#334155`) que pierde contraste sobre los contenedores secundarios oscuros. Esto añade carga visual innecesaria e impacta negativamente en la accesibilidad en entornos con luz ambiental reducida.
+* **Recomendación de Solución**: Modificar las clases de estilo CSS de los controles de filtrado, incrementando el contraste cromático y asegurando que las etiquetas de texto de los inputs cumplan con las pautas de legibilidad WCAG AA.
+
+#### DETALLE DEL PROBLEMA #2:
+* **Severidad**: 1
+* **Heurística / Principio violado**: Consistencia, estándares y diseño minimalista
+* **Descripción del Hallazgo**: En la pantalla de visualización de reportes de la comunidad, las tarjetas expandibles encargadas de listar la descripción del incidente, la categoría del delito y la evidencia de soporte presentan un espaciado insuficiente entre bloques de texto. Esta aglomeración genera asimetría en la distribución de la información y dificulta la lectura veloz en escenarios de crisis.
+* **Recomendación de Solución**: Aplicar de forma estricta los lineamientos de la guía de estilos de InstAlert, reorganizando el espaciado mediante el uso de márgenes basados en múltiplos de 8 píxeles (`margin-bottom: 16px` o `gap: 8px`) para separar limpiamente las entidades de datos del reporte.
+
+#### DETALLE DEL PROBLEMA #3:
+* **Severidad**: 1
+* **Heurística / Principio violado**: Control y libertad del usuario
+* **Descripción del Hallazgo**: Los evaluadores reportaron que la acción de cerrar sesión (*logout*) requiere de múltiples pasos dentro del sistema. La interfaz no cuenta con un acceso directo y predecible en la barra de navegación lateral izquierda (sidebar), forzando al usuario a desplazarse hacia la vista profunda de configuraciones de perfil de la cuenta para poder anular sus credenciales de sesión activa.
+* **Recomendación de Solución**: Incorporar un botón explícito de acción con un ícono universal de salida en la base de la barra lateral de navegación principal, reduciendo la fricción a un solo toque y otorgando un control directo sobre el ciclo de vida de la sesión.
+
+## 5.4. Video About-the-Product
+
+* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** [Ver video en Google Drive]
