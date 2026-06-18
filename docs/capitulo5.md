@@ -900,25 +900,18 @@ Asimismo, señaló que los mensajes de confirmación son claros y transmiten con
 
 #### UX Heuristics & Principles Evaluation
 
-**CARRERA**: Ingeniería de Software  
-**CURSO**: Desarrollo de Aplicaciones Open Source  
-**SECCIÓN**: 10155  
-**PROFESORES**: Hugo Allan Mori Paiva  
-**AUDITOR**: InstAlert Development Team  
-**INTEGRANTES DEL EQUIPO**:
-* Diaz Mendoza, Sebastian Victor Andre
-* Aguilar Untiveros, Rodrigo Fabrizio
-* Justo Yauricasa, Alexander Paolo
-* Molina Falcón, Piero Leonardo
-* Perez Encarnación, Breithner Rodolfo
-* Janampa Gutierrez, Jhoan Darner
+**Usability – Inclusive Design – Information Architecture**
 
-**CLIENTE(S) / USUARIOS EVALUADORES**:
-* 
-* 
-* 
-* 
-* 
+| Campo | Detalle |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | Desarrollo de Aplicaciones Open Source |
+| **SECCIÓN** | 10155 |
+| **PROFESOR** | Mori Paiva, Hugo Allan |
+| **AUDITOR** | DevsPe |
+| **CLIENTE(S)** | Gustavo - Alejandro - Piero  - Monago Cachay - Alvaro |
+
+**SITE o APP A EVALUAR:** Instalert
 
 **SITE O APP A EVALUAR**: InstAlert Web Application
 
@@ -959,17 +952,20 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 * **Descripción del Hallazgo**: Durante las pruebas de filtrado en el mapa de zonas de riesgo, los usuarios manifestaron que los selectores de rango de fecha y categoría delictiva poseen bordes y fuentes en un tono grisáceo (`#334155`) que pierde contraste sobre los contenedores secundarios oscuros. Esto añade carga visual innecesaria e impacta negativamente en la accesibilidad en entornos con luz ambiental reducida.
 * **Recomendación de Solución**: Modificar las clases de estilo CSS de los controles de filtrado, incrementando el contraste cromático y asegurando que las etiquetas de texto de los inputs cumplan con las pautas de legibilidad WCAG AA.
 
+<p align="center">
+  <img src="../assets/images/UX Canva/pronlea1.png" alt="Insights Repositorio Backend" width="500">
+</p>
+ 
 #### DETALLE DEL PROBLEMA #2:
 * **Severidad**: 1
 * **Heurística / Principio violado**: Consistencia, estándares y diseño minimalista
 * **Descripción del Hallazgo**: En la pantalla de visualización de reportes de la comunidad, las tarjetas expandibles encargadas de listar la descripción del incidente, la categoría del delito y la evidencia de soporte presentan un espaciado insuficiente entre bloques de texto. Esta aglomeración genera asimetría en la distribución de la información y dificulta la lectura veloz en escenarios de crisis.
 * **Recomendación de Solución**: Aplicar de forma estricta los lineamientos de la guía de estilos de InstAlert, reorganizando el espaciado mediante el uso de márgenes basados en múltiplos de 8 píxeles (`margin-bottom: 16px` o `gap: 8px`) para separar limpiamente las entidades de datos del reporte.
 
-#### DETALLE DEL PROBLEMA #3:
-* **Severidad**: 1
-* **Heurística / Principio violado**: Control y libertad del usuario
-* **Descripción del Hallazgo**: Los evaluadores reportaron que la acción de cerrar sesión (*logout*) requiere de múltiples pasos dentro del sistema. La interfaz no cuenta con un acceso directo y predecible en la barra de navegación lateral izquierda (sidebar), forzando al usuario a desplazarse hacia la vista profunda de configuraciones de perfil de la cuenta para poder anular sus credenciales de sesión activa.
-* **Recomendación de Solución**: Incorporar un botón explícito de acción con un ícono universal de salida en la base de la barra lateral de navegación principal, reduciendo la fricción a un solo toque y otorgando un control directo sobre el ciclo de vida de la sesión.
+<p align="center">
+  <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 
 ## 5.4. Video About-the-Product
 
