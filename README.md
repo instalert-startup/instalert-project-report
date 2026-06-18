@@ -14,7 +14,6 @@
 
 <p align="center">Diaz Mendoza, Sebastian Victor Andre - u202415638</p>
 <p align="center">Aguilar Untiveros, Rodrigo Fabrizio - u202318309</p>
-<p align="center">Justo Yauricasa, Alexander Paolo - u20191c054</p>
 <p align="center">Molina Falcón, Piero Leonardo - u201610857</p>
 <p align="center">Perez Encarnación, Breithner Rodolfo - u202418577</p>
 
