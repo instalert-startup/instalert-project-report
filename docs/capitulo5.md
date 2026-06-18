@@ -708,39 +708,41 @@ La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo
 <tbody>
   <tr>
     <td><strong>Nombre</strong></td>
-    <td> ... </td>
+    <td>Piero</td>
   </tr>
   <tr>
     <td><strong>Apellidos</strong></td>
-    <td>...</td>
+    <td>Aguilar</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>...</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td>
+    <td>San Juan de Lurigancho</td>
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="[Link_de_Evidencia_4]" alt="Validación"></div></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/entrevista4.PNG" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="[Link_de_Video_4]">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=zc696cUVI1sa">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
-    <td> ... min</td>
+    <td>0:02 min</td>
   </tr>
   <tr>
     <td><strong>Duración</strong></td>
-    <td> ... min</td>
+    <td>10:20 min</td>
   </tr>
   <tr>
     <td><strong>Resumen de Validación</strong></td>
-    <td> ... </td>
+    <td>
+      El entrevistado valoró positivamente las funcionalidades de alertas de proximidad y reportes comunitarios, considerándolas herramientas útiles para anticiparse a situaciones de riesgo en su entorno comercial. Indicó que la aplicación presenta una alta utilidad para comerciantes debido a que centraliza información relevante sobre incidentes cercanos y facilita la prevención. Asimismo, destacó la claridad de los colores utilizados para representar niveles de riesgo y la facilidad para comprender las funciones principales. Como oportunidades de mejora, sugirió simplificar algunas pantallas con exceso de información, incorporar filtros más precisos en reportes y foros, añadir indicadores visuales de progreso después del envío de alertas y ofrecer resúmenes periódicos de incidentes ocurridos en la zona. Finalmente, manifestó que implementaría InstAlert en su negocio debido a su potencial para fortalecer la seguridad preventiva y la colaboración entre comerciantes.
+    </td>
   </tr>
 </tbody>
 </table>
@@ -754,39 +756,41 @@ La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo
 <tbody>
   <tr>
     <td><strong>Nombre</strong></td>
-    <td> ... </td>
+    <td>Alejandro</td>
   </tr>
   <tr>
     <td><strong>Apellidos</strong></td>
-    <td>...</td>
+    <td>Alvarado</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>...</td>
+    <td>26 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td>
+    <td>Callao</td>
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="[Link_de_Evidencia_5]" alt="Validación"></div></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/entrevista5.PNG" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="[Link_de_Video_5]">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=nRNOGeNTxsg">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
-    <td> ... min</td>
+    <td>0:02 min</td>
   </tr>
   <tr>
     <td><strong>Duración</strong></td>
-    <td> ... min</td>
+    <td>9:47 min</td>
   </tr>
   <tr>
     <td><strong>Resumen de Validación</strong></td>
-    <td> ... </td>
+    <td>
+      El entrevistado consideró que el botón de pánico, las alertas de incidentes cercanos y los reportes comunitarios son las funcionalidades más relevantes para su actividad comercial, especialmente durante el cierre del negocio y el manejo de efectivo. Destacó que la aplicación concentra diversas herramientas de seguridad en una sola plataforma y que puede contribuir tanto a la prevención como a la reacción frente a emergencias. En cuanto a mejoras, sugirió reducir la cantidad de pasos necesarios para acceder a funciones críticas, aumentar la visibilidad de ciertas opciones desde la pantalla principal, incorporar categorías más intuitivas al momento de crear reportes y mostrar información más detallada sobre el estado de las alertas enviadas. También propuso una funcionalidad que permita visualizar los horarios o recorridos de patrullaje de las autoridades para mejorar la percepción de seguridad en la zona. Finalmente, afirmó que implementaría InstAlert en su negocio debido a que responde a problemáticas reales de inseguridad y facilita la toma de decisiones preventivas.
+    </td>
   </tr>
 </tbody>
 </table>
