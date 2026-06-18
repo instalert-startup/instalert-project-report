@@ -566,39 +566,39 @@ La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo
 <tbody>
   <tr>
     <td><strong>Nombre</strong></td>
-    <td> ... </td>
+    <td> Anita </td>
   </tr>
   <tr>
     <td><strong>Apellidos</strong></td>
-    <td>...</td>
+    <td>Monago Cachay</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>...</td>
+    <td>35</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td>
+    <td>Ate</td>
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="[Link_de_Evidencia_1]" alt="Validación"></div></td>
+    <td><div align="center"><img src="./assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="[Link_de_Video_1]">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://youtu.be/MbAZEhlzLS8">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
-    <td> ... min</td>
+    <td>00.00.09 min</td>
   </tr>
   <tr>
     <td><strong>Duración</strong></td>
-    <td> ... min</td>
+    <td>00.05.44 min</td>
   </tr>
   <tr>
     <td><strong>Resumen de Validación</strong></td>
-    <td> ... </td>
+    <td>Anita Monago Cachay dice que le gustó la aplicación web de seguridad ciudadana porque la interfaz le resultó muy fácil de entender, especialmente el uso del botón de pánico que permite reaccionar de manera rápida y clara ante una emergencia real. Destaca que la confirmación del envío de alertas y los sistemas de búsqueda en las publicaciones o reportes brindan un mayor control de la situación, lo cual genera suficiente confianza para comunicarse con los vecinos y las autoridades de su zona; sin embargo, para que la web sea totalmente sólida y completa, sugiere que se le agreguen planes de pago opcionales, como una suscripción Premium, que ofrezca funciones avanzadas y características exclusivas de seguridad.</td>
   </tr>
 </tbody>
 </table>
