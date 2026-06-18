@@ -39,6 +39,13 @@ En esta versión (AV2), el informe fue actualizado para incluir los avances corr
 La colaboración entre los integrantes se realizó mediante commits, ramas de trabajo y actualizaciones continuas del repositorio, permitiendo mantener un historial detallado de cambios y una adecuada trazabilidad de las contribuciones realizadas por cada miembro del equipo.
 
 
+### Figure X. Team Contributions in the Project Report Repository 
+
+![GitHub Contributions](assets/images/Github.png)
+
+*Figure X. Contributions of team members in the InstAlert Project Report repository.*
+
+
 
 # Contenido
 
