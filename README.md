@@ -28,11 +28,17 @@
 | 2.0 (TP)    | 12/05/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Correcciones de la AV1 <br> Capítulo V: Product Implementation, Validation & Deployment <br> Frontend de InstAlert |
 | 3.0 (AV2)   | 18/06/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo V: Product Implementation, Validation & Deployment <br> Sprint 3 <br> Versión actualizada del Frontend <br> Versión actualizada de la Landing Page <br> Despliegue del Backend |
 
-# Project Report Collaboration Insights
+## Project Report Collaboration Insights
 
-Repositorio donde está el project report: https://github.com/instalert-startup/instalert-project-report
+Repositorio donde está el Project Report: https://github.com/instalert-startup/instalert-project-report
 
-Para la elaboración del informe, se utilizó Google Docs como plataforma de trabajo colaborativo, y posteriormente se migró el contenido al archivo README del repositorio principal. En esta entrega, el README ha sido actualizado para incluir los avances del Sprint 2 y los resultados de la arquitectura de información, los cuales fueron fundamentales para consolidar el diseño del producto y los flujos de interacción de la aplicación web.
+Para la elaboración del informe, el equipo utilizó GitHub como plataforma principal de colaboración y control de versiones. El repositorio del Project Report permitió centralizar la documentación del proyecto, facilitando el trabajo colaborativo entre los integrantes y el seguimiento de los avances realizados durante cada entrega académica.
+
+En esta versión (AV2), el informe fue actualizado para incluir los avances correspondientes al Sprint 3, las mejoras implementadas en el Frontend de InstAlert, las actualizaciones realizadas en la Landing Page y el despliegue del Backend. Asimismo, se incorporaron las evidencias de desarrollo, validación y documentación requeridas para reflejar el progreso alcanzado durante esta etapa del proyecto.
+
+La colaboración entre los integrantes se realizó mediante commits, ramas de trabajo y actualizaciones continuas del repositorio, permitiendo mantener un historial detallado de cambios y una adecuada trazabilidad de las contribuciones realizadas por cada miembro del equipo.
+
+
 
 # Contenido
 
