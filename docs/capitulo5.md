@@ -543,18 +543,36 @@ El backend de Instalert. Para ello se creó un recurso de App Service, se config
 
 La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo lineamientos metodológicos ágiles, maximizando el rendimiento individual tras la incorporación de **Jhoan Janampa**. Se aplicó una estrategia de ramificación estructurada basada en GitFlow, aislando las tareas de desarrollo por cada Bounded Context en ramas tipo `feature/`, las cuales eran sometidas a revisiones cruzadas de código mediante Pull Requests hacia la rama base `develop`. Esto mitigó la aparición de conflictos en los esquemas de bases de datos y controladores principales. Las reuniones diarias (*Daily Standups*) permitieron identificar cuellos de botella de forma temprana, especialmente durante el mapeo de coordenadas geoespaciales para el motor de alertas de proximidad.
 
-##### Repositorio de la Aplicación (instalert-app)
-* Historial de confirmaciones y analíticas de contribución del equipo de desarrollo encargados de realizar las adecuaciones en las vistas responsive de usuario y controles de administración:
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+
+
+##### Project Report Collaboration Insights
+
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Insights Repositorio Frontend" width="500">
+  <img src="../assets/images/UX Canva/insightsInstaleer.png" alt="Insights Repositorio Frontend" width="500">
 </p>
 
-##### Repositorio del Backend (instalert-backend)
-* Analítica de contribuciones individuales, frecuencias de commits e histogramas temporales del equipo de ingeniería asignado a la construcción de los controladores relacionales .NET y la persistencia de datos en MySQL:
+##### Contributors
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/contribuciones.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+
+Durante el Sprint 3, el equipo colaboró activamente en el desarrollo del Backend Web Service de Instalert. A través del repositorio de GitHub se gestionó la implementación de nuevos bounded contexts, servicios de aplicación, persistencia de datos y endpoints REST, permitiendo una integración continua de las funcionalidades requeridas por el Frontend Web Application.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/backpulse.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+##### Análisis de Colaboración
+
+<p align="center">
+  <img src="../assets/images/UX Canva/backcontri.png" alt="Insights Repositorio Backend" width="500">
 </p>
 
 
