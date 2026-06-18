@@ -896,6 +896,63 @@ Asimismo, señaló que los mensajes de confirmación son claros y transmiten con
 </tbody>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #7</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td>Jussara</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Mofal</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>30 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Palma de Mallorca</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td>
+      <div align="center">
+        <img src="../assets/images/UX Canva/entrevista5.png" alt="Validación">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td>
+      <a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?e=dwfQQQ">
+        Ver Video de Validación
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>0:02 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>13:25 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>
+      La entrevistada destacó que la principal fortaleza de InstAlert es la sensación de seguridad que brinda a los comerciantes, especialmente mediante la funcionalidad de botón de pánico, la cual consideró de gran utilidad para actuar rápidamente ante situaciones de emergencia. Asimismo, indicó que la aplicación resulta fácil de utilizar gracias a su diseño intuitivo y a la claridad de sus funcionalidades, permitiendo que cualquier usuario pueda adaptarse rápidamente a su uso. Como oportunidad de mejora, sugirió incorporar una funcionalidad que permita grabar evidencia automáticamente mediante la cámara del dispositivo cuando se active una emergencia, con el objetivo de registrar información relevante que pueda ser utilizada posteriormente como respaldo. Finalmente, manifestó que implementaría InstAlert en su negocio debido a que considera que la plataforma contribuye significativamente a mejorar la seguridad y la capacidad de respuesta frente a incidentes que puedan afectar a los comerciantes.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
