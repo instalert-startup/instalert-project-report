@@ -524,8 +524,19 @@ Durante este tercer sprint, se ejecutó la transferencia y puesta en producción
 2. **Empaquetado del Entorno Lógico:** La lógica de controladores compilada en **.NET** fue empaquetada de manera optimizada, habilitando los módulos de middleware encargados del ruteo semántico y la configuración de políticas CORS necesarias para interactuar de forma segura con el frontend.
 
 #### Pasos para la publicación del proyecto en la nube:
-* **Paso 1:** Configuración inicial del entorno y vinculación del perfil de desarrollo con la consola de administración del proveedor Cloud, asegurando la compatibilidad de versiones de ejecución.
-* **Paso 2:** Definición del plan de recursos virtuales, estructurando los contenedores de despliegue y asignando los grupos de variables de entorno requeridas para la conexión con las credenciales de la base de datos de producción.
+* **Paso 1:** Despliegue de la Web Application (Frontend) en Vercel
+Para la Web Application se configuró un proyecto en Vercel enlazado al repositorio Instalert-Frontend. Se definió el comando de build de Angular y la carpeta de salida de artefactos (dist), y se registró la variable de entorno con la BASE_API_URL apuntando al backend en producción. Con esto, cada vez que se realiza un merge a la rama principal, Vercel ejecuta automáticamente el pipeline de compilación y despliegue.
+
+<div align="center"> <img src="../assets/images/UX Canva/frontInsta.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Frontend (Proyecto InstAlert)</em>
+</p> </div>
+
+* **Paso 2:** Despliegue de los Web Services (Backend)
+El backend de Instalert. Para ello se creó un recurso de App Service, se configuró el entorno de ejecución de Spring Boot y se definieron las variables de entorno necesarias (cadena de conexión a la base de datos, perfil prod y claves de seguridad).
+
+<div align="center"> <img src="../assets/images/UX Canva/backendnuevo.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Backend (Proyecto InstAlert)</em>
+</p> </div>
+
+
 * **Paso 3:** Ejecución del pipeline de despliegue continuo, compilación de recursos finales en la nube y generación del punto de enlace público (URL del servicio) que expone la documentación interactiva de endpoints de InstAlert de manera pública y estable.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
