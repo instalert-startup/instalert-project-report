@@ -520,14 +520,14 @@ La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo
 * Historial de confirmaciones y analíticas de contribución del equipo de desarrollo encargados de realizar las adecuaciones en las vistas responsive de usuario y controles de administración:
 
 <p align="center">
-  <img src="./assets/images/mockapplicationweb/evidencia1.jpeg" alt="Insights Repositorio Frontend" width="500">
+  <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Insights Repositorio Frontend" width="500">
 </p>
 
 ##### Repositorio del Backend (instalert-backend)
 * Analítica de contribuciones individuales, frecuencias de commits e histogramas temporales del equipo de ingeniería asignado a la construcción de los controladores relacionales .NET y la persistencia de datos en MySQL:
 
 <p align="center">
-  <img src="./assets/images/mockapplicationweb/evidencia2.jpeg" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Insights Repositorio Backend" width="500">
 </p>
 
 
@@ -582,7 +582,7 @@ La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="./assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
