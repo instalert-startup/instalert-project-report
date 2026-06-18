@@ -631,7 +631,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://youtu.be/MbAZEhlzLS8">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAWIsou5g0egxsjplVvGA3yA?e=hfRb8g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
@@ -648,6 +648,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 </tbody>
 </table>
 
+
 <table>
 <thead>
   <tr>
@@ -657,88 +658,53 @@ A continuación, se presentan las métricas de colaboración y los principales i
 <tbody>
   <tr>
     <td><strong>Nombre</strong></td>
-    <td> ... </td>
+    <td>Jussara</td>
   </tr>
   <tr>
     <td><strong>Apellidos</strong></td>
-    <td>...</td>
+    <td>Mofal</td>
   </tr>
   <tr>
     <td><strong>Edad</strong></td>
-    <td>...</td>
+    <td>30 años</td>
   </tr>
   <tr>
     <td><strong>Distrito</strong></td>
-    <td>...</td>
+    <td>Palma de Mallorca</td>
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="[Link_de_Evidencia_2]" alt="Validación"></div></td>
+    <td>
+      <div align="center">
+        <img src="../assets/images/UX Canva/Entrevista7.png" alt="Validación">
+      </div>
+    </td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="[Link_de_Video_2]">Ver Video de Validación</a></td>
+    <td>
+      <a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?e=dwfQQQ">
+        Ver Video de Validación
+      </a>
+    </td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
-    <td> ... min</td>
+    <td>0:02 min</td>
   </tr>
   <tr>
     <td><strong>Duración</strong></td>
-    <td> ... min</td>
+    <td>13:25 min</td>
   </tr>
   <tr>
     <td><strong>Resumen de Validación</strong></td>
-    <td> ... </td>
+    <td>
+      La entrevistada destacó que la principal fortaleza de InstAlert es la sensación de seguridad que brinda, especialmente mediante la funcionalidad de botón de pánico, la cual consideró de gran utilidad para actuar rápidamente ante situaciones de emergencia. Asimismo, indicó que la aplicación resulta fácil de utilizar gracias a su diseño intuitivo y a la claridad de sus funcionalidades, permitiendo que cualquier usuario pueda adaptarse rápidamente a su uso. Como oportunidad de mejora, sugirió incorporar una funcionalidad que permita grabar evidencia automáticamente mediante la cámara del dispositivo cuando se active una emergencia, con el objetivo de registrar información relevante que pueda ser utilizada posteriormente como respaldo. Finalmente, manifestó que implementaría InstAlert en su negocio debido a que considera que la plataforma contribuye significativamente a mejorar la seguridad y la capacidad de respuesta frente a incidentes que puedan afectar a los comerciantes.
+    </td>
   </tr>
 </tbody>
 </table>
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td> ... </td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="[Link_de_Evidencia_3]" alt="Validación"></div></td>
-  </tr>
-  <tr>
-    <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="[Link_de_Video_3]">Ver Video de Validación</a></td>
-  </tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td> ... min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td> ... min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td> ... </td>
-  </tr>
-</tbody>
-</table>
 
 ---
 
@@ -747,7 +713,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 <table>
 <thead>
   <tr>
-    <th colspan="2">Entrevista de Validación de Producto #4</th>
+    <th colspan="2">Entrevista de Validación de Producto #3</th>
   </tr>
 </thead>
 <tbody>
@@ -773,7 +739,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://www.youtube.com/watch?v=zc696cUVI1sa">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AZoLEDJAAV1xAOWMyd-w2y0?e=HlDjx5">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
@@ -795,7 +761,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 <table>
 <thead>
   <tr>
-    <th colspan="2">Entrevista de Validación de Producto #5</th>
+    <th colspan="2">Entrevista de Validación de Producto #4</th>
   </tr>
 </thead>
 <tbody>
@@ -817,11 +783,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="../assets/images/UX Canva/entrevista5.PNG" alt="Validación"></div></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://www.youtube.com/watch?v=nRNOGeNTxsg">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXATP6bnsE8rbQVjd7t0xm3n0?e=fpWWRF">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
@@ -846,7 +812,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
 <table>
 <thead>
   <tr>
-    <th colspan="2">Entrevista de Validación de Producto #6</th>
+    <th colspan="2">Entrevista de Validación de Producto #5</th>
   </tr>
 </thead>
 <tbody>
@@ -891,62 +857,6 @@ A continuación, se presentan las métricas de colaboración y los principales i
 Respecto a las mejoras, sugirió incorporar la posibilidad de adjuntar imágenes o videos en las alertas para proporcionar mayor contexto sobre los incidentes reportados. En cuanto a la experiencia de uso, indicó que los íconos y la distribución de los elementos resultan intuitivos y fáciles de comprender, aunque recomendó aumentar el tamaño de algunos textos para mejorar la visibilidad.
 
 Asimismo, señaló que los mensajes de confirmación son claros y transmiten confianza al usuario, mientras que el diseño general del prototipo le genera una sensación de seguridad, organización y simplicidad. Como funcionalidad adicional, propuso implementar un chat de emergencia que permita la comunicación directa entre negocios cercanos ante situaciones de riesgo.s.
-    </td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #7</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td>Jussara</td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>Mofal</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>30 años</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>Palma de Mallorca</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td>
-      <div align="center">
-        <img src="../assets/images/UX Canva/entrevista5.png" alt="Validación">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Link de Video</strong></td>
-    <td>
-      <a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?e=dwfQQQ">
-        Ver Video de Validación
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td>0:02 min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td>13:25 min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td>
-      La entrevistada destacó que la principal fortaleza de InstAlert es la sensación de seguridad que brinda a los comerciantes, especialmente mediante la funcionalidad de botón de pánico, la cual consideró de gran utilidad para actuar rápidamente ante situaciones de emergencia. Asimismo, indicó que la aplicación resulta fácil de utilizar gracias a su diseño intuitivo y a la claridad de sus funcionalidades, permitiendo que cualquier usuario pueda adaptarse rápidamente a su uso. Como oportunidad de mejora, sugirió incorporar una funcionalidad que permita grabar evidencia automáticamente mediante la cámara del dispositivo cuando se active una emergencia, con el objetivo de registrar información relevante que pueda ser utilizada posteriormente como respaldo. Finalmente, manifestó que implementaría InstAlert en su negocio debido a que considera que la plataforma contribuye significativamente a mejorar la seguridad y la capacidad de respuesta frente a incidentes que puedan afectar a los comerciantes.
     </td>
   </tr>
 </tbody>
@@ -1026,4 +936,4 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 
 ## 5.4. Video About-the-Product
 
-* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://youtu.be/fxWRUHLVwHo
+* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JI1gcu
