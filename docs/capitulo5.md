@@ -872,4 +872,4 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 
 ## 5.4. Video About-the-Product
 
-* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** [Ver video en Google Drive]
+* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://youtu.be/fxWRUHLVwHo
