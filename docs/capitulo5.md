@@ -490,20 +490,28 @@ Durante el desarrollo del Sprint 3, la aplicación web de InstAlert abandonó lo
 
 
 **Video Sprint Review 3**
-* **Demostración de Integración de Endpoints y Servicios Backend:** `https://drive.google.com/file/d/1XyBackendInstAlertEvidence2026/view?usp=sharing`
+* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?e=af7fEy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 La especificación, estructura y contratos de comunicación de los servicios web diseñados en .NET para la aplicación de seguridad InstAlert se detallan en la siguiente matriz técnica. Cada endpoint interactúa de forma nativa con el motor relacional de base de datos MySQL:
 
-| Endpoint | Acción | Verbo HTTP | Sintaxis de llamada | Parámetros | Ejemplo de Request | Ejemplo de Response | Explicación |
-|---|---|---|---|---|---|---|---|
-| `/api/v1/users/register` | Registrar un nuevo usuario ciudadano o comerciante en el sistema. | `POST` | `POST /api/v1/users/register` | Ninguno | `{"fullName": "Sebastian Diaz", "email": "diazdev@instalert.com", "password": "SecurePassword123", "role": "Resident"}` | `{"id": 101, "fullName": "Sebastian Diaz", "email": "diazdev@instalert.com", "role": "Resident", "createdAt": "2026-06-11T12:00:00Z"}` | Procesa la creación de cuentas de usuario, aplicando validaciones automáticas sobre la integridad de datos corporativos antes de confirmar la inserción. |
-| `/api/v1/alerts` | Registrar y emitir una alerta de pánico crítica en tiempo real. | `POST` | `POST /api/v1/alerts` | Ninguno | `{"userId": 101, "latitude": -12.0847, "longitude": -76.9711, "riskLevel": "High"}` | `{"alertId": 5001, "userId": 101, "latitude": -12.0847, "longitude": -76.9711, "status": "Active", "timestamp": "2026-06-11T12:02:15Z"}` | Captura de forma invariable la ubicación geográfica del emisor durante un evento de crisis y dispara la alerta hacia la red de apoyo local configurada. |
-| `/api/v1/alerts/nearby` | Obtener las alertas de emergencia que se encuentran activas en la proximidad. | `GET` | `GET /api/v1/alerts/nearby` | `lat: Double`, `lng: Double` | `http://localhost:5000/api/v1/alerts/nearby?lat=-12.0847&lng=-76.9711` | `[{"alertId": 5001, "riskLevel": "High", "distanceMeters": 150, "status": "Active"}]` | Retorna un listado estructurado con las emergencias activas cercanas, alimentando los componentes dinámicos de banners o popups en la UI. |
-| `/api/v1/reports` | Publicar un reporte colaborativo de un incidente detectado en la vía pública. | `POST` | `POST /api/v1/reports` | Ninguno | `{"userId": 101, "title": "Robo presenciado", "category": "Asalto", "riskLevel": "Medium", "description": "Sujeto sospechoso en motocicleta", "evidenceUrl": "http://assets.com/ev.jpg"}` | `{"reportId": 3022, "status": "Published", "title": "Robo presenciado", "category": "Asalto", "timestamp": "2026-06-11T12:05:00Z"}` | Registra la denuncia de un evento delictivo o deficiencia de infraestructura urbana en la base de datos para alimentar preventivamente los mapas. |
-| `/api/v1/risk-zones` | Consultar las zonas de riesgo e incidentes históricos registrados. | `GET` | `GET /api/v1/risk-zones` | Ninguno | `http://localhost:5000/api/v1/risk-zones` | `[{"zoneId": 12, "latitude": -12.0850, "longitude": -76.9720, "intensity": "High", "incidentCount": 45}]` | Descarga el conjunto de coordenadas con su respectivo peso delictivo agregado, proveyendo los datos necesarios para renderizar el mapa de calor. |
-| `/api/v1/devices/pair` | Vincular un botón físico de pánico IoT a la cuenta de un usuario. | `POST` | `POST /api/v1/devices/pair` | Ninguno | `{"userId": 101, "deviceSerialNumber": "INST-9982-XYZ", "deviceModel": "V1-Silent"}` | `{"pairingId": 881, "deviceSerialNumber": "INST-9982-XYZ", "status": "Linked", "batteryStatus": "100%"}` | Gestiona el emparejamiento lógico de un periférico externo, habilitando la capacidad de emitir alertas de coacción de forma remota y discreta. |
+| Endpoint                            | Verbo HTTP | Descripción                                         |
+| ----------------------------------- | ---------- | --------------------------------------------------- |
+| `/api/v1/incidents`                 | GET        | Obtiene todos los incidentes                        |
+| `/api/v1/incidents`                 | POST       | Crea un nuevo incidente                             |
+| `/api/v1/incidents/{incidentId}`    | GET        | Obtiene un incidente por identificador              |
+| `/api/v1/communities`               | GET        | Obtiene la lista de juntas vecinales                |
+| `/api/v1/communities`               | POST       | Crea una nueva junta vecinal                        |
+| `/api/v1/communities/{communityId}` | GET        | Obtiene una junta vecinal por identificador         |
+| `/api/v1/communities/{communityId}` | DELETE     | Elimina una junta vecinal por identificador         |
+| `/api/v1/users/{id}`                | GET        | Obtiene un usuario por identificador                |
+| `/api/v1/users/{id}`                | PUT        | Actualiza los datos de un usuario por identificador |
+| `/api/v1/users/{id}`                | DELETE     | Elimina un usuario por identificador                |
+| `/api/v1/users/{id}/password`       | PUT        | Actualiza la contraseña de un usuario específico    |
+| `/api/v1/users`                     | GET        | Obtiene la lista de todos los usuarios              |
+| `/api/v1/users`                     | POST       | Crea un nuevo usuario                               |
+
 
 La estandarización visual y pruebas del contrato de interfaces se centralizaron mediante OpenAPI. La consola interactiva de desarrollo provista por el entorno facilita la verificación de códigos de respuesta HTTP (tales como `200 OK`, `201 Created` o `400 Bad Request`) de manera unificada, garantizando que el equipo de desarrollo disponga de un entorno de validación ágil y libre de discrepancias.
 
