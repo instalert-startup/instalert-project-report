@@ -470,16 +470,24 @@ Durante el desarrollo del Sprint 3, la aplicación web de InstAlert abandonó lo
 * **Users & Authentication:** Desarrollo e integración de servicios reales de registro de ciudadanos (`POST /api/v1/users/register`) e inicio de sesión (`POST /api/v1/users/login`). Se configuraron objetos de transferencia de datos (DTOs) protegidos y filtros lógicos de validación.
 * **Profiles:** Endpoints dinámicos para la actualización de datos personales, edición del círculo de confianza y parametrización de comunidades vecinales cercanas.
 
+<div align="center"> <img src="../assets/images/UX Canva/enduser.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint User (Proyecto InstAlert)</em>
+</p> </div>
+
 **2. Emergency Control (Alertas):**
 * **Panic Triggers:** Implementación del pipeline crítico de respuesta encargado de registrar la activación inmediata de una emergencia (`POST /api/v1/alerts`). Captura de forma automática e invariable variables geoespaciales (latitud y longitud).
 * **Broadcast Alerts:** Lógica encargada de retornar y notificar los incidentes críticos vigentes que impactan en el radio geográfico de proximidad del usuario consultante.
+
+<div align="center"> <img src="../assets/images/UX Canva/endIncidents.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint emergecy (Proyecto InstAlert)</em>
+</p> </div>
 
 **3. Community Reporting (Reportes):**
 * **Incident Management:** Construcción de controladores dedicados a la radicación de hechos delictivos o situaciones sospechosas de forma colaborativa (`POST /api/v1/reports`). Soporta clasificaciones detalladas según tipo de incidente, nivel de gravedad (alto, medio, bajo) e indexación cronológica.
 * **Evidences:** Procesamiento lógico de enlaces URL que referencian las evidencias de soporte cargadas por los usuarios de la plataforma (imágenes o registros digitales de la vía pública).
 
-**4. IoT Integration (Dispositivos):**
-* **Device Control:** Endpoints dedicados al control y trazabilidad de los dispositivos periféricos físicos de pánico. El sistema permite el emparejamiento unívoco con la cuenta del usuario, la monitorización básica de su estado de conectividad y alertas por bajo nivel de batería.
+<div align="center"> <img src="../assets/images/UX Canva/endComuniutis.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint community (Proyecto InstAlert)</em>
+</p> </div>
+
+
 
 **Video Sprint Review 3**
 * **Demostración de Integración de Endpoints y Servicios Backend:** `https://drive.google.com/file/d/1XyBackendInstAlertEvidence2026/view?usp=sharing`
