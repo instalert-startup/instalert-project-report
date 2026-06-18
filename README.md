@@ -21,10 +21,12 @@
 <p align="center">Junio de 2026</p>
 
 # Registro de versiones del informe
+
 | **Versión** | **Fecha** | **Autor/es** | **Descripción** |
-|-------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0 (TB1)   | 19/04/2026  | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo I: Introducción <br> Capítulo II: Requirements Elicitation & Analysis <br> Capítulo III: Requirements Specification <br> Capítulo IV: Product Design <br> Capítulo V: Product Implementation, Validation & Deployment |
-| 2.0 (TP)    | 12/05/2026  | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Correcciones de la TB1 <br> Capítulo V: Product Implementation, Validation & Deployment <br> Frontend de InstAlert |
+|-------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0 (AV1)   | 19/04/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo I: Introducción <br> Capítulo II: Requirements Elicitation & Analysis <br> Capítulo III: Requirements Specification <br> Capítulo IV: Product Design <br> Capítulo V: Product Implementation, Validation & Deployment |
+| 2.0 (TP)    | 12/05/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Correcciones de la AV1 <br> Capítulo V: Product Implementation, Validation & Deployment <br> Frontend de InstAlert |
+| 3.0 (AV2)   | 18/06/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo V: Product Implementation, Validation & Deployment <br> Sprint 3 <br> Versión actualizada del Frontend <br> Versión actualizada de la Landing Page <br> Despliegue del Backend |
 
 # Project Report Collaboration Insights
 
