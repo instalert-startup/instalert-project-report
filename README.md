@@ -13,7 +13,7 @@
 <p align="center"><strong>Informe del Trabajo Final</strong></p>
 
 <p align="center">Diaz Mendoza, Sebastian Victor Andre - u202415638</p>
-<p align="center">Aguilar Untiveros, Rodrigo Fabrizio - u202318309</p>
+<p align="center">Janampa Gutierrez, Jhoan Darner - u202323319</p>
 <p align="center">Molina Falcón, Piero Leonardo - u201610857</p>
 <p align="center">Perez Encarnación, Breithner Rodolfo - u202418577</p>
 
@@ -23,9 +23,9 @@
 
 | **Versión** | **Fecha** | **Autor/es** | **Descripción** |
 |-------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0 (AV1)   | 19/04/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo I: Introducción <br> Capítulo II: Requirements Elicitation & Analysis <br> Capítulo III: Requirements Specification <br> Capítulo IV: Product Design <br> Capítulo V: Product Implementation, Validation & Deployment |
-| 2.0 (TP)    | 12/05/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Correcciones de la AV1 <br> Capítulo V: Product Implementation, Validation & Deployment <br> Frontend de InstAlert |
-| 3.0 (AV2)   | 18/06/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Aguilar Untiveros, Rodrigo Fabrizio <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo V: Product Implementation, Validation & Deployment <br> Sprint 3 <br> Versión actualizada del Frontend <br> Versión actualizada de la Landing Page <br> Despliegue del Backend |
+| 1.0 (AV1)   | 19/04/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Janampa Gutierrez, Jhoan Darner  <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo I: Introducción <br> Capítulo II: Requirements Elicitation & Analysis <br> Capítulo III: Requirements Specification <br> Capítulo IV: Product Design <br> Capítulo V: Product Implementation, Validation & Deployment |
+| 2.0 (TP)    | 12/05/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Janampa Gutierrez, Jhoan Darner  <br> - Justo Yauricasa, Alexander Paolo <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Correcciones de la AV1 <br> Capítulo V: Product Implementation, Validation & Deployment <br> Frontend de InstAlert |
+| 3.0 (AV2)   | 18/06/2026 | - Diaz Mendoza, Sebastian Victor Andre <br> - Janampa Gutierrez, Jhoan Darner  <br> - Molina Falcón, Piero Leonardo <br> - Perez Encarnación, Breithner Rodolfo | Capítulo V: Product Implementation, Validation & Deployment <br> Sprint 3 <br> Versión actualizada del Frontend <br> Versión actualizada de la Landing Page <br> Despliegue del Backend |
 
 ## Project Report Collaboration Insights
 
