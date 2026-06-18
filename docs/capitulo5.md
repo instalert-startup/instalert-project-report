@@ -368,6 +368,27 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 #### 5.2.3.1. Sprint Planning 3
 En esta reunión de planificación se estableció el inicio del desarrollo del **backend real** para la plataforma InstAlert, migrando la lógica inicial y persistencia desde el entorno de simulación (Fake API) hacia una arquitectura orientada a microservicios y Bounded Contexts. El equipo Scrum determinó las actividades necesarias para implementar los controladores distribuidos, las validaciones de datos en tiempo real y la infraestructura de persistencia, integrando al nuevo miembro del equipo para acelerar la velocidad de desarrollo.
 
+<p>
+  <strong>Repositorio Frontend:</strong>
+  <a href="https://github.com/instalert-startup/Instalert-FrontEnd">
+    https://github.com/instalert-startup/Instalert-FrontEnd
+  </a>
+</p>
+
+<p>
+  <strong>Repositorio Backend:</strong>
+  <a href="https://github.com/instalert-startup/Instalert-BackEnd">
+    https://github.com/instalert-startup/Instalert-BackEnd
+  </a>
+</p>
+
+<p>
+  <strong>Backend API (Producción):</strong>
+  <a href="https://veyrav01.azurewebsites.net/swagger-ui/index.html#/">
+    https://veyrav01.azurewebsites.net/swagger-ui/index.html#/
+  </a>
+</p>
+
 | Sprint # | Sprint 3 |
 |---|---|
 | **Sprint Planning Background** | |
@@ -376,7 +397,7 @@ En esta reunión de planificación se estableció el inicio del desarrollo del *
 | **Location** | Google Meet |
 | **Prepared By** | Sebastian Victor Andre Diaz Mendoza |
 | **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Rodrigo Fabrizio Aguilar Untiveros / Alexander Paolo Justo Yauricasa / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
-| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** utilizando el marco de trabajo de **.NET** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Seguridad, Reportes, Alertas, Gestión de Comunidades y Dispositivos IoT. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado, Alexander Justo y el nuevo integrante, Jhoan Janampa, enfocaron sus actividades en el diseño de las validaciones transversales (`DataAnnotations`) y los mecanismos de respuesta rápida ante excepciones del sistema.<br><br>Breithner Perez** y Piero Molina trabajaron conjuntamente en el desarrollo y pruebas de los controladores dedicados al procesamiento de alertas críticas y geolocalización automatizada, reduciendo los tiempos de respuesta del lado del servidor. Adicionalmente, Rodrigo Aguilar lideró la integración de la documentación de endpoints mediante el estándar de OpenAPI y la interfaz interactiva de Swagger, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** utilizando el marco de trabajo de **.NET** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Seguridad, Reportes, Alertas, Gestión de Comunidades y Dispositivos IoT. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado, Alexander Justo y el nuevo integrante, Jhoan Janampa, enfocaron sus actividades en el diseño de las validaciones transversales (`DataAnnotations`) y los mecanismos de respuesta rápida ante excepciones del sistema.<br><br>Breithner Perez y Piero Molina trabajaron conjuntamente en el desarrollo y pruebas de los controladores dedicados al procesamiento de alertas críticas y geolocalización automatizada, reduciendo los tiempos de respuesta del lado del servidor. Adicionalmente, Rodrigo Aguilar lideró la integración de la documentación de endpoints mediante el estándar de OpenAPI y la interfaz interactiva de Swagger, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
 | **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend en sincronía con la base de datos de forma nativa. La adición de Jhoan Janampa robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la estandarización de respuestas HTTP, la normalización de relaciones en la base de datos para prevenir redundancia de incidentes y el uso eficiente de Swagger como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo, se detectó la necesidad de automatizar la ejecución de migraciones en la nube y establecer políticas de seguridad más estrictas para el acceso a la base de datos de producción. |
 | **Sprint Goal & User Stories** | |
 | **Sprint Goal** | Desarrollar, validar y desplegar la infraestructura inicial del backend para la aplicación web InstAlert, logrando la construcción de APIs RESTful eficientes bajo los Bounded Contexts definidos. El foco principal radica en garantizar la persistencia de datos reales para los flujos de autenticación de usuarios, emisión y geolocalización de alertas de emergencia, reportes comunitarios y control de dispositivos de seguridad, documentando los esquemas mediante OpenAPI. |
@@ -385,7 +406,7 @@ En esta reunión de planificación se estableció el inicio del desarrollo del *
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
-Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes del equipo (incluyendo las actividades del nuevo miembro incorporado):
+Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes del equipo (incluyendo las actividades del nuevo miembro incorporado). El nuevo participante (Jhoan Darner Janampa Gutierrez) se integra en el rol de colaboración dentro del equipo.:
 
 Los aspectos definidos para este Sprint son:
 1. **Bounded Context de Account:** Registro, login y perfiles.
@@ -406,6 +427,9 @@ Los aspectos definidos para este Sprint son:
 #### 5.2.3.3. Sprint Backlog 3
 
 El backlog de este sprint comprende las tareas y componentes de backend necesarios para dar soporte lógico y persistencia real a las interfaces responsive de InstAlert estructuradas en las iteraciones previas.
+
+<div align="center"> <img src="../assets/images/UX Canva/back.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Tablero del Sprint 3 en Jira Software (Proyecto InstAlert)</em>
+</p> </div>
 
 | User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
 |---|---|---|---|---|---|---|
