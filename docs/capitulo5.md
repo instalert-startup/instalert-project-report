@@ -869,11 +869,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
   <tr>
     <td><strong>Evidencia</strong></td>
     <td>
-    <div align="center"><img src="../assets/images/UX Canva/" alt="Validación"></div></td>
+    <div align="center"><img src="../assets/images/UX Canva/enrtrevista.png" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://www.youtube.com/watch?v=nRNOGeNTxsg">Ver Video de Validación</a></td>
+    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAdzfeTWXxM0jDcqUyaCh_W8?e=LYfQMs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video de Validación</a></td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
@@ -886,7 +886,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
   <tr>
     <td><strong>Resumen de Validación</strong></td>
     <td>
-      El entrevistado consideró que el botón de pánico, las alertas de incidentes cercanos y los reportes comunitarios son las funcionalidades más relevantes para su actividad comercial, especialmente durante el cierre del negocio y el manejo de efectivo. Destacó que la aplicación concentra diversas herramientas de seguridad en una sola plataforma y que puede contribuir tanto a la prevención como a la reacción frente a emergencias. En cuanto a mejoras, sugirió reducir la cantidad de pasos necesarios para acceder a funciones críticas, aumentar la visibilidad de ciertas opciones desde la pantalla principal, incorporar categorías más intuitivas al momento de crear reportes y mostrar información más detallada sobre el estado de las alertas enviadas. También propuso una funcionalidad que permita visualizar los horarios o recorridos de patrullaje de las autoridades para mejorar la percepción de seguridad en la zona. Finalmente, afirmó que implementaría InstAlert en su negocio debido a que responde a problemáticas reales de inseguridad y facilita la toma de decisiones preventivas.
+      El entrevistado destacó que el botón de pánico, las alertas de incidentes y el historial de reportes son las funcionalidades más útiles de InstAlert, ya que permiten actuar rápidamente ante situaciones de riesgo y conocer los antecedentes de seguridad en zonas cercanas al negocio. Consideró que la aplicación posee una alta utilidad debido a que facilita la comunicación y la respuesta oportuna frente a emergencias.
+
+Respecto a las mejoras, sugirió incorporar la posibilidad de adjuntar imágenes o videos en las alertas para proporcionar mayor contexto sobre los incidentes reportados. En cuanto a la experiencia de uso, indicó que los íconos y la distribución de los elementos resultan intuitivos y fáciles de comprender, aunque recomendó aumentar el tamaño de algunos textos para mejorar la visibilidad.
+
+Asimismo, señaló que los mensajes de confirmación son claros y transmiten confianza al usuario, mientras que el diseño general del prototipo le genera una sensación de seguridad, organización y simplicidad. Como funcionalidad adicional, propuso implementar un chat de emergencia que permita la comunicación directa entre negocios cercanos ante situaciones de riesgo.s.
     </td>
   </tr>
 </tbody>
