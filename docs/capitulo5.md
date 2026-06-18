@@ -840,6 +840,58 @@ A continuación, se presentan las métricas de colaboración y los principales i
 </tbody>
 </table>
 
+
+
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td>Gustavo Alonso</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Janampa Gutierrez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td>
+    <div align="center"><img src="../assets/images/UX Canva/" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=nRNOGeNTxsg">Ver Video de Validación</a></td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>0:02 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>9:47 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>
+      El entrevistado consideró que el botón de pánico, las alertas de incidentes cercanos y los reportes comunitarios son las funcionalidades más relevantes para su actividad comercial, especialmente durante el cierre del negocio y el manejo de efectivo. Destacó que la aplicación concentra diversas herramientas de seguridad en una sola plataforma y que puede contribuir tanto a la prevención como a la reacción frente a emergencias. En cuanto a mejoras, sugirió reducir la cantidad de pasos necesarios para acceder a funciones críticas, aumentar la visibilidad de ciertas opciones desde la pantalla principal, incorporar categorías más intuitivas al momento de crear reportes y mostrar información más detallada sobre el estado de las alertas enviadas. También propuso una funcionalidad que permita visualizar los horarios o recorridos de patrullaje de las autoridades para mejorar la percepción de seguridad en la zona. Finalmente, afirmó que implementaría InstAlert en su negocio debido a que responde a problemáticas reales de inseguridad y facilita la toma de decisiones preventivas.
+    </td>
+  </tr>
+</tbody>
+</table>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
