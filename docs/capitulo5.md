@@ -481,8 +481,8 @@ Durante el desarrollo del Sprint 3, la aplicación web de InstAlert abandonó lo
 </p> </div>
 
 **3. Community Reporting (Reportes):**
-* **Incident Management:** Construcción de controladores dedicados a la radicación de hechos delictivos o situaciones sospechosas de forma colaborativa (`POST /api/v1/reports`). Soporta clasificaciones detalladas según tipo de incidente, nivel de gravedad (alto, medio, bajo) e indexación cronológica.
-* **Evidences:** Procesamiento lógico de enlaces URL que referencian las evidencias de soporte cargadas por los usuarios de la plataforma (imágenes o registros digitales de la vía pública).
+* **Incident Management:** Construcción de controladores dedicados a la creación y estructuración de juntas vecinales o redes de seguridad colaborativas (`POST /api/v1/communities`). Soporta la configuración de parámetros clave de cada agrupación, incluyendo su nombre, descripción de propósito y nivel de privacidad (acceso público o privado).
+* **Evidences:** Procesamiento lógico para la consulta y listado de todas las comunidades registradas en la plataforma (`GET /api/v1/communities`), así como la gestión de su ciclo de vida permitiendo la eliminación segura de grupos específicos mediante su identificador único (`DELETE /api/v1/communities/{communityId}`).
 
 <div align="center"> <img src="../assets/images/UX Canva/endComuniutis.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint community (Proyecto InstAlert)</em>
 </p> </div>
