@@ -937,11 +937,14 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 
 #### TABLA RESUMEN DE HALLAZGOS:
 
-| # | Problema Detectado | Escala de Severidad | Heurística / Principio Violado |
-| :- | :--- | :---: | :--- |
-| 1 | Los campos de entrada y texto informativo de los filtros secundarios en el mapa de calor tienen un color grisáceo con bajo contraste, dificultando su visibilidad en pantallas con baja iluminación. | 1 | Estética, diseño visual y accesibilidad |
-| 2 | La descripción y detalles específicos del sospechoso en las tarjetas expandibles del reporte de incidentes tienen textos muy pegados, afectando la distribución y asimetría de la interfaz en resoluciones medianas. | 1 | Consistencia, estándares y diseño minimalista |
-| 3 | El control de cierre de sesión no está disponible de forma directa en el menú lateral principal, obligando al usuario a ingresar a las secciones de configuración profunda del perfil para salir del sistema. | 1 | Control y libertad del usuario |
+| #  | Problema Detectado                                                                                                                                                                                                   | Escala de Severidad | Heurística / Principio Violado                   |
+| :- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------: | :----------------------------------------------- |
+| 1  | Los campos de entrada y texto informativo de los filtros secundarios en el mapa de calor presentan un contraste insuficiente, dificultando su visualización en entornos con poca iluminación.                        |          1          | Estética, diseño visual y accesibilidad          |
+| 2  | La descripción y los detalles específicos mostrados en las tarjetas expandibles de reportes presentan poco espaciado entre elementos, afectando la organización visual y la legibilidad de la información.           |          1          | Consistencia, estándares y diseño minimalista    |
+| 3  | La opción de cerrar sesión no se encuentra disponible directamente desde el menú lateral principal, obligando al usuario a navegar por varias secciones antes de finalizar su sesión.                                |          1          | Control y libertad del usuario                   |
+| 4  | La entrevistada sugirió que, al activarse una emergencia, la aplicación inicie automáticamente la grabación de evidencia mediante la cámara del dispositivo para complementar el reporte generado.                   |          2          | Flexibilidad y eficiencia de uso                 |
+| 5  | La entrevistada manifestó interés en contar con mayor evidencia visual asociada a los incidentes reportados, ya que esto incrementaría la confianza y utilidad de la información compartida dentro de la plataforma. |          2          | Correspondencia entre el sistema y el mundo real |
+
 
 #### DETALLE DEL PROBLEMA #1:
 * **Severidad**: 1
@@ -959,6 +962,34 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 * **Descripción del Hallazgo**: En la pantalla de visualización de reportes de la comunidad, las tarjetas expandibles encargadas de listar la descripción del incidente, la categoría del delito y la evidencia de soporte presentan un espaciado insuficiente entre bloques de texto. Esta aglomeración genera asimetría en la distribución de la información y dificulta la lectura veloz en escenarios de crisis.
 * **Recomendación de Solución**: Aplicar de forma estricta los lineamientos de la guía de estilos de InstAlert, reorganizando el espaciado mediante el uso de márgenes basados en múltiplos de 8 píxeles (`margin-bottom: 16px` o `gap: 8px`) para separar limpiamente las entidades de datos del reporte.
 
+<p align="center">
+  <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+### DETALLE DEL PROBLEMA #4:
+
+* **Severidad:** 2
+
+* **Heurística / Principio violado:** Flexibilidad y eficiencia de uso
+
+* **Descripción del Hallazgo:** Durante la entrevista de validación, la usuaria manifestó que, al activarse una emergencia mediante el botón de pánico, sería útil que la aplicación iniciara automáticamente la grabación de evidencia audiovisual utilizando la cámara del dispositivo. Actualmente, el sistema permite reportar la emergencia, pero no ofrece un mecanismo inmediato para capturar evidencia que pueda apoyar la atención del incidente o futuras investigaciones.
+
+* **Recomendación de Solución:** Incorporar una funcionalidad opcional que permita activar automáticamente la cámara del dispositivo al utilizar el botón de pánico, iniciando la captura de fotografías o video de forma rápida y segura. Esta evidencia podría asociarse automáticamente al incidente generado, mejorando la capacidad de respuesta y documentación de eventos críticos.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+### DETALLE DEL PROBLEMA #5:
+
+* **Severidad:** 2
+
+* **Heurística / Principio violado:** Correspondencia entre el sistema y el mundo real
+
+* **Descripción del Hallazgo:** Durante la entrevista, la usuaria indicó que la presencia de evidencia visual asociada a los incidentes reportados incrementaría la confianza y utilidad de la información mostrada en la plataforma. Actualmente, los reportes presentan información descriptiva del incidente, pero la disponibilidad de imágenes o videos podría facilitar la comprensión de la situación y mejorar la percepción de credibilidad por parte de los usuarios.
+
+* **Recomendación de Solución:** Implementar mecanismos que permitan adjuntar y visualizar evidencia multimedia dentro de los reportes comunitarios. Esto facilitaría la validación visual de los incidentes y proporcionaría mayor contexto para la toma de decisiones de los usuarios y autoridades correspondientes.
+  
 <p align="center">
   <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
 </p>
