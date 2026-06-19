@@ -966,6 +966,7 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
   <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
 </p>
 
+
 ### DETALLE DEL PROBLEMA #4:
 
 * **Severidad:** 2
@@ -977,7 +978,7 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 * **Recomendación de Solución:** Incorporar una funcionalidad opcional que permita activar automáticamente la cámara del dispositivo al utilizar el botón de pánico, iniciando la captura de fotografías o video de forma rápida y segura. Esta evidencia podría asociarse automáticamente al incidente generado, mejorando la capacidad de respuesta y documentación de eventos críticos.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Insights Repositorio Backend" width="500">
 </p>
 
 ### DETALLE DEL PROBLEMA #5:
@@ -991,7 +992,7 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 * **Recomendación de Solución:** Implementar mecanismos que permitan adjuntar y visualizar evidencia multimedia dentro de los reportes comunitarios. Esto facilitaría la validación visual de los incidentes y proporcionaría mayor contexto para la toma de decisiones de los usuarios y autoridades correspondientes.
   
 <p align="center">
-  <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Insights Repositorio Backend" width="500">
 </p>
 
 
