@@ -121,27 +121,28 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista"></td>
+    <td><div align="center"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing" title="Title">entrevista</p></td>
+    <td><a target="_blank" href="https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing">entrevista</a></td>
   </tr>
-    <td>Timing donde inicia la entrevista<br></td>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
   </tr>
   <tr>
-    <td>Duración de la entrevista<br></td>
+    <td>Duración de la entrevista</td>
     <td>7:30 min</td>
+  </tr>
   <tr>
     <td>Resumen</td>
     <td>
-    - PONEN RESUMEN PES
-</td>
+      El entrevistado señala que la inseguridad es más intensa durante la noche y en zonas poco transitadas, lo que lo obliga a modificar sus hábitos cotidianos y tomar medidas preventivas constantes. Debido a la limitada respuesta de las autoridades, depende de grupos vecinales y redes sociales para mantenerse informado sobre incidentes delictivos. Considera necesaria una aplicación que incorpore funciones como botón de pánico, ubicación en tiempo real y mapas de incidencias para mejorar la capacidad de reacción ante emergencias.
+    </td>
   </tr>
 </tbody>
 </table>
-
 
 <table>
 <colgroup>
@@ -166,27 +167,29 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Distrito</td>
-    <td> Ate </td>
+    <td>Ate</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista"></td>
+    <td><div align="center"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b" title="Title">entrevista</p></td>
+    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV">entrevista</a></td>
   </tr>
-    <td>Timing donde inicia la entrevista<br></td>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
   </tr>
   <tr>
-    <td>Duración de la entrevista<br></td>
+    <td>Duración de la entrevista</td>
     <td>13:41 min</td>
+  </tr>
   <tr>
     <td>Resumen</td>
     <td>
-		- PONEN RESUMEN PES
-</td>
+      El entrevistado manifiesta que la inseguridad afecta significativamente su bienestar emocional y limita sus actividades diarias como estudiar, trabajar y hacer deporte. La falta de organización vecinal y la escasa presencia policial incrementan su sensación de vulnerabilidad, por lo que ha restringido sus desplazamientos a horarios y rutas más seguras. Su experiencia evidencia cómo la percepción de riesgo impacta directamente en la calidad de vida y la libertad de movimiento.
+    </td>
   </tr>
 </tbody>
 </table>
@@ -214,44 +217,43 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Callao </td>
+    <td>Callao</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista"></td>
+    <td><div align="center"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing" title="Title">entrevista</p></td>
+    <td><a target="_blank" href="https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing">entrevista</a></td>
   </tr>
-    <td>Timing donde inicia la entrevista<br></td>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
   </tr>
   <tr>
-    <td>Duración de la entrevista<br></td>
+    <td>Duración de la entrevista</td>
     <td>08:30 min</td>
+  </tr>
   <tr>
     <td>Resumen</td>
     <td>
-    - PONEN RESUMEN PES
-</td>
+      El entrevistado describe su zona como un entorno con frecuentes robos, vandalismo y conflictos callejeros. Tras haber sido víctima de un hurto, expresa desconfianza en la efectividad de la respuesta policial y considera insuficientes las medidas de seguridad comunitarias. Señala la necesidad de una aplicación que permita reportar incidentes y brindar asistencia inmediata para mejorar la prevención y reacción ante emergencias.
+    </td>
   </tr>
 </tbody>
 </table>
 
-
-
 ---
 
 ### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
-
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #4<br></th>
   </tr>
 </thead>
 <tbody>
@@ -269,38 +271,39 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Comas </td>
+    <td>Comas</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista"></td>
+    <td><div align="center"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing" title="Title">entrevista</p></td>
+    <td><a target="_blank" href="https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing">entrevista</a></td>
   </tr>
-    <td>Timing donde inicia la entrevista<br></td>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
   </tr>
   <tr>
-    <td>Duración de la entrevista<br></td>
+    <td>Duración de la entrevista</td>
     <td>18:06 min</td>
+  </tr>
   <tr>
     <td>Resumen</td>
     <td>
-    - PONEN RESUMEN PES
-</td>
+      La entrevistada expone el impacto económico y emocional que la delincuencia genera en los pequeños negocios. Debido a intentos de robo y constantes amenazas, ha reducido sus horarios de atención, afectando sus ingresos. Considera que la respuesta de las autoridades es lenta e insuficiente, por lo que propone herramientas de alerta inmediata y sistemas comunitarios de información para prevenir delitos y fortalecer la seguridad colectiva.
+    </td>
   </tr>
 </tbody>
 </table>
-
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2">Entrevista #5<br></th>
   </tr>
 </thead>
 <tbody>
@@ -318,31 +321,32 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Callao </td>
+    <td>Callao</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista"></td>
+    <td><div align="center"><img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista"></div></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing" title="Title">entrevista</p></td>
+    <td><a target="_blank" href="https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing">entrevista</a></td>
   </tr>
-    <td>Timing donde inicia la entrevista<br></td>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
   </tr>
   <tr>
-    <td>Duración de la entrevista<br></td>
+    <td>Duración de la entrevista</td>
     <td>5:15 min</td>
+  </tr>
   <tr>
     <td>Resumen</td>
     <td>
-    - PONEN RESUMEN PES
-</td>
+      El entrevistado señala que los negocios familiares enfrentan riesgos constantes, especialmente durante el cierre y manejo de efectivo. La frecuencia de asaltos y delitos ha generado pérdidas económicas y reducción de clientes. Manifiesta desconfianza hacia la respuesta policial y considera esencial una aplicación con botón de pánico y sistema de información colaborativa para identificar zonas de riesgo.
+    </td>
   </tr>
 </tbody>
 </table>
-
 
 
 
