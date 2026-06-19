@@ -783,7 +783,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
   <tr>
     <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/entrevista5.PNG" alt="Validación"></div></td>
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
