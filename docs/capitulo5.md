@@ -462,30 +462,60 @@ En la presente tabla se listan los identificadores de confirmación (commits) y 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-Durante el desarrollo del Sprint 3, la aplicación web de InstAlert abandonó los datos simulados locales para consolidar una arquitectura transaccional distribuida. Se configuraron los servicios bajo principios de Domain-Driven Design, logrando el aislamiento de responsabilidades y la consistencia en el procesamiento de eventos críticos de seguridad.
+Durante el desarrollo del Sprint 3, la aplicación web de InstAlert evolucionó desde una arquitectura basada en datos simulados hacia una solución integrada mediante servicios backend reales. Esta transición permitió consolidar una arquitectura basada en Domain-Driven Design (DDD), favoreciendo la separación de responsabilidades, la escalabilidad del sistema y la consistencia en el procesamiento de información relacionada con incidentes de seguridad ciudadana.
 
-#### Avances realizados por Bounded Contexts:
+Asimismo, se completó la integración de los principales bounded contexts del sistema mediante APIs REST documentadas con OpenAPI/Swagger, permitiendo validar y exponer los servicios desarrollados para su posterior consumo por parte del frontend.
 
-**1. Identity & Access (Seguridad):**
-* **Users & Authentication:** Desarrollo e integración de servicios reales de registro de ciudadanos (`POST /api/v1/users/register`) e inicio de sesión (`POST /api/v1/users/login`). Se configuraron objetos de transferencia de datos (DTOs) protegidos y filtros lógicos de validación.
-* **Profiles:** Endpoints dinámicos para la actualización de datos personales, edición del círculo de confianza y parametrización de comunidades vecinales cercanas.
+#### Avances realizados por Bounded Contexts
 
-<div align="center"> <img src="../assets/images/UX Canva/enduser.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint User (Proyecto InstAlert)</em>
-</p> </div>
+### 1. Identity & Access (Seguridad e Identidad)
 
-**2. Emergency Control (Alertas):**
-* **Panic Triggers:** Implementación del pipeline crítico de respuesta encargado de registrar la activación inmediata de una emergencia (`POST /api/v1/alerts`). Captura de forma automática e invariable variables geoespaciales (latitud y longitud).
-* **Broadcast Alerts:** Lógica encargada de retornar y notificar los incidentes críticos vigentes que impactan en el radio geográfico de proximidad del usuario consultante.
+* **Users & Authentication:** Implementación de servicios para el registro y autenticación de usuarios mediante endpoints REST. Se desarrollaron mecanismos de validación de datos, objetos de transferencia (DTOs) y estructuras orientadas a la gestión segura de identidades dentro de la plataforma.
 
-<div align="center"> <img src="../assets/images/UX Canva/endIncidents.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint emergecy (Proyecto InstAlert)</em>
-</p> </div>
+* **User Profiles:** Desarrollo de funcionalidades para la administración de información personal, actualización de datos de perfil y configuración de preferencias asociadas a cada usuario.
 
-**3. Community Reporting (Reportes):**
-* **Incident Management:** Construcción de controladores dedicados a la creación y estructuración de juntas vecinales o redes de seguridad colaborativas (`POST /api/v1/communities`). Soporta la configuración de parámetros clave de cada agrupación, incluyendo su nombre, descripción de propósito y nivel de privacidad (acceso público o privado).
-* **Evidences:** Procesamiento lógico para la consulta y listado de todas las comunidades registradas en la plataforma (`GET /api/v1/communities`), así como la gestión de su ciclo de vida permitiendo la eliminación segura de grupos específicos mediante su identificador único (`DELETE /api/v1/communities/{communityId}`).
+<div align="center">
+<img src="../assets/images/UX Canva/enduser.png" alt="Endpoint User" width="100%">
+<p><em>Figura: Endpoints del bounded context Identity & Access (Proyecto InstAlert)</em></p>
+</div>
 
-<div align="center"> <img src="../assets/images/UX Canva/endComuniutis.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Endpoint community (Proyecto InstAlert)</em>
-</p> </div>
+### 2. Emergency Control (Gestión de Emergencias)
+
+* **Emergency Alerts:** Implementación del flujo de generación y gestión de alertas de emergencia, permitiendo registrar eventos críticos y asociarlos a información geográfica relevante para la atención de incidentes.
+
+* **Geolocation Integration:** Incorporación del procesamiento de coordenadas geográficas para la identificación de ubicaciones y soporte a funcionalidades de proximidad dentro del sistema.
+
+* **Incident Monitoring:** Desarrollo de servicios para la consulta y recuperación de incidentes registrados, facilitando el seguimiento y monitoreo de eventos reportados por los usuarios.
+
+<div align="center">
+<img src="../assets/images/UX Canva/endIncidents.png" alt="Endpoint Incidents" width="100%">
+<p><em>Figura: Endpoints del bounded context Emergency Control (Proyecto InstAlert)</em></p>
+</div>
+
+### 3. Community Reporting (Reportes Comunitarios)
+
+* **Community Management:** Implementación de servicios para la creación, consulta y administración de comunidades vecinales dentro de la plataforma, fortaleciendo la colaboración ciudadana y la organización de redes de seguridad locales.
+
+* **Community Lifecycle:** Desarrollo de funcionalidades para gestionar el ciclo de vida de las comunidades, incluyendo operaciones de registro, consulta y eliminación controlada.
+
+* **Collaborative Environment:** Integración de mecanismos que permiten la participación organizada de los usuarios dentro de comunidades enfocadas en la prevención y reporte de incidentes.
+
+<div align="center">
+<img src="../assets/images/UX Canva/endComuniutis.png" alt="Endpoint Communities" width="100%">
+<p><em>Figura: Endpoints del bounded context Community Reporting (Proyecto InstAlert)</em></p>
+</div>
+
+### Contribuciones del Equipo
+
+Durante este Sprint se completó la implementación e integración de los bounded contexts principales del sistema, permitiendo la comunicación efectiva entre los distintos módulos de la plataforma mediante servicios REST.
+
+Asimismo, se realizaron actividades de validación funcional, pruebas de integración, corrección de errores y mejoras en la estructura de la arquitectura backend. El equipo trabajó en la implementación de controladores, servicios de aplicación, repositorios, entidades de dominio y documentación de APIs mediante Swagger/OpenAPI.
+
+### Resultados del Sprint
+
+Como resultado de este Sprint, InstAlert logró consolidar una arquitectura backend funcional basada en servicios reales, reemplazando el uso de datos simulados y fortaleciendo la comunicación entre los diferentes componentes del sistema.
+
+La documentación mediante Swagger/OpenAPI permitió validar el correcto funcionamiento de los endpoints implementados y facilitar futuras integraciones. Los bounded contexts desarrollados proporcionan soporte a funcionalidades esenciales relacionadas con autenticación, gestión de emergencias y colaboración comunitaria, constituyendo una base sólida para la evolución de la plataforma en los siguientes sprints de desarrollo.
 
 
 
