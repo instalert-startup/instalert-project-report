@@ -397,33 +397,30 @@ En esta reunión de planificación se estableció el inicio del desarrollo del *
 | **Location** | Google Meet |
 | **Prepared By** | Sebastian Victor Andre Diaz Mendoza |
 | **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Rodrigo Fabrizio Aguilar Untiveros / Alexander Paolo Justo Yauricasa / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
-| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** utilizando el marco de trabajo de **.NET** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Seguridad, Reportes, Alertas, Gestión de Comunidades y Dispositivos IoT. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado, Alexander Justo y el nuevo integrante, Jhoan Janampa, enfocaron sus actividades en el diseño de las validaciones transversales (`DataAnnotations`) y los mecanismos de respuesta rápida ante excepciones del sistema.<br><br>Breithner Perez y Piero Molina trabajaron conjuntamente en el desarrollo y pruebas de los controladores dedicados al procesamiento de alertas críticas y geolocalización automatizada, reduciendo los tiempos de respuesta del lado del servidor. Adicionalmente, Rodrigo Aguilar lideró la integración de la documentación de endpoints mediante el estándar de OpenAPI y la interfaz interactiva de Swagger, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
-| **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend en sincronía con la base de datos de forma nativa. La adición de Jhoan Janampa robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la estandarización de respuestas HTTP, la normalización de relaciones en la base de datos para prevenir redundancia de incidentes y el uso eficiente de Swagger como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo, se detectó la necesidad de automatizar la ejecución de migraciones en la nube y establecer políticas de seguridad más estrictas para el acceso a la base de datos de producción. |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Communities, Emergencies, Incidents y Profiles. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado el nuevo integrante, Jhoan Janampa, enfocó sus actividades en el diseño de los mecanismos de respuesta rápida ante excepciones del sistema y el Bounded Context Profiles.<br><br>Breithner Perez trabajó en el Bounded Context de Communities y Piero Molina trabajó en el desarrollo del Bounded Context de Incidents, el cual junto con Emergencies hacian uso de geolocalización automatizada. Adicionalmente se comprobo las funciones del BackEnd mediante la interfaz interactiva de Swagger, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
+| **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend en sincronía con la base de datos de forma nativa. La adición de Jhoan Janampa robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la estandarización de respuestas HTTP, la normalización de relaciones en la base de datos para prevenir redundancia de incidentes y el uso eficiente de Swagger como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo. |
 | **Sprint Goal & User Stories** | |
-| **Sprint Goal** | Desarrollar, validar y desplegar la infraestructura inicial del backend para la aplicación web InstAlert, logrando la construcción de APIs RESTful eficientes bajo los Bounded Contexts definidos. El foco principal radica en garantizar la persistencia de datos reales para los flujos de autenticación de usuarios, emisión y geolocalización de alertas de emergencia, reportes comunitarios y control de dispositivos de seguridad, documentando los esquemas mediante OpenAPI. |
+| **Sprint Goal** | Desarrollar, validar y desplegar la infraestructura inicial del backend para la aplicación web InstAlert, logrando la construcción de APIs eficientes bajo los Bounded Contexts definidos. El foco principal radica en garantizar la persistencia de datos reales para los flujos de autenticación de usuarios, emisión y geolocalización de alertas de emergencia, reportes comunitarios y control de dispositivos de seguridad, documentando los esquemas mediante OpenAPI. |
 | **Sprint Velocity** | 95 |
 | **Sum of Story Points** | 90 |
 
-#### 5.2.3.2. Aspect Leaders and Collaborators
+### 5.2.3.2. Aspect Leaders and Collaborators
 
-Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes del equipo (incluyendo las actividades del nuevo miembro incorporado). El nuevo participante (Jhoan Darner Janampa Gutierrez) se integra en el rol de colaboración dentro del equipo.:
+Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los cuatro integrantes activos del equipo durante este periodo. El nuevo participante (Jhoan Darner Janampa Gutierrez) se ha integrado asumiendo el rol de líder en su respectivo contexto.
 
-Los aspectos definidos para este Sprint son:
-1. **Bounded Context de Account:** Registro, login y perfiles.
-2. **Bounded Context de Emergency:** Botón de pánico.
-4. **Bounded Context de Comunities:** Canales vecinales y mensajería en tiempo real.
-5. **Bounded Context de Incidents:** Creación de incidentes, evidencias y mapa de calor.
-6. **Diseño y Despliegue de Base de Datos Relacional:** Migración de esquemas hacia MySQL.
+Los 4 Bounded Contexts definidos para este Sprint son:
+1. **Bounded Context de Profiles:** Registro, login y perfiles.
+2. **Bounded Context de Emergencies:** Botón de pánico.
+3. **Bounded Context de Communities:** Canales vecinales y mensajería en tiempo real.
+4. **Bounded Context de Incidents:** Creación de incidentes, evidencias y mapa de calor.
 
+| Team Member (Last Name, First Name) | GitHub Username | B.C. Profiles | B.C. Emergencies | B.C. Communities | B.C. Incidents |
+|-------------------------------------|-----------------|---------------|------------------|------------------|----------------|
+| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | L             | C                | C                | C              |
+| Diaz Mendoza, Sebastian Victor Andre| DiazDeveloper   | C             | L                | C                | C              |
+| Perez Encarnación, Breithner Rodolfo| Breithner1      | C             | C                | L                | C              |
+| Molina Falcón, Piero Leonardo       | PieroMFAL       | C             | C                | C                | L              |
 
-| Team Member (Last Name, First Name) | GitHub Username | B.C. Account | B.C. Emergency | B.C. Communities | B.C. Incidents | Despliegue DB |
-|-------------------------------------|-----------------|--------------|----------------|------------------|----------------|--------------|
-| Diaz Mendoza, Sebastian Victor Andre | DiazDeveloper   | L            | C              | C                | C              | L            |
-| Justo Yauricasa, Alexander Paolo    | AlexanderJusto  | C            | L              | C                | C              | C            |
-| Perez Encarnación, Breithner Rodolfo | Breithner1      | C            | C              | C                | L              | C            |
-| Molina Falcón, Piero Leonardo       | PieroMFAL       | C            | C              | L                | C              | C            |
-| Aguilar Untiveros, Rodrigo Fabrizio  | RodrigoAguilar  | C            | C              | C                | C              | C            |
-| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | C            | C              | C                | C              | L            |
 #### 5.2.3.3. Sprint Backlog 3
 
 El backlog de este sprint comprende las tareas y componentes de backend necesarios para dar soporte lógico y persistencia real a las interfaces responsive de InstAlert estructuradas en las iteraciones previas.
@@ -433,32 +430,32 @@ El backlog de este sprint comprende las tareas y componentes de backend necesari
 
 | User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
 |---|---|---|---|---|---|---|
-| **US-01 / US-02** | | **Autenticación Segura de Usuarios** | | | | |
-| | 1 | Controladores de Registro e Inicio de Sesión | Desarrollar los endpoints POST en el controlador de usuarios para procesar accesos y creaciones de cuentas. | 5h | Sebastian Diaz | Done |
-| | 2 | Validaciones de Modelo de Usuario | Implementar anotaciones de datos en los esquemas de entrada para asegurar contraseñas seguras y correos válidos. | 3h | Jhoan Janampa | Done |
-| **US-04 / US-05** | | **Emisión de Alertas con Geolocalización** | | | | |
-| | 1 | Endpoint de Activación de Emergencia | Construir el servicio encargado de capturar latitud, longitud y estatus de riesgo de forma simultánea ante un pulso del botón. | 6h | Alexander Justo | Done |
-| | 2 | Servicio de Alertas Cercanas | Desarrollar la lógica de negocio encargada de segmentar y retornar los incidentes activos en un radio espacial determinado. | 5h | Piero Molina | Done |
-| **US-09 / US-10** | | **Módulo de Reportes de Incidentes** | | | | |
-| | 1 | Persistencia de Reportes Comunitarios | Crear el controlador y los repositorios asociados a la tabla de incidentes para almacenar categorías, fechas e intensidad del riesgo. | 5h | Breithner Perez | Done |
-| | 2 | Adjunto Lógico de Evidencias | Implementar el almacenamiento de cadenas de texto y URLs asignadas a las evidencias gráficas adjuntadas por los vecinos. | 4h | Jhoan Janampa | Done |
-| **US-18 / US-19** | | **Servicios de Mapas y Zonas de Riesgo** | | | | |
-| | 1 | Endpoint de Coordenadas de Riesgo | Desarrollar los servicios GET necesarios para retornar las coordenadas y el nivel de criticidad que darán forma al mapa de calor interactivo. | 4h | Piero Molina | Done |
-| **US-28** | | **Control de Dispositivos IoT** | | | | |
-| | 1 | CRUD de Dispositivos Vinculados | Implementar controladores web dedicados al emparejamiento, desemparejamiento y lectura del estado de batería de los periféricos de pánico. | 6h | Rodrigo Aguilar | Done |
+| **US-01 / US-02** | | **Gestión de Perfiles y Autenticación** | | | | |
+| | 1 | Controladores y DTOs de Usuario | Desarrollar los endpoints REST (`POST`, `GET`) y sus respectivos *Resources* para procesar el registro de ciudadanos verificados. | 5h | Jhoan Janampa | Done |
+| | 2 | Validaciones y Lógica de Dominio | Implementar anotaciones de validación en los esquemas de entrada y reglas de negocio para evitar duplicidad de correos y asegurar la integridad del perfil. | 3h | Jhoan Janampa | Done |
+| **US-04 / US-05<br>US-06 / US-07** | | **Sistema de Botón de Pánico y Alertas** | | | | |
+| | 1 | Endpoints de Emisión y Cancelación | Construir el controlador de `Emergencies` y los comandos (Command Services) encargados de registrar y actualizar el estado (Activa/Cancelada) de la alerta. | 6h | Sebastian Diaz | Done |
+| | 2 | Persistencia y Búsqueda Espacial | Desarrollar la entidad JPA y el Query Service para almacenar las coordenadas exactas de la emergencia y retornar el historial de alertas geolocalizadas. | 5h | Sebastian Diaz | Done |
+| **US-12 / US-13** | | **Canales Vecinales y Comunidades** | | | | |
+| | 1 | CRUD de Juntas Vecinales | Implementar el controlador REST para la creación, lectura y eliminación de comunidades vecinales, gestionando la privacidad de las mismas. | 5h | Breithner Perez | Done |
+| | 2 | Infraestructura y Repositorios JPA | Diseñar la entidad de persistencia y el `CommunityRepositoryImpl` para conectar las juntas vecinales con la base de datos MySQL de forma segura. | 4h | Breithner Perez | Done |
+| **US-09 / US-10<br>US-18** | | **Reporte de Incidentes y Zonas de Riesgo** | | | | |
+| | 1 | Persistencia de Reportes Comunitarios | Crear los servicios de aplicación y el modelo de dominio para clasificar incidentes por severidad, fecha, y tipo de riesgo. | 5h | Piero Molina | Done |
+| | 2 | Consultas para Mapa de Calor | Desarrollar los servicios *GET* necesarios para retornar las coordenadas de incidentes confirmados que alimentarán el mapa de zonas de riesgo en el frontend. | 4h | Piero Molina | Done |
+
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-En la presente tabla se listan los identificadores de confirmación (commits) y la distribución del desarrollo del backend del ecosistema InstAlert en los repositorios de control de versiones de GitHub:
+En la presente tabla se listan los identificadores de confirmación (commits) y la distribución del desarrollo del backend del ecosistema InstAlert en los repositorios de control de versiones de GitHub, reflejando las ramas exactas utilizadas para los Bounded Contexts definidos:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |---|---|---|---|---|---|
-| instalert-startup/instalert-backend | main | e24bc81 | Initial backend commit | Setting up Clean Architecture folders | 02/06/2026 |
-| instalert-startup/instalert-backend | feature/identity | a57d21c | feat: Add Identity and Access Bounded Context | Implemented user controllers and sign up validations | 04/06/2026 |
-| instalert-startup/instalert-backend | feature/alerts | 3c89bf2 | feat: Add Emergency Control and Alertas endpoints | Geolocation models and real time triggers configured | 06/06/2026 |
-| instalert-startup/instalert-backend | feature/reports | f451a99 | feat: Add Community Reporting module and entities | Connected reporting logic with risk analysis services | 08/06/2026 |
-| instalert-startup/instalert-backend | feature/iot-devices | 9d22ef8 | feat: Add IoT Devices context and pairing functionality | Telemetry and peripheral controllers implemented | 09/06/2026 |
-| instalert-startup/instalert-backend | develop | c82a411 | feat: InstAlert API Core Integration | Merged all bounded contexts and configured data layer | 10/06/2026 |
+| instalert-startup/instalert-backend | master | e24bc81 | Initial backend commit | Spring Boot project setup and shared kernel configuration | 02/06/2026 |
+| instalert-startup/instalert-backend | feature/profiles | a57d21c | feat: Implement Profiles Bounded Context | Added User aggregate, JPA entities, and REST controllers for authentication | 08/06/2026 |
+| instalert-startup/instalert-backend | feature/emergencies | 3c89bf2 | feat: Implement Emergencies Bounded Context | Added EmergencyAlert aggregate, geographical queries, and panic button endpoints | 10/06/2026 |
+| instalert-startup/instalert-backend | feature/communities | f451a99 | feat: Implement Communities Bounded Context | Added Community aggregate, repositories, and neighborhood group logic | 12/06/2026 |
+| instalert-startup/instalert-backend | feature/incidents | 9d22ef8 | feat: Implement Incidents Bounded Context | Added Incident entity, spatial queries for heatmap, and reporting endpoints | 14/06/2026 |
+| instalert-startup/instalert-backend | develop | c82a411 | chore: Merge feature branches into develop | Integrated all Bounded Contexts, OpenAPI config, and GlobalExceptionHandler | 16/06/2026 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -468,7 +465,7 @@ Asimismo, se completó la integración de los principales bounded contexts del s
 
 #### Avances realizados por Bounded Contexts
 
-### 1. Identity & Access (Seguridad e Identidad)
+### 1. Profiles (Seguridad e Identidad)
 
 * **Users & Authentication:** Implementación de servicios para el registro y autenticación de usuarios mediante endpoints REST. Se desarrollaron mecanismos de validación de datos, objetos de transferencia (DTOs) y estructuras orientadas a la gestión segura de identidades dentro de la plataforma.
 
@@ -479,9 +476,9 @@ Asimismo, se completó la integración de los principales bounded contexts del s
 <p><em>Figura: Endpoints del bounded context Identity & Access (Proyecto InstAlert)</em></p>
 </div>
 
-### 2. Emergency Control (Gestión de Emergencias)
+### 2. Incidents (Gestión de Incidentes)
 
-* **Emergency Alerts:** Implementación del flujo de generación y gestión de alertas de emergencia, permitiendo registrar eventos críticos y asociarlos a información geográfica relevante para la atención de incidentes.
+* **Incidents Alerts:** Implementación del flujo de generación y gestión de alertas de emergencia, permitiendo registrar eventos críticos y asociarlos a información geográfica relevante para la atención de incidentes.
 
 * **Geolocation Integration:** Incorporación del procesamiento de coordenadas geográficas para la identificación de ubicaciones y soporte a funcionalidades de proximidad dentro del sistema.
 
@@ -492,7 +489,7 @@ Asimismo, se completó la integración de los principales bounded contexts del s
 <p><em>Figura: Endpoints del bounded context Emergency Control (Proyecto InstAlert)</em></p>
 </div>
 
-### 3. Community Reporting (Reportes Comunitarios)
+### 3. Communities (Reportes Comunitarios)
 
 * **Community Management:** Implementación de servicios para la creación, consulta y administración de comunidades vecinales dentro de la plataforma, fortaleciendo la colaboración ciudadana y la organización de redes de seguridad locales.
 
@@ -518,9 +515,8 @@ Como resultado de este Sprint, InstAlert logró consolidar una arquitectura back
 La documentación mediante Swagger/OpenAPI permitió validar el correcto funcionamiento de los endpoints implementados y facilitar futuras integraciones. Los bounded contexts desarrollados proporcionan soporte a funcionalidades esenciales relacionadas con autenticación, gestión de emergencias y colaboración comunitaria, constituyendo una base sólida para la evolución de la plataforma en los siguientes sprints de desarrollo.
 
 
-
 **Video Sprint Review 3**
-* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?e=af7fEy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* **Demostración de Integración de Endpoints y Servicios Backend:** [[Ver Video]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?e=af7fEy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -551,7 +547,6 @@ Durante este tercer sprint, se ejecutó la transferencia y puesta en producción
 
 #### Actividades de Despliegue:
 1. **Configuración del Servidor y Base de Datos:** Se aprovisionó una instancia relacional administrada para alojar el motor de base de datos **MySQL**, aplicando la normalización de tablas de usuarios, alertas e incidentes, y ejecutando migraciones automáticas que garantizan la integridad referencial.
-2. **Empaquetado del Entorno Lógico:** La lógica de controladores compilada en **.NET** fue empaquetada de manera optimizada, habilitando los módulos de middleware encargados del ruteo semántico y la configuración de políticas CORS necesarias para interactuar de forma segura con el frontend.
 
 #### Pasos para la publicación del proyecto en la nube:
 * **Paso 1:** Despliegue de la Web Application (Frontend) en Vercel
@@ -905,10 +900,7 @@ Asimismo, señaló que los mensajes de confirmación son claros y transmiten con
 | **CURSO** | Desarrollo de Aplicaciones Open Source |
 | **SECCIÓN** | 10155 |
 | **PROFESOR** | Mori Paiva, Hugo Allan |
-| **AUDITOR** | DevsPe |
-| **CLIENTE(S)** | Gustavo - Alejandro - Piero  - Monago Cachay - Alvaro |
-
-**SITE o APP A EVALUAR:** Instalert
+| **AUDITORES** | Anita Monago, Jussara Mofal, Piero Aguilar, Alejandro Alvarado y Gustavo Janampa |
 
 **SITE O APP A EVALUAR**: InstAlert Web Application
 
@@ -929,11 +921,11 @@ El alcance de esta evaluación de usabilidad e interfaz comprende la revisión d
 Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios se clasifican bajo la siguiente escala estandarizada:
 
 | Nivel | Descripción |
-| :--- | :--- |
-| **1** | **Problema superficial**: Puede ser fácilmente superado por el usuario o su ocurrencia es muy baja. Requiere corrección solo si existe disponibilidad de tiempo en el sprint. |
-| **2** | **Problema menor**: Su ocurrencia es moderada o añade una fricción ligera al flujo del usuario. Se le asigna prioridad baja de resolución de cara al siguiente release. |
-| **3** | **Problema mayor**: Ocurre con frecuencia, dificulta el flujo crítico o los usuarios requieren asistencia para resolverlo. Requiere corrección prioritaria de alta urgencia. |
-| **4** | **Problema muy grave**: Error crítico de alto impacto que impide al usuario completar la tarea o compromete la seguridad del flujo. Imperativo solucionarlo antes del despliegue final. |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
 #### TABLA RESUMEN DE HALLAZGOS:
 
@@ -998,4 +990,4 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 
 ## 5.4. Video About-the-Product
 
-* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JI1gcu
+* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** [[Ver Video]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JI1gcu)
