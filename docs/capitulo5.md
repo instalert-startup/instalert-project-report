@@ -662,12 +662,18 @@ El backlog de este sprint comprende las tareas, conexiones de endpoints y ajuste
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+En la presente tabla se listan los identificadores de confirmación (commits) y la distribución del desarrollo del ecosistema InstAlert (incluyendo tanto el Frontend como el Backend) en los repositorios de control de versiones de GitHub. Esta matriz refleja las ramas exactas de integración (`fix/` y principales) utilizadas para conectar los servicios y desplegar el sistema durante el Sprint 4:
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| instalert-startup/instalert-frontend | fix/emergencies | c3b0e27 | refactor: Update EmergenciesViewComponent | Refactor EmergenciesViewComponent with new services | 04/07/2026 |
+| instalert-startup/instalert-frontend | fix/admin | ce82abd | feat: Add Admin context features | Add BCrypt-safe login, incident management, edit user, charts and indigo redesign | 04/07/2026 |
+| instalert-startup/instalert-frontend | fix/communities | 5c33071 | fix: Update community contacts logic | Add functionality to remove community chat from contacts | 04/07/2026 |
+| instalert-startup/instalert-frontend | develop | 47fed87 | feat: Connect real data to UI | Remove hardcoded mock data from dashboard and emergencies view, connect real data | 04/07/2026 |
+| instalert-startup/instalert-frontend | main | 5804f63 | chore: Update API endpoints | Update production URL to Railway | 30/06/2026 |
+| instalert-startup/instalert-backend | fix/communities | 17e0cfa | fix: Update community assembler | Include ownerId in CreateCommunityCommandFromResourceAssembler for community creation | 30/06/2026 |
+| instalert-startup/instalert-backend | develop | c5e441f | chore: Add WebConfig | Add web config | 30/06/2026 |
+| instalert-startup/instalert-backend | master | c5e441f | fix: Update community entity | Add ownerId field to CommunityPersistenceEntity with corresponding getters and setters | 04/07/2026 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
