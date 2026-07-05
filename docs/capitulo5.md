@@ -641,12 +641,24 @@ Los 5 Bounded Contexts definidos para la integración en este Sprint son:
 
 #### 5.2.4.3. Sprint Backlog 4
 
+El backlog de este sprint comprende las tareas, conexiones de endpoints y ajustes de lógica necesarios para lograr la integración total entre la aplicación web (Frontend) y los servicios de infraestructura (Backend), garantizando la persistencia real en la base de datos MySQL. Adicionalmente, incluye la estructuración del nuevo contexto de administración y las mejoras documentales correspondientes a la iteración pasada.
+
 | User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
 |---|---|---|---|---|---|---|
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+| **US-29 / US-30** | T01 | Conexión B.C. Admin - Lógica de Roles | Implementar guardias de ruta en el frontend y enlazar con la validación de rangos del backend para restringir accesos según el tipo de usuario. | 5h | Jhoan Janampa | Done |
+| **US-01 / US-02** | T02 | Integración B.C. Account - Login y Registro | Conectar los formularios visuales de creación de cuenta y autenticación con los endpoints REST del servidor. | 4h | Jhoan Janampa | Done |
+| **US-03** | T03 | Gestión de Sesión y Tokens JWT | Configurar el almacenamiento seguro del token de sesión en la aplicación web e inyectarlo en las cabeceras de peticiones HTTP. | 4h | Jhoan Janampa | Done |
+| **DOC-01** | T04 | Correcciones del Entregable Anterior | Subsanar las observaciones reportadas en el informe pasado y refinar la redacción de los componentes arquitectónicos. | 3h | Jhoan Janampa | Done |
+| **US-04** | T05 | Integración B.C. Emergencies - Botón de Pánico | Enlazar el botón principal de emergencias en la UI con el servicio `POST` para registrar la alerta activa en la base de datos. | 5h | Sebastian Diaz | Done |
+| **US-05** | T06 | Persistencia de Coordenadas de Alerta | Asegurar que el payload de geolocalización (latitud y longitud) extraído por el frontend se mapee y guarde correctamente en MySQL. | 4h | Sebastian Diaz | Done |
+| **US-08** | T07 | Renderizado de Historial de Emergencias | Consumir el endpoint `GET` correspondiente para poblar la vista del historial de alertas pasadas del usuario. | 3h | Sebastian Diaz | Done |
+| **US-12** | T08 | Integración B.C. Communities - CRUD | Conectar la vista de creación y configuración de juntas vecinales con la API de persistencia. | 5h | Breithner Perez | Done |
+| **US-13** | T09 | Conexión de Feed y Solicitudes Vecinales | Enlazar los módulos de solicitudes de apoyo y listado de participantes con los microservicios comunitarios correspondientes. | 4h | Breithner Perez | Done |
+| **US-09** | T10 | Integración B.C. Incidents - Envío de Reportes | Conectar el formulario de reportes de incidentes (robos, zonas sin luz) con la API, validando la inserción de datos. | 5h | Piero Molina | Done |
+| **US-10** | T11 | Integración de Evidencias Gráficas | Enlazar el componente visual de carga de imágenes de los reportes con la lógica de recepción de archivos del servidor. | 4h | Piero Molina | Done |
+| **US-18** | T12 | Población de Datos del Mapa de Calor | Consumir los datos de incidentes registrados mediante `GET` y trazar dinámicamente los marcadores de riesgo en el mapa interactivo. | 5h | Piero Molina | Done |
+| **US-19** | T13 | Conexión de Filtros de Riesgo | Asociar los controles de filtrado de la interfaz (nivel de riesgo, fecha) a los parámetros de búsqueda del backend para actualizar el mapa. | 3h | Piero Molina | Done |
+| **QA-01** | T14 | Pruebas E2E de Persistencia MySQL | Ejecutar simulaciones integrales para validar que toda la información ingresada en el frontend se persista y recupere sin alteraciones en la base de datos. | 4h | Todos | Done |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
@@ -659,18 +671,142 @@ Los 5 Bounded Contexts definidos para la integración en este Sprint son:
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante el desarrollo del Sprint 4, la aplicación web de InstAlert evolucionó hacia su fase definitiva, dejando atrás las simulaciones de estado local (Angular Signals con datos hardcodeados y `localStorage`) para consolidar una **integración Full-Stack** mediante el consumo de servicios backend reales y persistencia en una base de datos MySQL. Esta transición permitió validar el contrato de servicios definido en OpenAPI/Swagger y garantizar la consistencia en el procesamiento de información relacionada con incidentes de seguridad ciudadana.
+
+Asimismo, se estructuró el flujo de trabajo mediante ramas de integración (`fix/{bounded_context}`), lo que permitió solucionar problemas de CORS, ajustar los adaptadores HTTP del frontend y asegurar que la arquitectura basada en Domain-Driven Design (DDD) respondiera de manera óptima y escalable.
+
+A continuación, se detallan los avances y las conexiones de endpoints realizadas por Bounded Contexts:
+
+**1. Account & Admin (Seguridad, Identidad y Roles)**
+* **Users & Authentication:** Se conectaron los formularios visuales de registro y login con los endpoints del backend, permitiendo la creación de cuentas reales y la validación de credenciales. Se consumen activamente los servicios:
+    * `POST /api/v1/users` (Registro de nuevos ciudadanos).
+    * `POST /api/v1/users/login` (Autenticación de sesiones).
+* **Admin & Role Management:** Se implementó el panel de administración dinámico para la gestión de accesos, actualización de datos y asignación de rangos (Admin/Ciudadano verificado), consumiendo:
+    * `GET /api/v1/users` y `GET /api/v1/users/{id}` (Lectura de usuarios).
+    * `PUT /api/v1/users/{id}` y `PUT /api/v1/users/{id}/password` (Actualización de perfiles y seguridad).
+    * `PUT /api/v1/users/{id}/role` (Gestión de permisos de administrador).
+    * `DELETE /api/v1/users/{id}` (Eliminación de cuentas).
+
+**2. Emergencies (Botón de Pánico y Geolocalización)**
+* **Emergency Dispatch:** Se enlazó el botón principal de emergencias en la UI (Dashboard) con el servicio de persistencia, capturando automáticamente el GPS del navegador mediante la fórmula Haversine y OpenStreetMap (Nominatim) para mapear coordenadas reales.
+    * `POST /api/v1/emergencies` (Emisión de alerta activa con latitud, longitud y precisión).
+* **Emergency Lifecycle:** Se integró la lógica reactiva para visualizar, actualizar y cancelar alertas en curso sin perder sincronía al recargar la página.
+    * `GET /api/v1/emergencies` y `GET /api/v1/emergencies/{id}` (Población del historial de alertas).
+    * `PATCH /api/v1/emergencies/{id}` (Actualización del estado a "Cancelada").
+
+**3. Communities (Gestión de Redes Vecinales)**
+* **Community Management:** Se reemplazó el almacenamiento en memoria por peticiones REST para la creación, consulta y administración de juntas vecinales, fortaleciendo la organización de redes de seguridad locales.
+    * `POST /api/v1/communities` (Creación de nuevas comunidades públicas o privadas).
+    * `GET /api/v1/communities` y `GET /api/v1/communities/{communityId}` (Consulta y renderizado del listado vecinal).
+    * `DELETE /api/v1/communities/{communityId}` (Eliminación controlada de grupos).
+
+**4. Incidents (Reportes y Mapa de Calor)**
+* **Incident Reporting:** Se conectó el formulario de reportes comunitarios, permitiendo a los usuarios clasificar eventos (robos, accidentes, etc.) y enviarlos directamente al backend con su respectiva severidad.
+    * `POST /api/v1/incidents` (Creación de nuevos reportes de incidentes).
+* **Heatmap & Monitoring:** El mapa interactivo principal ahora se alimenta dinámicamente de la base de datos, trazando marcadores de riesgo según la criticidad del evento y permitiendo a los ciudadanos o administradores gestionar su ciclo de vida.
+    * `GET /api/v1/incidents` y `GET /api/v1/incidents/{incidentId}` (Recuperación de eventos para poblar el mapa de calor).
+    * `PUT /api/v1/incidents/{incidentId}/status` (Cambio de estado del incidente, ej. de "Activo" a "Resuelto").
+    * `DELETE /api/v1/incidents/{incidentId}` (Eliminación de reportes).
+
+**Contribuciones del Equipo**
+Durante este Sprint final de desarrollo, el esfuerzo colectivo se centró en la depuración y sincronización del cliente con el servidor. El uso del patrón `Adapter` y los `Stores` de Angular Signals facilitó la sustitución del código *hardcodeado* por llamadas HTTP a los endpoints mencionados, gestionando eficientemente las respuestas asíncronas y los posibles errores de red. Las responsabilidades se mantuvieron separadas, asignando a cada miembro la integración de su respectivo Bounded Context, asegurando una cobertura total.
+
+**Resultados del Sprint**
+Como resultado de este Sprint, InstAlert logró consolidarse como una aplicación *Full-Stack* robusta, estable y conectada. Se eliminó por completo la dependencia de datos simulados y el almacenamiento volátil, garantizando que cada flujo (desde la autenticación hasta la emisión de una alerta crítica) transite limpiamente desde la interfaz del usuario hasta la base de datos relacional MySQL. La correcta integración con Swagger/OpenAPI validó el contrato de los microservicios, entregando un producto final listo para su despliegue y validación en entornos reales.
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+La especificación, estructura y contratos de comunicación de los servicios web para la aplicación de seguridad InstAlert se detallan en la siguiente matriz técnica. Cabe destacar que, acorde a la arquitectura real implementada, los servicios están diseñados bajo el ecosistema de **Spring Boot (Java)**, interactuando de forma nativa con el motor relacional de base de datos MySQL.
+
+Para este Sprint 4, la matriz refleja la totalidad de los endpoints expuestos en el backend y consumidos exitosamente por el frontend para completar los flujos *end-to-end*:
+
 | Endpoint | Verbo HTTP | Descripción |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+| :--- | :--- | :--- |
+| **Incidents (Reportes y Mapa de Calor)** | | |
+| `/api/v1/incidents` | GET | Obtiene todos los incidentes registrados. |
+| `/api/v1/incidents` | POST | Crea un nuevo reporte de incidente. |
+| `/api/v1/incidents/{incidentId}` | GET | Obtiene un incidente específico por su identificador. |
+| `/api/v1/incidents/{incidentId}/status` | PUT | Actualiza el estado de un incidente (ej. Activo a Resuelto). |
+| `/api/v1/incidents/{incidentId}` | DELETE | Elimina un incidente por su identificador. |
+| **Communities (Juntas Vecinales)** | | |
+| `/api/v1/communities` | GET | Obtiene la lista completa de juntas vecinales. |
+| `/api/v1/communities` | POST | Crea una nueva junta vecinal (Pública o Privada). |
+| `/api/v1/communities/{communityId}` | GET | Obtiene los detalles de una junta vecinal específica. |
+| `/api/v1/communities/{communityId}` | DELETE | Elimina una junta vecinal por su identificador. |
+| **Users (Account & Admin)** | | |
+| `/api/v1/users` | GET | Obtiene la lista de todos los usuarios registrados. |
+| `/api/v1/users` | POST | Crea (registra) un nuevo usuario ciudadano. |
+| `/api/v1/users/login` | POST | Autentica y valida el inicio de sesión de un usuario. |
+| `/api/v1/users/{id}` | GET | Obtiene un usuario específico por su identificador. |
+| `/api/v1/users/{id}` | PUT | Actualiza los datos personales de perfil de un usuario. |
+| `/api/v1/users/{id}/password` | PUT | Actualiza de forma segura la contraseña de un usuario. |
+| `/api/v1/users/{id}/role` | PUT | Modifica los permisos o el rol de un usuario (Panel Admin). |
+| `/api/v1/users/{id}` | DELETE | Elimina la cuenta de un usuario por identificador. |
+| **Emergencies (Botón de Pánico)** | | |
+| `/api/v1/emergencies` | GET | Obtiene el historial completo de las alertas de emergencia. |
+| `/api/v1/emergencies` | POST | Emite una nueva alerta de emergencia con geolocalización. |
+| `/api/v1/emergencies/{id}` | GET | Obtiene una alerta de emergencia específica por identificador. |
+| `/api/v1/emergencies/{id}` | PATCH | Actualiza el estado de una alerta (ej. para marcarla como Cancelada). |
+
+La estandarización visual y las pruebas del contrato de interfaces se consolidaron de manera definitiva mediante OpenAPI (Swagger UI). Esta consola interactiva facilitó la verificación de la persistencia de datos y los códigos de respuesta HTTP (`200 OK`, `201 Created` para inserciones, `204 No Content` para eliminaciones, y respuestas de la familia `4XX` para manejo de errores de validación) de manera unificada. Esto garantizó que el equipo de desarrollo dispusiera de un entorno ágil para depurar la conexión final, logrando una integración exitosa y sin discrepancias con el cliente desarrollado en Angular.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 4, el equipo se centró en la integración total de la aplicación web de InstAlert y el despliegue de los servicios backend en un entorno en la nube. A continuación, se detallan los pasos realizados para asegurar que la API y la base de datos estuvieran correctamente implementadas y accesibles en producción.
+
+#### Actividades de Despliegue:
+
+1.  **Desarrollo y Consolidación de la API Backend:**
+    * La API RESTful fue desarrollada utilizando **Spring Boot (Java)** como el *framework* principal de trabajo y **MySQL** como sistema de gestión de bases de datos relacional. La API permite la gestión de los Bounded Contexts clave: Perfiles/Administración, Emergencias (Botón de pánico), Comunidades e Incidentes.
+
+2.  **Despliegue en el Entorno de Desarrollo:**
+    * Se utilizó **Swagger (OpenAPI)** para documentar la API, proporcionando una interfaz interactiva (`/swagger-ui/index.html`) que permite explorar, probar y validar todos los endpoints durante el desarrollo local.
+
+3.  **Despliegue en el Entorno de Producción:**
+    * La API fue desplegada en el entorno de producción utilizando **Railway**, una plataforma de nube moderna que permite integración continua (CI/CD) directa desde los repositorios de GitHub.
+    * Se implementaron variables de entorno dinámicas (`PORT`, `SPRING_DATASOURCE_URL`, etc.) para asegurar que la aplicación asigne automáticamente los puertos y credenciales que la nube le provee.
+
+4.  **Configuración y Gestión de la Base de Datos:**
+    * Se provisionó un servicio de **MySQL** directamente en los servidores de producción de Railway.
+    * Gracias a la configuración de *Hibernate* (`spring.jpa.hibernate.ddl-auto=update`), las tablas y relaciones de la base de datos se migraron y construyeron de forma automática y segura durante el primer arranque del servidor en la nube.
+
+#### Deployment en Railway
+
+Para realizar la publicación del proyecto backend en Railway, se siguieron los pasos a continuación:
+
+* **Preparación del código fuente:** Asegurar que el archivo `application.properties` esté configurado para leer variables de entorno en lugar de credenciales estáticas.
+* **Creación del proyecto en Railway:** Acceder al panel de control de Railway y crear un nuevo proyecto vacío.
+* **Provisión de la Base de Datos:** Dentro del proyecto en Railway, agregar un nuevo servicio (plugin) seleccionando **MySQL**. Esto genera instantáneamente las credenciales de producción (URL, usuario y contraseña).
+* **Conexión con GitHub:** Agregar un nuevo servicio seleccionando la opción "GitHub Repo". Se vincula el repositorio `instalert-startup/instalert-backend` y se selecciona la rama principal de producción.
+* **Configuración de Variables de Entorno:** En la pestaña *Variables* del servicio web en Railway, se enlazan las variables generadas por MySQL (`DATABASE_URL`, `DATABASE_USER`, etc.) para que Spring Boot pueda inyectarlas en el `application.properties`.
+* **Proceso de Build y Deploy:** Railway detecta automáticamente que es un proyecto Maven/Java y comienza la etapa de construcción (Build). Una vez finalizada con éxito, se ejecuta la fase de despliegue.
+* **Generación del Dominio Público:** Railway asigna un dominio público para la API (ej. `https://instalert-backend-production.up.railway.app`).
+* **Verificación en Swagger:** Al acceder a la URL pública generada, añadiendo la ruta `/swagger-ui/index.html`, se carga exitosamente la interfaz de documentación, comprobando que los endpoints están activos y conectados a la base de datos en la nube.
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+La dinámica colaborativa del equipo técnico durante el Sprint 4 se centró en la fase crítica de integración total y despliegue del sistema. Se adaptó la estrategia de ramificación en los repositorios, utilizando prefijos de integración tipo `fix/` (como `fix/emergencies`, `fix/admin` o `fix/communities`) para aislar los ajustes de conexión, la resolución de políticas de CORS y el acoplamiento de los adaptadores HTTP del frontend, sin comprometer la estabilidad del código base.
+
+Las revisiones cruzadas de código mediante *Pull Requests* continuaron siendo el pilar para fusionar los cambios de manera segura hacia la rama principal. Asimismo, las reuniones de sincronización (*Daily Standups*) fueron fundamentales en esta iteración para resolver de forma ágil los bloqueos técnicos derivados de la comunicación asíncrona entre el cliente web en Angular y los microservicios en Spring Boot.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante la documentación del proyecto.
+
+##### Project Report Collaboration Insights
+
+*(Espacio para insertar imagen de los insights del repositorio del informe)*
+
+##### Contributors
+
+*(Espacio para insertar imagen de los contribuyentes del informe)*
+
+Durante el Sprint 4, el equipo colaboró activamente en la consolidación del ecosistema **InstAlert** (Frontend y Backend). A través de GitHub se gestionó la implementación del nuevo Bounded Context de administración, el ajuste de las entidades de dominio y la conexión definitiva de los endpoints REST. Esto permitió lograr el objetivo principal del sprint: una integración continua que culminó con el despliegue exitoso en producción utilizando la plataforma Railway y la persistencia real en la base de datos MySQL.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación técnica registrados en los repositorios de código durante este sprint de cierre.
+
+##### Análisis de Colaboración
+
+*(Espacio para insertar imagen del Pulse / Insights del repositorio de código)*
 
 ## 5.3. Validation Interviews
 
