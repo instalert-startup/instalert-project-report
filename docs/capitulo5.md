@@ -607,28 +607,37 @@ A continuación, se presentan las métricas de colaboración y los principales i
 | Sprint # | Sprint 4 |
 |---|---|
 | **Sprint Planning Background** | |
-| **Date** | |
-| **Time** | |
-| **Location** | |
-| **Prepared By** | |
-| **Attendees (to planning meeting)** | |
-| **Sprint n - 4 Review Summary** | |
-| **Sprint n - 4 Retrospective Summary** | |
+| **Date** | 2026-07-01 |
+| **Time** | 11:00 PM |
+| **Location** | Google Meet |
+| **Prepared By** | Jhoan Darner Janampa Gutierrez |
+| **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Rodrigo Fabrizio Aguilar Untiveros / Alexander Paolo Justo Yauricasa / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
+| **Sprint n - 4 Review Summary** | Durante el Sprint 4, el equipo enfocó sus esfuerzos principales en la conexión e integración total del frontend con los servicios del backend del proyecto. Asimismo, se desarrolló e implementó el nuevo Bounded Context de Admin, el cual se encarga de validar y gestionar el acceso a usuarios con diferentes rangos y permisos dentro de la aplicación. Esta iteración estuvo liderada por Jhoan Darner Janampa Gutierrez. Para lograr una conexión fluida entre el cliente y el servidor, se distribuyeron los Bounded Contexts: Breithner Perez trabajó en Communities, Piero Molina en Incidents, y Sebastian Diaz en Emergencies, quien también supervisó las correcciones del informe y observaciones del entregable anterior. Finalmente, se comprobó con éxito que los datos registrados a través de la aplicación web se almacenan correctamente en la base de datos MySQL del backend. |
+| **Sprint n - 4 Retrospective Summary** | El equipo reconoció que la fase de conexión e integración entre el frontend y el backend representó un desafío técnico significativo, demandando una alta carga de depuración de errores y ajustes en los controladores. Sin embargo, la comunicación constante y la asignación clara de responsabilidades por Bounded Context permitieron superar estos obstáculos técnicos, logrando consolidar la conexión de manera exitosa y obteniendo un producto estable. |
 | **Sprint Goal & User Stories** | |
-| **Sprint Goal** | |
-| **Sprint Velocity** | |
-| **Sum of Story Points** | |
+| **Sprint Goal** | Realizar la integración completa y definitiva entre el frontend y el backend de la aplicación, asegurando la persistencia de datos y el correcto consumo de las APIs. El objetivo principal es pulir el proyecto en su totalidad, garantizando la estabilidad de los flujos de usuario, la validación de roles de administración y la entrega del resultado final del producto completamente funcional. |
+| **Sprint Velocity** | 100 |
+| **Sum of Story Points** | 95 |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username | Bounded Context 1 | Bounded Context 2 | Bounded Context 3 | Bounded Context 4 |
-|---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+Durante el Sprint 4, la dinámica del equipo se centró en la conexión definitiva entre el frontend y el backend de InstAlert. Para estructurar este proceso de integración, no se desarrollaron los Bounded Contexts desde cero, sino que se crearon ramas específicas de integración bajo la nomenclatura `fix/{nombre_del_bounded}` (por ejemplo, `fix/emergencies`). Esto permitió aislar los cambios de conexión y asegurar una integración estable. 
+
+Con la finalidad de estructurar los flujos de trabajo de manera equitativa, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes activos del equipo. En este sprint, se reemplazó el contexto de Profiles por el de Account, y se añadió el nuevo contexto de Admin, ambos liderados por Jhoan Janampa.
+
+Los 5 Bounded Contexts definidos para la integración en este Sprint son:
+1. **Bounded Context de Account:** Conexión para registro, login y gestión de cuentas.
+2. **Bounded Context de Admin:** Validación de acceso a usuarios con diferentes rangos (ramas `fix/admin`).
+3. **Bounded Context de Emergencies:** Conexión y persistencia del botón de pánico (ramas `fix/emergencies`).
+4. **Bounded Context de Communities:** Conexión de canales vecinales y mensajería (ramas `fix/communities`).
+5. **Bounded Context de Incidents:** Conexión de creación de incidentes, evidencias y mapa de calor (ramas `fix/incidents`).
+
+| Team Member (Last Name, First Name) | GitHub Username | B.C. Account & Admin | B.C. Emergencies | B.C. Communities | B.C. Incidents |
+|-------------------------------------|-----------------|----------------------|------------------|------------------|----------------|
+| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | L                    | C                | C                | C              |
+| Diaz Mendoza, Sebastian Victor Andre| DiazDeveloper   | C                    | L                | C                | C              |
+| Perez Encarnación, Breithner Rodolfo| Breithner1      | C                    | C                | L                | C              |
+| Molina Falcón, Piero Leonardo       | PieroMFAL       | C                    | C                | C                | L              |
 
 #### 5.2.4.3. Sprint Backlog 4
 
