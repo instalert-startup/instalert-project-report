@@ -1,4 +1,4 @@
-<img width="615" height="685" alt="image" src="https://github.com/user-attachments/assets/25b3964c-9eeb-4b9f-b082-0f36c1a0df3f" /># Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
 
@@ -644,7 +644,7 @@ Los 5 Bounded Contexts definidos para la integración en este Sprint son:
 El backlog de este sprint comprende las tareas, conexiones de endpoints y ajustes de lógica necesarios para lograr la integración total entre la aplicación web (Frontend) y los servicios de infraestructura (Backend), garantizando la persistencia real en la base de datos MySQL. Adicionalmente, incluye la estructuración del nuevo contexto de administración y las mejoras documentales correspondientes a la iteración pasada.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/jiras4.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/jiras4.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 | User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
