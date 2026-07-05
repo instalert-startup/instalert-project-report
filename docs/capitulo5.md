@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment
+<img width="615" height="685" alt="image" src="https://github.com/user-attachments/assets/25b3964c-9eeb-4b9f-b082-0f36c1a0df3f" /># Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
 
@@ -643,6 +643,10 @@ Los 5 Bounded Contexts definidos para la integración en este Sprint son:
 
 El backlog de este sprint comprende las tareas, conexiones de endpoints y ajustes de lógica necesarios para lograr la integración total entre la aplicación web (Frontend) y los servicios de infraestructura (Backend), garantizando la persistencia real en la base de datos MySQL. Adicionalmente, incluye la estructuración del nuevo contexto de administración y las mejoras documentales correspondientes a la iteración pasada.
 
+<p align="center">
+  <img src="../assets/images/UX Canva/jiras4.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 | User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
 |---|---|---|---|---|---|---|
 | **US-29 / US-30** | T01 | Conexión B.C. Admin - Lógica de Roles | Implementar guardias de ruta en el frontend y enlazar con la validación de rangos del backend para restringir accesos según el tipo de usuario. | 5h | Jhoan Janampa | Done |
@@ -693,6 +697,10 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `PUT /api/v1/users/{id}/role` (Gestión de permisos de administrador).
     * `DELETE /api/v1/users/{id}` (Eliminación de cuentas).
 
+<p align="center">
+  <img src="../assets/images/UX Canva/swagAccount.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 **2. Emergencies (Botón de Pánico y Geolocalización)**
 * **Emergency Dispatch:** Se enlazó el botón principal de emergencias en la UI (Dashboard) con el servicio de persistencia, capturando automáticamente el GPS del navegador mediante la fórmula Haversine y OpenStreetMap (Nominatim) para mapear coordenadas reales.
     * `POST /api/v1/emergencies` (Emisión de alerta activa con latitud, longitud y precisión).
@@ -700,11 +708,19 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `GET /api/v1/emergencies` y `GET /api/v1/emergencies/{id}` (Población del historial de alertas).
     * `PATCH /api/v1/emergencies/{id}` (Actualización del estado a "Cancelada").
 
+<p align="center">
+  <img src="../assets/images/UX Canva/swagEmergencies.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 **3. Communities (Gestión de Redes Vecinales)**
 * **Community Management:** Se reemplazó el almacenamiento en memoria por peticiones REST para la creación, consulta y administración de juntas vecinales, fortaleciendo la organización de redes de seguridad locales.
     * `POST /api/v1/communities` (Creación de nuevas comunidades públicas o privadas).
     * `GET /api/v1/communities` y `GET /api/v1/communities/{communityId}` (Consulta y renderizado del listado vecinal).
     * `DELETE /api/v1/communities/{communityId}` (Eliminación controlada de grupos).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/swagCommunities.png" alt="Insights Repositorio Backend" width="500">
+</p>
 
 **4. Incidents (Reportes y Mapa de Calor)**
 * **Incident Reporting:** Se conectó el formulario de reportes comunitarios, permitiendo a los usuarios clasificar eventos (robos, accidentes, etc.) y enviarlos directamente al backend con su respectiva severidad.
@@ -713,6 +729,10 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `GET /api/v1/incidents` y `GET /api/v1/incidents/{incidentId}` (Recuperación de eventos para poblar el mapa de calor).
     * `PUT /api/v1/incidents/{incidentId}/status` (Cambio de estado del incidente, ej. de "Activo" a "Resuelto").
     * `DELETE /api/v1/incidents/{incidentId}` (Eliminación de reportes).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/swagIncidents.png" alt="Insights Repositorio Backend" width="500">
+</p>
 
 **Contribuciones del Equipo**
 Durante este Sprint final de desarrollo, el esfuerzo colectivo se centró en la depuración y sincronización del cliente con el servidor. El uso del patrón `Adapter` y los `Stores` de Angular Signals facilitó la sustitución del código *hardcodeado* por llamadas HTTP a los endpoints mencionados, gestionando eficientemente las respuestas asíncronas y los posibles errores de red. Las responsabilidades se mantuvieron separadas, asignando a cada miembro la integración de su respectivo Bounded Context, asegurando una cobertura total.
@@ -782,13 +802,42 @@ Durante el Sprint 4, el equipo se centró en la integración total de la aplicac
 Para realizar la publicación del proyecto backend en Railway, se siguieron los pasos a continuación:
 
 * **Preparación del código fuente:** Asegurar que el archivo `application.properties` esté configurado para leer variables de entorno en lugar de credenciales estáticas.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p1.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 * **Creación del proyecto en Railway:** Acceder al panel de control de Railway y crear un nuevo proyecto vacío.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p2.png" alt="Insights Repositorio Backend" width="500">
+</p>
+  
 * **Provisión de la Base de Datos:** Dentro del proyecto en Railway, agregar un nuevo servicio (plugin) seleccionando **MySQL**. Esto genera instantáneamente las credenciales de producción (URL, usuario y contraseña).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p3.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 * **Conexión con GitHub:** Agregar un nuevo servicio seleccionando la opción "GitHub Repo". Se vincula el repositorio `instalert-startup/instalert-backend` y se selecciona la rama principal de producción.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p4.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 * **Configuración de Variables de Entorno:** En la pestaña *Variables* del servicio web en Railway, se enlazan las variables generadas por MySQL (`DATABASE_URL`, `DATABASE_USER`, etc.) para que Spring Boot pueda inyectarlas en el `application.properties`.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p5.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
 * **Proceso de Build y Deploy:** Railway detecta automáticamente que es un proyecto Maven/Java y comienza la etapa de construcción (Build). Una vez finalizada con éxito, se ejecuta la fase de despliegue.
 * **Generación del Dominio Público:** Railway asigna un dominio público para la API (ej. `https://instalert-backend-production.up.railway.app`).
 * **Verificación en Swagger:** Al acceder a la URL pública generada, añadiendo la ruta `/swagger-ui/index.html`, se carga exitosamente la interfaz de documentación, comprobando que los endpoints están activos y conectados a la base de datos en la nube.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p8.png" alt="Insights Repositorio Backend" width="500">
+</p>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -798,13 +847,17 @@ Las revisiones cruzadas de código mediante *Pull Requests* continuaron siendo e
 
 A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante la documentación del proyecto.
 
-##### Project Report Collaboration Insights
+##### Project Collaboration Insights
 
-*(Espacio para insertar imagen de los insights del repositorio del informe)*
+<p align="center">
+  <img src="../assets/images/UX Canva/Insights4.png" alt="Insights Repositorio Backend" width="500">
+</p>
 
 ##### Contributors
 
-*(Espacio para insertar imagen de los contribuyentes del informe)*
+<p align="center">
+  <img src="../assets/images/UX Canva/s4contributors.png" alt="Insights Repositorio Backend" width="500">
+</p>
 
 Durante el Sprint 4, el equipo colaboró activamente en la consolidación del ecosistema **InstAlert** (Frontend y Backend). A través de GitHub se gestionó la implementación del nuevo Bounded Context de administración, el ajuste de las entidades de dominio y la conexión definitiva de los endpoints REST. Esto permitió lograr el objetivo principal del sprint: una integración continua que culminó con el despliegue exitoso en producción utilizando la plataforma Railway y la persistencia real en la base de datos MySQL.
 
@@ -812,7 +865,13 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 ##### Análisis de Colaboración
 
-*(Espacio para insertar imagen del Pulse / Insights del repositorio de código)*
+<p align="center">
+  <img src="../assets/images/UX Canva/Insights4.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+<p align="center">
+  <img src="../assets/images/UX Canva/s4contributors.png" alt="Insights Repositorio Backend" width="500">
+</p>
 
 ## 5.3. Validation Interviews
 
