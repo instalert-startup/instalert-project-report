@@ -600,6 +600,68 @@ A continuación, se presentan las métricas de colaboración y los principales i
   <img src="../assets/images/UX Canva/backcontri.png" alt="Insights Repositorio Backend" width="500">
 </p>
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint # | Sprint 4 |
+|---|---|
+| **Sprint Planning Background** | |
+| **Date** | |
+| **Time** | |
+| **Location** | |
+| **Prepared By** | |
+| **Attendees (to planning meeting)** | |
+| **Sprint n - 4 Review Summary** | |
+| **Sprint n - 4 Retrospective Summary** | |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | |
+| **Sprint Velocity** | |
+| **Sum of Story Points** | |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Bounded Context 1 | Bounded Context 2 | Bounded Context 3 | Bounded Context 4 |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+| User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+| Endpoint | Verbo HTTP | Descripción |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
 
 ## 5.3. Validation Interviews
 
