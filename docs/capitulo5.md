@@ -698,7 +698,7 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `DELETE /api/v1/users/{id}` (Eliminación de cuentas).
 
 <p align="center">
-  <img src="../assets/images/UX Canva/swagAccount.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/swagAccount.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 **2. Emergencies (Botón de Pánico y Geolocalización)**
@@ -709,7 +709,7 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `PATCH /api/v1/emergencies/{id}` (Actualización del estado a "Cancelada").
 
 <p align="center">
-  <img src="../assets/images/UX Canva/swagEmergencies.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/swagEmergencies.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 **3. Communities (Gestión de Redes Vecinales)**
@@ -719,7 +719,7 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `DELETE /api/v1/communities/{communityId}` (Eliminación controlada de grupos).
 
 <p align="center">
-  <img src="../assets/images/UX Canva/swagCommunities.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/swagCommunities.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 **4. Incidents (Reportes y Mapa de Calor)**
@@ -731,7 +731,7 @@ A continuación, se detallan los avances y las conexiones de endpoints realizada
     * `DELETE /api/v1/incidents/{incidentId}` (Eliminación de reportes).
 
 <p align="center">
-  <img src="../assets/images/UX Canva/swagIncidents.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/swagIncidents.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 **Contribuciones del Equipo**
@@ -804,31 +804,31 @@ Para realizar la publicación del proyecto backend en Railway, se siguieron los 
 * **Preparación del código fuente:** Asegurar que el archivo `application.properties` esté configurado para leer variables de entorno en lugar de credenciales estáticas.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/5247p1.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/5247p1.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 * **Creación del proyecto en Railway:** Acceder al panel de control de Railway y crear un nuevo proyecto vacío.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/5247p2.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/5247p2.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
   
 * **Provisión de la Base de Datos:** Dentro del proyecto en Railway, agregar un nuevo servicio (plugin) seleccionando **MySQL**. Esto genera instantáneamente las credenciales de producción (URL, usuario y contraseña).
 
 <p align="center">
-  <img src="../assets/images/UX Canva/5247p3.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/5247p3.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 * **Conexión con GitHub:** Agregar un nuevo servicio seleccionando la opción "GitHub Repo". Se vincula el repositorio `instalert-startup/instalert-backend` y se selecciona la rama principal de producción.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/5247p4.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/5247p4.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 * **Configuración de Variables de Entorno:** En la pestaña *Variables* del servicio web en Railway, se enlazan las variables generadas por MySQL (`DATABASE_URL`, `DATABASE_USER`, etc.) para que Spring Boot pueda inyectarlas en el `application.properties`.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/5247p5.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/5247p5.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 * **Proceso de Build y Deploy:** Railway detecta automáticamente que es un proyecto Maven/Java y comienza la etapa de construcción (Build). Una vez finalizada con éxito, se ejecuta la fase de despliegue.
@@ -836,7 +836,7 @@ Para realizar la publicación del proyecto backend en Railway, se siguieron los 
 * **Verificación en Swagger:** Al acceder a la URL pública generada, añadiendo la ruta `/swagger-ui/index.html`, se carga exitosamente la interfaz de documentación, comprobando que los endpoints están activos y conectados a la base de datos en la nube.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/5247p8.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/5247p8.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -850,13 +850,13 @@ A continuación, se presentan las métricas de colaboración y los principales i
 ##### Project Collaboration Insights
 
 <p align="center">
-  <img src="../assets/images/UX Canva/Insights4.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/Insights4.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 ##### Contributors
 
 <p align="center">
-  <img src="../assets/images/UX Canva/s4contributors.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/s4contributors.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 Durante el Sprint 4, el equipo colaboró activamente en la consolidación del ecosistema **InstAlert** (Frontend y Backend). A través de GitHub se gestionó la implementación del nuevo Bounded Context de administración, el ajuste de las entidades de dominio y la conexión definitiva de los endpoints REST. Esto permitió lograr el objetivo principal del sprint: una integración continua que culminó con el despliegue exitoso en producción utilizando la plataforma Railway y la persistencia real en la base de datos MySQL.
@@ -866,11 +866,11 @@ A continuación, se presentan las métricas de colaboración y los principales i
 ##### Análisis de Colaboración
 
 <p align="center">
-  <img src="../assets/images/UX Canva/Insights4.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/Insights4.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 <p align="center">
-  <img src="../assets/images/UX Canva/s4contributors.png" alt="Insights Repositorio Backend" width="500">
+  <img src="../assets/images/UX Canva/s4contributors.PNG" alt="Insights Repositorio Backend" width="500">
 </p>
 
 ## 5.3. Validation Interviews
