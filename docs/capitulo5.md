@@ -19,7 +19,6 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - Frontend: Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
 
 - Configuración del Entorno de Desarrollo ItelliJ IDEA
-
     - Editor de Código: IntelliJ IDEA.
     - Propósito: Desarrollo de software y edición de código.
     - Ruta de descarga: https://www.jetbrains.com/idea/download/
@@ -41,7 +40,9 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 **Software Development HTML:**
 
 - Descripción: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
-- Enlace: https://www.w3schools.com/html/default.asp CSS:
+- Enlace: https://www.w3schools.com/html/default.asp 
+
+**CSS:**
 
 Con KSI, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
 
@@ -72,16 +73,17 @@ En el Source Code Style Guide, presentaremos las convenciones, estilos, diseños
 
 - Nombres Descriptivos: Utiliza nombres de clases e IDs que sean descriptivos y significativos, facilitando la comprensión del propósito de cada elemento. Por ejemplo, en lugar de box, usa project-card.
 - Indentación: Indenta correctamente el código HTML para mejorar la legibilidad y mantener una estructura clara.
-- Etiquetas Semánticas: Emplea etiquetas semánticas apropiadas, como <header>, <nav>, <main>, y <footer>, para mejorar la accesibilidad y el SEO del sitio.
+- Etiquetas Semánticas: Emplea etiquetas semánticas apropiadas, como `<header>`, `<nav>`, `<main>`, y `<footer>`, para mejorar la accesibilidad y el SEO del sitio.
 - Comentarios: Usa comentarios para explicar secciones complejas o partes importantes del código HTML, facilitando la comprensión para otros desarrolladores.
 
 **CSS**
 
 - Nombres Descriptivos: Utiliza nombres de clases y selectores que sean descriptivos y coherentes para facilitar la identificación y el mantenimiento de los estilos. Por ejemplo, usa btn-submit en lugar de btn.
-- Agrupación y Comentarios: Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros, como /_ Estilos de botones _/. Esto organiza el código y facilita su navegación.
+- Agrupación y Comentarios: Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros, como `/* Estilos de botones */`. Esto organiza el código y facilita su navegación.
 - Preferencia por Clases: Prefiere el uso de clases en lugar de IDs para estilos reutilizables y más flexibles.
 - Compatibilidad y Prefijos: Utiliza prefijos de vendedor y asegúrate de que el código sea compatible con diferentes navegadores cuando sea necesario.
 - Medidas Relativas: Usa medidas relativas como em, rem, y % en lugar de medidas absolutas para mejorar la flexibilidad y la accesibilidad del diseño.
+
 ### 5.1.4. Software Deployment Configuration.
 
 En los siguientes pasos se explicará cómo llevar a cabo la implementación de nuestro sitio web utilizando GitHub Pages
@@ -96,7 +98,7 @@ Dentro del menú de ajustes, elegimos la opción "Pages".
 
 En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save". Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
 
-### 5.2. Landing Page, Services & Applications Implementation
+## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
@@ -150,14 +152,17 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En este Sprint, los miembros del equipo de desarrollo de software de KSI han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
-<img src="Imagen/landingPage-InstAlert.png">
+<p align="center">
+  <img src="Imagen/landingPage-InstAlert.png" alt="Landing Page InstAlert">
+</p>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Resumen Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
+**Resumen**
+Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
 
 **Actividades Realizadas**
 
@@ -171,6 +176,7 @@ Repositorio de Código: Configuración del repositorio en GitHub para la integra
 Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting. Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
 Enlace al Repositorio: https://github.com/instalert-startup/landing-page 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
 
@@ -178,10 +184,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - Documentación y Despliegue: Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 URL LANDING PAGE DESPLEGADA: https://instalert-startup.github.io/landing-page/
 
-
 ### 5.2.2. Sprint 2
-
-#### 5.2.2.1. Sprint Planning 2
 
 #### 5.2.2.1. Sprint Planning 2
 
@@ -275,40 +278,61 @@ Evidencia visual:
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas en este Sprint:
 
-incio de sesion
+Inicio de sesión
 
-<img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Inicio de sesión" width="700">
+</p>
 
-Configuracion de perfil
+Configuración de perfil
 
-<img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Configuración de perfil 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Configuración de perfil 2" width="700">
+</p>
 
-Boton de panico
+Botón de pánico
 
-<img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Botón de pánico 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Botón de pánico 2" width="700">
+</p>
 
 Reportes
 
-<img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Reportes 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Reportes 2" width="700">
+</p>
 
 Mapa de Riesgo
 
-<img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Mapa de Riesgo 1" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Mapa de Riesgo 2" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia11.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia11.jpeg" alt="Mapa de Riesgo 3" width="700">
+</p>
 
-<img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Tipografía" width="700">
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Mapa de Riesgo 4" width="700">
+</p>
 
 **Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
-
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -339,6 +363,901 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 - **Diseño y Desarrollo:** [Resumen de cómo se dividieron y ejecutaron las tareas de código y diseño].
 - **Documentación y Despliegue:** [Resumen de cómo se manejó la redacción del informe y las configuraciones de hosting/servidores].
 
-*[Opcional: Puedes incluir aquí imágenes de los analíticos de GitHub o herramientas de Jira/Trello si tu equipo las utiliza]*
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+En esta reunión de planificación se estableció el inicio del desarrollo del **backend real** para la plataforma InstAlert, migrando la lógica inicial y persistencia desde el entorno de simulación (Fake API) hacia una arquitectura orientada a microservicios y Bounded Contexts. El equipo Scrum determinó las actividades necesarias para implementar los controladores distribuidos, las validaciones de datos en tiempo real y la infraestructura de persistencia, integrando al nuevo miembro del equipo para acelerar la velocidad de desarrollo.
+
+<p>
+  <strong>Repositorio Frontend:</strong>
+  <a href="https://github.com/instalert-startup/Instalert-FrontEnd">
+    https://github.com/instalert-startup/Instalert-FrontEnd
+  </a>
+</p>
+
+<p>
+  <strong>Repositorio Backend:</strong>
+  <a href="https://github.com/instalert-startup/Instalert-BackEnd">
+    https://github.com/instalert-startup/Instalert-BackEnd
+  </a>
+</p>
+
+<p>
+  <strong>Backend API (Producción):</strong>
+  <a href="https://veyrav01.azurewebsites.net/swagger-ui/index.html#/">
+    https://veyrav01.azurewebsites.net/swagger-ui/index.html#/
+  </a>
+</p>
+
+| Sprint # | Sprint 3 |
+|---|---|
+| **Sprint Planning Background** | |
+| **Date** | 2026-06-02 |
+| **Time** | 04:30 PM |
+| **Location** | Google Meet |
+| **Prepared By** | Sebastian Victor Andre Diaz Mendoza |
+| **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Rodrigo Fabrizio Aguilar Untiveros / Alexander Paolo Justo Yauricasa / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
+| **Sprint n - 3 Review Summary** | Durante el Sprint 3, el equipo concentró sus esfuerzos en la construcción del **backend real** coordinado con una base de datos relacional **MySQL**. Se implementaron las APIs RESTful correspondientes a los Bounded Contexts core de la aplicación: Communities, Emergencies, Incidents y Profiles. Se migraron los datos del antiguo entorno `db.json` hacia esquemas relacionales normalizados, optimizando las sentencias SQL y garantizando un puente de comunicación fluido con la UI desarrollada en el sprint anterior.<br><br>El equipo de ingeniería de software, liderado por **Sebastian Diaz**, gestionó la estructuración de la arquitectura limpia, logrando el desacoplamiento de capas lógicas y la encapsulación de las reglas de negocio. Por otro lado el nuevo integrante, Jhoan Janampa, enfocó sus actividades en el diseño de los mecanismos de respuesta rápida ante excepciones del sistema y el Bounded Context Profiles.<br><br>Breithner Perez trabajó en el Bounded Context de Communities y Piero Molina trabajó en el desarrollo del Bounded Context de Incidents, el cual junto con Emergencies hacian uso de geolocalización automatizada. Adicionalmente se comprobo las funciones del BackEnd mediante la interfaz interactiva de Swagger, facilitando la visibilidad del contrato de servicios para futuras fases de integración del sistema. |
+| **Sprint n - 3 Retrospective Summary** | El equipo demostró una correcta curva de aprendizaje y adaptabilidad técnica al incorporar el ecosistema backend en sincronía con la base de datos de forma nativa. La adición de Jhoan Janampa robusteció la capacidad operativa, reduciendo el tiempo de maquetación de modelos de datos. Como puntos clave de éxito se identificaron: la estandarización de respuestas HTTP, la normalización de relaciones en la base de datos para prevenir redundancia de incidentes y el uso eficiente de Swagger como entorno centralizado de pruebas funcionales sin requerir herramientas externas. Como oportunidad de mejora para los próximos ciclos de trabajo. |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Desarrollar, validar y desplegar la infraestructura inicial del backend para la aplicación web InstAlert, logrando la construcción de APIs eficientes bajo los Bounded Contexts definidos. El foco principal radica en garantizar la persistencia de datos reales para los flujos de autenticación de usuarios, emisión y geolocalización de alertas de emergencia, reportes comunitarios y control de dispositivos de seguridad, documentando los esquemas mediante OpenAPI. |
+| **Sprint Velocity** | 95 |
+| **Sum of Story Points** | 90 |
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 3, se definieron los aspectos técnicos esenciales vinculados al backend y la infraestructura de datos de InstAlert. Con la finalidad de estructurar los flujos de trabajo de manera equitativa y mantener una trazabilidad organizada, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los cuatro integrantes activos del equipo durante este periodo. El nuevo participante (Jhoan Darner Janampa Gutierrez) se ha integrado asumiendo el rol de líder en su respectivo contexto.
+
+Los 4 Bounded Contexts definidos para este Sprint son:
+1. **Bounded Context de Profiles:** Registro, login y perfiles.
+2. **Bounded Context de Emergencies:** Botón de pánico.
+3. **Bounded Context de Communities:** Canales vecinales y mensajería en tiempo real.
+4. **Bounded Context de Incidents:** Creación de incidentes, evidencias y mapa de calor.
+
+| Team Member (Last Name, First Name) | GitHub Username | B.C. Profiles | B.C. Emergencies | B.C. Communities | B.C. Incidents |
+|-------------------------------------|-----------------|---------------|------------------|------------------|----------------|
+| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | L             | C                | C                | C              |
+| Diaz Mendoza, Sebastian Victor Andre| DiazDeveloper   | C             | L                | C                | C              |
+| Perez Encarnación, Breithner Rodolfo| Breithner1      | C             | C                | L                | C              |
+| Molina Falcón, Piero Leonardo       | PieroMFAL       | C             | C                | C                | L              |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El backlog de este sprint comprende las tareas y componentes de backend necesarios para dar soporte lógico y persistencia real a las interfaces responsive de InstAlert estructuradas en las iteraciones previas.
+
+<div align="center"> <img src="../assets/images/UX Canva/back.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Tablero del Sprint 3 en Jira Software (Proyecto InstAlert)</em>
+</p> </div>
+
+| User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---|---|
+| **US-01 / US-02** | | **Gestión de Perfiles y Autenticación** | | | | |
+| | 1 | Controladores y DTOs de Usuario | Desarrollar los endpoints REST (`POST`, `GET`) y sus respectivos *Resources* para procesar el registro de ciudadanos verificados. | 5h | Jhoan Janampa | Done |
+| | 2 | Validaciones y Lógica de Dominio | Implementar anotaciones de validación en los esquemas de entrada y reglas de negocio para evitar duplicidad de correos y asegurar la integridad del perfil. | 3h | Jhoan Janampa | Done |
+| **US-04 / US-05<br>US-06 / US-07** | | **Sistema de Botón de Pánico y Alertas** | | | | |
+| | 1 | Endpoints de Emisión y Cancelación | Construir el controlador de `Emergencies` y los comandos (Command Services) encargados de registrar y actualizar el estado (Activa/Cancelada) de la alerta. | 6h | Sebastian Diaz | Done |
+| | 2 | Persistencia y Búsqueda Espacial | Desarrollar la entidad JPA y el Query Service para almacenar las coordenadas exactas de la emergencia y retornar el historial de alertas geolocalizadas. | 5h | Sebastian Diaz | Done |
+| **US-12 / US-13** | | **Canales Vecinales y Comunidades** | | | | |
+| | 1 | CRUD de Juntas Vecinales | Implementar el controlador REST para la creación, lectura y eliminación de comunidades vecinales, gestionando la privacidad de las mismas. | 5h | Breithner Perez | Done |
+| | 2 | Infraestructura y Repositorios JPA | Diseñar la entidad de persistencia y el `CommunityRepositoryImpl` para conectar las juntas vecinales con la base de datos MySQL de forma segura. | 4h | Breithner Perez | Done |
+| **US-09 / US-10<br>US-18** | | **Reporte de Incidentes y Zonas de Riesgo** | | | | |
+| | 1 | Persistencia de Reportes Comunitarios | Crear los servicios de aplicación y el modelo de dominio para clasificar incidentes por severidad, fecha, y tipo de riesgo. | 5h | Piero Molina | Done |
+| | 2 | Consultas para Mapa de Calor | Desarrollar los servicios *GET* necesarios para retornar las coordenadas de incidentes confirmados que alimentarán el mapa de zonas de riesgo en el frontend. | 4h | Piero Molina | Done |
 
 
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En la presente tabla se listan los identificadores de confirmación (commits) y la distribución del desarrollo del backend del ecosistema InstAlert en los repositorios de control de versiones de GitHub, reflejando las ramas exactas utilizadas para los Bounded Contexts definidos:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---|---|---|---|---|---|
+| instalert-startup/instalert-backend | master | e24bc81 | Initial backend commit | Spring Boot project setup and shared kernel configuration | 02/06/2026 |
+| instalert-startup/instalert-backend | feature/profiles | a57d21c | feat: Implement Profiles Bounded Context | Added User aggregate, JPA entities, and REST controllers for authentication | 08/06/2026 |
+| instalert-startup/instalert-backend | feature/emergencies | 3c89bf2 | feat: Implement Emergencies Bounded Context | Added EmergencyAlert aggregate, geographical queries, and panic button endpoints | 10/06/2026 |
+| instalert-startup/instalert-backend | feature/communities | f451a99 | feat: Implement Communities Bounded Context | Added Community aggregate, repositories, and neighborhood group logic | 12/06/2026 |
+| instalert-startup/instalert-backend | feature/incidents | 9d22ef8 | feat: Implement Incidents Bounded Context | Added Incident entity, spatial queries for heatmap, and reporting endpoints | 14/06/2026 |
+| instalert-startup/instalert-backend | develop | c82a411 | chore: Merge feature branches into develop | Integrated all Bounded Contexts, OpenAPI config, and GlobalExceptionHandler | 16/06/2026 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del Sprint 3, la aplicación web de InstAlert evolucionó desde una arquitectura basada en datos simulados hacia una solución integrada mediante servicios backend reales. Esta transición permitió consolidar una arquitectura basada en Domain-Driven Design (DDD), favoreciendo la separación de responsabilidades, la escalabilidad del sistema y la consistencia en el procesamiento de información relacionada con incidentes de seguridad ciudadana.
+
+Asimismo, se completó la integración de los principales bounded contexts del sistema mediante APIs REST documentadas con OpenAPI/Swagger, permitiendo validar y exponer los servicios desarrollados para su posterior consumo por parte del frontend.
+
+#### Avances realizados por Bounded Contexts
+
+### 1. Profiles (Seguridad e Identidad)
+
+* **Users & Authentication:** Implementación de servicios para el registro y autenticación de usuarios mediante endpoints REST. Se desarrollaron mecanismos de validación de datos, objetos de transferencia (DTOs) y estructuras orientadas a la gestión segura de identidades dentro de la plataforma.
+
+* **User Profiles:** Desarrollo de funcionalidades para la administración de información personal, actualización de datos de perfil y configuración de preferencias asociadas a cada usuario.
+
+<div align="center">
+<img src="../assets/images/UX Canva/enduser.png" alt="Endpoint User" width="100%">
+<p><em>Figura: Endpoints del bounded context Identity & Access (Proyecto InstAlert)</em></p>
+</div>
+
+### 2. Incidents (Gestión de Incidentes)
+
+* **Incidents Alerts:** Implementación del flujo de generación y gestión de alertas de emergencia, permitiendo registrar eventos críticos y asociarlos a información geográfica relevante para la atención de incidentes.
+
+* **Geolocation Integration:** Incorporación del procesamiento de coordenadas geográficas para la identificación de ubicaciones y soporte a funcionalidades de proximidad dentro del sistema.
+
+* **Incident Monitoring:** Desarrollo de servicios para la consulta y recuperación de incidentes registrados, facilitando el seguimiento y monitoreo de eventos reportados por los usuarios.
+
+<div align="center">
+<img src="../assets/images/UX Canva/endIncidents.png" alt="Endpoint Incidents" width="100%">
+<p><em>Figura: Endpoints del bounded context Emergency Control (Proyecto InstAlert)</em></p>
+</div>
+
+### 3. Communities (Reportes Comunitarios)
+
+* **Community Management:** Implementación de servicios para la creación, consulta y administración de comunidades vecinales dentro de la plataforma, fortaleciendo la colaboración ciudadana y la organización de redes de seguridad locales.
+
+* **Community Lifecycle:** Desarrollo de funcionalidades para gestionar el ciclo de vida de las comunidades, incluyendo operaciones de registro, consulta y eliminación controlada.
+
+* **Collaborative Environment:** Integración de mecanismos que permiten la participación organizada de los usuarios dentro de comunidades enfocadas en la prevención y reporte de incidentes.
+
+<div align="center">
+<img src="../assets/images/UX Canva/endComuniutis.png" alt="Endpoint Communities" width="100%">
+<p><em>Figura: Endpoints del bounded context Community Reporting (Proyecto InstAlert)</em></p>
+</div>
+
+### Contribuciones del Equipo
+
+Durante este Sprint se completó la implementación e integración de los bounded contexts principales del sistema, permitiendo la comunicación efectiva entre los distintos módulos de la plataforma mediante servicios REST.
+
+Asimismo, se realizaron actividades de validación funcional, pruebas de integración, corrección de errores y mejoras en la estructura de la arquitectura backend. El equipo trabajó en la implementación de controladores, servicios de aplicación, repositorios, entidades de dominio y documentación de APIs mediante Swagger/OpenAPI.
+
+### Resultados del Sprint
+
+Como resultado de este Sprint, InstAlert logró consolidar una arquitectura backend funcional basada en servicios reales, reemplazando el uso de datos simulados y fortaleciendo la comunicación entre los diferentes componentes del sistema.
+
+La documentación mediante Swagger/OpenAPI permitió validar el correcto funcionamiento de los endpoints implementados y facilitar futuras integraciones. Los bounded contexts desarrollados proporcionan soporte a funcionalidades esenciales relacionadas con autenticación, gestión de emergencias y colaboración comunitaria, constituyendo una base sólida para la evolución de la plataforma en los siguientes sprints de desarrollo.
+
+
+**Video Sprint Review 3**
+* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+La especificación, estructura y contratos de comunicación de los servicios web diseñados en .NET para la aplicación de seguridad InstAlert se detallan en la siguiente matriz técnica. Cada endpoint interactúa de forma nativa con el motor relacional de base de datos MySQL:
+
+| Endpoint                            | Verbo HTTP | Descripción                                         |
+| ----------------------------------- | ---------- | --------------------------------------------------- |
+| `/api/v1/incidents`                 | GET        | Obtiene todos los incidentes                        |
+| `/api/v1/incidents`                 | POST       | Crea un nuevo incidente                             |
+| `/api/v1/incidents/{incidentId}`    | GET        | Obtiene un incidente por identificador              |
+| `/api/v1/communities`               | GET        | Obtiene la lista de juntas vecinales                |
+| `/api/v1/communities`               | POST       | Crea una nueva junta vecinal                        |
+| `/api/v1/communities/{communityId}` | GET        | Obtiene una junta vecinal por identificador         |
+| `/api/v1/communities/{communityId}` | DELETE     | Elimina una junta vecinal por identificador         |
+| `/api/v1/users/{id}`                | GET        | Obtiene un usuario por identificador                |
+| `/api/v1/users/{id}`                | PUT        | Actualiza los datos de un usuario por identificador |
+| `/api/v1/users/{id}`                | DELETE     | Elimina un usuario por identificador                |
+| `/api/v1/users/{id}/password`       | PUT        | Actualiza la contraseña de un usuario específico    |
+| `/api/v1/users`                     | GET        | Obtiene la lista de todos los usuarios              |
+| `/api/v1/users`                     | POST       | Crea un nuevo usuario                               |
+
+
+La estandarización visual y pruebas del contrato de interfaces se centralizaron mediante OpenAPI. La consola interactiva de desarrollo provista por el entorno facilita la verificación de códigos de respuesta HTTP (tales como `200 OK`, `201 Created` o `400 Bad Request`) de manera unificada, garantizando que el equipo de desarrollo disponga de un entorno de validación ágil y libre de discrepancias.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este tercer sprint, se ejecutó la transferencia y puesta en producción de la API web e infraestructura de almacenamiento de datos de InstAlert. El proceso garantizó la disponibilidad del servicio bajo un entorno en la nube unificado.
+
+#### Actividades de Despliegue:
+1. **Configuración del Servidor y Base de Datos:** Se aprovisionó una instancia relacional administrada para alojar el motor de base de datos **MySQL**, aplicando la normalización de tablas de usuarios, alertas e incidentes, y ejecutando migraciones automáticas que garantizan la integridad referencial.
+
+#### Pasos para la publicación del proyecto en la nube:
+* **Paso 1:** Despliegue de la Web Application (Frontend) en Vercel
+Para la Web Application se configuró un proyecto en Vercel enlazado al repositorio Instalert-Frontend. Se definió el comando de build de Angular y la carpeta de salida de artefactos (dist), y se registró la variable de entorno con la BASE_API_URL apuntando al backend en producción. Con esto, cada vez que se realiza un merge a la rama principal, Vercel ejecuta automáticamente el pipeline de compilación y despliegue.
+
+<div align="center"> <img src="../assets/images/UX Canva/frontInsta.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Frontend (Proyecto InstAlert)</em>
+</p> </div>
+
+* **Paso 2:** Despliegue de los Web Services (Backend)
+El backend de Instalert. Para ello se creó un recurso de App Service, se configuró el entorno de ejecución de Spring Boot y se definieron las variables de entorno necesarias (cadena de conexión a la base de datos, perfil prod y claves de seguridad).
+
+<div align="center"> <img src="../assets/images/UX Canva/backendnuevo.png" alt="Sprint 3 Board Screenshot" width="100%"> <p><em>Figura: Backend (Proyecto InstAlert)</em>
+</p> </div>
+
+
+* **Paso 3:** Ejecución del pipeline de despliegue continuo, compilación de recursos finales en la nube y generación del punto de enlace público (URL del servicio) que expone la documentación interactiva de endpoints de InstAlert de manera pública y estable.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+La dinámica colaborativa del equipo técnico durante el Sprint 3 se rigió bajo lineamientos metodológicos ágiles, maximizando el rendimiento individual tras la incorporación de **Jhoan Janampa**. Se aplicó una estrategia de ramificación estructurada basada en GitFlow, aislando las tareas de desarrollo por cada Bounded Context en ramas tipo `feature/`, las cuales eran sometidas a revisiones cruzadas de código mediante Pull Requests hacia la rama base `develop`. Esto mitigó la aparición de conflictos en los esquemas de bases de datos y controladores principales. Las reuniones diarias (*Daily Standups*) permitieron identificar cuellos de botella de forma temprana, especialmente durante el mapeo de coordenadas geoespaciales para el motor de alertas de proximidad.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+
+
+##### Project Report Collaboration Insights
+
+
+<p align="center">
+  <img src="../assets/images/UX Canva/insightsInstaleer.png" alt="Insights Repositorio Frontend" width="500">
+</p>
+
+##### Contributors
+
+<p align="center">
+  <img src="../assets/images/UX Canva/contribuciones.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+
+Durante el Sprint 3, el equipo colaboró activamente en el desarrollo del Backend Web Service de Instalert. A través del repositorio de GitHub se gestionó la implementación de nuevos bounded contexts, servicios de aplicación, persistencia de datos y endpoints REST, permitiendo una integración continua de las funcionalidades requeridas por el Frontend Web Application.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante este sprint.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/backpulse.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+##### Análisis de Colaboración
+
+<p align="center">
+  <img src="../assets/images/UX Canva/backcontri.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint # | Sprint 4 |
+|---|---|
+| **Sprint Planning Background** | |
+| **Date** | 2026-07-01 |
+| **Time** | 11:00 PM |
+| **Location** | Google Meet |
+| **Prepared By** | Jhoan Darner Janampa Gutierrez |
+| **Attendees (to planning meeting)** | Sebastian Victor Andre Diaz Mendoza / Piero Leonardo Molina Falcón / Breithner Rodolfo Perez Encarnación / Jhoan Darner Janampa Gutierrez |
+| **Sprint n - 4 Review Summary** | Durante el Sprint 4, el equipo enfocó sus esfuerzos principales en la conexión e integración total del frontend con los servicios del backend del proyecto. Asimismo, se desarrolló e implementó el nuevo Bounded Context de Admin, el cual se encarga de validar y gestionar el acceso a usuarios con diferentes rangos y permisos dentro de la aplicación. Esta iteración estuvo liderada por Jhoan Darner Janampa Gutierrez. Para lograr una conexión fluida entre el cliente y el servidor, se distribuyeron los Bounded Contexts: Breithner Perez trabajó en Communities, Piero Molina en Incidents, y Sebastian Diaz en Emergencies, quien también supervisó las correcciones del informe y observaciones del entregable anterior. Finalmente, se comprobó con éxito que los datos registrados a través de la aplicación web se almacenan correctamente en la base de datos MySQL del backend. |
+| **Sprint n - 4 Retrospective Summary** | El equipo reconoció que la fase de conexión e integración entre el frontend y el backend representó un desafío técnico significativo, demandando una alta carga de depuración de errores y ajustes en los controladores. Sin embargo, la comunicación constante y la asignación clara de responsabilidades por Bounded Context permitieron superar estos obstáculos técnicos, logrando consolidar la conexión de manera exitosa y obteniendo un producto estable. |
+| **Sprint Goal & User Stories** | |
+| **Sprint Goal** | Realizar la integración completa y definitiva entre el frontend y el backend de la aplicación, asegurando la persistencia de datos y el correcto consumo de las APIs. El objetivo principal es pulir el proyecto en su totalidad, garantizando la estabilidad de los flujos de usuario, la validación de roles de administración y la entrega del resultado final del producto completamente funcional. |
+| **Sprint Velocity** | 100 |
+| **Sum of Story Points** | 95 |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 4, la dinámica del equipo se centró en la conexión definitiva entre el frontend y el backend de InstAlert. Para estructurar este proceso de integración, no se desarrollaron los Bounded Contexts desde cero, sino que se crearon ramas específicas de integración bajo la nomenclatura `fix/{nombre_del_bounded}` (por ejemplo, `fix/emergencies`). Esto permitió aislar los cambios de conexión y asegurar una integración estable. 
+
+Con la finalidad de estructurar los flujos de trabajo de manera equitativa, se ha elaborado la matriz de **Liderazgo y Colaboración (LACX)**, detallando los roles asignados a los integrantes activos del equipo. En este sprint, se reemplazó el contexto de Profiles por el de Account, y se añadió el nuevo contexto de Admin, ambos liderados por Jhoan Janampa.
+
+Los 5 Bounded Contexts definidos para la integración en este Sprint son:
+1. **Bounded Context de Account:** Conexión para registro, login y gestión de cuentas.
+2. **Bounded Context de Admin:** Validación de acceso a usuarios con diferentes rangos (ramas `fix/admin`).
+3. **Bounded Context de Emergencies:** Conexión y persistencia del botón de pánico (ramas `fix/emergencies`).
+4. **Bounded Context de Communities:** Conexión de canales vecinales y mensajería (ramas `fix/communities`).
+5. **Bounded Context de Incidents:** Conexión de creación de incidentes, evidencias y mapa de calor (ramas `fix/incidents`).
+
+| Team Member (Last Name, First Name) | GitHub Username | B.C. Account & Admin | B.C. Emergencies | B.C. Communities | B.C. Incidents |
+|-------------------------------------|-----------------|----------------------|------------------|------------------|----------------|
+| Janampa Gutierrez, Jhoan Darner     | JhoanJanampa    | L                    | C                | C                | C              |
+| Diaz Mendoza, Sebastian Victor Andre| DiazDeveloper   | C                    | L                | C                | C              |
+| Perez Encarnación, Breithner Rodolfo| Breithner1      | C                    | C                | L                | C              |
+| Molina Falcón, Piero Leonardo       | PieroMFAL       | C                    | C                | C                | L              |
+
+#### 5.2.4.3. Sprint Backlog 4
+
+El backlog de este sprint comprende las tareas, conexiones de endpoints y ajustes de lógica necesarios para lograr la integración total entre la aplicación web (Frontend) y los servicios de infraestructura (Backend), garantizando la persistencia real en la base de datos MySQL. Adicionalmente, incluye la estructuración del nuevo contexto de administración y las mejoras documentales correspondientes a la iteración pasada.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/jiras4.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+| User Story ID | Task Id | Title / Work-Item | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---|---|
+| **US-29 / US-30** | T01 | Conexión B.C. Admin - Lógica de Roles | Implementar guardias de ruta en el frontend y enlazar con la validación de rangos del backend para restringir accesos según el tipo de usuario. | 5h | Jhoan Janampa | Done |
+| **US-01 / US-02** | T02 | Integración B.C. Account - Login y Registro | Conectar los formularios visuales de creación de cuenta y autenticación con los endpoints REST del servidor. | 4h | Jhoan Janampa | Done |
+| **US-03** | T03 | Gestión de Sesión y Tokens JWT | Configurar el almacenamiento seguro del token de sesión en la aplicación web e inyectarlo en las cabeceras de peticiones HTTP. | 4h | Jhoan Janampa | Done |
+| **DOC-01** | T04 | Correcciones del Entregable Anterior | Subsanar las observaciones reportadas en el informe pasado y refinar la redacción de los componentes arquitectónicos. | 3h | Jhoan Janampa | Done |
+| **US-04** | T05 | Integración B.C. Emergencies - Botón de Pánico | Enlazar el botón principal de emergencias en la UI con el servicio `POST` para registrar la alerta activa en la base de datos. | 5h | Sebastian Diaz | Done |
+| **US-05** | T06 | Persistencia de Coordenadas de Alerta | Asegurar que el payload de geolocalización (latitud y longitud) extraído por el frontend se mapee y guarde correctamente en MySQL. | 4h | Sebastian Diaz | Done |
+| **US-08** | T07 | Renderizado de Historial de Emergencias | Consumir el endpoint `GET` correspondiente para poblar la vista del historial de alertas pasadas del usuario. | 3h | Sebastian Diaz | Done |
+| **US-12** | T08 | Integración B.C. Communities - CRUD | Conectar la vista de creación y configuración de juntas vecinales con la API de persistencia. | 5h | Breithner Perez | Done |
+| **US-13** | T09 | Conexión de Feed y Solicitudes Vecinales | Enlazar los módulos de solicitudes de apoyo y listado de participantes con los microservicios comunitarios correspondientes. | 4h | Breithner Perez | Done |
+| **US-09** | T10 | Integración B.C. Incidents - Envío de Reportes | Conectar el formulario de reportes de incidentes (robos, zonas sin luz) con la API, validando la inserción de datos. | 5h | Piero Molina | Done |
+| **US-10** | T11 | Integración de Evidencias Gráficas | Enlazar el componente visual de carga de imágenes de los reportes con la lógica de recepción de archivos del servidor. | 4h | Piero Molina | Done |
+| **US-18** | T12 | Población de Datos del Mapa de Calor | Consumir los datos de incidentes registrados mediante `GET` y trazar dinámicamente los marcadores de riesgo en el mapa interactivo. | 5h | Piero Molina | Done |
+| **US-19** | T13 | Conexión de Filtros de Riesgo | Asociar los controles de filtrado de la interfaz (nivel de riesgo, fecha) a los parámetros de búsqueda del backend para actualizar el mapa. | 3h | Piero Molina | Done |
+| **QA-01** | T14 | Pruebas E2E de Persistencia MySQL | Ejecutar simulaciones integrales para validar que toda la información ingresada en el frontend se persista y recupere sin alteraciones en la base de datos. | 4h | Todos | Done |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+En la presente tabla se listan los identificadores de confirmación (commits) y la distribución del desarrollo del ecosistema InstAlert (incluyendo tanto el Frontend como el Backend) en los repositorios de control de versiones de GitHub. Esta matriz refleja las ramas exactas de integración (`fix/` y principales) utilizadas para conectar los servicios y desplegar el sistema durante el Sprint 4:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---|---|---|---|---|---|
+| instalert-startup/instalert-frontend | fix/emergencies | c3b0e27 | refactor: Update EmergenciesViewComponent | Refactor EmergenciesViewComponent with new services | 04/07/2026 |
+| instalert-startup/instalert-frontend | fix/admin | ce82abd | feat: Add Admin context features | Add BCrypt-safe login, incident management, edit user, charts and indigo redesign | 04/07/2026 |
+| instalert-startup/instalert-frontend | fix/communities | 5c33071 | fix: Update community contacts logic | Add functionality to remove community chat from contacts | 04/07/2026 |
+| instalert-startup/instalert-frontend | develop | 47fed87 | feat: Connect real data to UI | Remove hardcoded mock data from dashboard and emergencies view, connect real data | 04/07/2026 |
+| instalert-startup/instalert-frontend | main | 5804f63 | chore: Update API endpoints | Update production URL to Railway | 30/06/2026 |
+| instalert-startup/instalert-backend | fix/communities | 17e0cfa | fix: Update community assembler | Include ownerId in CreateCommunityCommandFromResourceAssembler for community creation | 30/06/2026 |
+| instalert-startup/instalert-backend | develop | c5e441f | chore: Add WebConfig | Add web config | 30/06/2026 |
+| instalert-startup/instalert-backend | master | c5e441f | fix: Update community entity | Add ownerId field to CommunityPersistenceEntity with corresponding getters and setters | 04/07/2026 |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del Sprint 4, la aplicación web de InstAlert evolucionó hacia su fase definitiva, dejando atrás las simulaciones de estado local (Angular Signals con datos hardcodeados y `localStorage`) para consolidar una **integración Full-Stack** mediante el consumo de servicios backend reales y persistencia en una base de datos MySQL. Esta transición permitió validar el contrato de servicios definido en OpenAPI/Swagger y garantizar la consistencia en el procesamiento de información relacionada con incidentes de seguridad ciudadana.
+
+Asimismo, se estructuró el flujo de trabajo mediante ramas de integración (`fix/{bounded_context}`), lo que permitió solucionar problemas de CORS, ajustar los adaptadores HTTP del frontend y asegurar que la arquitectura basada en Domain-Driven Design (DDD) respondiera de manera óptima y escalable.
+
+A continuación, se detallan los avances y las conexiones de endpoints realizadas por Bounded Contexts:
+
+**1. Account & Admin (Seguridad, Identidad y Roles)**
+* **Users & Authentication:** Se conectaron los formularios visuales de registro y login con los endpoints del backend, permitiendo la creación de cuentas reales y la validación de credenciales. Se consumen activamente los servicios:
+    * `POST /api/v1/users` (Registro de nuevos ciudadanos).
+    * `POST /api/v1/users/login` (Autenticación de sesiones).
+* **Admin & Role Management:** Se implementó el panel de administración dinámico para la gestión de accesos, actualización de datos y asignación de rangos (Admin/Ciudadano verificado), consumiendo:
+    * `GET /api/v1/users` y `GET /api/v1/users/{id}` (Lectura de usuarios).
+    * `PUT /api/v1/users/{id}` y `PUT /api/v1/users/{id}/password` (Actualización de perfiles y seguridad).
+    * `PUT /api/v1/users/{id}/role` (Gestión de permisos de administrador).
+    * `DELETE /api/v1/users/{id}` (Eliminación de cuentas).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/swagAccount.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+**2. Emergencies (Botón de Pánico y Geolocalización)**
+* **Emergency Dispatch:** Se enlazó el botón principal de emergencias en la UI (Dashboard) con el servicio de persistencia, capturando automáticamente el GPS del navegador mediante la fórmula Haversine y OpenStreetMap (Nominatim) para mapear coordenadas reales.
+    * `POST /api/v1/emergencies` (Emisión de alerta activa con latitud, longitud y precisión).
+* **Emergency Lifecycle:** Se integró la lógica reactiva para visualizar, actualizar y cancelar alertas en curso sin perder sincronía al recargar la página.
+    * `GET /api/v1/emergencies` y `GET /api/v1/emergencies/{id}` (Población del historial de alertas).
+    * `PATCH /api/v1/emergencies/{id}` (Actualización del estado a "Cancelada").
+
+<p align="center">
+  <img src="../assets/images/UX Canva/swagEmergencies.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+**3. Communities (Gestión de Redes Vecinales)**
+* **Community Management:** Se reemplazó el almacenamiento en memoria por peticiones REST para la creación, consulta y administración de juntas vecinales, fortaleciendo la organización de redes de seguridad locales.
+    * `POST /api/v1/communities` (Creación de nuevas comunidades públicas o privadas).
+    * `GET /api/v1/communities` y `GET /api/v1/communities/{communityId}` (Consulta y renderizado del listado vecinal).
+    * `DELETE /api/v1/communities/{communityId}` (Eliminación controlada de grupos).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/swagCommunities.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+**4. Incidents (Reportes y Mapa de Calor)**
+* **Incident Reporting:** Se conectó el formulario de reportes comunitarios, permitiendo a los usuarios clasificar eventos (robos, accidentes, etc.) y enviarlos directamente al backend con su respectiva severidad.
+    * `POST /api/v1/incidents` (Creación de nuevos reportes de incidentes).
+* **Heatmap & Monitoring:** El mapa interactivo principal ahora se alimenta dinámicamente de la base de datos, trazando marcadores de riesgo según la criticidad del evento y permitiendo a los ciudadanos o administradores gestionar su ciclo de vida.
+    * `GET /api/v1/incidents` y `GET /api/v1/incidents/{incidentId}` (Recuperación de eventos para poblar el mapa de calor).
+    * `PUT /api/v1/incidents/{incidentId}/status` (Cambio de estado del incidente, ej. de "Activo" a "Resuelto").
+    * `DELETE /api/v1/incidents/{incidentId}` (Eliminación de reportes).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/swagIncidents.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+**Contribuciones del Equipo**
+Durante este Sprint final de desarrollo, el esfuerzo colectivo se centró en la depuración y sincronización del cliente con el servidor. El uso del patrón `Adapter` y los `Stores` de Angular Signals facilitó la sustitución del código *hardcodeado* por llamadas HTTP a los endpoints mencionados, gestionando eficientemente las respuestas asíncronas y los posibles errores de red. Las responsabilidades se mantuvieron separadas, asignando a cada miembro la integración de su respectivo Bounded Context, asegurando una cobertura total.
+
+**Resultados del Sprint**
+Como resultado de este Sprint, InstAlert logró consolidarse como una aplicación *Full-Stack* robusta, estable y conectada. Se eliminó por completo la dependencia de datos simulados y el almacenamiento volátil, garantizando que cada flujo (desde la autenticación hasta la emisión de una alerta crítica) transite limpiamente desde la interfaz del usuario hasta la base de datos relacional MySQL. La correcta integración con Swagger/OpenAPI validó el contrato de los microservicios, entregando un producto final listo para su despliegue y validación en entornos reales.
+
+**Video Sprint Review 4**
+
+* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCOK1lVV80fTpr2dIR0r4N0AbMHc1_mCXt5ksNyFTEOviY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YB5SyU
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+La especificación, estructura y contratos de comunicación de los servicios web para la aplicación de seguridad InstAlert se detallan en la siguiente matriz técnica. Cabe destacar que, acorde a la arquitectura real implementada, los servicios están diseñados bajo el ecosistema de **Spring Boot (Java)**, interactuando de forma nativa con el motor relacional de base de datos MySQL.
+
+Para este Sprint 4, la matriz refleja la totalidad de los endpoints expuestos en el backend y consumidos exitosamente por el frontend para completar los flujos *end-to-end*:
+
+| Endpoint | Verbo HTTP | Descripción |
+| :--- | :--- | :--- |
+| **Incidents (Reportes y Mapa de Calor)** | | |
+| `/api/v1/incidents` | GET | Obtiene todos los incidentes registrados. |
+| `/api/v1/incidents` | POST | Crea un nuevo reporte de incidente. |
+| `/api/v1/incidents/{incidentId}` | GET | Obtiene un incidente específico por su identificador. |
+| `/api/v1/incidents/{incidentId}/status` | PUT | Actualiza el estado de un incidente (ej. Activo a Resuelto). |
+| `/api/v1/incidents/{incidentId}` | DELETE | Elimina un incidente por su identificador. |
+| **Communities (Juntas Vecinales)** | | |
+| `/api/v1/communities` | GET | Obtiene la lista completa de juntas vecinales. |
+| `/api/v1/communities` | POST | Crea una nueva junta vecinal (Pública o Privada). |
+| `/api/v1/communities/{communityId}` | GET | Obtiene los detalles de una junta vecinal específica. |
+| `/api/v1/communities/{communityId}` | DELETE | Elimina una junta vecinal por su identificador. |
+| **Users (Account & Admin)** | | |
+| `/api/v1/users` | GET | Obtiene la lista de todos los usuarios registrados. |
+| `/api/v1/users` | POST | Crea (registra) un nuevo usuario ciudadano. |
+| `/api/v1/users/login` | POST | Autentica y valida el inicio de sesión de un usuario. |
+| `/api/v1/users/{id}` | GET | Obtiene un usuario específico por su identificador. |
+| `/api/v1/users/{id}` | PUT | Actualiza los datos personales de perfil de un usuario. |
+| `/api/v1/users/{id}/password` | PUT | Actualiza de forma segura la contraseña de un usuario. |
+| `/api/v1/users/{id}/role` | PUT | Modifica los permisos o el rol de un usuario (Panel Admin). |
+| `/api/v1/users/{id}` | DELETE | Elimina la cuenta de un usuario por identificador. |
+| **Emergencies (Botón de Pánico)** | | |
+| `/api/v1/emergencies` | GET | Obtiene el historial completo de las alertas de emergencia. |
+| `/api/v1/emergencies` | POST | Emite una nueva alerta de emergencia con geolocalización. |
+| `/api/v1/emergencies/{id}` | GET | Obtiene una alerta de emergencia específica por identificador. |
+| `/api/v1/emergencies/{id}` | PATCH | Actualiza el estado de una alerta (ej. para marcarla como Cancelada). |
+
+La estandarización visual y las pruebas del contrato de interfaces se consolidaron de manera definitiva mediante OpenAPI (Swagger UI). Esta consola interactiva facilitó la verificación de la persistencia de datos y los códigos de respuesta HTTP (`200 OK`, `201 Created` para inserciones, `204 No Content` para eliminaciones, y respuestas de la familia `4XX` para manejo de errores de validación) de manera unificada. Esto garantizó que el equipo de desarrollo dispusiera de un entorno ágil para depurar la conexión final, logrando una integración exitosa y sin discrepancias con el cliente desarrollado en Angular.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 4, el equipo se centró en la integración total de la aplicación web de InstAlert y el despliegue de los servicios backend en un entorno en la nube. A continuación, se detallan los pasos realizados para asegurar que la API y la base de datos estuvieran correctamente implementadas y accesibles en producción.
+
+#### Actividades de Despliegue:
+
+1.  **Desarrollo y Consolidación de la API Backend:**
+    * La API RESTful fue desarrollada utilizando **Spring Boot (Java)** como el *framework* principal de trabajo y **MySQL** como sistema de gestión de bases de datos relacional. La API permite la gestión de los Bounded Contexts clave: Perfiles/Administración, Emergencias (Botón de pánico), Comunidades e Incidentes.
+
+2.  **Despliegue en el Entorno de Desarrollo:**
+    * Se utilizó **Swagger (OpenAPI)** para documentar la API, proporcionando una interfaz interactiva (`/swagger-ui/index.html`) que permite explorar, probar y validar todos los endpoints durante el desarrollo local.
+
+3.  **Despliegue en el Entorno de Producción:**
+    * La API fue desplegada en el entorno de producción utilizando **Railway**, una plataforma de nube moderna que permite integración continua (CI/CD) directa desde los repositorios de GitHub.
+    * Se implementaron variables de entorno dinámicas (`PORT`, `SPRING_DATASOURCE_URL`, etc.) para asegurar que la aplicación asigne automáticamente los puertos y credenciales que la nube le provee.
+
+4.  **Configuración y Gestión de la Base de Datos:**
+    * Se provisionó un servicio de **MySQL** directamente en los servidores de producción de Railway.
+    * Gracias a la configuración de *Hibernate* (`spring.jpa.hibernate.ddl-auto=update`), las tablas y relaciones de la base de datos se migraron y construyeron de forma automática y segura durante el primer arranque del servidor en la nube.
+
+#### Deployment en Railway
+
+Para realizar la publicación del proyecto backend en Railway, se siguieron los pasos a continuación:
+
+* **Preparación del código fuente:** Asegurar que el archivo `application.properties` esté configurado para leer variables de entorno en lugar de credenciales estáticas.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p1.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+* **Creación del proyecto en Railway:** Acceder al panel de control de Railway y crear un nuevo proyecto vacío.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p2.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+  
+* **Provisión de la Base de Datos:** Dentro del proyecto en Railway, agregar un nuevo servicio (plugin) seleccionando **MySQL**. Esto genera instantáneamente las credenciales de producción (URL, usuario y contraseña).
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p3.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+* **Conexión con GitHub:** Agregar un nuevo servicio seleccionando la opción "GitHub Repo". Se vincula el repositorio `instalert-startup/instalert-backend` y se selecciona la rama principal de producción.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p4.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+* **Configuración de Variables de Entorno:** En la pestaña *Variables* del servicio web en Railway, se enlazan las variables generadas por MySQL (`DATABASE_URL`, `DATABASE_USER`, etc.) para que Spring Boot pueda inyectarlas en el `application.properties`.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p5.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+* **Proceso de Build y Deploy:** Railway detecta automáticamente que es un proyecto Maven/Java y comienza la etapa de construcción (Build). Una vez finalizada con éxito, se ejecuta la fase de despliegue.
+* **Generación del Dominio Público:** Railway asigna un dominio público para la API (ej. `https://instalert-backend-production.up.railway.app`).
+* **Verificación en Swagger:** Al acceder a la URL pública generada, añadiendo la ruta `/swagger-ui/index.html`, se carga exitosamente la interfaz de documentación, comprobando que los endpoints están activos y conectados a la base de datos en la nube.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/5247p8.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+La dinámica colaborativa del equipo técnico durante el Sprint 4 se centró en la fase crítica de integración total y despliegue del sistema. Se adaptó la estrategia de ramificación en los repositorios, utilizando prefijos de integración tipo `fix/` (como `fix/emergencies`, `fix/admin` o `fix/communities`) para aislar los ajustes de conexión, la resolución de políticas de CORS y el acoplamiento de los adaptadores HTTP del frontend, sin comprometer la estabilidad del código base.
+
+Las revisiones cruzadas de código mediante *Pull Requests* continuaron siendo el pilar para fusionar los cambios de manera segura hacia la rama principal. Asimismo, las reuniones de sincronización (*Daily Standups*) fueron fundamentales en esta iteración para resolver de forma ágil los bloqueos técnicos derivados de la comunicación asíncrona entre el cliente web en Angular y los microservicios en Spring Boot.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación registrados durante la documentación del proyecto.
+
+##### Project Collaboration Insights
+
+<p align="center">
+  <img src="../assets/images/UX Canva/Insights4.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+##### Contributors
+
+<p align="center">
+  <img src="../assets/images/UX Canva/s4contributors.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+Durante el Sprint 4, el equipo colaboró activamente en la consolidación del ecosistema **InstAlert** (Frontend y Backend). A través de GitHub se gestionó la implementación del nuevo Bounded Context de administración, el ajuste de las entidades de dominio y la conexión definitiva de los endpoints REST. Esto permitió lograr el objetivo principal del sprint: una integración continua que culminó con el despliegue exitoso en producción utilizando la plataforma Railway y la persistencia real en la base de datos MySQL.
+
+A continuación, se presentan las métricas de colaboración y los principales indicadores de participación técnica registrados en los repositorios de código durante este sprint de cierre.
+
+##### Análisis de Colaboración
+
+<p align="center">
+  <img src="../assets/images/UX Canva/Insights4.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+<p align="center">
+  <img src="../assets/images/UX Canva/s4contributors.PNG" alt="Insights Repositorio Backend" width="500">
+</p>
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+**User flows utilizados para la validación:**
+
+* **Segmento 1: Residentes en zonas de riesgo medio-alto**
+    * Como residente, quiero visualizar el mapa de calor de incidentes comunitarios y filtrar por tipo de delito para identificar zonas de alto riesgo y planificar una ruta segura antes de salir de casa.
+    * Como residente, quiero interactuar con el sistema de búsqueda y filtros en el feed de comunidad para localizar publicaciones preventivas o alertas históricas emitidas por mis vecinos.
+
+* **Segmento 2: Comerciantes en zonas de riesgo medio-alto**
+    * Como comerciante, quiero activar el botón de pánico web de manera inmediata para capturar mi geolocalización y notificar en tiempo real a mi red de apoyo ante un peligro inminente.
+    * Como comerciante, quiero acceder a la sección de control de dispositivos IoT para vincular o validar el estado de batería de mis periféricos físicos de pánico silencioso de forma centralizada.
+
+**Preguntas de Validación de Producto:**
+
+| Sección / Segmento | Preguntas de la Entrevista de Validación |
+| :--- | :--- |
+| **Introducción (Común)** | 1. ¿Podría proporcionar sus nombres y apellidos, edad y distrito?<br>2. Antes de empezar, ¿podrías contarme brevemente qué entiendes o esperas de una app como la nuestra, enfocada en seguridad ciudadana? |
+| **Segmento 1: Residentes en zonas de riesgo medio-alto** | 1. ¿Qué tan fácil fue para ti entender el uso del botón de pánico de la aplicación?<br>2. ¿Hubo algo en la interfaz que te confundió o te hizo dudar mientras la usabas?<br>3. Si ocurriera una emergencia real, ¿confiarías en usar esta app web para comunicarte con tus vecinos o autoridades? ¿Por qué sí o por qué no?<br>4. ¿Qué función o característica te pareció más útil y cuál cambiarías o mejorarías?<br>5. ¿Qué tan rápido sentiste que podrías reaccionar ante una emergencia usando el botón de pánico?<br>6. ¿Sientes que la app web te permitiría formular mejores rutas luego de probarla?<br>7. ¿Sientes que faltó información o elementos importantes en algunas de las pantallas?<br>8. ¿Qué impresión te dejó la forma en que la confirmación de que la alerta fue enviada? ¿Crees que fue la más clara?<br>9. ¿Los sistemas de búsqueda en los apartados de publicaciones o reportes, te parecen adecuados? (¿Crees que los filtros son útiles, las etiquetas pueden mejorar, etc.?)<br>10. ¿Sientes que la app web tiene información faltante?<br>11. ¿Qué elemento de la app hizo que sintieras más control de la situación que antes?<br>12. Después de usar la app, ¿dirías que vale la pena usarla para una situación real, o qué dirías que falta para que consideres sólida la web? |
+| **Segmento 2: Comerciantes en zonas de riesgo medio-alto** | 1. ¿Qué funciones del prototipo te parecen más útiles para tu negocio (por ejemplo, botón de pánico, reportes, alertas)?<br>2. En tu rutina diaria, ¿en qué momento te parece más útil tener acceso rápido al botón de pánico dentro del local? (Por ejemplo, al abrir, cerrar o atender a un cliente sospechoso).<br>3. En base a lo que has probado, ¿tendrías una percepción de utilidad alta sobre la app web?<br>4. ¿Qué tan importante te parece tener un historial de incidentes que hayan ocurrido de forma aledaña a tu negocio o en otros negocios?<br>5. Si pudieras mejorar una función del app para adaptarla mejor a la realidad de tu negocio, ¿cuál sería y por qué?<br>6. ¿Qué elementos visuales o de diseño te ayudaron (o dificultaron) a comprender rápidamente lo que debías hacer?<br>7. ¿Qué te pareció la claridad de los mensajes o retroalimentaciones que muestra la app después de presionar el botón?<br>8. ¿Qué te transmitió el diseño general del prototipo (seguridad, confianza, simplicidad, saturación, etc.)?<br>9. Si pudieras sugerir una función nueva que no esté en el app web pero que aumente tu seguridad o tranquilidad, ¿cuál sería?<br>10. ¿Qué tipo de soporte o acompañamiento te gustaría recibir por parte del equipo de InstAlert (por ejemplo, capacitación breve, asistencia técnica, guía de uso)?<br>11. Si InstAlert estuviera disponible en el mercado hoy, ¿lo implementarías en tu negocio? ¿Por qué sí o por qué no? |
+
+#### 5.3.2. Registro de Entrevistas
+
+### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td> Anita </td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Monago Cachay</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
+  </tr>
+ <tr>
+    <td><strong>Link de Video</strong></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAZrfwC2wp1y4MuX7hMnlEcc?        nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2eAshL</td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>00.00.09 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>00.05.44 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>Anita Monago Cachay dice que le gustó la aplicación web de seguridad ciudadana porque la interfaz le resultó muy fácil de entender, especialmente el uso del botón de pánico que permite reaccionar de manera rápida y clara ante una emergencia real. Destaca que la confirmación del envío de alertas y los sistemas de búsqueda en las publicaciones o reportes brindan un mayor control de la situación, lo cual genera suficiente confianza para comunicarse con los vecinos y las autoridades de su zona; sin embargo, para que la web sea totalmente sólida y completa, sugiere que se le agreguen planes de pago opcionales, como una suscripción Premium, que ofrezca funciones avanzadas y características exclusivas de seguridad.</td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td>Jussara</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Mofal</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>30 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Palma de Mallorca</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td>
+      <div align="center">
+        <img src="../assets/images/UX Canva/Entrevista7.png" alt="Validación">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td>
+      https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbEluZm8iOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N001V4
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>0:02 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>13:25 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>
+      La entrevistada destacó que la principal fortaleza de InstAlert es la sensación de seguridad que brinda, especialmente mediante la funcionalidad de botón de pánico, la cual consideró de gran utilidad para actuar rápidamente ante situaciones de emergencia. Asimismo, indicó que la aplicación resulta fácil de utilizar gracias a su diseño intuitivo y a la claridad de sus funcionalidades, permitiendo que cualquier usuario pueda adaptarse rápidamente a su uso. Como oportunidad de mejora, sugirió incorporar una funcionalidad que permita grabar evidencia automáticamente mediante la cámara del dispositivo cuando se active una emergencia, con el objetivo de registrar información relevante que pueda ser utilizada posteriormente como respaldo. Finalmente, manifestó que implementaría InstAlert en su negocio debido a que considera que la plataforma contribuye significativamente a mejorar la seguridad y la capacidad de respuesta frente a incidentes que puedan afectar a los comerciantes.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+---
+
+### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td>Piero</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Aguilar</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/entrevista4.PNG" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AVj4fpaFWv2ywLVNdxdCctM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2lW8vn</td>
+</tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>0:02 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>10:20 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>
+      El entrevistado valoró positivamente las funcionalidades de alertas de proximidad y reportes comunitarios, considerándolas herramientas útiles para anticiparse a situaciones de riesgo en su entorno comercial. Indicó que la aplicación presenta una alta utilidad para comerciantes debido a que centraliza información relevante sobre incidentes cercanos y facilita la prevención. Asimismo, destacó la claridad de los colores utilizados para representar niveles de riesgo y la facilidad para comprender las funciones principales. Como oportunidades de mejora, sugirió simplificar algunas pantallas con exceso de información, incorporar filtros más precisos en reportes y foros, añadir indicadores visuales de progreso después del envío de alertas y ofrecer resúmenes periódicos de incidentes ocurridos en la zona. Finalmente, manifestó que implementaría InstAlert en su negocio debido a su potencial para fortalecer la seguridad preventiva y la colaboración entre comerciantes.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td>Alejandro</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Alvarado</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Callao</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td><div align="center"><img src="../assets/images/UX Canva/entrevista5.PNG" alt="Validación"></div></td>
+  </tr>
+  <tr>
+    <td><strong>Link de Video</strong></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXAdrO_gsbaq61nabDridkL-M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e18wHv</td>
+</tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>0:02 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>9:47 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>
+      El entrevistado consideró que el botón de pánico, las alertas de incidentes cercanos y los reportes comunitarios son las funcionalidades más relevantes para su actividad comercial, especialmente durante el cierre del negocio y el manejo de efectivo. Destacó que la aplicación concentra diversas herramientas de seguridad en una sola plataforma y que puede contribuir tanto a la prevención como a la reacción frente a emergencias. En cuanto a mejoras, sugirió reducir la cantidad de pasos necesarios para acceder a funciones críticas, aumentar la visibilidad de ciertas opciones desde la pantalla principal, incorporar categorías más intuitivas al momento de crear reportes y mostrar información más detallada sobre el estado de las alertas enviadas. También propuso una funcionalidad que permita visualizar los horarios o recorridos de patrullaje de las autoridades para mejorar la percepción de seguridad en la zona. Finalmente, afirmó que implementaría InstAlert en su negocio debido a que responde a problemáticas reales de inseguridad y facilita la toma de decisiones preventivas.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista de Validación de Producto #5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Nombre</strong></td>
+    <td>Gustavo Alonso</td>
+  </tr>
+  <tr>
+    <td><strong>Apellidos</strong></td>
+    <td>Janampa Gutierrez</td>
+  </tr>
+  <tr>
+    <td><strong>Edad</strong></td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td><strong>Distrito</strong></td>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <td><strong>Evidencia</strong></td>
+    <td>
+    <div align="center"><img src="../assets/images/UX Canva/enrtrevista.png" alt="Validación"></div></td>
+  </tr>
+ <tr>
+    <td><strong>Link de Video</strong></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAVd1YN-Ye49cG2g8_I20iC0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wbjhNu</td>
+</tr>
+  <tr>
+    <td><strong>Timing de Inicio</strong></td>
+    <td>0:02 min</td>
+  </tr>
+  <tr>
+    <td><strong>Duración</strong></td>
+    <td>9:47 min</td>
+  </tr>
+  <tr>
+    <td><strong>Resumen de Validación</strong></td>
+    <td>
+      El entrevistado destacó que el botón de pánico, las alertas de incidentes y el historial de reportes son las funcionalidades más útiles de InstAlert, ya que permiten actuar rápidamente ante situaciones de riesgo y conocer los antecedentes de seguridad en zonas cercanas al negocio. Consideró que la aplicación posee una alta utilidad debido a que facilita la comunicación y la respuesta oportuna frente a emergencias.
+
+Respecto a las mejoras, sugirió incorporar la posibilidad de adjuntar imágenes o videos en las alertas para proporcionar mayor contexto sobre los incidentes reportados. En cuanto a la experiencia de uso, indicó que los íconos y la distribución de los elementos resultan intuitivos y fáciles de comprender, aunque recomendó aumentar el tamaño de algunos textos para mejorar la visibilidad.
+
+Asimismo, señaló que los mensajes de confirmación son claros y transmiten confianza al usuario, mientras que el diseño general del prototipo le genera una sensación de seguridad, organización y simplicidad. Como funcionalidad adicional, propuso implementar un chat de emergencia que permita la comunicación directa entre negocios cercanos ante situaciones de riesgo.s.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+#### UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+| Campo | Detalle |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | Desarrollo de Aplicaciones Open Source |
+| **SECCIÓN** | 10155 |
+| **PROFESOR** | Mori Paiva, Hugo Allan |
+| **AUDITORES** | Anita Monago, Jussara Mofal, Piero Aguilar, Alejandro Alvarado y Gustavo Janampa |
+
+**SITE O APP A EVALUAR**: InstAlert Web Application
+
+**TAREAS A EVALUAR**:
+El alcance de esta evaluación de usabilidad e interfaz comprende la revisión de los flujos frontend integrados con los servicios del backend:
+
+* Envío de alertas críticas mediante el botón de pánico de la app web
+* Captura y visualización del componente indicador de geolocalización automática
+* Recepción de notificaciones push de emergencias en el feed y banners laterales
+* Radicación y filtros de reportes de incidentes comunitarios (robos, asaltos, poca iluminación)
+* Adjunto lógico y lectura de evidencias en las tarjetas de incidentes
+* Visualización, búsqueda de direcciones y selección de capas del mapa de calor de riesgo
+* Configuración de perfil de usuario y de preferencias de alertas de proximidad
+* Configuración e interacción de la barra lateral de navegación del sistema
+
+
+**ESCALA DE SEVERIDAD**:
+Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios se clasifican bajo la siguiente escala estandarizada:
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN DE HALLAZGOS:
+
+| #  | Problema Detectado                                                                                                                                                                                                   | Escala de Severidad | Heurística / Principio Violado                   |
+| :- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------: | :----------------------------------------------- |
+| 1  | Los campos de entrada y texto informativo de los filtros secundarios en el mapa de calor presentan un contraste insuficiente, dificultando su visualización en entornos con poca iluminación.                        |          1          | Estética, diseño visual y accesibilidad          |
+| 2  | La descripción y los detalles específicos mostrados en las tarjetas expandibles de reportes presentan poco espaciado entre elementos, afectando la organización visual y la legibilidad de la información.           |          1          | Consistencia, estándares y diseño minimalista    |
+| 3  | La opción de cerrar sesión no se encuentra disponible directamente desde el menú lateral principal, obligando al usuario a navegar por varias secciones antes de finalizar su sesión.                                |          1          | Control y libertad del usuario                   |
+| 4  | La entrevistada sugirió que, al activarse una emergencia, la aplicación inicie automáticamente la grabación de evidencia mediante la cámara del dispositivo para complementar el reporte generado.                   |          2          | Flexibilidad y eficiencia de uso                 |
+| 5  | La entrevistada manifestó interés en contar con mayor evidencia visual asociada a los incidentes reportados, ya que esto incrementaría la confianza y utilidad de la información compartida dentro de la plataforma. |          2          | Correspondencia entre el sistema y el mundo real |
+
+
+#### DETALLE DEL PROBLEMA #1:
+* **Severidad**: 1
+* **Heurística / Principio violado**: Estética, diseño visual y accesibilidad
+* **Descripción del Hallazgo**: Durante las pruebas de filtrado en el mapa de zonas de riesgo, los usuarios manifestaron que los selectores de rango de fecha y categoría delictiva poseen bordes y fuentes en un tono grisáceo (`#334155`) que pierde contraste sobre los contenedores secundarios oscuros. Esto añade carga visual innecesaria e impacta negativamente en la accesibilidad en entornos con luz ambiental reducida.
+* **Recomendación de Solución**: Modificar las clases de estilo CSS de los controles de filtrado, incrementando el contraste cromático y asegurando que las etiquetas de texto de los inputs cumplan con las pautas de legibilidad WCAG AA.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/pronlea1.png" alt="Insights Repositorio Backend" width="500">
+</p>
+ 
+#### DETALLE DEL PROBLEMA #2:
+* **Severidad**: 1
+* **Heurística / Principio violado**: Consistencia, estándares y diseño minimalista
+* **Descripción del Hallazgo**: En la pantalla de visualización de reportes de la comunidad, las tarjetas expandibles encargadas de listar la descripción del incidente, la categoría del delito y la evidencia de soporte presentan un espaciado insuficiente entre bloques de texto. Esta aglomeración genera asimetría en la distribución de la información y dificulta la lectura veloz en escenarios de crisis.
+* **Recomendación de Solución**: Aplicar de forma estricta los lineamientos de la guía de estilos de InstAlert, reorganizando el espaciado mediante el uso de márgenes basados en múltiplos de 8 píxeles (`margin-bottom: 16px` o `gap: 8px`) para separar limpiamente las entidades de datos del reporte.
+
+<p align="center">
+  <img src="../assets/images/UX Canva/pronlea2.png" alt="Insights Repositorio Backend" width="500">
+</p>
+
+
+### DETALLE DEL PROBLEMA #4:
+
+* **Severidad:** 2
+
+* **Heurística / Principio violado:** Flexibilidad y eficiencia de uso
+
+* **Descripción del Hallazgo:** Durante la entrevista de validación, la usuaria manifestó que, al activarse una emergencia mediante el botón de pánico, sería útil que la aplicación iniciara automáticamente la grabación de evidencia audiovisual utilizando la cámara del dispositivo. Actualmente, el sistema permite reportar la emergencia, pero no ofrece un mecanismo inmediato para capturar evidencia que pueda apoyar la atención del incidente o futuras investigaciones.
+
+* **Recomendación de Solución:** Incorporar una funcionalidad opcional que permita activar automáticamente la cámara del dispositivo al utilizar el botón de pánico, iniciando la captura de fotografías o video de forma rápida y segura. Esta evidencia podría asociarse automáticamente al incidente generado, mejorando la capacidad de respuesta y documentación de eventos críticos.
+
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Insights Repositorio Backend" width="500">
+</p>
+
+### DETALLE DEL PROBLEMA #5:
+
+* **Severidad:** 2
+
+* **Heurística / Principio violado:** Correspondencia entre el sistema y el mundo real
+
+* **Descripción del Hallazgo:** Durante la entrevista, la usuaria indicó que la presencia de evidencia visual asociada a los incidentes reportados incrementaría la confianza y utilidad de la información mostrada en la plataforma. Actualmente, los reportes presentan información descriptiva del incidente, pero la disponibilidad de imágenes o videos podría facilitar la comprensión de la situación y mejorar la percepción de credibilidad por parte de los usuarios.
+
+* **Recomendación de Solución:** Implementar mecanismos que permitan adjuntar y visualizar evidencia multimedia dentro de los reportes comunitarios. Esto facilitaría la validación visual de los incidentes y proporcionaría mayor contexto para la toma de decisiones de los usuarios y autoridades correspondientes.
+  
+<p align="center">
+  <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Insights Repositorio Backend" width="500">
+</p>
+
+
+## 5.4. Video About-the-Product
+
+* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5YR1ym
