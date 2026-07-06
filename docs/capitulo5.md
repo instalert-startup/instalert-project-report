@@ -516,7 +516,7 @@ La documentación mediante Swagger/OpenAPI permitió validar el correcto funcion
 
 
 **Video Sprint Review 3**
-* **Demostración de Integración de Endpoints y Servicios Backend:** [[Ver Video]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?e=af7fEy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -740,6 +740,9 @@ Durante este Sprint final de desarrollo, el esfuerzo colectivo se centró en la 
 **Resultados del Sprint**
 Como resultado de este Sprint, InstAlert logró consolidarse como una aplicación *Full-Stack* robusta, estable y conectada. Se eliminó por completo la dependencia de datos simulados y el almacenamiento volátil, garantizando que cada flujo (desde la autenticación hasta la emisión de una alerta crítica) transite limpiamente desde la interfaz del usuario hasta la base de datos relacional MySQL. La correcta integración con Swagger/OpenAPI validó el contrato de los microservicios, entregando un producto final listo para su despliegue y validación en entornos reales.
 
+**Video Sprint Review 4**
+
+* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCOK1lVV80fTpr2dIR0r4N0AbMHc1_mCXt5ksNyFTEOviY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YB5SyU
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
