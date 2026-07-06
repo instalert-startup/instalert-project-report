@@ -929,9 +929,9 @@ A continuación, se presentan las métricas de colaboración y los principales i
     <td><strong>Evidencia</strong></td>
     <td><div align="center"><img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
   </tr>
-  <tr>
+ <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAWIsou5g0egxsjplVvGA3yA?e=hfRb8g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video de Validación</a></td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAZrfwC2wp1y4MuX7hMnlEcc?        nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2eAshL</td>
   </tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
@@ -983,9 +983,7 @@ A continuación, se presentan las métricas de colaboración y los principales i
   <tr>
     <td><strong>Link de Video</strong></td>
     <td>
-      <a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?e=dwfQQQ">
-        Ver Video de Validación
-      </a>
+      https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbEluZm8iOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N001V4
     </td>
   </tr>
   <tr>
@@ -1039,8 +1037,8 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AZoLEDJAAV1xAOWMyd-w2y0?e=HlDjx5">Ver Video de Validación</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AVj4fpaFWv2ywLVNdxdCctM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2lW8vn</td>
+</tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
     <td>0:02 min</td>
@@ -1087,8 +1085,8 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
   <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXATP6bnsE8rbQVjd7t0xm3n0?e=fpWWRF">Ver Video de Validación</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXAdrO_gsbaq61nabDridkL-M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e18wHv</td>
+</tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
     <td>0:02 min</td>
@@ -1105,9 +1103,6 @@ A continuación, se presentan las métricas de colaboración y los principales i
   </tr>
 </tbody>
 </table>
-
-
-
 
 <table>
 <thead>
@@ -1137,10 +1132,10 @@ A continuación, se presentan las métricas de colaboración y los principales i
     <td>
     <div align="center"><img src="../assets/images/UX Canva/enrtrevista.png" alt="Validación"></div></td>
   </tr>
-  <tr>
+ <tr>
     <td><strong>Link de Video</strong></td>
-    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAdzfeTWXxM0jDcqUyaCh_W8?e=LYfQMs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video de Validación</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAVd1YN-Ye49cG2g8_I20iC0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wbjhNu</td>
+</tr>
   <tr>
     <td><strong>Timing de Inicio</strong></td>
     <td>0:02 min</td>
@@ -1265,4 +1260,4 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 
 ## 5.4. Video About-the-Product
 
-* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** [[Ver Video]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JI1gcu)
+* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5YR1ym
