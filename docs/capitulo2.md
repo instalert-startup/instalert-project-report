@@ -124,10 +124,11 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
     <td>Villa el Salvador</td>
   </tr>
   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista"></div></td>
-  </tr>
-  <tr>
+  <td>Evidencia</td>
+  <td align="center">
+    <img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista" width="180">
+  </td>
+</tr>
     <td>Link</td>
     <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBEHjzI3i3NRocKfcla1JkxAU6Eg3bkwHDnG3qhlFw5r7I?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=juPdPq</td>
 </tr>
