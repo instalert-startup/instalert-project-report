@@ -22,21 +22,24 @@ Para la definición de estos lineamientos, se tomaron como referencia principios
 La tipografía de InstAlert ha sido seleccionada para garantizar claridad, rapidez de lectura y accesibilidad, especialmente en situaciones donde el usuario necesita interpretar información de forma inmediata.
 
 <p align="center">
-  <img src="../assets/images/style-guidelines/Tipografia.png" alt="Tipografía" width="700">
+  <img src="../assets/images/style-guidelines/Tipografia.png" alt="Tipografía" width="700"><br>
+  Nota: Sistema tipográfico utilizado en la identidad visual de InstAlert
 </p>
 
-Tipografía del Logo y Títulos
+Tipografía del Logo y Títulos  
 Se utiliza la tipografía Poppins, la cual destaca por su diseño moderno, limpio y altamente legible. Su estructura geométrica transmite orden, tecnología y confianza, características esenciales para una plataforma de seguridad. Además, su versatilidad permite mantener una presencia visual fuerte sin comprometer la claridad.
 
 <p align="center">
-  <img src="../assets/images/style-guidelines/Tipografía del Logo y Títulos.png" alt="Tipografía del Logo y Títulos" width="700">
+  <img src="../assets/images/style-guidelines/Tipografía del Logo y Títulos.png" alt="Tipografía del Logo y Títulos" width="700"><br>
+  Nota: Tipografía Poppins aplicada al logotipo y títulos de InstAlert
 </p>
 
-Tipografía de Texto Regular
+Tipografía de Texto Regular  
 Para el contenido general de la aplicación se emplea la tipografía Roboto, elegida por su excelente legibilidad en pantallas digitales. Se utilizan diferentes pesos tipográficos (light, regular, medium y bold) para estructurar la información y facilitar la jerarquía visual, permitiendo al usuario identificar rápidamente elementos importantes como alertas, mensajes y acciones.
 
 <p align="center">
-  <img src="../assets/images/style-guidelines/Tipografía de Texto Regular.png" alt="Tipografía de Texto Regular" width="700">
+  <img src="../assets/images/style-guidelines/Tipografía de Texto Regular.png" alt="Tipografía de Texto Regular" width="700"><br>
+  Nota: Tipografía Roboto utilizada para el contenido y texto regular de la aplicación
 </p>
 
 **4.1.1.2. Colores**
@@ -44,7 +47,8 @@ Para el contenido general de la aplicación se emplea la tipografía Roboto, ele
 La paleta de colores de InstAlert ha sido diseñada para comunicar alerta, urgencia y estabilidad, asegurando una experiencia visual clara y efectiva.
 
 <p align="center">
-  <img src="../assets/images/style-guidelines/Paleta_de_colores.png" alt="Paleta de colores" width="700">
+  <img src="../assets/images/style-guidelines/Paleta_de_colores.png" alt="Paleta de colores" width="700"><br>
+  Nota: Paleta de colores oficial utilizada en la identidad visual de InstAlert
 </p>
 
 **Paleta Principal**
@@ -90,7 +94,8 @@ La iconografía en InstAlert se basa en un estilo minimalista y lineal, utilizan
 Estos elementos permiten reducir la carga cognitiva del usuario, facilitando la navegación incluso en situaciones de estrés o urgencia. Además, los íconos mantienen coherencia visual con el diseño general, reforzando la identidad de la plataforma.
 
 <p align="center">
-  <img src="../assets/images/style-guidelines/Iconografia.png" alt="Iconografía" width="700">
+  <img src="../assets/images/style-guidelines/Iconografia.png" alt="Iconografía" width="700"><br>
+  Nota: Conjunto de iconos utilizados en la interfaz de usuario de InstAlert
 </p>
 
 **4.1.1.5. Tono de Comunicación y Lenguaje Aplicado**
@@ -126,7 +131,8 @@ Además, en ciertas secciones se incorporan flujos secuenciales que guían al us
   Nota: Diagrama de organización de información del landing page
 </p>
 
-link: https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQUZ5Ykx2d3FOaVRIUmpvaXc4Tk5lTWw1R2xEK0ZaMjZEWXlueDBvQUJ1ODFYNWYrS2kwYWdJYUJkQUJ5cEdTSzROakxtRzVMTGhFdUlXODZ5LzBvV2hXVjk3MUZLOTFGTHpyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=9527554603  
+**Acceso al diagrama de la Arquitectura de Información (Miro):**  
+https://miro.com/welcomeonboard/b0FzeXNSWmswV1NMaURXSzdnOVR1SXZSWCt5T0JKQUZ5Ykx2d3FOaVRIUmpvaXc4Tk5lTWw1R2xEK0ZaMjZEWXlueDBvQUJ1ODFYNWYrS2kwYWdJYUJkQUJ5cEdTSzROakxtRzVMTGhFdUlXODZ5LzBvV2hXVjk3MUZLOTFGTHpyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=9527554603
 
 ### 4.2.2. Labeling Systems.
 Para este trabajo se optó por una taxonomía jerárquica que estructura la app y el sitio web mediante nodos principales y ramificaciones lógicas, agrupando los elementos según su similitud (por ejemplo, secciones informativas como “Visión” y “Misión”, y funciones interactivas como “Mapa” y “Reportes”). Este enfoque mejora la navegación intuitiva y disminuye la confusión del usuario, en línea con los principios de arquitectura de la información que priorizan la claridad y la escalabilidad del contenido.
@@ -209,11 +215,13 @@ El diseño del wireframe para la landing page de InstAlert se fundamenta en crit
 Presenta el logo de la aplicación y un menú interactivo con las opciones de Inicio, Quiénes somos, Funcionalidades, Comunidad y Contacto, además del botón principal de descarga. Este elemento está fijado en la pantalla para permitir que el usuario se desplace fácilmente sin perder las opciones de navegación.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/landing-page-wireframe-1.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-1.jpg" width="700"><br>
+  Nota: Wireframe del encabezado de la landing page de InstAlert
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/landing-page-wireframe-2.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-2.jpg" width="700"><br>
+  Nota: Wireframe del menú de navegación y botón principal de descarga
 </p>
 
 ***2. Hero Section:***
@@ -221,23 +229,26 @@ Presenta el logo de la aplicación y un menú interactivo con las opciones de In
 Se trata del primer elemento que visualiza el usuario, enfocado en comunicar rápidamente el valor de la plataforma. Integra el título principal (“Botón de pánico, mapas de calor y notificaciones/comunidad en una sola app”) y se acompaña de un componente gráfico (placeholder) diseñado para ilustrar la herramienta.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/landing-page-wireframe-3.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-3.jpg" width="700"><br>
+  Nota: Wireframe de la sección principal (Hero Section) de la landing page
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/landing-page-wireframe-4.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-4.jpg" width="700"><br>
+  Nota: Wireframe del contenido principal y propuesta de valor de InstAlert
 </p>
 
 La plataforma destaca funcionalidades esenciales, como la emisión de reportes y la conexión directa con autoridades, diseñadas para brindar soporte efectivo y real durante emergencias. Asimismo, incluye una sección de contacto donde los usuarios pueden ingresar su información o dirigirse a las redes sociales oficiales para estar al tanto de las novedades. Para concluir, se presenta un cuadro comparativo detallando tres modelos de suscripción (gratuito, personal y familiar), lo que orienta al usuario a seleccionar el plan más conveniente para sus necesidades.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/landing-page-wireframe-5.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-5.jpg" width="700"><br>
+  Nota: Wireframe de las secciones de funcionalidades y contacto de la landing page
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/landing-page-wireframe-6.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/landing-page-wireframe-6.jpg" width="700"><br>
+  Nota: Wireframe de la comparación de planes de suscripción de InstAlert
 </p>
-
 
 ### 4.3.2 Landing Page Mock-up
 
@@ -245,31 +256,36 @@ Los mock-ups de la landing page de InstAlert presentan la versión visual final 
 La propuesta busca optimizar la experiencia del usuario mediante una interfaz clara, accesible y orientada a la acción, permitiendo comprender rápidamente el funcionamiento de la plataforma y acceder a sus principales funcionalidades.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/header.png" alt="Header Landing Page" width="700">
+  <img src="../assets/images/mockup_landing/header.png" alt="Header Landing Page" width="700"><br>
+  Nota: Mock-up del encabezado y sección principal de la Landing Page de InstAlert
 </p>
 
-La pantalla de inicio del mockup de la Landing Page de InstAlert presenta el encabezado principal con las secciones de navegación como Inicio, Cómo funciona, Beneficios, Comunidad y Contacto, además del botón de acceso para iniciar sesión. En la sección principal se muestra el bloque introductorio de la propuesta de valor de la plataforma, destacando la prevención y respuesta ante situaciones de riesgo en tiempo real mediante alertas y visualización de zonas peligrosas. Asimismo, se incluye una representación visual mediante un mapa interactivo con puntos de alerta, reforzando el enfoque de seguridad urbana y monitoreo en tiempo real que ofrece la aplicación. 
+La pantalla de inicio del mockup de la Landing Page de InstAlert presenta el encabezado principal con las secciones de navegación como Inicio, Cómo funciona, Beneficios, Comunidad y Contacto, además del botón de acceso para iniciar sesión. En la sección principal se muestra el bloque introductorio de la propuesta de valor de la plataforma, destacando la prevención y respuesta ante situaciones de riesgo en tiempo real mediante alertas y visualización de zonas peligrosas. Asimismo, se incluye una representación visual mediante un mapa interactivo con puntos de alerta, reforzando el enfoque de seguridad urbana y monitoreo en tiempo real que ofrece la aplicación.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/comofunciona.png" alt="Cómo funciona" width="700">
+  <img src="../assets/images/mockup_landing/comofunciona.png" alt="Cómo funciona" width="700"><br>
+  Nota: Mock-up de la sección "¿Cómo funciona?" de la Landing Page
 </p>
 
 La sección “¿Cómo funciona?” del mockup de la Landing Page de InstAlert muestra de forma clara y resumida el funcionamiento principal de la plataforma mediante tres bloques informativos. El primero permite a los usuarios reportar incidentes de manera rápida ante situaciones de riesgo; el segundo presenta el mapa de zonas peligrosas, donde se visualizan áreas de alto riesgo para evitar rutas inseguras; y el tercero ofrece alertas inmediatas sobre incidentes cercanos a la ubicación del usuario. Esta estructura facilita la comprensión rápida del servicio y refuerza la propuesta de valor centrada en la prevención y seguridad ciudadana.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/porqueusar.png" alt="Por qué usar InstAlert" width="700">
+  <img src="../assets/images/mockup_landing/porqueusar.png" alt="Por qué usar InstAlert" width="700"><br>
+  Nota: Mock-up de la sección "¿Por qué usar InstAlert?" de la Landing Page
 </p>
 
 La sección “¿Por qué usar InstAlert?” del mockup de la Landing Page destaca los principales beneficios que ofrece la plataforma, enfocándose en la protección, prevención y respuesta rápida ante situaciones de riesgo. A través de tres bloques informativos, se presentan ventajas clave como la seguridad en tiempo real mediante alertas inmediatas sobre incidentes cercanos, la toma de decisiones más seguras gracias a la consulta de zonas de riesgo antes de desplazarse, y la construcción de una comunidad preventiva donde los usuarios colaboran reportando incidentes para proteger a los demás. Esta sección refuerza el valor diferencial de InstAlert como una solución integral de seguridad ciudadana.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/testimonios.png" alt="Testimonios" width="700">
+  <img src="../assets/images/mockup_landing/testimonios.png" alt="Testimonios" width="700"><br>
+  Nota: Mock-up de la sección de testimonios de usuarios de la Landing Page
 </p>
 
 La sección “Lo que dicen nuestros usuarios” del mockup de la Landing Page presenta testimonios de personas que utilizan InstAlert y han mejorado su sensación de seguridad en su vida diaria. A través de tres testimonios acompañados de imágenes representativas, se muestran experiencias positivas relacionadas con la prevención de zonas peligrosas, la tranquilidad al recibir alertas de emergencia y la importancia de una comunidad informada y colaborativa. Esta sección busca generar confianza en los nuevos usuarios, reforzando la credibilidad de la plataforma mediante experiencias reales y cercanas.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/footer.png" alt="Footer Landing Page" width="700">
+  <img src="../assets/images/mockup_landing/footer.png" alt="Footer Landing Page" width="700"><br>
+  Nota: Mock-up del pie de página (footer) de la Landing Page de InstAlert
 </p>
 
 La sección final del mockup de la Landing Page corresponde al pie de página (footer), donde se presenta información institucional y de contacto de InstAlert. En esta parte se incluye el logotipo de la plataforma, una breve frase que refuerza su propósito de protección y seguridad comunitaria, así como los principales accesos de navegación hacia las secciones del sitio. Además, se muestran los datos de contacto como correo electrónico y número telefónico, junto con los derechos reservados de la plataforma. Esta sección permite fortalecer la identidad de la marca y ofrecer canales directos de comunicación para los usuarios.
@@ -279,25 +295,29 @@ La sección final del mockup de la Landing Page corresponde al pie de página (f
 ### 4.4.1 Web Applications Wireframes
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/web-applications-wireframes-1.jpg"  width="900">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-1.jpg" width="900"><br>
+  Nota: Wireframe del flujo de autenticación e inicio de sesión de la aplicación web
 </p>
 
 Este wireframe de la sección de login está diseñado con la información exacta para que el usuario inicie sesión de manera eficiente, aplicando principios de visibilidad del sistema y diagnóstico de errores mediante retroalimentación clara. Su arquitectura separa visualmente el acceso de la creación de cuenta, utilizando botones de acción explícitos (CTAs) y opciones de baja fricción, como el ingreso con Google, para minimizar pasos innecesarios. Finalmente, el flujo logra un equilibrio ideal entre usabilidad y seguridad al incorporar autenticación de dos factores (2FA) para proteger datos sensibles antes de redirigir al Dashboard, garantizando un acceso ágil y exclusivo para usuarios verificados.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/web-applications-wireframes-2.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-2.jpg" width="700"><br>
+  Nota: Wireframe del dashboard principal de la aplicación web de InstAlert
 </p>
 
 Este wireframe del dashboard funciona como el nodo central del sistema bajo el patrón hub-and-spoke, articulando los flujos principales sin sobrecargar la interfaz. Su diseño cumple con la heurística de flexibilidad y eficiencia al ofrecer atajos directos a funciones críticas —como el mapa, autoridades, botón de pánico, reportes y notificaciones—, lo que permite al usuario comprender el contexto de un vistazo y actuar en apenas uno o dos toques. Al mantener una estructura limpia y predecible, se reduce drásticamente la carga cognitiva y el tiempo de respuesta, priorizando una navegación ágil que resulta fundamental para gestionar escenarios de urgencia con rapidez y eficacia.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/web-applications-wireframes-3.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-3.jpg" width="700"><br>
+  Nota: Wireframe de la gestión y configuración
 </p>
 
 Este wireframe, enfocado en la gestión de dispositivos IoT, presenta el estado general de los equipos proporcionando exactamente la información necesaria. Su diseño permite al usuario visualizar el estado básico y acceder, en solo uno o dos toques, a la configuración específica de un dispositivo para ejecutar acciones clave como emparejar, desemparejar o ajustar alertas. Al aislar estas tareas técnicas fuera del Dashboard, se evita la saturación visual de la pantalla principal y se reduce el riesgo de errores al operar un solo equipo a la vez. En conjunto, este flujo garantiza el control de seguridad y la trazabilidad, agilizando las gestiones frecuentes mediante botones de acción (CTAs) claros y una navegación de retorno intuitiva y fluida.
 
 <p align="center">
-  <img src="../assets/images/mockup_landing/web-applications-wireframes-4.jpg"  width="700">
+  <img src="../assets/images/mockup_landing/web-applications-wireframes-4.jpg" width="700"><br>
+  Nota: Wireframe de la sección de mapas 
 </p>
 
 La sección del Mapa funciona como la herramienta principal de conciencia situacional en tiempo real, visualizando incidentes a través de marcadores y mapas de calor. Su diseño integra filtros de búsqueda avanzados (por tipo, fecha e intensidad) y permite al usuario acceder a detalles contextuales o acciones rápidas en apenas uno o dos toques, facilitando la transición directa de la observación a la acción sin sobrecargar el Dashboard. Además, el flujo del "Modo Trayecto" garantiza un desplazamiento seguro al establecer destinos, activar alertas y mostrar métricas clave con opciones claras de cancelación. A nivel visual, la interfaz reduce la carga cognitiva al mostrar información concisa, emplear estratégicamente los colores y aplicar el principio de proximidad, agrupando de forma lógica los componentes relacionados para una toma de decisiones rápida e informada.
@@ -317,11 +337,13 @@ Esta sección detalla el flujo de interacción de los usuarios con la aplicació
 **Task Flow:**
 <p align="center">
   <img src="Imagen/taskflow1.PNG" width="700"> <br>
+  Nota: Diagrama de Task Flow para la consulta del mapa de calor y planificación de rutas seguras
 </p>
 
 **Wireflow:**
 <p align="center">
   <img src="Imagen/wireflow1.PNG" width="800"> <br>
+  Nota: Diagrama de Wireflow del flujo de navegación para visualizar el mapa de calor y filtrar incidentes
 </p>
 
 **Descripción del flujo:**
@@ -336,11 +358,13 @@ Para planificar una ruta segura, el usuario inicia el proceso desde la pantalla 
 **Task Flow:**
 <p align="center">
   <img src="Imagen/taskflow2.PNG" width="700"> <br>
+  Nota: Diagrama de Task Flow para la activación del botón de pánico y gestión de la red de apoyo
 </p>
 
 **Wireflow:**
 <p align="center">
   <img src="Imagen/wireflow2.PNG" width="800"> <br>
+  Nota: Diagrama de Wireflow del proceso de activación del botón de pánico y seguimiento de la emergencia
 </p>
 
 **Descripción del flujo:**
@@ -352,48 +376,54 @@ Para gestionar una situación de emergencia crítica, el usuario accede a la fun
 
 Para una inspección técnica detallada de los diagramas y prototipos, se adjuntan los siguientes recursos:
 
-* **Visualización del Task Flow (LucidChart):** [Acceder al diagrama](https://lucid.app/lucidchart/fd581f14-d978-4213-bc90-02e3491e89bf/edit?viewport_loc=355%2C96%2C2024%2C1696%2C0_0&invitationId=inv_f209cdf9-2155-45bb-9a73-deae91179ddb)
-* **Prototipo de Wireframes (Figma):** [Acceder al diseño en Figma](https://www.figma.com/design/CJkpPRq0OH5zXtwyLWALfS/Sin-t%C3%ADtulo?node-id=0-1&t=MtAnEd5sb2PpVe4Q-1)
+* **Visualización del Task Flow (LucidChart):**
+<https://lucid.app/lucidchart/fd581f14-d978-4213-bc90-02e3491e89bf/edit?viewport_loc=355%2C96%2C2024%2C1696%2C0_0&invitationId=inv_f209cdf9-2155-45bb-9a73-deae91179ddb>
+
+* **Prototipo de Wireframes (Figma):**
+<https://www.figma.com/design/CJkpPRq0OH5zXtwyLWALfS/Sin-t%C3%ADtulo?node-id=0-1&t=MtAnEd5sb2PpVe4Q-1>
 
 ### 4.4.2. Web Applications Mock-ups.
 Los mock-ups de la aplicación web de InstAlert representan la versión visual final de la plataforma, integrando los elementos definidos en el Design System y consolidando la experiencia de usuario planteada en los wireframes. En esta etapa se evidencia una mayor fidelidad visual, incorporando jerarquía tipográfica, uso estratégico del color, componentes reutilizbles, accesibilidad y una arquitectura de información orientada a la rapidez de respuesta en situaciones de riesgo.
 Cada pantalla ha sido diseñada priorizando la claridad operativa y la reducción de la carga cognitiva del usuario, permitiendo acceder rápidamente a funciones esenciales como el inicio de sesión, la recuperación de cuenta, la gestión del perfil y el monitoreo de alertas dentro del dashboard principal. Asimismo, se aplican principios de diseño inclusivo mediante interfaces limpias, botones de acción claramente identificables (CTAs), contraste visual adecuado y estructuras intuitivas que facilitan la navegación para distintos perfiles de usuarios.
 La consistencia visual se mantiene mediante el uso uniforme de la paleta cromática institucional, tipografía coherente, iconografía funcional y patrones de navegación previsibles, fortaleciendo la usabilidad general del sistema y generando una mayor percepción de confianza y seguridad dentro de la plataforma.
  
-Mock-up Login
+Mock-up Login  
 El mock-up de la sección de inicio de sesión presenta una interfaz limpia y centrada en la autenticación segura del usuario, manteniendo una jerarquía visual clara que facilita el acceso inmediato a las funciones principales del sistema. La distribución organiza de forma intuitiva los campos de correo electrónico y contraseña, junto con accesos directos para recuperación de cuenta y autenticación mediante Google, reduciendo fricción en el proceso de ingreso.
 La aplicación de botones primarios destacados, campos bien delimitados y mensajes visualmente comprensibles mejora la experiencia de usuario y disminuye la probabilidad de errores durante el acceso. Además, el diseño transmite seguridad y confianza mediante una estructura minimalista y una correcta utilización del contraste visual.
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/iniciar.png" alt="Iniciar Sesión" width="700">
+  <img src="../assets/images/mockapplicationweb/iniciar.png" alt="Iniciar Sesión" width="700"><br>
+  Nota: Mock-up de la pantalla de inicio de sesión de la aplicación web
 </p>
 
-Mock-up Register
+Mock-up Register  
 El mock-up de registro de usuario mantiene la coherencia visual del sistema, ampliando el flujo de autenticación mediante una interfaz orientada a la creación rápida y segura de nuevas cuentas. La organización de los campos de registro prioriza la simplicidad del proceso, evitando sobrecargar al usuario con información innecesaria y permitiendo una experiencia de alta usabilidad.
 La disposición secuencial de los formularios, junto con botones de acción claramente visibles, facilita la comprensión del flujo y reduce errores de validación. La consistencia en el uso de componentes, tipografía y paleta de colores fortalece la percepción de profesionalismo y confiabilidad dentro de la plataforma.
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/crear.png" alt="Crear Cuenta" width="700">
+  <img src="../assets/images/mockapplicationweb/crear.png" alt="Crear Cuenta" width="700"><br>
+  Nota: Mock-up de la pantalla de registro de nuevos usuarios
 </p>
 
-Mock-up Forgot Password
+Mock-up Forgot Password  
 El mock-up de recuperación de contraseña está diseñado para ofrecer una solución rápida y sencilla ante problemas de acceso, priorizando la eficiencia y la claridad del proceso. La interfaz reduce la carga cognitiva al presentar únicamente la información necesaria para recuperar la cuenta, evitando pasos innecesarios y mejorando la experiencia de usuario.
 La presencia de instrucciones claras, campos simplificados y botones de confirmación visibles permite al usuario comprender rápidamente el flujo de recuperación. Este diseño refuerza la accesibilidad y la usabilidad, garantizando una interacción intuitiva incluso en situaciones de urgencia o frustración.
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/forgot.png" alt="Olvidé mi contraseña" width="700">
+  <img src="../assets/images/mockapplicationweb/forgot.png" alt="Olvidé mi contraseña" width="700"><br>
+  Nota: Mock-up de la pantalla de recuperación de contraseña
 </p>
 
- Mock-up Dashboard Principal
+Mock-up Dashboard Principal  
 El mock-up del dashboard funciona como el centro operativo principal de la plataforma, consolidando el acceso a las funciones críticas bajo una arquitectura de información clara y eficiente. La interfaz organiza visualmente el mapa principal, las tarjetas de resumen, las alertas activas y los accesos rápidos a funciones como reportes, autoridades, botón de pánico y monitoreo de zonas de riesgo.
-La jerarquía visual permite que el usuario identifique de inmediato la información más relevante mediante el uso de colores estratégicos, espacios amplios y agrupación lógica de componentes. Esta estructura reduce significativamente la carga cognitiva y facilita la toma de decisiones rápidas en escenarios de emergencia, fortal强化 la eficiencia operativa del sistema y la percepción de seguridad del usuario.
+La jerarquía visual permite que el usuario identifique de inmediato la información más relevante mediante el uso de colores estratégicos, espacios amplios y agrupación lógica de componentes. Esta estructura reduce significativamente la carga cognitiva y facilita la toma de decisiones rápidas en escenarios de emergencia, fortaleciendo la eficiencia operativa del sistema y la percepción de seguridad del usuario.
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/dashboard.png" alt="Dashboard" width="700">
+  <img src="../assets/images/mockapplicationweb/dashboard.png" alt="Dashboard" width="700"><br>
+  Nota: Mock-up del dashboard principal de la aplicación web de InstAlert
 </p>
 
 ### 4.4.3 Web Applications User Flow Diagrams
-
 
 ## 4.5 Web Applications Prototyping
 Con el objetivo de evaluar y perfeccionar la accesibilidad y la experiencia de usuario antes del desarrollo final de **InstAlert**, se elaboró un prototipo interactivo centrado en la navegación web. Este modelo funcional permite simular de forma integral el recorrido del usuario dentro de la plataforma, facilitando la exploración directa de sus secciones, elementos y flujos de interacción tal como se espera en su versión final online.
@@ -404,12 +434,14 @@ A partir de maquetas de alta fidelidad y criterios de usabilidad previamente def
 
 ## Recursos del Proyecto
 
-**Link al prototipo interactivo:** [InstAlert OpenSource en Figma](https://www.figma.com/design/qgC2525lUTmrjbKto3RO2m/InstAlert-OpenSource?node-id=129-394&t=LUlM460orC439bHg-1)
+**Link al prototipo interactivo:**
 
+<https://www.figma.com/design/qgC2525lUTmrjbKto3RO2m/InstAlert-OpenSource?node-id=129-394&t=LUlM460orC439bHg-1>
 
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Design-Level Event Storming
+
 El diseño por niveles del Event Storming es una técnica colaborativa, similar al Big Picture, pero más profunda que busca especificar los Bounded Context pertenecientes al negocio. En otras palabras, DLES es una técnica perteneciente al Domain Driven Design que nos permitirá entender los microservicios de nuestro negocio a un nivel mucho más específico que en un Big Picture.
 
 A continuación, presentaremos los pasos a seguir para ejecutar la técnica:
@@ -419,63 +451,72 @@ En los primeros pasos, reutilizamos lo planteado en el Big Picture Event Stormin
 **Step 1: Unstructured Exploration**
 
 <p align="center">
- <img src="../assets/images/mockapplicationweb/step1.jpg" alt="Paso 1" width="700">
+ <img src="../assets/images/mockapplicationweb/step1.jpg" alt="Paso 1" width="700"><br>
+ Nota: Paso 1 del Design-Level Event Storming – Exploración no estructurada del dominio
 </p>
 
 **Step 2: Chronology**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step2.jpg" alt="Paso 2" width="700">
+<img src="../assets/images/mockapplicationweb/step2.jpg" alt="Paso 2" width="700"><br>
+Nota: Paso 2 del Design-Level Event Storming – Organización cronológica de los eventos
 </p>
 
 **Step 3: Pain Points**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step3.jpg" alt="Paso 3" width="700">
+<img src="../assets/images/mockapplicationweb/step3.jpg" alt="Paso 3" width="700"><br>
+Nota: Paso 3 del Design-Level Event Storming – Identificación de puntos de dolor
 </p>
 
 **Step 4: Pivotal Points**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step4.jpg" alt="Paso 4" width="700">
+<img src="../assets/images/mockapplicationweb/step4.jpg" alt="Paso 4" width="700"><br>
+Nota: Paso 4 del Design-Level Event Storming – Identificación de puntos clave del proceso
 </p>
 
 **Step 5: Commands**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step5.jpg" alt="Paso 5" width="700">
+<img src="../assets/images/mockapplicationweb/step5.jpg" alt="Paso 5" width="700"><br>
+Nota: Paso 5 del Design-Level Event Storming – Definición de comandos del dominio
 </p>
 
 **Step 6: Policies**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step6.jpg" alt="Paso 6" width="700">
+<img src="../assets/images/mockapplicationweb/step6.jpg" alt="Paso 6" width="700"><br>
+Nota: Paso 6 del Design-Level Event Storming – Definición de políticas de negocio
 </p>
 
 **Step 7: Read Models**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step7.jpg" alt="Paso 7" width="700">
+<img src="../assets/images/mockapplicationweb/step7.jpg" alt="Paso 7" width="700"><br>
+Nota: Paso 7 del Design-Level Event Storming – Modelos de lectura del dominio
 </p>
 
 **Step 8: External Systems**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step8.jpg" alt="Paso 8" width="700">
+<img src="../assets/images/mockapplicationweb/step8.jpg" alt="Paso 8" width="700"><br>
+Nota: Paso 8 del Design-Level Event Storming – Integración con sistemas externos
 </p>
 
 **Step 9: Aggregates**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step9.jpg" alt="Paso 9" width="700">
+<img src="../assets/images/mockapplicationweb/step9.jpg" alt="Paso 9" width="700"><br>
+Nota: Paso 9 del Design-Level Event Storming – Definición de agregados del dominio
 </p>
 
 **Step 10: Bounded Contexts**
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/step10.jpg" alt="Paso 10" width="700">
+<img src="../assets/images/mockapplicationweb/step10.jpg" alt="Paso 10" width="700"><br>
+Nota: Paso 10 del Design-Level Event Storming – Identificación de los Bounded Contexts
 </p>
-
 ### 4.6.2 Software Architecture Context Diagram
 
 Este diagrama muestra a InstAlert en el centro y cómo interactúa con los usuarios y los sistemas externos.
@@ -495,9 +536,9 @@ Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (ap
 ### 4.6.4 Software Architecture Components Diagrams
 
 <p align="center">
-<img src="../assets/images/mockapplicationweb/c42.PNG" alt="Tipografía" width="700">
+<img src="../assets/images/mockapplicationweb/c42.PNG" alt="Component Diagram" width="700"><br>
+Nota: Diagrama de componentes de la arquitectura de software de InstAlert
 </p>
-
 
 ## 4.7 Software Object-Oriented Design
 
@@ -506,15 +547,17 @@ Hacemos "zoom" a la caja central azul de InstAlert para ver sus contenedores (ap
 Aquí se visualiza el diagrama de clases de InstAlert. Este diagrama es una representación gráfica estática que muestra la estructura de un sistema de software, detallando las clases, sus atributos, operaciones y las relaciones existentes entre ellas.
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/classdiagrams.jpg" alt="ClassDiagram" width="700">
+  <img src="../assets/images/mockapplicationweb/classdiagrams.jpg" alt="ClassDiagram" width="700"><br>
+  Nota: Diagrama de clases de la aplicación InstAlert
 </p>
 
-## 4.8 Database Design. 
+## 4.8 Database Design
 
-### 4.8.1 Database Diagrams. 
+### 4.8.1 Database Diagrams
 
-Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellos dentro de un sistema de base de datos, también se le conoce como esquema de base de datos.
+Aquí se visualiza el diagrama de base de datos de InstAlert. Este diagrama es una representación visual que muestra la estructura, las tablas, columnas y las relaciones entre ellas dentro de un sistema de base de datos; también se le conoce como esquema de base de datos.
 
 <p align="center">
-    <img src="../assets/images/mockapplicationweb/databasediagram.jpg" alt="DBDiagram" width="700">
+    <img src="../assets/images/mockapplicationweb/databasediagram.jpg" alt="DBDiagram" width="700"><br>
+    Nota: Diagrama de la base de datos de InstAlert
 </p>
