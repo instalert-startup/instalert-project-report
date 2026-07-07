@@ -274,9 +274,7 @@ El Lean UX Canvas presentado a continuación sintetiza los principales elementos
   Nota: Lean UX Canvas del proyecto InstAlert, donde se resumen el problema, los segmentos de usuarios, las hipótesis, las soluciones propuestas y los resultados esperados.
 </p>
 
-A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
-
-<https://canva.link/w0jiztdn8dpluhr>
+A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace): <https://canva.link/w0jiztdn8dpluhr>
 
 
 ## 1.3 Segmentos objetivo
