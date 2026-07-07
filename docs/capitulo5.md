@@ -412,8 +412,8 @@ En esta reunión de planificación se estableció el inicio del desarrollo del *
 
 <p>
   <strong>Backend API (Producción):</strong>
-  <a href="https://veyrav01.azurewebsites.net/swagger-ui/index.html#/">
-    https://veyrav01.azurewebsites.net/swagger-ui/index.html#/
+  <a href="https://instalert-backend-production.up.railway.app/swagger-ui/index.html">
+    https://instalert-backend-production.up.railway.app/swagger-ui/index.html
   </a>
 </p>
 
