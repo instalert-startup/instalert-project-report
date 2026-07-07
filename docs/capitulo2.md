@@ -99,11 +99,9 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 ### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
 
 <table>
-<colgroup>
-</colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2">Entrevista #1</th>
   </tr>
 </thead>
 <tbody>
@@ -123,22 +121,28 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
     <td>Distrito</td>
     <td>Villa el Salvador</td>
   </tr>
+
   <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista"></div></td>
+    <td colspan="2" align="center">
+      <img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista" width="350">
+    </td>
   </tr>
+
   <tr>
     <td>Link</td>
     <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBEHjzI3i3NRocKfcla1JkxAU6Eg3bkwHDnG3qhlFw5r7I?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=juPdPq</td>
-</tr>
+  </tr>
+
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
   </tr>
+
   <tr>
     <td>Duración de la entrevista</td>
     <td>7:30 min</td>
   </tr>
+
   <tr>
     <td>Resumen</td>
     <td>
@@ -147,6 +151,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
 </tbody>
 </table>
+
 
 <table>
 <colgroup>
