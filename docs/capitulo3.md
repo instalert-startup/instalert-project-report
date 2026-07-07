@@ -39,8 +39,13 @@ EP07	Red de Apoyo y Contactos de Emergencia <br><br>
 | HU27 | Solicitar un asistente rapido | <br>As usuario, <br>I want solicitar ayuda a usuarios cercanos, <br>In order to recibir asistencia rápida. | **Escenario 1: Aceptación exitosa** <br> _Given_ que el usuario envía una solicitud de contacto <br> _When_ el destinatario hace clic en el enlace de aceptación <br> _Then_ el sistema activa el vínculo y notifica al usuario remitente <br> **Escenario 2: Rechazo de solicitud** <br> _Given_ que una persona recibe una invitación por error <br> _When_ selecciona "Rechazar" <br> _Then_ el sistema elimina la solicitud y no permite el envío de alertas a ese número <br> | EP7 |
 | HU28 | Panel de monitoreo para contactos | <br>As contacto de confianza, <br>I want acceder a un panel de control cuando recibo una alerta <br>In order to visualizar la ubicación y estado del usuario en tiempo real. | **Escenario 1: Acceso al panel** <br> _Given_ que el contacto recibe un aviso de emergencia <br> _When_ abre el enlace en su navegador <br> _Then_ el sistema despliega un mapa dinámico con la ubicación del usuario y botones de llamada rápida <br> **Escenario 2: Sesión caducada** <br> _Given_ que el incidente fue resuelto hace más de 24 horas <br> _When_ el contacto intenta acceder al panel <br> _Then_ el sistema deniega el acceso por motivos de privacidad <br>| EP7 |
 
+**Nota:** Historias de usuario (User Stories) de InstAlert organizadas por épicas y criterios de aceptación.
+
 ## 3.2.Impact Mapping
-<img src="ImpactMapping.png">
+<p align="center">
+  <img src="ImpactMapping.png" width="700"><br>
+  Nota: Diagrama de Impact Mapping de InstAlert
+</p>
 
 ## 3.3.Product Backlog
 
@@ -74,3 +79,5 @@ EP07	Red de Apoyo y Contactos de Emergencia <br><br>
 | 26 | HU28 | Solicitar apoyo a la comunidad cercana | Como usuario, quiero solicitar ayuda a usuarios cercanos, para recibir asistencia rápida. | 5 |
 | 27 | HU29 | Como contacto de confianza, quiero aceptar una invitación de vinculación para confirmar que estoy dispuesto a recibir alertas del usuario. | Como usuario, quiero solicitar ayuda a usuarios cercanos, para recibir asistencia rápida. | 3 |
 | 28 | HU30 | Panel de monitoreo para contactos | Como contacto de confianza, quiero acceder a un panel de control cuando recibo una alerta para visualizar la ubicación y estado del usuario en tiempo real. | 8 |
+
+**Nota:** Product Backlog de InstAlert, priorizado según el orden de implementación e incluyendo el identificador de la historia de usuario, su descripción y la estimación en Story Points.
