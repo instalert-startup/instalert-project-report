@@ -327,7 +327,7 @@ A continuación, se presentan datos estadísticos que evidencian la magnitud de 
   <img src="../assets/images/stadistics/figura1.png" alt="Figura 1" width="450">
 </p>
 
-**Figura 2:** Evolución de denuncias por robo y hurto en el Perú (2015–2024).
+**Nota:** Evolución de denuncias por robo y hurto en el Perú (2015–2024).
 Fuente: Elaboración propia a partir de datos del Instituto Nacional de Estadística e Informática (INEI, 2024)
 Como se observa en el gráfico, las denuncias por delitos contra el patrimonio han mostrado un incremento sostenido en los últimos años, lo que evidencia la creciente problemática de inseguridad en el país. Esta tendencia justifica la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de riesgo.
 
@@ -336,7 +336,7 @@ Como se observa en el gráfico, las denuncias por delitos contra el patrimonio h
   <img src="../assets/images/stadistics/figura2.png" alt="Figura 2" width="450">
 </p>
 
-**Figura 3:** Denuncias por el delito de extorsión en el Perú (2021–2025).
+**Nota:** Denuncias por el delito de extorsión en el Perú (2021–2025).
 Fuente: Ministerio Público – Oficina de Racionalización y Estadística; Instituto Nacional de Estadística e Informática (INEI, 2025).
 Como se observa en el gráfico, las denuncias por el delito de extorsión en el Perú han mostrado una tendencia creciente en los últimos años. Este incremento evidencia la persistencia y evolución de la criminalidad en el país, afectando tanto a ciudadanos como a comerciantes. Esta situación refuerza la necesidad de desarrollar soluciones tecnológicas que permitan mejorar la prevención y la capacidad de reacción ante situaciones de inseguridad.
 
