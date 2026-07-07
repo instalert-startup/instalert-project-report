@@ -97,7 +97,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">2.0<br>(TP)</td>
+    <td align="center">2.0<br>(TB1)</td>
     <td align="center">12/05/2026</td>
     <td>
       - Diaz Mendoza, Sebastian Victor Andre<br>
@@ -127,6 +127,23 @@
       Versión actualizada del Frontend<br>
       Versión actualizada de la Landing Page<br>
       Despliegue del Backend
+    </td>
+  </tr>
+  <tr>
+    <td align="center">4.0<br>(TB2)</td>
+    <td align="center">07/07/2026</td>
+    <td>
+      - Diaz Mendoza, Sebastian Victor Andre<br>
+      - Janampa Gutierrez, Jhoan Darner<br>
+      - Justo Yauricasa, Alexander Paolo<br>
+      - Molina Falcón, Piero Leonardo<br>
+      - Perez Encarnación, Breithner Rodolfo
+    </td>
+    <td>
+      Capítulo V: Product Implementation, Validation &amp; Deployment<br>
+      Sprint 4<br>
+      Conexión entre Backend y Frontend<br>
+      Correcciones del AV2
     </td>
   </tr>
 </tbody>
