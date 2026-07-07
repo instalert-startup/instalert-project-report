@@ -15,104 +15,54 @@ Asimismo, la aplicación busca fomentar la colaboración entre ciudadanos y enti
 <table border="1" cellspacing="0" cellpadding="2">
 <thead>
 <tr>
-
-<th>
-Foto
-</th>
-<th>
-Apellido y nombre
-</th>
-<th>
-Carrera
-</th>
-<th>
-Acerca de
-</th>
-
+<th>Foto</th>
+<th>Apellido y nombre</th>
+<th>Carrera</th>
+<th>Acerca de</th>
 </tr>
 </thead>
 
 <tbody>
 
 <tr>
-<th>
-<img src="../assets/images/team/piero.png" alt="Foto">
-</th>
-<th>
-Molina Falcón, Piero Leonardo
-</th>
-<th>
-Ingeniería de Software
-</th>
-<th>
-Código: U201610857. Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos. Aporte al equipo: He participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, he contribuido en la organización del equipo, asegurando el avance del proyecto de manera coordinada.
-</th>
+<td><img src="../assets/images/team/piero.png" alt="Foto"></td>
+<td>Molina Falcón, Piero Leonardo</td>
+<td>Ingeniería de Software</td>
+<td>Código: U201610857. Estudiante de Ingeniería de Software con formación en desarrollo de aplicaciones web, UI/UX, base de datos, conocimientos en programación, estructuras de datos y diseño de sistemas/software. Cuenta con comprensión de arquitecturas de software, desarrollo en el área backend y frontend. Destaca por la capacidad de análisis, pensamiento lógico y disposición para el aprendizaje continuo en entornos tecnológicos. Aporte al equipo: He participado en la definición del proyecto, la elaboración del Capítulo I del informe y la estructuración del Lean UX Process. Además, he contribuido en la organización del equipo, asegurando el avance del proyecto de manera coordinada.</td>
 </tr>
 
 <tr>
-<th>
-<img src="../assets/images/team/Sebastian.jpg" alt="Foto">
-</th>
-<th>
-Diaz Mendoza, Sebastian Victor Andre
-</th>
-<th>
-Ingeniería de Software
-</th>
-<th>
-Código: u202415638. Soy Sebastian Diaz, actualmente estudio la carrera de ingenieria de software y para el presente proyecto me he enfocado en diseño de experiencia de usuario (UX/UI), además soy responsable de la interacción y usabilidad. Cuento con dominio en estructura de datos, algoritmos y base de datos. Con una capacidad de razonamiento lógico y ordenado, con conocimiento en paradigmas como la programación orientada a objetos y técnicas de aplicación en la complejidad algorítmica. Aporte al equipo: Aporte en la presentación de idea y fundamento del proyecto además de desarrollo en los capítulo II y IV. Con alta proactividad en el desarrollo del proyecto.
-</th>
+<td><img src="../assets/images/team/Sebastian.jpg" alt="Foto"></td>
+<td>Diaz Mendoza, Sebastian Victor Andre</td>
+<td>Ingeniería de Software</td>
+<td>Código: U202415638. Soy Sebastian Diaz, actualmente estudio la carrera de Ingeniería de Software y para el presente proyecto me he enfocado en diseño de experiencia de usuario (UX/UI), además soy responsable de la interacción y usabilidad. Cuento con dominio en estructura de datos, algoritmos y base de datos. Con una capacidad de razonamiento lógico y ordenado, con conocimiento en paradigmas como la programación orientada a objetos y técnicas de aplicación en la complejidad algorítmica. Aporte al equipo: Aporte en la presentación de idea y fundamento del proyecto además del desarrollo de los capítulos II y IV. Con alta proactividad en el desarrollo del proyecto.</td>
 </tr>
 
 <tr>
-<th>
-<img src="../assets/images/team/Alexander .png" alt="Foto">
-</th>
-<th>
-Justo Yauricasa, Alexander Paolo
-</th>
-<th>
-Ingeniería de Software
-</th>
-<th>
-Código: u20191c054. Soy Alexander Justo, estudiante de Ingeniería de Software. En este proyecto me he enfocado en parte de los HUs y Product Backlog. Poseo conocimientos en estructuras de datos, algoritmos y bases de datos, además de una sólida capacidad de razonamiento lógico y organizado. Asimismo, manejo paradigmas como la programación orientada a objetos y aplico técnicas relacionadas con la complejidad algorítmica. Aporte al equipo: He participado en la definición del proyecto, en la redacción del Capítulo III, parte del los HUs y Product Backlog. Además, ha aportado en la organización del equipo y en la asignación de tareas.
-</th>
+<td><img src="../assets/images/team/Alexander .png" alt="Foto"></td>
+<td>Justo Yauricasa, Alexander Paolo</td>
+<td>Ingeniería de Software</td>
+<td>Código: U20191C054. Soy Alexander Justo, estudiante de Ingeniería de Software. En este proyecto me he enfocado en parte de las Historias de Usuario y el Product Backlog. Poseo conocimientos en estructuras de datos, algoritmos y bases de datos, además de una sólida capacidad de razonamiento lógico y organizado. Asimismo, manejo paradigmas como la programación orientada a objetos y aplico técnicas relacionadas con la complejidad algorítmica. Aporte al equipo: He participado en la definición del proyecto, en la redacción del Capítulo III, parte de las Historias de Usuario y el Product Backlog. Además, he aportado en la organización del equipo y en la asignación de tareas.</td>
 </tr>
 
 <tr>
-<th>
-<img src="../assets/images/team/Breithner .png" alt="Foto">
-</th>
-<th>
-Perez Encarnación, Breithner Rodolfo
-</th>
-<th>
-Ingeniería de Software
-</th>
-<th>
-Código: u202418577. Soy Breithner Rodolfo Perez Encarnación, estudiante de Ingeniería de Software de 4to ciclo. En mis proyectos me he enfoncadao en los diseños del Web Applications Wireframes. Poseo conocimientos sólidos en bases de datos (SQL y MongoDB), estructuración de diagramas UML y documentación con Swagger, además de una fuerte orientación hacia el diseño de soluciones estructuradas. Asimismo, aplico buenas prácticas de desarrollo. Aporte al equipo: He participado en el capitulo II en la parte de Empathy Maping, User Journey Mapping y en el Capitulo IV en la parte de anding Page Wireframe. y Web Applications Wireframes.
-</th>
+<td><img src="../assets/images/team/Breithner .png" alt="Foto"></td>
+<td>Perez Encarnación, Breithner Rodolfo</td>
+<td>Ingeniería de Software</td>
+<td>Código: U202418577. Soy Breithner Rodolfo Perez Encarnación, estudiante de Ingeniería de Software de 4.º ciclo. En este proyecto me he enfocado en el diseño de los Web Applications Wireframes. Poseo conocimientos sólidos en bases de datos (SQL y MongoDB), estructuración de diagramas UML y documentación con Swagger, además de una fuerte orientación hacia el diseño de soluciones estructuradas. Asimismo, aplico buenas prácticas de desarrollo. Aporte al equipo: He participado en el Capítulo II en las secciones de Empathy Mapping y User Journey Mapping, y en el Capítulo IV en las secciones de Landing Page Wireframe y Web Applications Wireframes.</td>
 </tr>
 
 <tr>
-<th>
-<img src="../assets/images/team/Jhoan.jpg" alt="Foto">
-</th>
-<th>
-Jhoan Darner Janampa Gutierrez
-</th>
-<th>
-Ingeniería de Software
-</th>
-<th>
-Código: U202323319. Estudiante de la carrera de Ingeniería de Software, con un gran interés en el desarrollo de software y el diseño, implementación y gestión de bases de datos. Me caracterizo por mi capacidad para analizar problemas, proponer soluciones tecnológicas eficientes y desarrollar aplicaciones orientadas a satisfacer necesidades reales de los usuarios.
-Poseo conocimientos en programación, estructuras de datos, algoritmos y modelado de bases de datos, aplicando principios de calidad y buenas prácticas de desarrollo para construir soluciones limpias, mantenibles y escalables. Asimismo, tengo experiencia trabajando en equipo bajo metodologías colaborativas, participando activamente en proyectos académicos donde he fortalecido habilidades de comunicación, organización y resolución de problemas.
-</th>
+<td><img src="../assets/images/team/Jhoan.jpg" alt="Foto"></td>
+<td>Janampa Gutierrez, Jhoan Darner</td>
+<td>Ingeniería de Software</td>
+<td>Código: U202323319. Estudiante de Ingeniería de Software con gran interés en el desarrollo de software y el diseño, implementación y gestión de bases de datos. Me caracterizo por mi capacidad para analizar problemas, proponer soluciones tecnológicas eficientes y desarrollar aplicaciones orientadas a satisfacer necesidades reales de los usuarios. Poseo conocimientos en programación, estructuras de datos, algoritmos y modelado de bases de datos, aplicando principios de calidad y buenas prácticas de desarrollo para construir soluciones limpias, mantenibles y escalables. Asimismo, tengo experiencia trabajando en equipo bajo metodologías colaborativas, participando activamente en proyectos académicos donde he fortalecido habilidades de comunicación, organización y resolución de problemas.</td>
 </tr>
 
 </tbody>
 </table>
 
+**Nota:** Información de los integrantes del equipo de desarrollo de InstAlert, incluyendo datos académicos, perfil profesional y aportes realizados durante el proyecto.
 
 ## 1.2 Solution Profile
 
