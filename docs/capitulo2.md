@@ -54,6 +54,8 @@ Analizar a la competencia permite identificar sus estrategias, fortalezas y debi
 | | **Debilidades** | Bajo reconocimiento de marca inicial. Dependencia crítica de la adopción masiva y colaboración comunitaria para la efectividad de la data. | Dependencia total del proveedor (plataforma cerrada). Acceso limitado solo a través de contratos estatales sin contacto directo con el ciudadano. | Carece de métricas de impacto públicas. Interfaz institucional que puede no ser intuitiva en situaciones de emergencia crítica. | Enfoque limitado a la seguridad familiar (not ciudadana/delictiva). Alto consumo de batería y funciones avanzadas bloqueadas tras pago. |
 | | **Amenazas** | Competidores establecidos en seguridad privada. Riesgo de reportes falsos que afecten la credibilidad y desafíos regulatorios de datos. | Cambios en la gestión política o recortes presupuestarios. Competencia de aplicaciones municipales gratuitas de gran escala. | Desconfianza ciudadana en la respuesta de las autoridades locales. Riesgo de saturación del sistema por falsas alarmas ciudadanas. | Regulaciones de privacidad de datos cada vez más estrictas. Competencia indirecta de herramientas gratuitas de geolocalización básica. |
 
+**Nota:** Análisis competitivo de InstAlert en comparación con las principales soluciones y organizaciones del sector, considerando aspectos de perfil, marketing, producto y análisis SWOT.
+
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 En base al análisis previo, **InstAlert** establece las siguientes directrices estratégicas para diferenciarse y consolidar su posición frente a los actores clave del sector:
@@ -90,6 +92,8 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 | **Preguntas para Segmento 1: Vecinos de zonas de riesgo medio-alto** | 1. ¿En qué circunstancias o momentos específicos experimenta mayor inseguridad al transitar por su zona de residencia? ¿Cuál es su percepción de seguridad durante sus desplazamientos cotidianos?<br>2. ¿Qué medidas preventivas adopta actualmente para desplazarse de forma segura en su localidad? ¿De qué manera estas estrategias de movilidad han llegado a afectarle en algún aspecto?<br>3. ¿Podría describir alguna situación de riesgo en su zona donde se le dificultó reaccionar o solicitar auxilio? En caso de no haberlo vivido personalmente, ¿tiene conocimiento de algún incidente cercano? ¿Qué factores considera que complicaron la respuesta de los afectados?<br>4. ¿De qué forma garantiza su protección personal ante la presencia de riesgos en la vía pública o en su vecindario?<br>5. Si tuviera acceso a una herramienta de asistencia para situaciones de riesgo en su comunidad, ¿bajo qué funciones esperaría que esta le brinde soporte?<br>6. ¿Qué obstáculos o deficiencias identifica en los canales de solicitud de ayuda disponibles ante una emergencia?<br>7. ¿A través de qué medios se informa habitualmente sobre los sucesos de inseguridad ocurridos en su sector?<br>8. ¿Ha percibido, mediante experiencias propias o eventos observados, alguna falta de fiabilidad en las autoridades correspondientes?<br>9. Ante una situación de vulnerabilidad, ¿considera que un botón de pánico sería una herramienta eficaz? De ser así, ¿cuál sería el aporte específico de este mecanismo?<br>10. ¿Cree que disponer de datos precisos sobre las áreas con mayor índice de criminalidad en su zona le resultaría beneficioso?<br>11. ¿Considera de utilidad contar con reportes actualizados sobre incidentes recientes? En caso afirmativo, ¿cuál sería el motivo?<br>12. ¿Qué información específica y detallada requeriría usted en cada reporte de incidente?<br>13. Si existiera la posibilidad de incluir una descripción que permita identificar al responsable en el reporte, ¿considera que esto le sería de ayuda? ¿De qué manera?<br>14. ¿Cuentan los residentes con un canal de comunicación definido para reportar y alertar sobre diversas situaciones de interés comunitario?<br>15. ¿Forma usted parte de juntas de vecinos o redes de apoyo enfocadas en la seguridad ciudadana?<br>16. ¿Qué acciones o proyectos considera que la comunidad de vecinos podría ejecutar para optimizar la seguridad del entorno? |
 | **Preguntas para Segmento 2: Comerciantes en zonas de riesgo medio-alto** | 1. ¿Ha experimentado en algún momento una sensación de inseguridad durante el desempeño de sus labores? De ser así, ¿cuáles fueron los motivos?<br>2. En su operatividad diaria, ¿en qué escenarios específicos identifica una mayor vulnerabilidad dentro de su establecimiento (apertura, cierre, gestión de efectivo o periodos de soledad)?<br>3. ¿Recuerda alguna circunstancia en la que la integridad de su negocio se viera comprometida y no contara con una capacidad de respuesta inmediata? ¿Podría describir el suceso?<br>4. ¿Con qué periodicidad y qué tan actuales son los hechos delictivos registrados en este sector?<br>5. ¿Qué modalidades delictivas considera que afectan con mayor frecuencia al sector comercial de esta zona?<br>6. ¿Ha repercutido el estado de la seguridad ciudadana en el rendimiento operativo o financiero de su empresa? En caso afirmativo, ¿de qué forma?<br>7. Además de los robos o asaltos, ¿existen otros agentes o factores que le generen una percepción de riesgo?<br>8. ¿Considera que el contacto con las fuerzas del orden o la solicitud de auxilio es accesible en su localidad? De lo contrario, ¿qué elementos dificultan este proceso?<br>9. ¿Estima usted que las autoridades asignadas a su jurisdicción son dignas de confianza? ¿Cuáles son los fundamentos de su postura? <br>10. ¿Considera que la implementación de un botón de pánico resultaría de utilidad para su protección?<br>11. ¿Bajo qué supuestos de riesgo proyectaría usted el uso de un botón de pánico (por ejemplo: tentativa de hurto, clientes hostiles, extorsión o sospecha de seguimiento)?<br>12. ¿Estima que esta herramienta optimizaría la asistencia de las autoridades si permitiera el envío de alertas directas a las unidades más cercanas?<br>13. ¿Cree que disponer de información exacta sobre los puntos críticos de incidencia delictiva en su zona le sería de ayuda?<br>14. ¿Qué datos técnicos o descriptivos desearía recibir acerca de dichos incidentes? |
 
+**Nota:** Guía de entrevista  elaborada para la recopilación de información 
+
 #### 2.2.2. Registro de entrevistas
 
 ### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
@@ -125,8 +129,8 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing">entrevista</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBEHjzI3i3NRocKfcla1JkxAU6Eg3bkwHDnG3qhlFw5r7I?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=juPdPq</td>
+</tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
@@ -175,8 +179,8 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><a target="_blank" href="https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV">entrevista</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV</td>
+</tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
@@ -225,8 +229,8 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing">entrevista</a></td>
-  </tr>
+    <td>https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing</td>
+</tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
@@ -279,8 +283,8 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><a target="_blank" href="https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing">entrevista</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBfUrfMjw5qQaE1oeaS4ID-AZnXkCn5NzuHO9g1RUvBgXk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tlBfqM</td>
+</tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
@@ -329,8 +333,8 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing">entrevista</a></td>
-  </tr>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBXp5rIV73JQKjbq-OWqSR9ASrFEAfTBjFd_OfO-ld5AFY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Gx3biD</td>
+</tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
@@ -347,9 +351,6 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
 </tbody>
 </table>
-
-
-
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -419,6 +420,8 @@ User Task Matrix: Residente de zona de riesgo medio-alto
 | Activar botón de pánico (Emergencia) | Low | High |
 | Solicitar asistencia de serenazgo/policía | Low | High |
 
+**Nota:** Matriz de tareas del usuario para el segmento de residentes en zonas de riesgo medio-alto, clasificada según la frecuencia de uso y el nivel de importancia de cada tarea.
+
 User Task Matrix: Comerciantes en zonas de riesgo medio-alto
 
 | Tareas de Usuario | Frecuencia | Importancia |
@@ -437,18 +440,22 @@ User Task Matrix: Comerciantes en zonas de riesgo medio-alto
 | Registro y configuración de perfil | Low | High |
 | Consultar rutas seguras en tiempo real | Low | Medium |
 
+**Nota:** Matriz de tareas del usuario para el segmento de comerciantes en zonas de riesgo medio-alto, clasificada según la frecuencia de uso y el nivel de importancia de cada tarea.
+
 ### 2.3.3. User Journey Mapping
 
 Primer Segmento: Residentes de zonas de riesgo medio-alto
 
 <p align="center">
-  <img src="../assets/images/UX Canva/userjourneymapping-1.jpg" alt="User Journey Mapping Residente" width="450">
+  <img src="../assets/images/UX Canva/userjourneymapping-1.jpg" alt="User Journey Mapping Residente" width="450"><br>
+  Nota: User Journey Mapping del segmento de residentes en zonas de riesgo medio-alto
 </p>
 
 Segundo segmento: Comerciantes en zonas de riesgo medio-alto
 
 <p align="center">
-  <img src="../assets/images/UX Canva/userjourneymapping-2.jpg" alt="User Journey Mapping Comerciante" width="450">
+  <img src="../assets/images/UX Canva/userjourneymapping-2.jpg" alt="User Journey Mapping Comerciante" width="450"><br>
+  Nota: User Journey Mapping del segmento de comerciantes en zonas de riesgo medio-alto
 </p>
 
 ### 2.3.4. Empathy Mapping.
@@ -456,13 +463,15 @@ Segundo segmento: Comerciantes en zonas de riesgo medio-alto
 Empathy Map Kiara Lluques
 
 <p align="center">
-  <img src="../assets/images/UX Canva/empathymap-kiara-lluques.jpg" alt="Empathy Map Kiara Lluques" width="450">
+  <img src="../assets/images/UX Canva/empathymap-kiara-lluques.jpg" alt="Empathy Map Kiara Lluques" width="450"><br>
+  Nota: Empathy Map correspondiente a la persona "Kiara Lluques"
 </p>
 
 Empathy Map Luan Enrique
 
 <p align="center">
-  <img src="../assets/images/UX Canva/empathymap-luan-enrique.jpg" alt="Empathy Map Luan Enrique" width="450">
+  <img src="../assets/images/UX Canva/empathymap-luan-enrique.jpg" alt="Empathy Map Luan Enrique" width="450"><br>
+  Nota: Empathy Map correspondiente a la persona "Luan Enrique"
 </p>
 
 ## 2.4. Big Picture Event Storming
@@ -477,7 +486,8 @@ En esta fase inicial, el equipo se enfocó en identificar todos los hechos signi
 Se identificaron eventos clave como Incidente sospechoso detectado, Botón de pánico activado, Alerta de estafa emitida y Ubicación en tiempo real compartida. Esta etapa permitió visibilizar la complejidad de las interacciones sin restricciones de orden.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/generacionde-eventosdedominio.jpg" alt="Generación de Eventos de Dominio" width="450">
+  <img src="../assets/images/UX Canva/generacionde-eventosdedominio.jpg" alt="Generación de Eventos de Dominio" width="450"><br>
+  Nota: Generación de eventos de dominio del Big Picture Event Storming de InstAlert
 </p>
 
 #### 2.4.1.2 Ordenamiento Cronológico y Flujo de Trabajo
@@ -485,7 +495,8 @@ Se identificaron eventos clave como Incidente sospechoso detectado, Botón de p�
 Una vez generados los eventos, se procedió a organizarlos en una línea de tiempo de izquierda a derecha. Este ordenamiento permitió estructurar dos flujos principales de la aplicación: el Flujo Preventivo (orientado a la consulta de rutas y mapas de calor por parte del residente) y el Flujo Reactivo (enfocado en la respuesta inmediata ante emergencias para comerciantes y vecinos). Se utilizaron alineaciones verticales para representar acciones que ocurren en paralelo, como el envío simultáneo de notificaciones a serenazgo y contactos de confianza.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg" alt="Ordenamiento Cronológico y Flujo de Trabajo" width="450">
+  <img src="../assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg" alt="Ordenamiento Cronológico y Flujo de Trabajo" width="450"><br>
+  Nota: Ordenamiento cronológico y flujo de trabajo del Big Picture Event Storming de InstAlert
 </p>
 
 En esta etapa, el equipo organizó los eventos de dominio de manera cronológica, permitiendo identificar la secuencia de interacción desde que un usuario consulta el mapa de calor (prevención) hasta la activación del botón de pánico en situaciones críticas (reacción). Se establecieron dependencias lógicas donde los reportes comunitarios alimentan la inteligencia colectiva del sistema.
@@ -495,16 +506,13 @@ En esta etapa, el equipo organizó los eventos de dominio de manera cronológica
 Para otorgar contexto a los eventos, se añadieron capas de información identificando quién ejecuta las acciones y qué herramientas de terceros intervienen. Actores: Se definieron roles críticos como el Residente de zona de riesgo, el Comerciante, el Contacto de Confianza y el Operador de Serenazgo. Sistemas Externos: Se identificaron integraciones necesarias con Google Maps API para la geolocalización y Firebase para la gestión de notificaciones push en tiempo real.
 
 <p align="center">
-  <img src="../assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg" alt="Identificación de Actores y Sistemas Externos" width="450">
+  <img src="../assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg" alt="Identificación de Actores y Sistemas Externos" width="450"><br>
+  Nota: Identificación de actores y sistemas externos del Big Picture Event Storming de InstAlert
 </p>
 
 #### 2.4.1.4 Storytelling y Validación (Reverse Storytelling)
 
 Finalmente, el equipo realizó una lectura crítica del muro para verificar la coherencia del dominio. Al narrar la historia de forma inversa, se identificaron vacíos lógicos y se añadieron post-its de color rosado para marcar "Puntos de Dolor" o problemas, tales como la validación de reportes falsos y la conectividad en sótanos o zonas de baja señal. Esta etapa garantizó que el sistema propuesto sea robusto ante situaciones de estrés real.
-
-<p align="center">
-  <img src="[Ruta_de_Imagen_No_Especificada]" alt="Storytelling y Validación" width="450">
-</p>
 
 ## 2.5. Ubiquitous Language.
 
@@ -520,3 +528,5 @@ Finalmente, el equipo realizó una lectura crítica del muro para verificar la c
 | Security Authorities | Fuerzas del orden (Policía Nacional, Serenazgo) con las que la plataforma busca integrarse y coordinar para agilizar la respuesta ante situaciones de peligro. |
 | Risk zones | Áreas urbanas o rurales identificadas dentro de la plataforma que presentan un alto índice de inseguridad ciudadana. |
 | Smart data analysis | Uso de Inteligencia Artificial para procesar el historial de reportes y datos actuales, permitiendo predecir patrones de delincuencia y mejorar la prevención ciudadana. |
+
+**Nota:** Lenguaje ubicuo (Ubiquitous Language) de InstAlert, que define los principales términos del dominio utilizados para mantener una comunicación consistente entre los participantes del proyecto y el equipo de desarrollo.
