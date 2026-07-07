@@ -102,7 +102,6 @@
     <td>
       - Diaz Mendoza, Sebastian Victor Andre<br>
       - Janampa Gutierrez, Jhoan Darner<br>
-      - Justo Yauricasa, Alexander Paolo<br>
       - Molina Falcón, Piero Leonardo<br>
       - Perez Encarnación, Breithner Rodolfo
     </td>
@@ -135,7 +134,6 @@
     <td>
       - Diaz Mendoza, Sebastian Victor Andre<br>
       - Janampa Gutierrez, Jhoan Darner<br>
-      - Justo Yauricasa, Alexander Paolo<br>
       - Molina Falcón, Piero Leonardo<br>
       - Perez Encarnación, Breithner Rodolfo
     </td>
