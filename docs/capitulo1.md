@@ -62,7 +62,7 @@ Asimismo, la aplicación busca fomentar la colaboración entre ciudadanos y enti
 </tbody>
 </table>
 
-**Nota:** Información de los integrantes del equipo de desarrollo de InstAlert, incluyendo datos académicos, perfil profesional y aportes realizados durante el proyecto.
+**Nota:** Información de los integrantes del equipo de desarrollo de InstAlert
 
 ## 1.2 Solution Profile
 
@@ -270,12 +270,13 @@ El Lean UX Canvas presentado a continuación sintetiza los principales elementos
 *Lean ux canvas*
 
 <p align="center">
-  <img src="../assets/images/UX Canva/leanuxcanva.png" alt="UX Canvas" width="700">
+  <img src="../assets/images/UX Canva/leanuxcanva.png" alt="Lean UX Canvas" width="700"><br>
+  Nota: Lean UX Canvas del proyecto InstAlert, donde se resumen el problema, los segmentos de usuarios, las hipótesis, las soluciones propuestas y los resultados esperados.
 </p>
 
- A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
- 
-[Ver Lean UX Canvas completo en Canva](https://canva.link/w0jiztdn8dpluhr)
+A continuación, se presenta el Lean UX Canvas del proyecto (ver enlace):
+
+<https://canva.link/w0jiztdn8dpluhr>
 
 
 ## 1.3 Segmentos objetivo
@@ -323,7 +324,6 @@ Ocupación: Estudiantes, trabajadores dependientes e independientes
  De acuerdo con el Ministerio Público y el INEI, los delitos contra el patrimonio, como robos, hurtos y extorsión, han mostrado un incremento sostenido en los últimos años, afectando principalmente a pequeños negocios en zonas urbanas.
 
 A continuación, se presentan datos estadísticos que evidencian la magnitud de la problemática de inseguridad ciudadana en el Perú, la cual impacta directamente en los segmentos identificados.
-
 
 <p align="center">
   <img src="../assets/images/stadistics/figura1.png" alt="Figura 1" width="450">
