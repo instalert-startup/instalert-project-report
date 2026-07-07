@@ -180,7 +180,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   </tr>
   <tr>
     <td>Link</td>
-    <td>https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV</td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQDzn4lObEVKSI9R79E9eYvdAU_I7NBiCHEMlStq-b7ihRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tZ78ic</td>
 </tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
@@ -231,7 +231,7 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
   <tr>
     <td>Link</td>
     <td>https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing</td>
-</tr>
+  </tr>
   <tr>
     <td>Timing donde inicia la entrevista</td>
     <td>00:00 min</td>
@@ -244,6 +244,12 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
     <td>Resumen</td>
     <td>
       El entrevistado describe su zona como un entorno con frecuentes robos, vandalismo y conflictos callejeros. Tras haber sido víctima de un hurto, expresa desconfianza en la efectividad de la respuesta policial y considera insuficientes las medidas de seguridad comunitarias. Señala la necesidad de una aplicación que permita reportar incidentes y brindar asistencia inmediata para mejorar la prevención y reacción ante emergencias.
+    </td>
+  </tr>
+  <tr>
+    <td>Observación</td>
+    <td>
+      El integrante encargado de grabar esta entrevista subió inicialmente el contenido a Google Drive. Posteriormente, nos pusimos en contacto con él para solicitar que actualizara el enlace conforme al formato establecido para el proyecto; sin embargo, no obtuvimos respuesta.
     </td>
   </tr>
 </tbody>
