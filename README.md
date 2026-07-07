@@ -129,8 +129,34 @@
       Despliegue del Backend
     </td>
   </tr>
+  <tr>
+    <td align="center">4.0<br>(TB2)</td>
+    <td align="center">07/07/2026</td>
+    <td>
+      - Diaz Mendoza, Sebastian Victor Andre<br>
+      - Janampa Gutierrez, Jhoan Darner<br>
+      - Molina Falcón, Piero Leonardo<br>
+      - Perez Encarnación, Breithner Rodolfo
+    </td>
+    <td>
+      Correcciones de la AV2<br>
+      Capítulo V: Product Implementation, Validation &amp; Deployment<br>
+      Sprint 4<br>
+      Versión final del Frontend<br>
+      Versión final del Backend<br>
+      Versión final de la Landing Page<br>
+      Actualización de Validation Interviews<br>
+      Actualización del Video About the Product<br>
+      Actualización del Project Report Collaboration Insights<br>
+      Conclusiones finales<br>
+      Bibliografía actualizada<br>
+      Anexos finales
+    </td>
+  </tr>
 </tbody>
 </table>
+
+  
 
 <div style="page-break-after: always;"></div>
 
@@ -138,19 +164,29 @@
 
 Repositorio donde está el Project Report: [https://github.com/instalert-startup/instalert-project-report](https://github.com/instalert-startup/instalert-project-report)
 
-Para la elaboración del informe, el equipo utilizó GitHub como plataforma principal de colaboración y control de versiones. El repositorio del Project Report permitió centralizar la documentación del proyecto, facilitando el trabajo colaborativo entre los integrantes y el seguimiento de los avances realizados durante cada entrega académica.
+Para la elaboración del informe, el equipo utilizó GitHub como plataforma principal de colaboración y control de versiones. El repositorio del Project Report permitió centralizar la documentación del proyecto, facilitar el trabajo colaborativo entre los integrantes y mantener la trazabilidad de los cambios realizados durante todas las etapas de desarrollo.
 
-En esta versión (AV2), el informe fue actualizado para incluir los avances correspondientes al Sprint 3, las mejoras implementadas en el Frontend de InstAlert, las actualizaciones realizadas en la Landing Page y el despliegue del Backend. Asimismo, se incorporaron las evidencias de desarrollo, validación y documentación requeridas para reflejar el progreso alcanzado durante esta etapa del proyecto.
+Durante el desarrollo del proyecto (AV1, TP, AV2 y TB2), el equipo empleó una estrategia de trabajo colaborativo basada en ramas, commits con mensajes descriptivos y actualizaciones continuas del repositorio. Esto permitió documentar la evolución del informe, registrar las mejoras realizadas en cada entrega y mantener un historial organizado de las contribuciones de cada integrante.
 
-La colaboración entre los integrantes se realizó mediante commits, ramas de trabajo y actualizaciones continuas del repositorio, permitiendo mantener un historial detallado de cambios y una adecuada trazabilidad de las contribuciones realizadas por cada miembro del equipo.
+En la versión final (TB2), el informe fue actualizado para incorporar las correcciones recibidas en las entregas anteriores, los avances correspondientes al Sprint 4, la versión final de los productos desarrollados y las evidencias finales de validación, despliegue y documentación. Las siguientes figuras muestran evidencias del trabajo colaborativo realizado durante todo el proyecto, incluyendo la organización del repositorio, las contribuciones del equipo y el historial de commits.
 
-### Figure AV2. Team Contributions in the Project Report Repository
+### Figure TB2. Project Report Repository Branches
 
-![GitHub Contributions](assets/images/Github.png)
+![Project Report Branches](assets/images/project-report-branches-tb2.png)
 
-*Figure AV2. Contributions of team members in the InstAlert Project Report repository.*
+*Figure TB2. Repository branches used throughout the development of the InstAlert Project Report.*
 
-<div style="page-break-after: always;"></div>
+### Figure TB2. Team Contributions in the Project Report Repository
+
+![GitHub Contributions](assets/images/github-contributions-tb2.png)
+
+*Figure TB2. Team contributions recorded in the Project Report repository from AV1 to TB2.*
+
+### Figure TB2. Commit History of the Project Report Repository
+
+![Project Report Commit History](assets/images/project-report-commits-tb2.png)
+
+*Figure TB2. Commit history showing the evolution of the Project Report from AV1 to TB2.*
 
 # Contenido
 
