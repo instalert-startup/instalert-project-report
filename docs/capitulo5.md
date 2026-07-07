@@ -515,9 +515,9 @@ Como resultado de este Sprint, InstAlert logró consolidar una arquitectura back
 La documentación mediante Swagger/OpenAPI permitió validar el correcto funcionamiento de los endpoints implementados y facilitar futuras integraciones. Los bounded contexts desarrollados proporcionan soporte a funcionalidades esenciales relacionadas con autenticación, gestión de emergencias y colaboración comunitaria, constituyendo una base sólida para la evolución de la plataforma en los siguientes sprints de desarrollo.
 
 
-**Video Sprint Review 3**
-* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAb3M9omb6cLmKbvb2sb8G_g?
+* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/personal/u202323319_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202323319%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eaa84ac4a%2D6610%2D48ab%2D9423%2D51eb5ede242a
 
+  
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 La especificación, estructura y contratos de comunicación de los servicios web diseñados en .NET para la aplicación de seguridad InstAlert se detallan en la siguiente matriz técnica. Cada endpoint interactúa de forma nativa con el motor relacional de base de datos MySQL:
