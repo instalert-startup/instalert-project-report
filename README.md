@@ -1,24 +1,69 @@
-<h1 align="center">InstAlert</h1>
+<div align="center">
+  <img src="https://imgur.com/IFP8FSt.png" alt="logoupc" width="100">
+  <br><br>
 
-<p align="center">  <img src="https://imgur.com/IFP8FSt.png" alt="logoupc" width="100"></p>
+  <p>Universidad Peruana de Ciencias Aplicadas<br>
+  Carrera de Ingeniería de Software</p>
+  <br>
 
-<p align="center">Universidad: Universidad Peruana de Ciencias Aplicadas (UPC)</p>
-<p align="center">Facultad: Facultad de Ingeniería</p>
-<p align="center">Carrera: Ingeniería de Software</p>
-<p align="center">Periodo: 2026-10</p>
-<p align="center">Curso: Desarrollo de Aplicaciones Open Source</p>
-<p align="center">Código del curso: 1ASI0729</p>
-<p align="center">Sección: 10155</p>
-<p align="center">Profesor: Hugo Allan Mori Paiva</p>
+  <p>
+    <strong>1ASI0729</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source</strong>
+  </p>
 
-<p align="center"><strong>Informe del Trabajo Final</strong></p>
+  <p>
+    NRC<br>
+    <strong>10155</strong>
+  </p>
 
-<p align="center">Diaz Mendoza, Sebastian Victor Andre - u202415638</p>
-<p align="center">Janampa Gutierrez, Jhoan Darner - u202323319</p>
-<p align="center">Molina Falcón, Piero Leonardo - u201610857</p>
-<p align="center">Perez Encarnación, Breithner Rodolfo - u202418577</p>
+  <h3><strong>Informe del Trabajo Final</strong></h3>
 
-<p align="center">Junio de 2026</p>
+  <p>
+    Docente<br>
+    <strong>Mori Paiva, Hugo Allan</strong>
+  </p>
+
+  <p>
+    Equipo<br>
+    <strong>Devo-PE</strong>
+  </p>
+
+  <p>
+    Proyecto<br>
+    <strong>InstAlert</strong>
+  </p>
+
+  <p><strong>Integrantes</strong></p>
+
+  <table style="border: none; border-collapse: collapse; margin: 0 auto;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 3px 15px;"><strong>Código</strong></td>
+      <td style="border: none; padding: 3px 15px;"><strong>Apellidos y Nombres</strong></td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none; padding: 3px 15px;">u202415638</td>
+      <td style="border: none; padding: 3px 15px;">Diaz Mendoza, Sebastian Victor Andre</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none; padding: 3px 15px;">u202323319</td>
+      <td style="border: none; padding: 3px 15px;">Janampa Gutierrez, Jhoan Darner</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none; padding: 3px 15px;">u201610857</td>
+      <td style="border: none; padding: 3px 15px;">Molina Falcón, Piero Leonardo</td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none; padding: 3px 15px;">u202418577</td>
+      <td style="border: none; padding: 3px 15px;">Perez Encarnación, Breithner Rodolfo</td>
+    </tr>
+  </table>
+  <br><br>
+
+  <p>
+    <strong>Período 2026-10</strong><br><br>
+    <strong>Junio de 2026</strong>
+  </p>
+</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -91,7 +136,7 @@
 
 ## Project Report Collaboration Insights
 
-Repositorio donde está el Project Report: https://github.com/instalert-startup/instalert-project-report
+Repositorio donde está el Project Report: [https://github.com/instalert-startup/instalert-project-report](https://github.com/instalert-startup/instalert-project-report)
 
 Para la elaboración del informe, el equipo utilizó GitHub como plataforma principal de colaboración y control de versiones. El repositorio del Project Report permitió centralizar la documentación del proyecto, facilitando el trabajo colaborativo entre los integrantes y el seguimiento de los avances realizados durante cada entrega académica.
 
@@ -99,11 +144,11 @@ En esta versión (AV2), el informe fue actualizado para incluir los avances corr
 
 La colaboración entre los integrantes se realizó mediante commits, ramas de trabajo y actualizaciones continuas del repositorio, permitiendo mantener un historial detallado de cambios y una adecuada trazabilidad de las contribuciones realizadas por cada miembro del equipo.
 
-### Figure X. Team Contributions in the Project Report Repository
+### Figure AV2. Team Contributions in the Project Report Repository
 
 ![GitHub Contributions](assets/images/Github.png)
 
-*Figure X. Contributions of team members in the InstAlert Project Report repository.*
+*Figure AV2. Contributions of team members in the InstAlert Project Report repository.*
 
 <div style="page-break-after: always;"></div>
 
