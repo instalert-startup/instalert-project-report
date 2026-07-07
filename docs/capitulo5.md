@@ -153,7 +153,8 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 En este Sprint, los miembros del equipo de desarrollo de software de KSI han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
 <p align="center">
-  <img src="Imagen/landingPage-InstAlert.png" alt="Landing Page InstAlert">
+  <img src="Imagen/landingPage-InstAlert.png" alt="Landing Page InstAlert"><br>
+  Nota: Evidencia de la Landing Page de InstAlert desarrollada durante el Sprint
 </p>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -217,6 +218,7 @@ Los aspectos definidos para este Sprint, basados en las 28 Historias de Usuario 
 6. **Mapa de Riesgo:** Visualización, filtros por nivel de riesgo y búsqueda de direcciones.
 7. **Revisión general y mejoras:** Pruebas visuales, responsividad y ajustes de UI/UX conjuntos.
 
+
 A continuación, se presenta la matriz de responsabilidades del equipo:
 
 | Team Member (Last Name, First Name) | GitHub Username | Login | Configuration | Community | Emergency Button & Dashboard | Reports | Risk Map | Review and improvements |
@@ -225,6 +227,8 @@ A continuación, se presenta la matriz de responsabilidades del equipo:
 | Diaz Mendoza, Sebastian Victor Andre | DiazDeveloper | C | C | C | L | C | C | C |
 | Perez Encarnación, Breithner Rodolfo | Breithner1 | C | C | C | C | L | C | C |
 | Molina Falcón, Piero Leonardo | PieroMFAL | C | C | C | C | C | L | C |
+
+**Nota:** Distribución de responsabilidades de los integrantes del equipo durante el Sprint 2, indicando el liderazgo (L) y la colaboración (C) en cada funcionalidad desarrollada.
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -255,6 +259,8 @@ A continuación, se presenta la matriz de responsabilidades del equipo:
 | US-20 | Consultar detalles de una zona de riesgo | T23 | Tarjeta de Detalles de Zona | Panel lateral flotante con estadísticas de la zona clicada. | 3h | Piero Molina | To Do |
 | US-21 | Búsqueda de direcciones específicas | T24 | UI Barra de Búsqueda | Componente de input con diseño de autocompletado. | 2h | Piero Molina | To Do |
 
+**Nota:** Relación entre las historias de usuario del Sprint 2 y las tareas planificadas para su implementación, incluyendo su estimación, responsable asignado y estado de ejecución.
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 En este segundo Sprint hemos realizado la implementación del fronte-end, donde todo el equipo ha aportado mediante la gestión de ramas. En la siguiente tabla se muestran los commits realizados.
@@ -265,6 +271,8 @@ En este segundo Sprint hemos realizado la implementación del fronte-end, donde 
 | DiazDeveloper | feature/report | 1ca6bd2ee4032be7b56aa7ceb6cd0f7e9e0f2840 | -- | -- | [12/05/2026] |
 | DiazDeveloper | feature/sebdiaz | f7c920e4a1d83b56e0f4c2a918d7b3e52f6a0c84 | -- | -- | [12/05/2026] |
 | DiazDeveloper | feature/piero | 3e8d1f70b25c94a6e0f3d1b728a59c4e16f80d23 | -- | -- | [12/05/2026] |
+
+**Nota:** Registro de los commits realizados durante el Sprint 2, indicando el repositorio, la rama, el identificador del commit y la fecha en que fue efectuado.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
@@ -281,55 +289,65 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas e
 Inicio de sesión
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Inicio de sesión" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia3.jpeg" alt="Inicio de sesión" width="700"><br>
+  Nota: Evidencia de la interfaz de inicio de sesión de InstAlert
 </p>
 
 Configuración de perfil
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Configuración de perfil 1" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia2.jpeg" alt="Configuración de perfil 1" width="700"><br>
+  Nota: Evidencia de la interfaz de configuración de perfil de InstAlert
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Configuración de perfil 2" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia1.jpeg" alt="Configuración de perfil 2" width="700"><br>
+  Nota: Evidencia de las opciones de configuración del perfil de usuario
 </p>
 
 Botón de pánico
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Botón de pánico 1" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia4.jpeg" alt="Botón de pánico 1" width="700"><br>
+  Nota: Evidencia de la interfaz del botón de pánico de InstAlert
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Botón de pánico 2" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia5.jpeg" alt="Botón de pánico 2" width="700"><br>
+  Nota: Evidencia del flujo de activación del botón de pánico
 </p>
-
 Reportes
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Reportes 1" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia6.jpeg" alt="Reportes 1" width="700"><br>
+  Nota: Evidencia de la interfaz para la gestión de reportes de incidentes
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Reportes 2" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia7.jpeg" alt="Reportes 2" width="700"><br>
+  Nota: Evidencia de la visualización de reportes registrados en la plataforma
 </p>
 
 Mapa de Riesgo
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Mapa de Riesgo 1" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia9.jpeg" alt="Mapa de Riesgo 1" width="700"><br>
+  Nota: Evidencia del mapa de zonas de riesgo de InstAlert
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Mapa de Riesgo 2" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia10.jpeg" alt="Mapa de Riesgo 2" width="700"><br>
+  Nota: Evidencia de la visualización de incidentes en el mapa de riesgo
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia11.jpeg" alt="Mapa de Riesgo 3" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia11.jpeg" alt="Mapa de Riesgo 3" width="700"><br>
+  Nota: Evidencia de las funcionalidades de navegación del mapa de riesgo
 </p>
 
 <p align="center">
-  <img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Mapa de Riesgo 4" width="700">
+  <img src="../assets/images/mockapplicationweb/evidencia12.jpeg" alt="Mapa de Riesgo 4" width="700"><br>
+  Nota: Evidencia de la interacción con el mapa de riesgo de InstAlert
 </p>
 
 **Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
@@ -346,6 +364,8 @@ Durante el Sprint 2, el desarrollo del frontend de InstAlert para las funcionali
 | `http://localhost:3000/risk-zones` | Zonas de Riesgo (Risk Zones) | GET | Documentación para consultar las coordenadas, detalles y niveles de riesgo de las zonas mostradas en el mapa interactivo. |
 | `http://localhost:3000/communities` | Comunidades (Communities) | GET, POST | Documentación para obtener información de las comunidades cercanas y gestionar solicitudes de apoyo o asistentes rápidos. |
 | `http://localhost:3000/notifications` | Notificaciones (Notifications) | GET, POST, DELETE | Documentación para gestionar las preferencias del usuario, recibir alertas entrantes y notificaciones de actividad comunitaria. |
+
+**Nota:** Endpoints simulados utilizados durante el desarrollo del frontend de InstAlert mediante JSON Server, indicando la entidad gestionada, las operaciones CRUD soportadas y su alcance previsto en la futura documentación de la API con OpenAPI.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
