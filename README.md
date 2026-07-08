@@ -171,8 +171,9 @@ En la versión final (TB2), el informe fue actualizado para incorporar las corre
 
 ### Figure TB2. Team Contributions in the Project Report Repository
 
+![Team Contributions](assets/project-report-network-tb2.png)
 
-
+*Figure TB2. Team contributions in the Project Report repository.*
 # Contenido
 
 - [CAPÍTULO I: INTRODUCCIÓN](docs/capitulo1.md#capítulo-i-introducción)
