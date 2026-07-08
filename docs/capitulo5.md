@@ -21,16 +21,16 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 - Configuración del Entorno de Desarrollo ItelliJ IDEA
     - Editor de Código: IntelliJ IDEA.
     - Propósito: Desarrollo de software y edición de código.
-    - Ruta de descarga: https://www.jetbrains.com/idea/download/
+    - Ruta de descarga: <a href="https://www.jetbrains.com/idea/download/" style="word-break: break-all;">https://www.jetbrains.com/idea/download/</a>
 
 - Editor de Código: Visual Studio Code
     - Propósito: Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
-    - Ruta de descarga: https://code.visualstudio.com/
+    - Ruta de descarga: <a href="https://code.visualstudio.com/" style="word-break: break-all;">https://code.visualstudio.com/</a>
 
 - Control de Versiones: Git, con repositorios en GitHub.
     - Propósito: Gestión de versiones y colaboración en el código.
-    - Ruta de descarga: https://git-scm.com/
-    - Repositorio: https://github.com/instalert-startup/instalert-project-report 
+    - Ruta de descarga: <a href="https://git-scm.com/" style="word-break: break-all;">https://git-scm.com/</a>
+    - Repositorio: <a href="https://github.com/instalert-startup/instalert-project-report" style="word-break: break-all;">https://github.com/instalert-startup/instalert-project-report</a>
 
 **Product UX/UI Design**
 - UI/UX: Crear una interfaz amigable y accesible para los usuarios.
@@ -40,7 +40,7 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
 **Software Development HTML:**
 
 - Descripción: El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
-- Enlace: https://www.w3schools.com/html/default.asp 
+- Enlace: <a href="https://www.w3schools.com/html/default.asp" style="word-break: break-all;">https://www.w3schools.com/html/default.asp</a>
 
 **CSS:**
 
@@ -49,7 +49,7 @@ Con KSI, buscamos no solo ofrecer herramientas de gestión de proyectos eficient
 ### 5.1.2. Source Code Management.
 **Gestión de Cambios en el Código Fuente con GitHub**
 En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
-- Landing Page: https://instalert-startup.github.io/landing-page/
+- Landing Page: <a href="https://instalert-startup.github.io/landing-page/" style="word-break: break-all;">https://instalert-startup.github.io/landing-page/</a> |
 
 **Estructura del Repositorio**
 
@@ -184,14 +184,14 @@ Repositorio de Código: Configuración del repositorio en GitHub para la integra
 - Despliegue de la Landing Page:
 Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting. Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
 
-Enlace al Repositorio: https://github.com/instalert-startup/landing-page 
+- Enlace al Repositorio: <a href="https://github.com/instalert-startup/landing-page" style="word-break: break-all;">https://github.com/instalert-startup/landing-page</a>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
 
 - Diseño y Desarrollo: Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad. Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
 - Documentación y Despliegue: Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones. Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
-URL LANDING PAGE DESPLEGADA: https://instalert-startup.github.io/landing-page/
+- URL LANDING PAGE DESPLEGADA: <a href="https://instalert-startup.github.io/landing-page/" style="word-break: break-all;">https://instalert-startup.github.io/landing-page/</a>
 
 ### 5.2.2. Sprint 2
 
@@ -358,7 +358,7 @@ Mapa de Riesgo
   Nota: Evidencia de la interacción con el mapa de riesgo de InstAlert
 </p>
 
-**Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
+**Enlace de Repositorio:** <a href="https://github.com/instalert-startup/Instalert-FrontEnd">https://github.com/instalert-startup/Instalert-FrontEnd</a>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -382,14 +382,15 @@ Durante este Sprint, el equipo se centró exclusivamente en el despliegue de la 
 
 Es importante destacar que, en cuanto a los servicios de backend, la arquitectura del proyecto contempla el uso de una API para gestionar y guardar la información registrada por los usuarios, así como el manejo de alertas y reportes. Sin embargo, en esta iteración, dicha lógica de integración y persistencia de datos aún no ha sido implementada, ya que el objetivo principal del sprint fue consolidar y validar la maquetación visual (UI) de las vistas.
 
-**Enlace de Repositorio:** [https://github.com/DiazDeveloper/instalert-app.git]
+**Enlace de Repositorio:** <a href="https://github.com/instalert-startup/Instalert-FrontEnd">https://github.com/instalert-startup/Instalert-FrontEnd</a>
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
-En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida. 
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida.
 
-- **Diseño y Desarrollo:** [Resumen de cómo se dividieron y ejecutaron las tareas de código y diseño].
-- **Documentación y Despliegue:** [Resumen de cómo se manejó la redacción del informe y las configuraciones de hosting/servidores].
+- *Diseño y Desarrollo:* El equipo distribuyó las cargas de trabajo enfocándose en la construcción del Frontend Web Application y la Landing Page utilizando el framework Angular. Se empleó un enfoque basado en componentes, permitiendo que cada desarrollador asumiera la responsabilidad de vistas específicas (como perfiles, reportes de incidentes y vistas de emergencias) trabajando de forma paralela en ramas tipo feature/. La interfaz gráfica se maquetó respetando estrictamente los wireframes y prototipos de alta fidelidad, asegurando un diseño responsivo, accesible y coherente con la identidad visual de InstAlert. La calidad del código se mantuvo a través de revisiones cruzadas (Pull Requests) antes de integrar los avances a la rama principal de desarrollo.
+
+- *Documentación y Despliegue:* La redacción del informe del proyecto se gestionó de manera colaborativa y simultánea al desarrollo, documentando los hallazgos de UX/UI, la arquitectura de la información y los diagramas de componentes. Para asegurar la visibilidad del progreso, el código del cliente web fue desplegado de manera continua en plataformas de alojamiento en la nube orientadas a aplicaciones frontend. Esto permitió obtener enlaces de producción tempranos, facilitando las pruebas de usabilidad iterativas, la navegación simulada y la validación de las interfaces de usuario de forma accesible para todo el equipo.
 
 ### 5.2.3. Sprint 3
 
@@ -552,7 +553,7 @@ Como resultado de este Sprint, InstAlert logró consolidar una arquitectura back
 La documentación mediante Swagger/OpenAPI permitió validar el correcto funcionamiento de los endpoints implementados y facilitar futuras integraciones. Los bounded contexts desarrollados proporcionan soporte a funcionalidades esenciales relacionadas con autenticación, gestión de emergencias y colaboración comunitaria, constituyendo una base sólida para la evolución de la plataforma en los siguientes sprints de desarrollo.
 
 
-* **Demostración de Integración de Endpoints y Servicios Backend:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAbEoiPdijKQ019J1x-O4e5o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hzAmem
+**Demostración de Integración de Endpoints y Servicios Backend:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAbEoiPdijKQ019J1x-O4e5o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hzAmem" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQCyqUdYkmKOSYO8XPDJ77fvAbEoiPdijKQ019J1x-O4e5o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hzAmem</a>
 
   
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -975,261 +976,85 @@ A continuación, se presentan las métricas de colaboración y los principales i
 
 ### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #1</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td> Anita </td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>Monago Cachay</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>35</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>Ate</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"></div></td>
-  </tr>
- <tr>
-    <td><strong>Link de Video</strong></td>
-    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAZrfwC2wp1y4MuX7hMnlEcc?        nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2eAshL</td>
-  </tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td>00.00.09 min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td>00.05.44 min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td>Anita Monago Cachay dice que le gustó la aplicación web de seguridad ciudadana porque la interfaz le resultó muy fácil de entender, especialmente el uso del botón de pánico que permite reaccionar de manera rápida y clara ante una emergencia real. Destaca que la confirmación del envío de alertas y los sistemas de búsqueda en las publicaciones o reportes brindan un mayor control de la situación, lo cual genera suficiente confianza para comunicarse con los vecinos y las autoridades de su zona; sin embargo, para que la web sea totalmente sólida y completa, sugiere que se le agreguen planes de pago opcionales, como una suscripción Premium, que ofrezca funciones avanzadas y características exclusivas de seguridad.</td>
-  </tr>
-</tbody>
-</table>
+### Entrevista de Validación de Producto #1
 
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Anita |
+| **Apellidos** | Monago Cachay |
+| **Edad** | 35 |
+| **Distrito** | Ate |
+| **Evidencia** | <img src="../assets/images/UX Canva/segmento1_entrevista1.jpg" alt="Validación"> |
+| **Link de Video** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAZrfwC2wp1y4MuX7hMnlEcc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2eAshL" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202418577_upc_edu_pe/IQCuCtvVM9nMTqX1ek0jFNkQAZrfwC2wp1y4MuX7hMnlEcc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2eAshL</a> |
+| **Timing de Inicio** | 00.00.09 min |
+| **Duración** | 00.05.44 min |
+| **Resumen de Validación** | Anita Monago Cachay dice que le gustó la aplicación web de seguridad ciudadana porque la interfaz le resultó muy fácil de entender, especialmente el uso del botón de pánico que permite reaccionar de manera rápida y clara ante una emergencia real. Destaca que la confirmación del envío de alertas y los sistemas de búsqueda en las publicaciones o reportes brindan un mayor control de la situación, lo cual genera suficiente confianza para comunicarse con los vecinos y las autoridades de su zona; sin embargo, para que la web sea totalmente sólida y completa, sugiere que se le agreguen planes de pago opcionales, como una suscripción Premium, que ofrezca funciones avanzadas y características exclusivas de seguridad. |
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td>Jussara</td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>Mofal</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>30 años</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>Palma de Mallorca</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td>
-      <div align="center">
-        <img src="../assets/images/UX Canva/Entrevista7.png" alt="Validación">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Link de Video</strong></td>
-    <td>
-      https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbEluZm8iOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N001V4
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td>0:02 min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td>13:25 min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td>
-      La entrevistada destacó que la principal fortaleza de InstAlert es la sensación de seguridad que brinda, especialmente mediante la funcionalidad de botón de pánico, la cual consideró de gran utilidad para actuar rápidamente ante situaciones de emergencia. Asimismo, indicó que la aplicación resulta fácil de utilizar gracias a su diseño intuitivo y a la claridad de sus funcionalidades, permitiendo que cualquier usuario pueda adaptarse rápidamente a su uso. Como oportunidad de mejora, sugirió incorporar una funcionalidad que permita grabar evidencia automáticamente mediante la cámara del dispositivo cuando se active una emergencia, con el objetivo de registrar información relevante que pueda ser utilizada posteriormente como respaldo. Finalmente, manifestó que implementaría InstAlert en su negocio debido a que considera que la plataforma contribuye significativamente a mejorar la seguridad y la capacidad de respuesta frente a incidentes que puedan afectar a los comerciantes.
-    </td>
-  </tr>
-</tbody>
-</table>
+<br>
 
+### Entrevista de Validación de Producto #2
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Jussara |
+| **Apellidos** | Mofal |
+| **Edad** | 30 años |
+| **Distrito** | Palma de Mallorca |
+| **Evidencia** | <img src="../assets/images/UX Canva/Entrevista7.png" alt="Validación"> |
+| **Link de Video** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbEluZm8iOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N001V4" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAMkf28vOHgRrnJdHlYIPQjARvk9UYLA-TZEh0r4ghFgic?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbEluZm8iOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N001V4</a> |
+| **Timing de Inicio** | 0:02 min |
+| **Duración** | 13:25 min |
+| **Resumen de Validación** | La entrevistada destacó que la principal fortaleza de InstAlert es la sensación de seguridad que brinda, especialmente mediante la funcionalidad de botón de pánico, la cual consideró de gran utilidad para actuar rápidamente ante situaciones de emergencia. Asimismo, indicó que la aplicación resulta fácil de utilizar gracias a su diseño intuitivo y a la claridad de sus funcionalidades, permitiendo que cualquier usuario pueda adaptarse rápidamente a su uso. Como oportunidad de mejora, sugirió incorporar una funcionalidad que permita grabar evidencia automáticamente mediante la cámara del dispositivo cuando se active una emergencia, con el objetivo de registrar información relevante que pueda ser utilizada posteriormente como respaldo. Finalmente, manifestó que implementaría InstAlert en su negocio debido a que considera que la plataforma contribuye significativamente a mejorar la seguridad y la capacidad de respuesta frente a incidentes que puedan afectar a los comerciantes. |
 
 ---
 
 ### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td>Piero</td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>Aguilar</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>23 años</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>San Juan de Lurigancho</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="../assets/images/UX Canva/entrevista4.PNG" alt="Validación"></div></td>
-  </tr>
-  <tr>
-    <td><strong>Link de Video</strong></td>
-    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AVj4fpaFWv2ywLVNdxdCctM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2lW8vn</td>
-</tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td>0:02 min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td>10:20 min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td>
-      El entrevistado valoró positivamente las funcionalidades de alertas de proximidad y reportes comunitarios, considerándolas herramientas útiles para anticiparse a situaciones de riesgo en su entorno comercial. Indicó que la aplicación presenta una alta utilidad para comerciantes debido a que centraliza información relevante sobre incidentes cercanos y facilita la prevención. Asimismo, destacó la claridad de los colores utilizados para representar niveles de riesgo y la facilidad para comprender las funciones principales. Como oportunidades de mejora, sugirió simplificar algunas pantallas con exceso de información, incorporar filtros más precisos en reportes y foros, añadir indicadores visuales de progreso después del envío de alertas y ofrecer resúmenes periódicos de incidentes ocurridos en la zona. Finalmente, manifestó que implementaría InstAlert en su negocio debido a su potencial para fortalecer la seguridad preventiva y la colaboración entre comerciantes.
-    </td>
-  </tr>
-</tbody>
-</table>
+### Entrevista de Validación de Producto #3
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #4</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td>Alejandro</td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>Alvarado</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>26 años</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>Callao</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td><div align="center"><img src="../assets/images/UX Canva/entrevista5.PNG" alt="Validación"></div></td>
-  </tr>
-  <tr>
-    <td><strong>Link de Video</strong></td>
-    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXAdrO_gsbaq61nabDridkL-M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e18wHv</td>
-</tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td>0:02 min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td>9:47 min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td>
-      El entrevistado consideró que el botón de pánico, las alertas de incidentes cercanos y los reportes comunitarios son las funcionalidades más relevantes para su actividad comercial, especialmente durante el cierre del negocio y el manejo de efectivo. Destacó que la aplicación concentra diversas herramientas de seguridad en una sola plataforma y que puede contribuir tanto a la prevención como a la reacción frente a emergencias. En cuanto a mejoras, sugirió reducir la cantidad de pasos necesarios para acceder a funciones críticas, aumentar la visibilidad de ciertas opciones desde la pantalla principal, incorporar categorías más intuitivas al momento de crear reportes y mostrar información más detallada sobre el estado de las alertas enviadas. También propuso una funcionalidad que permita visualizar los horarios o recorridos de patrullaje de las autoridades para mejorar la percepción de seguridad en la zona. Finalmente, afirmó que implementaría InstAlert en su negocio debido a que responde a problemáticas reales de inseguridad y facilita la toma de decisiones preventivas.
-    </td>
-  </tr>
-</tbody>
-</table>
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Piero |
+| **Apellidos** | Aguilar |
+| **Edad** | 23 años |
+| **Distrito** | San Juan de Lurigancho |
+| **Evidencia** | <img src="../assets/images/UX Canva/entrevista4.PNG" alt="Validación"> |
+| **Link de Video** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AVj4fpaFWv2ywLVNdxdCctM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2lW8vn" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQCuk0277tnySrxsYCdpHnC1AVj4fpaFWv2ywLVNdxdCctM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2lW8vn</a> |
+| **Timing de Inicio** | 0:02 min |
+| **Duración** | 10:20 min |
+| **Resumen de Validación** | El entrevistado valoró positivamente las funcionalidades de alertas de proximidad y reportes comunitarios, considerándolas herramientas útiles para anticiparse a situaciones de riesgo en su entorno comercial. Indicó que la aplicación presenta una alta utilidad para comerciantes debido a que centraliza información relevante sobre incidentes cercanos y facilita la prevención. Asimismo, destacó la claridad de los colores utilizados para representar niveles de riesgo y la facilidad para comprender las funciones principales. Como oportunidades de mejora, sugirió simplificar algunas pantallas con exceso de información, incorporar filtros más precisos en reportes y foros, añadir indicadores visuales de progreso después del envío de alertas y ofrecer resúmenes periódicos de incidentes ocurridos en la zona. Finalmente, manifestó que implementaría InstAlert en su negocio debido a su potencial para fortalecer la seguridad preventiva y la colaboración entre comerciantes. |
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Entrevista de Validación de Producto #5</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Nombre</strong></td>
-    <td>Gustavo Alonso</td>
-  </tr>
-  <tr>
-    <td><strong>Apellidos</strong></td>
-    <td>Janampa Gutierrez</td>
-  </tr>
-  <tr>
-    <td><strong>Edad</strong></td>
-    <td>22 años</td>
-  </tr>
-  <tr>
-    <td><strong>Distrito</strong></td>
-    <td>Lima</td>
-  </tr>
-  <tr>
-    <td><strong>Evidencia</strong></td>
-    <td>
-    <div align="center"><img src="../assets/images/UX Canva/enrtrevista.png" alt="Validación"></div></td>
-  </tr>
- <tr>
-    <td><strong>Link de Video</strong></td>
-    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAVd1YN-Ye49cG2g8_I20iC0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wbjhNu</td>
-</tr>
-  <tr>
-    <td><strong>Timing de Inicio</strong></td>
-    <td>0:02 min</td>
-  </tr>
-  <tr>
-    <td><strong>Duración</strong></td>
-    <td>9:47 min</td>
-  </tr>
-  <tr>
-    <td><strong>Resumen de Validación</strong></td>
-    <td>
-      El entrevistado destacó que el botón de pánico, las alertas de incidentes y el historial de reportes son las funcionalidades más útiles de InstAlert, ya que permiten actuar rápidamente ante situaciones de riesgo y conocer los antecedentes de seguridad en zonas cercanas al negocio. Consideró que la aplicación posee una alta utilidad debido a que facilita la comunicación y la respuesta oportuna frente a emergencias.
+<br>
 
-Respecto a las mejoras, sugirió incorporar la posibilidad de adjuntar imágenes o videos en las alertas para proporcionar mayor contexto sobre los incidentes reportados. En cuanto a la experiencia de uso, indicó que los íconos y la distribución de los elementos resultan intuitivos y fáciles de comprender, aunque recomendó aumentar el tamaño de algunos textos para mejorar la visibilidad.
+### Entrevista de Validación de Producto #4
 
-Asimismo, señaló que los mensajes de confirmación son claros y transmiten confianza al usuario, mientras que el diseño general del prototipo le genera una sensación de seguridad, organización y simplicidad. Como funcionalidad adicional, propuso implementar un chat de emergencia que permita la comunicación directa entre negocios cercanos ante situaciones de riesgo.s.
-    </td>
-  </tr>
-</tbody>
-</table>
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Alejandro |
+| **Apellidos** | Alvarado |
+| **Edad** | 26 años |
+| **Distrito** | Callao |
+| **Evidencia** | <img src="../assets/images/UX Canva/entrevista5.PNG" alt="Validación"> |
+| **Link de Video** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXAdrO_gsbaq61nabDridkL-M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e18wHv" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBviijjE-WkQofZXGAlExwXAdrO_gsbaq61nabDridkL-M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=e18wHv</a> |
+| **Timing de Inicio** | 0:02 min |
+| **Duración** | 9:47 min |
+| **Resumen de Validación** | El entrevistado consideró que el botón de pánico, las alertas de incidentes cercanos y los reportes comunitarios son las funcionalidades más relevantes para su actividad comercial, especialmente durante el cierre del negocio y el manejo de efectivo. Destacó que la aplicación concentra diversas herramientas de seguridad en una sola plataforma y que puede contribuir tanto a la prevención como a la reacción frente a emergencias. En cuanto a mejoras, sugirió reducir la cantidad de pasos necesarios para acceder a funciones críticas, aumentar la visibilidad de ciertas opciones desde la pantalla principal, incorporar categorías más intuitivas al momento de crear reportes y mostrar información más detallada sobre el estado de las alertas enviadas. También propuso una funcionalidad que permita visualizar los horarios o recorridos de patrullaje de las autoridades para mejorar la percepción de seguridad en la zona. Finalmente, afirmó que implementaría InstAlert en su negocio debido a que responde a problemáticas reales de inseguridad y facilita la toma de decisiones preventivas. |
 
+<br>
+
+### Entrevista de Validación de Producto #5
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Nombre** | Gustavo Alonso |
+| **Apellidos** | Janampa Gutierrez |
+| **Edad** | 22 años |
+| **Distrito** | Lima |
+| **Evidencia** | <img src="../assets/images/UX Canva/enrtrevista.png" alt="Validación"> |
+| **Link de Video** | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAVd1YN-Ye49cG2g8_I20iC0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wbjhNu" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323319_upc_edu_pe/IQAu50-AjkrMRoRoVQlzIQ7pAVd1YN-Ye49cG2g8_I20iC0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wbjhNu</a> |
+| **Timing de Inicio** | 0:02 min |
+| **Duración** | 9:47 min |
+| **Resumen de Validación** | El entrevistado destacó que el botón de pánico, las alertas de incidentes y el historial de reportes son las funcionalidades más útiles de InstAlert, ya que permiten actuar rápidamente ante situaciones de riesgo y conocer los antecedentes de seguridad en zonas cercanas al negocio. Consideró que la aplicación posee una alta utilidad debido a que facilita la comunicación y la respuesta oportuna frente a emergencias.<br><br>Respecto a las mejoras, sugirió incorporar la posibilidad de adjuntar imágenes o videos en las alertas para proporcionar mayor contexto sobre los incidentes reportados. En cuanto a la experiencia de uso, indicó que los íconos y la distribución de los elementos resultan intuitivos y fáciles de comprender, aunque recomendó aumentar el tamaño de algunos textos para mejorar la visibilidad.<br><br>Asimismo, señaló que los mensajes de confirmación son claros y transmiten confianza al usuario, mientras que el diseño general del prototipo le genera una sensación de seguridad, organización y simplicidad. Como funcionalidad adicional, propuso implementar un chat de emergencia que permita la comunicación directa entre negocios cercanos ante situaciones de riesgo. |
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -1341,4 +1166,9 @@ Los hallazgos de usabilidad y discrepancias visuales reportados por los usuarios
 
 ## 5.4. Video About-the-Product
 
-* **Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQAwMEcMlESBRp71CJE98Y6iAR62zaq4rGAlXry9qpNLg3k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5YR1ym
+<p align="center">
+  <img src="../assets/images/team/product.jpg" alt="About the product" width="500"><br>
+  Nota: Evidencia del About the product de la plataforma InstAlert.
+</p>
+
+***Enlace al Video Demostrativo del Producto (InstAlert Implementation & Validation): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQA8TUbwWIAiR44wnKmoBywLARY6mLvZ5q14Ec9hwiECr_Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XG1oU2" style="word-break: break-all;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQA8TUbwWIAiR44wnKmoBywLARY6mLvZ5q14Ec9hwiECr_Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XG1oU2</a>
