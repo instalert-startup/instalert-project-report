@@ -22,6 +22,10 @@
 
 <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQC0BRLGhbiFSpxhBXdSmwB2AdgYVXRpXhtSG_SnIvhVGuA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MYK0QA>
 
+* Enlace de Exposición TB2:
+  
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQAg_Wk38IVaQ62QW-S8yqVbAZKXfjumD6twtD4J4ldNoLo?e=mOVq5s>
+
 ## Validation Interviews
 
 * Interview 1
