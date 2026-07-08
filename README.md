@@ -169,48 +169,35 @@ Durante el desarrollo del proyecto (AV1, TP, AV2 y TB2), el equipo empleó una e
 
 En la versión final (TB2), el informe fue actualizado para incorporar las correcciones recibidas en las entregas anteriores, los avances correspondientes al Sprint 4, la versión final de los productos desarrollados y las evidencias finales de validación, despliegue y documentación. Las siguientes figuras muestran evidencias del trabajo colaborativo realizado durante todo el proyecto, incluyendo la organización del repositorio, las contribuciones del equipo y el historial de commits.
 
-### Figure AV1. Initial Project Report Repository Network
 
-![Project Report Repository Network - AV1](assets/images/project-report-network-av11.png)
 
-*Figure AV1. Initial repository structure and branch organization during the AV1 development stage.*
 
-The repository was initialized with the project's documentation structure and the first collaborative branches. This stage reflects the beginning of the team's documentation workflow and the adoption of GitHub as the main collaboration platform.
+### Figure AV1. Team Contributions in the Project Report Repository
 
----
-### Figure TB1. Project Report Repository Growth
+![Team Contributions](assets/project-report-network-av1.jpeg)
 
-![Project Report Repository Network - TB1](assets/images/project-report-network-av1.png)
+*Figure AV1. Team contributions in the Project Report repository.*
 
-*Figure TB1. Repository growth during the TB1 development stage.*
 
-During TB1, the repository showed further growth through additional commits, branch updates, and documentation improvements related to the first implementation and correction activities. This evidence reflects the team's continuous collaboration after the initial delivery.
+### Figure TB1. Team Contributions in the Project Report Repository
 
----
+![Team Contributions](assets/project-report-network-tb1.jpeg)
 
-### Figure AV2. Project Report Repository Evolution
+*Figure TB1. Team contributions in the Project Report repository.*
 
-![Project Report Repository Network - AV2](assets/images/project-report-network-av2.png)
 
-*Figure AV2. Repository evolution during the AV2 development stage.*
+### Figure AV2. Team Contributions in the Project Report Repository
 
-As the project progressed, the repository incorporated new branches, commits, and documentation updates corresponding to the software development and validation activities. This demonstrates the continuous collaborative work carried out by the team throughout the project.
+![Team Contributions](assets/project-report-network-av2.jpeg)
 
----
+*Figure AV2. Team contributions in the Project Report repository.*
 
-### Figure TB2. Project Report Repository Branches
 
-![Project Report Repository Branches](assets/images/project-report-branches-tb2.png)
+### Figure TB2. Team Contributions in the Project Report Repository
 
-*Figure TB2. Repository branches used throughout the development of the InstAlert Project Report.*
+![Team Contributions](assets/project-report-network-tb2.png)
 
----
-
-### Figure TB2. Commit History of the Project Report Repository
-
-![Project Report Commit History](assets/images/project-report-commits-tb2.png)
-
-*Figure TB2. Final commit history showing the integration of all chapters, documentation updates, and collaborative work completed throughout the Project Report from AV1 to TB2.*
+*Figure TB2. Team contributions in the Project Report repository.*
 
 # Contenido
 
