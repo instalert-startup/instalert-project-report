@@ -169,11 +169,36 @@ Durante el desarrollo del proyecto (AV1, TP, AV2 y TB2), el equipo empleó una e
 
 En la versión final (TB2), el informe fue actualizado para incorporar las correcciones recibidas en las entregas anteriores, los avances correspondientes al Sprint 4, la versión final de los productos desarrollados y las evidencias finales de validación, despliegue y documentación. Las siguientes figuras muestran evidencias del trabajo colaborativo realizado durante todo el proyecto, incluyendo la organización del repositorio, las contribuciones del equipo y el historial de commits.
 
+
+
+
+### Figure AV1. Team Contributions in the Project Report Repository
+
+![Team Contributions](assets/project-report-network-av1.jpeg)
+
+*Figure AV1. Team contributions in the Project Report repository.*
+
+
+### Figure TB1. Team Contributions in the Project Report Repository
+
+![Team Contributions](assets/project-report-network-tb1.jpeg)
+
+*Figure TB1. Team contributions in the Project Report repository.*
+
+
+### Figure AV2. Team Contributions in the Project Report Repository
+
+![Team Contributions](assets/project-report-network-av2.jpeg)
+
+*Figure AV2. Team contributions in the Project Report repository.*
+
+
 ### Figure TB2. Team Contributions in the Project Report Repository
 
 ![Team Contributions](assets/project-report-network-tb2.png)
 
 *Figure TB2. Team contributions in the Project Report repository.*
+
 # Contenido
 
 - [CAPÍTULO I: INTRODUCCIÓN](docs/capitulo1.md#capítulo-i-introducción)
