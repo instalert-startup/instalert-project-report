@@ -26,6 +26,14 @@ Las entrevistas de validación realizadas con usuarios pertenecientes a los segm
 
 Finalmente, las evaluaciones heurísticas realizadas permitieron identificar oportunidades de mejora relacionadas con la visibilidad de ciertas funcionalidades, la simplificación de algunos flujos de navegación y la incorporación de elementos de retroalimentación más claros para el usuario. Estas observaciones proporcionan una base objetiva para optimizar la experiencia de usuario en las siguientes iteraciones del proyecto.
 
+## TB2
+
+A partir del trabajo desarrollado durante el último sprint y la consolidación de la entrega final, se concluye que el equipo logró transicionar exitosamente de un entorno de datos simulados hacia una arquitectura Full-Stack completamente funcional e integrada. La correcta implementación de los microservicios en Spring Boot y su acoplamiento con la interfaz web en Angular demostró la viabilidad técnica del proyecto, validando que el diseño basado en Domain-Driven Design (DDD) facilitó una separación de responsabilidades eficiente y una conexión estable a través de los distintos Bounded Contexts.
+
+Asimismo, se concluye que el despliegue del ecosistema en un entorno de producción en la nube (Railway) junto con la persistencia en una base de datos relacional (MySQL) garantiza la disponibilidad y consistencia de la información crítica. La centralización de los contratos de la API mediante OpenAPI/Swagger fue un factor determinante para lograr una integración ágil, permitiendo al equipo depurar respuestas HTTP y estructurar los flujos de seguridad, administración de roles y gestión de incidentes de manera unificada.
+
+Finalmente, la operatividad de funciones complejas como el cálculo de proximidad geoespacial, la emisión de alertas en tiempo real con precisión GPS y el renderizado dinámico del mapa de calor, confirman que InstAlert cumple con su propuesta de valor inicial. La plataforma ha dejado de ser un prototipo para convertirse en una herramienta tecnológica sólida, capaz de procesar y responder a las necesidades de seguridad ciudadana y colaboración vecinal de forma inmediata y verificable.
+
 # Recomendaciones
 
 ## AV1
@@ -49,5 +57,13 @@ Finalmente, se recomienda mantener la consistencia visual y funcional entre todo
 Se recomienda priorizar la corrección de los hallazgos identificados durante las evaluaciones heurísticas, especialmente aquellos relacionados con la visibilidad de funciones clave, la retroalimentación del sistema y la simplificación de flujos de interacción. Estas mejoras contribuirán a incrementar la eficiencia y satisfacción de los usuarios.
 
 Asimismo, se recomienda ampliar las pruebas de validación con una mayor cantidad de usuarios pertenecientes a distintos contextos y perfiles, con el objetivo de obtener una visión más amplia sobre el comportamiento de la aplicación en escenarios reales de uso.
+
+## TB2
+
+De cara a la puesta en marcha y futura evolución de la plataforma, se recomienda implementar un monitoreo constante sobre la infraestructura en la nube y el rendimiento de la base de datos. Dado que funcionalidades como el mapa de calor y las alertas de proximidad dependen de cálculos geoespaciales (como la fórmula de Haversine), será crucial optimizar las consultas y evaluar la incorporación de índices espaciales a medida que el volumen de usuarios y reportes concurrentes incremente.
+
+Por otro lado, al tratarse de una aplicación que maneja información altamente sensible, como la ubicación en tiempo real de los ciudadanos y datos de identidad, se sugiere realizar auditorías periódicas de ciberseguridad. Es fundamental asegurar que los mecanismos de autenticación (tokens JWT) y la encriptación de credenciales se mantengan actualizados frente a vulnerabilidades, garantizando el cumplimiento de las normativas de protección de datos personales.
+
+Finalmente, se recomienda establecer un flujo de retroalimentación directa con un grupo de usuarios piloto (Beta Testers) en escenarios reales de uso. Las métricas y comentarios obtenidos en esta fase de campo servirán para iterar la experiencia de usuario, afinar la sensibilidad del botón de pánico y, a mediano plazo, explorar integraciones directas con los sistemas de respuesta de las autoridades locales (Serenazgo o Policía Nacional).
 
 Finalmente, se recomienda continuar fortaleciendo la integración entre frontend, backend y servicios externos, garantizando la estabilidad, escalabilidad y seguridad de la plataforma conforme se incorporen nuevas funcionalidades en los siguientes sprints de desarrollo.
