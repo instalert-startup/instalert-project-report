@@ -44,16 +44,17 @@ Analizar a la competencia permite identificar sus estrategias, fortalezas y debi
 | | **Logotipo** | <p align="center"><img src="https://i.ibb.co/BVCv4X9Y/Instalert-Logo.png" alt="InstAlert" width="500"></p> | <p align="center"><img src="https://i.postimg.cc/rzryKVqx/SCA-Logo.png" alt="SCA" width="500"></p> | <p align="center"><img src="https://i.postimg.cc/5Hyb11PC/CODISEC-Logo.png" alt="CODISEC" width="500"></p> | <p align="center"><img src="https://i.postimg.cc/gLFWvhGD/Life360-Logo.png" alt="Life360" width="500"></p> |
 | **Perfil** | **Overview** | Plataforma web de seguridad ciudadana diseñada para residentes y comerciantes en zonas de alta vulnerabilidad. Su valor central radica en la respuesta inmediata mediante la activación de alertas de pánico, la visualización de mapas de calor interactivos alimentados por la comunidad y el acceso a datos oficiales. | Solución tecnológica orientada al modelo B2G (Business to Government) que permite a las municipalidades digitalizar la gestión de seguridad. Se especializa en la integración de botones de pánico institucionales y sistemas de reporte ciudadano con soporte técnico continuo. | Entidad articuladora del Estado peruano (SINASEC) encargada de la planificación y supervisión de políticas de seguridad distrital. Su enfoque es la gestión pública multisectorial, coordinando a la Policía Nacional, Serenazgo y juntas vecinales. | Ecosistema global de geolocalización y seguridad personal enfocado en el ámbito familiar. Su propuesta se centra en el monitoreo preventivo mediante “círculos” de confianza, notificaciones de movimiento y funciones avanzadas de auxilio SOS. |
 | | **Ventaja Competitiva** | Unifica funciones dispersas (pánico, prevención visual y validación comunitaria). Destaca por su integración con dispositivos periféricos IoT y un sistema de notificaciones híbrido vinculado a red de apoyo y autoridades. | Especialización en gestión pública (PEI/POI) con implementación rápida "llave en mano". Garantiza estabilidad en un entorno de plataforma cerrada sin requerir infraestructura propia por parte del municipio contratante. | Respaldo institucional y marco legal (Ley N° 27933). Posee autoridad única para centralizar datos oficiales sobre criminalidad y la capacidad de movilizar recursos públicos y patrullaje integrado. | Estándar global en seguridad familiar con infraestructura de rastreo madura. Ofrece servicios premium que trascienden la seguridad personal, incluyendo protección de identidad y asistencia vehicular. |
-| **Plan de Marketing** | **Mercado Objetivo** | Residentes urbanos, familias, jóvenes y adultos en zonas de riesgo, nuevos residentes y organizaciones (condominios/empresas) interesadas en seguridad local. | Gobiernos locales, municipalidades distritales y provinciales que requieren digitalizar su gestión de seguridad ciudadana bajo un modelo institucional (B2G). | La comunidad organizada y población general dentro de una jurisdicción. Enfocado en gestión territorial de seguridad y articulación vecinal-autoridad. | Círculos familiares interesados en la geolocalización preventiva de integrantes (niños, adultos mayores) y grupos que buscan visibilidad en tiempo real. |
+| **Plan de Marketing** | **Mercado Objetivo** | Residentes urbanos, familias, jóvenes y adultos en zonas de riesgo, nuevos residentes y organizaciones (condominios/empresas) interesadas en seguridad local. | Gobiernos locales, municipalidades distritales y provinciales que requieren digitalizar su gestión de seguridad ciudadana bajo un modelo institucional (B2G). | La comunidad organizada y población general dentro de una jurisdicción. Enfocado en gestión territorial de seguridad and articulación vecinal-autoridad. | Círculos familiares interesados en la geolocalización preventiva de integrantes (niños, adultos mayores) y grupos que buscan visibilidad en tiempo real. |
 | | **Estrategias de Marketing** | Campañas digitales basadas en testimonios reales, convenios con municipalidades y aseguradoras, y alianzas con brigadas vecinales para integrarse en redes comunitarias. | Enfoque institucional resaltando valor político y cumplimiento de metas municipales. Marketing directo B2G a través de licitaciones y exposición de métricas de respuesta. | Comunicación institucional vía municipalidades, consultas públicas, actas de reunión y eventos comunitarios con juntas vecinales. | Liderazgo en SEO/ASO en tiendas de aplicaciones, marketing masivo en redes sociales y colaboraciones con medios sobre historias de éxito en seguridad familiar. |
 | **Plan de Producto** | **Productos y Servicios** | Botón de pánico multicanal, mapa de calor dinámico, historial de incidentes, alertas inteligentes de proximidad e integración con dispositivos IoT externos. | Alerta inmediata vinculada a serenazgo/policía, mapa de calor institucional y administración municipal de datos con soporte técnico 24/7. | Plan Distrital de Seguridad Ciudadana, capacitación de juntas vecinales, patrullaje integrado y transparencia de resultados en consultas públicas. | Geolocalización en tiempo real, alertas de llegada/salida, detección de accidentes de tránsito, botón SOS silencioso e historial de ubicaciones. |
 | | **Precios y Costos** | Modelo **Freemium**: Funciones básicas gratuitas. Plan Premium de bajo costo para notificación directa a autoridades e integración IoT avanzada. | Modelo **SaaS institucional**: Pago por licencia anual. El costo se determina por la densidad poblacional y el rango de la contratación pública. | **Gratuito**: Servicio financiado íntegramente con presupuesto municipal y recursos del Estado peruano. | Modelo **Freemium**: Versión básica gratuita. Planes Premium desde $4.99/mes que incluyen asistencia avanzada y soporte de emergencia. |
 | | **Canales de Distribución** | **Exclusivamente Web (PWA)**: Página web oficial optimizada para escritorio y móvil, redes sociales y ferias comunitarias de seguridad. | Web oficial para soporte y App móvil personalizada bajo el nombre del municipio en Google Play y App Store. | Sesiones presenciales, portales municipales oficiales y comunicación directa con organizaciones vecinales. | Presencia masiva en Google Play y App Store, sitio web oficial y campañas con influencers enfocados en seguridad parental. |
 | **Análisis SWOT** | **Fortalezas** | Integración sinérgica de prevención y reacción inmediata. Interfaz intuitiva y rápida para el ciudadano con validación comunitaria de reportes. | Especialización en el sector público y cumplimiento de metas POI/PEI. Implementación ágil (20-25 días) y soporte técnico 24/7. | Robustez institucional y autoridad para centralizar datos oficiales. Capacidad de movilizar patrullaje integrado y recursos estatales. | Liderazgo global y reconocimiento de marca. Ecosistema tecnológico maduro con detección de accidentes y alianzas internacionales. |
 | | **Oportunidades** | Crecimiento rápido sin burocracia estatal. Alianzas con aseguradoras y condominios. Tendencia global hacia soluciones comunitarias e IoT. | Alta demanda de digitalización municipal. Posibilidad de estandarizar la seguridad distrital y expandirse a nivel nacional. | Expansión mediante convenios llave en mano para municipios pequeños. Uso de analítica predictiva para fortalecer la confianza institucional. | Expansión en mercados con alta inseguridad (Latam). Sinergias con operadoras móviles e integración de IA para predicción de riesgos. |
-| | **Debilidades** | Bajo reconocimiento de marca inicial. Dependencia crítica de la adopción masiva y colaboración comunitaria para la efectividad de la data. | Dependencia total del proveedor (plataforma cerrada). Acceso limitado solo a través de contratos estatales sin contacto directo con el ciudadano. | Carece de métricas de impacto públicas. Interfaz institucional que puede no ser intuitiva en situaciones de emergencia crítica. | Enfoque limitado a la seguridad familiar (no ciudadana/delictiva). Alto consumo de batería y funciones avanzadas bloqueadas tras pago. |
+| | **Debilidades** | Bajo reconocimiento de marca inicial. Dependencia crítica de la adopción masiva y colaboración comunitaria para la efectividad de la data. | Dependencia total del proveedor (plataforma cerrada). Acceso limitado solo a través de contratos estatales sin contacto directo con el ciudadano. | Carece de métricas de impacto públicas. Interfaz institucional que puede no ser intuitiva en situaciones de emergencia crítica. | Enfoque limitado a la seguridad familiar (not ciudadana/delictiva). Alto consumo de batería y funciones avanzadas bloqueadas tras pago. |
 | | **Amenazas** | Competidores establecidos en seguridad privada. Riesgo de reportes falsos que afecten la credibilidad y desafíos regulatorios de datos. | Cambios en la gestión política o recortes presupuestarios. Competencia de aplicaciones municipales gratuitas de gran escala. | Desconfianza ciudadana en la respuesta de las autoridades locales. Riesgo de saturación del sistema por falsas alarmas ciudadanas. | Regulaciones de privacidad de datos cada vez más estrictas. Competencia indirecta de herramientas gratuitas de geolocalización básica. |
 
+**Nota:** Análisis competitivo de InstAlert en comparación con las principales soluciones y organizaciones del sector, considerando aspectos de perfil, marketing, producto y análisis SWOT.
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
@@ -91,47 +92,272 @@ En base al análisis previo, **InstAlert** establece las siguientes directrices 
 | **Preguntas para Segmento 1: Vecinos de zonas de riesgo medio-alto** | 1. ¿En qué circunstancias o momentos específicos experimenta mayor inseguridad al transitar por su zona de residencia? ¿Cuál es su percepción de seguridad durante sus desplazamientos cotidianos?<br>2. ¿Qué medidas preventivas adopta actualmente para desplazarse de forma segura en su localidad? ¿De qué manera estas estrategias de movilidad han llegado a afectarle en algún aspecto?<br>3. ¿Podría describir alguna situación de riesgo en su zona donde se le dificultó reaccionar o solicitar auxilio? En caso de no haberlo vivido personalmente, ¿tiene conocimiento de algún incidente cercano? ¿Qué factores considera que complicaron la respuesta de los afectados?<br>4. ¿De qué forma garantiza su protección personal ante la presencia de riesgos en la vía pública o en su vecindario?<br>5. Si tuviera acceso a una herramienta de asistencia para situaciones de riesgo en su comunidad, ¿bajo qué funciones esperaría que esta le brinde soporte?<br>6. ¿Qué obstáculos o deficiencias identifica en los canales de solicitud de ayuda disponibles ante una emergencia?<br>7. ¿A través de qué medios se informa habitualmente sobre los sucesos de inseguridad ocurridos en su sector?<br>8. ¿Ha percibido, mediante experiencias propias o eventos observados, alguna falta de fiabilidad en las autoridades correspondientes?<br>9. Ante una situación de vulnerabilidad, ¿considera que un botón de pánico sería una herramienta eficaz? De ser así, ¿cuál sería el aporte específico de este mecanismo?<br>10. ¿Cree que disponer de datos precisos sobre las áreas con mayor índice de criminalidad en su zona le resultaría beneficioso?<br>11. ¿Considera de utilidad contar con reportes actualizados sobre incidentes recientes? En caso afirmativo, ¿cuál sería el motivo?<br>12. ¿Qué información específica y detallada requeriría usted en cada reporte de incidente?<br>13. Si existiera la posibilidad de incluir una descripción que permita identificar al responsable en el reporte, ¿considera que esto le sería de ayuda? ¿De qué manera?<br>14. ¿Cuentan los residentes con un canal de comunicación definido para reportar y alertar sobre diversas situaciones de interés comunitario?<br>15. ¿Forma usted parte de juntas de vecinos o redes de apoyo enfocadas en la seguridad ciudadana?<br>16. ¿Qué acciones o proyectos considera que la comunidad de vecinos podría ejecutar para optimizar la seguridad del entorno? |
 | **Preguntas para Segmento 2: Comerciantes en zonas de riesgo medio-alto** | 1. ¿Ha experimentado en algún momento una sensación de inseguridad durante el desempeño de sus labores? De ser así, ¿cuáles fueron los motivos?<br>2. En su operatividad diaria, ¿en qué escenarios específicos identifica una mayor vulnerabilidad dentro de su establecimiento (apertura, cierre, gestión de efectivo o periodos de soledad)?<br>3. ¿Recuerda alguna circunstancia en la que la integridad de su negocio se viera comprometida y no contara con una capacidad de respuesta inmediata? ¿Podría describir el suceso?<br>4. ¿Con qué periodicidad y qué tan actuales son los hechos delictivos registrados en este sector?<br>5. ¿Qué modalidades delictivas considera que afectan con mayor frecuencia al sector comercial de esta zona?<br>6. ¿Ha repercutido el estado de la seguridad ciudadana en el rendimiento operativo o financiero de su empresa? En caso afirmativo, ¿de qué forma?<br>7. Además de los robos o asaltos, ¿existen otros agentes o factores que le generen una percepción de riesgo?<br>8. ¿Considera que el contacto con las fuerzas del orden o la solicitud de auxilio es accesible en su localidad? De lo contrario, ¿qué elementos dificultan este proceso?<br>9. ¿Estima usted que las autoridades asignadas a su jurisdicción son dignas de confianza? ¿Cuáles son los fundamentos de su postura? <br>10. ¿Considera que la implementación de un botón de pánico resultaría de utilidad para su protección?<br>11. ¿Bajo qué supuestos de riesgo proyectaría usted el uso de un botón de pánico (por ejemplo: tentativa de hurto, clientes hostiles, extorsión o sospecha de seguimiento)?<br>12. ¿Estima que esta herramienta optimizaría la asistencia de las autoridades si permitiera el envío de alertas directas a las unidades más cercanas?<br>13. ¿Cree que disponer de información exacta sobre los puntos críticos de incidencia delictiva en su zona le sería de ayuda?<br>14. ¿Qué datos técnicos o descriptivos desearía recibir acerca de dichos incidentes? |
 
+**Nota:** Guía de entrevista  elaborada para la recopilación de información 
+
 #### 2.2.2. Registro de entrevistas
 
 ### Entrevistas realizadas al Segmento 1: Residentes en zonas de riesgo medio-alto
 
-**Entrevista 1**
-* **Entrevistado:** Luis Acuña
-* **Edad:** 24 años | **Distrito:** Villa el Salvador | **Duración:** 07:30
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista Luis Acuña" width="450"></p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1YYbLXw05sbvAsS6NOetuvwhimf2buhcz/view?usp=sharing)
-* **Nota:** El inicio efectivo de la entrevista se da en el minuto 00:00:32.
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Luis Acuña</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Acuña</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Villa el Salvador</td>
+  </tr>
+  <tr>
+  <td>Evidencia</td>
+  <td align="center">
+    <img src="https://i.postimg.cc/94hgtB7S/evidencia3.png" alt="Entrevista" width="180">
+  </td>
+</tr>
+    <td>Link</td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBEHjzI3i3NRocKfcla1JkxAU6Eg3bkwHDnG3qhlFw5r7I?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=juPdPq</td>
+</tr>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista</td>
+    <td>7:30 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      El entrevistado señala que la inseguridad es más intensa durante la noche y en zonas poco transitadas, lo que lo obliga a modificar sus hábitos cotidianos y tomar medidas preventivas constantes. Debido a la limitada respuesta de las autoridades, depende de grupos vecinales y redes sociales para mantenerse informado sobre incidentes delictivos. Considera necesaria una aplicación que incorpore funciones como botón de pánico, ubicación en tiempo real y mapas de incidencias para mejorar la capacidad de reacción ante emergencias.
+    </td>
+  </tr>
+</tbody>
+</table>
 
-**Entrevista 2**
-* **Entrevistado:** Ignacio Baulety
-* **Edad:** 27 años | **Distrito:** Ate | **Duración:** 13:41
-* **Testimonio clave:** *"El entrevistado indica que vive con frecuencia inestabilidad emocional debido a la inseguridad en la que vive cada vez que sale de casa a estudiar, trabajar o hacer deporte."*
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista Ignacio Baulety" width="450"></p>
-* **Link de grabación:** [Ver en SharePoint](https://upcedupe-my.sharepoint.com/personal/u201610857_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201610857%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2FEntrevistaSource%2EMOV&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee25deb5%2Df3d0%2D449e%2Dad52%2Dfdd0f9d7167b)
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Ignacio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Baulety</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>27 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ate</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/HV86qN4V/evidencia4.png" alt="Entrevista"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u201610857_upc_edu_pe/IQDzn4lObEVKSI9R79E9eYvdAU_I7NBiCHEMlStq-b7ihRA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tZ78ic</td>
+</tr>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista</td>
+    <td>13:41 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      El entrevistado manifiesta que la inseguridad afecta significativamente su bienestar emocional y limita sus actividades diarias como estudiar, trabajar y hacer deporte. La falta de organización vecinal y la escasa presencia policial incrementan su sensación de vulnerabilidad, por lo que ha restringido sus desplazamientos a horarios y rutas más seguras. Su experiencia evidencia cómo la percepción de riesgo impacta directamente en la calidad de vida y la libertad de movimiento.
+    </td>
+  </tr>
+</tbody>
+</table>
 
-**Entrevista 3**
-* **Entrevistado:** Renzo Baldeon
-* **Edad:** 26 años | **Distrito:** Callao | **Duración:** 08:30
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista Renzo Baldeon" width="450"></p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing)
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Renzo</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Baldeon</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>26 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Callao</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/D8SN20FK/evidencia2.png" alt="Entrevista"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>https://drive.google.com/file/d/1J6zfexhuCn5Op4AMSNH5LDKwullAqQiD/view?usp=sharing</td>
+  </tr>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista</td>
+    <td>08:30 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      El entrevistado describe su zona como un entorno con frecuentes robos, vandalismo y conflictos callejeros. Tras haber sido víctima de un hurto, expresa desconfianza en la efectividad de la respuesta policial y considera insuficientes las medidas de seguridad comunitarias. Señala la necesidad de una aplicación que permita reportar incidentes y brindar asistencia inmediata para mejorar la prevención y reacción ante emergencias.
+    </td>
+  </tr>
+  <tr>
+    <td>Observación</td>
+    <td>
+      El integrante encargado de grabar esta entrevista subió inicialmente el contenido a Google Drive. Posteriormente, nos pusimos en contacto con él para solicitar que actualizara el enlace conforme al formato establecido para el proyecto; sin embargo, no obtuvimos respuesta.
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
 ### Entrevistas realizadas al Segmento 2: Comerciantes en zonas de riesgo medio-alto
 
-**Entrevista 4**
-* **Entrevistado:** Maria Rocio de los Ángeles
-* **Edad:** 42 años | **Distrito:** Comas | **Duración:** 18:06
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista Maria Rocio" width="450"></p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/drive/folders/1UhCP09qC8tN4AUiRxbhMkTz6jt3saF_-?usp=sharing)
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Maria Rocio</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>de los Ángeles</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>42 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Comas</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/rRmPRFrz/evidencia1.png" alt="Entrevista"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBfUrfMjw5qQaE1oeaS4ID-AZnXkCn5NzuHO9g1RUvBgXk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tlBfqM</td>
+</tr>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista</td>
+    <td>18:06 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      La entrevistada expone el impacto económico y emocional que la delincuencia genera en los pequeños negocios. Debido a intentos de robo y constantes amenazas, ha reducido sus horarios de atención, afectando sus ingresos. Considera que la respuesta de las autoridades es lenta e insuficiente, por lo que propone herramientas de alerta inmediata y sistemas comunitarios de información para prevenir delitos y fortalecer la seguridad colectiva.
+    </td>
+  </tr>
+</tbody>
+</table>
 
-**Entrevista 5**
-* **Entrevistado:** Alejandro Alvarado
-* **Edad:** 22 años | **Distrito:** El Callao | **Duración:** 5:15
-* **Evidencia:** <p align="left"><img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista Alejandro Alvarado" width="450"></p>
-* **Link de grabación:** [Ver en Google Drive](https://drive.google.com/file/d/1zNKlfbnjriChJH_xXQYyj8bxLBc-7McN/view?usp=sharing)
-
-
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Alejandro</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Alvarado</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>22 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Callao</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://i.postimg.cc/Xrn6q6gD/evidencia5.png" alt="Entrevista"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202415638_upc_edu_pe/IQBXp5rIV73JQKjbq-OWqSR9ASrFEAfTBjFd_OfO-ld5AFY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Gx3biD</td>
+</tr>
+  <tr>
+    <td>Timing donde inicia la entrevista</td>
+    <td>00:00 min</td>
+  </tr>
+  <tr>
+    <td>Duración de la entrevista</td>
+    <td>5:15 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+      El entrevistado señala que los negocios familiares enfrentan riesgos constantes, especialmente durante el cierre y manejo de efectivo. La frecuencia de asaltos y delitos ha generado pérdidas económicas y reducción de clientes. Manifiesta desconfianza hacia la respuesta policial y considera esencial una aplicación con botón de pánico y sistema de información colaborativa para identificar zonas de riesgo.
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -168,13 +394,17 @@ En cuanto a la percepción de la fuerza pública, Alejandro manifiesta un escept
 
 User persona Joan Marcelo - Residente de zona de riesgo medio-alto 
 
-<p align="left"><img src="../assets/images/UX Canva/userpersona-joan-marcelo.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/userpersona-joan-marcelo.jpg" alt="User Persona Joan Marcelo" width="450">
+</p>
 
 ***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
 
 User persona Maria Torres - Comerciante de zona de riesgo medio-alto
 
-<p align="left"><img src="../assets/images/UX Canva/userpersona-maria-torres.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/userpersona-maria-torres.jpg" alt="User Persona Maria Torres" width="450">
+</p>
 
 ***Nota.*** Representa todo lo relacionado al user persona, motivaciones, frustraciones, datos personales, etc., pertenece al primer segmento.
 
@@ -197,6 +427,8 @@ User Task Matrix: Residente de zona de riesgo medio-alto
 | Activar botón de pánico (Emergencia) | Low | High |
 | Solicitar asistencia de serenazgo/policía | Low | High |
 
+**Nota:** Matriz de tareas del usuario para el segmento de residentes en zonas de riesgo medio-alto, clasificada según la frecuencia de uso y el nivel de importancia de cada tarea.
+
 User Task Matrix: Comerciantes en zonas de riesgo medio-alto
 
 | Tareas de Usuario | Frecuencia | Importancia |
@@ -215,26 +447,39 @@ User Task Matrix: Comerciantes en zonas de riesgo medio-alto
 | Registro y configuración de perfil | Low | High |
 | Consultar rutas seguras en tiempo real | Low | Medium |
 
+**Nota:** Matriz de tareas del usuario para el segmento de comerciantes en zonas de riesgo medio-alto, clasificada según la frecuencia de uso y el nivel de importancia de cada tarea.
+
 ### 2.3.3. User Journey Mapping
 
 Primer Segmento: Residentes de zonas de riesgo medio-alto
 
-<p align="left"><img src="../assets/images/UX Canva/userjourneymapping-1.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/userjourneymapping-1.jpg" alt="User Journey Mapping Residente" width="450"><br>
+  Nota: User Journey Mapping del segmento de residentes en zonas de riesgo medio-alto
+</p>
 
-Segundo segmento: Comerciantes en zonas de riesgo medio-alto)
+Segundo segmento: Comerciantes en zonas de riesgo medio-alto
 
-
-<p align="left"><img src="../assets/images/UX Canva/userjourneymapping-2.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/userjourneymapping-2.jpg" alt="User Journey Mapping Comerciante" width="450"><br>
+  Nota: User Journey Mapping del segmento de comerciantes en zonas de riesgo medio-alto
+</p>
 
 ### 2.3.4. Empathy Mapping.
 
 Empathy Map Kiara Lluques
 
-<p align="left"><img src="../assets/images/UX Canva/empathymap-kiara-lluques.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/empathymap-kiara-lluques.jpg" alt="Empathy Map Kiara Lluques" width="450"><br>
+  Nota: Empathy Map correspondiente a la persona "Kiara Lluques"
+</p>
 
 Empathy Map Luan Enrique
 
-<p align="left"><img src="../assets/images/UX Canva/empathymap-luan-enrique.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/empathymap-luan-enrique.jpg" alt="Empathy Map Luan Enrique" width="450"><br>
+  Nota: Empathy Map correspondiente a la persona "Luan Enrique"
+</p>
 
 ## 2.4. Big Picture Event Storming
 
@@ -247,23 +492,30 @@ El equipo llevó a cabo una sesión de Big Picture Event Storming con el objetiv
 En esta fase inicial, el equipo se enfocó en identificar todos los hechos significativos que ocurren dentro del ecosistema de seguridad de InstAlert. Siguiendo la convención de la metodología, estos eventos se plasmaron en notas adhesivas de color naranja y se redactaron en tiempo pasado.
 Se identificaron eventos clave como Incidente sospechoso detectado, Botón de pánico activado, Alerta de estafa emitida y Ubicación en tiempo real compartida. Esta etapa permitió visibilizar la complejidad de las interacciones sin restricciones de orden.
 
-
-<p align="left"><img src="../assets/images/UX Canva/generacionde-eventosdedominio.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/generacionde-eventosdedominio.jpg" alt="Generación de Eventos de Dominio" width="450"><br>
+  Nota: Generación de eventos de dominio del Big Picture Event Storming de InstAlert
+</p>
 
 #### 2.4.1.2 Ordenamiento Cronológico y Flujo de Trabajo
 
 Una vez generados los eventos, se procedió a organizarlos en una línea de tiempo de izquierda a derecha. Este ordenamiento permitió estructurar dos flujos principales de la aplicación: el Flujo Preventivo (orientado a la consulta de rutas y mapas de calor por parte del residente) y el Flujo Reactivo (enfocado en la respuesta inmediata ante emergencias para comerciantes y vecinos). Se utilizaron alineaciones verticales para representar acciones que ocurren en paralelo, como el envío simultáneo de notificaciones a serenazgo y contactos de confianza.
 
-
-<p align="left"><img src="../assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/ordenamientocronologico-flujodetrabajo.jpg" alt="Ordenamiento Cronológico y Flujo de Trabajo" width="450"><br>
+  Nota: Ordenamiento cronológico y flujo de trabajo del Big Picture Event Storming de InstAlert
+</p>
 
 En esta etapa, el equipo organizó los eventos de dominio de manera cronológica, permitiendo identificar la secuencia de interacción desde que un usuario consulta el mapa de calor (prevención) hasta la activación del botón de pánico en situaciones críticas (reacción). Se establecieron dependencias lógicas donde los reportes comunitarios alimentan la inteligencia colectiva del sistema.
 
-#### 2.4.1.3 Identificación de Actores y Sistemas Externos
+#### 4.2.4.1.3 Identificación de Actores y Sistemas Externos
 
 Para otorgar contexto a los eventos, se añadieron capas de información identificando quién ejecuta las acciones y qué herramientas de terceros intervienen. Actores: Se definieron roles críticos como el Residente de zona de riesgo, el Comerciante, el Contacto de Confianza y el Operador de Serenazgo. Sistemas Externos: Se identificaron integraciones necesarias con Google Maps API para la geolocalización y Firebase para la gestión de notificaciones push en tiempo real.
 
-<p align="left"><img src="../assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg" width="450"></p>
+<p align="center">
+  <img src="../assets/images/UX Canva/identificaciondeactores-sistemasexternos.jpg" alt="Identificación de Actores y Sistemas Externos" width="450"><br>
+  Nota: Identificación de actores y sistemas externos del Big Picture Event Storming de InstAlert
+</p>
 
 #### 2.4.1.4 Storytelling y Validación (Reverse Storytelling)
 
@@ -283,3 +535,5 @@ Finalmente, el equipo realizó una lectura crítica del muro para verificar la c
 | Security Authorities | Fuerzas del orden (Policía Nacional, Serenazgo) con las que la plataforma busca integrarse y coordinar para agilizar la respuesta ante situaciones de peligro. |
 | Risk zones | Áreas urbanas o rurales identificadas dentro de la plataforma que presentan un alto índice de inseguridad ciudadana. |
 | Smart data analysis | Uso de Inteligencia Artificial para procesar el historial de reportes y datos actuales, permitiendo predecir patrones de delincuencia y mejorar la prevención ciudadana. |
+
+**Nota:** Lenguaje ubicuo (Ubiquitous Language) de InstAlert, que define los principales términos del dominio utilizados para mantener una comunicación consistente entre los participantes del proyecto y el equipo de desarrollo.
