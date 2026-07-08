@@ -54,6 +54,10 @@
 
 <https://instalert-front-end.vercel.app/login>
 
+### Landingpage
+
+<https://instalert-startup.github.io/landing-page/#inicio>
+
 ## Repositorios
 
 * Frontend Repository
@@ -71,6 +75,11 @@
 * Repositorio del Report:
 
 <https://github.com/instalert-startup/instalert-project-report>
+
+* Landingpage Repository:
+
+<https://github.com/instalert-startup/landing-page>
+
 
 ## API Documentation
 
