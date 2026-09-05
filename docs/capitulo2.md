@@ -521,19 +521,19 @@ Para otorgar contexto a los eventos, se añadieron capas de información identif
 
 Finalmente, el equipo realizó una lectura crítica del muro para verificar la coherencia del dominio. Al narrar la historia de forma inversa, se identificaron vacíos lógicos y se añadieron post-its de color rosado para marcar "Puntos de Dolor" o problemas, tales como la validación de reportes falsos y la conectividad en sótanos o zonas de baja señal. Esta etapa garantizó que el sistema propuesto sea robusto ante situaciones de estrés real.
 
-## 2.5. Ubiquitous Language.
+## 2.5. Ubiquitous Language
 
 | Término (Inglés) | Definición |
 | :--- | :--- |
-| Resident user | Ciudadano o estudiante que vive o transita frecuentemente por zonas de riesgo medio-alto y utiliza la plataforma para su prevención y seguridad personal. |
-| Merchant user | Comerciante que desarrolla sus actividades en áreas de riesgo medio-alto y requiere de una herramienta rápida para protegerse ante posibles robos o estafas. |
-| IoT Panic Button | Dispositivo físico inteligente conectado a la aplicación que permite al usuario emitir alertas sonoras instantáneas y solicitar auxilio de manera discreta e inmediata. |
-| Real-time alerts | Notificaciones enviadas de manera automática e inmediata a contactos de confianza y autoridades en el momento en que se activa una emergencia. |
-| Crime Heat Map | Representación visual en la plataforma que destaca las áreas geográficas con mayor incidencia delictiva, basándose en datos históricos y reportes recientes. |
-| Collaborative reports | Denuncias o avisos de incidentes (robos, agresiones, actividades sospechosas) generados por los usuarios, que pueden incluir evidencia en texto, foto o audio. |
-| Trusted contacts | Lista de personas (familiares, amigos o vecinos) previamente configurada por el usuario, quienes recibirán la ubicación y alerta de auxilio en caso de emergencia. |
-| Security Authorities | Fuerzas del orden (Policía Nacional, Serenazgo) con las que la plataforma busca integrarse y coordinar para agilizar la respuesta ante situaciones de peligro. |
-| Risk zones | Áreas urbanas o rurales identificadas dentro de la plataforma que presentan un alto índice de inseguridad ciudadana. |
-| Smart data analysis | Uso de Inteligencia Artificial para procesar el historial de reportes y datos actuales, permitiendo predecir patrones de delincuencia y mejorar la prevención ciudadana. |
+| Store Owner (Dueño / Administrador de local) | Persona responsable de la gestión y operación del establecimiento comercial, encargada de administrar el negocio y adquirir la suscripción del servicio de seguridad. |
+| Operational Staff (Personal operativo / Vendedores) | Empleados, cajeros o trabajadores que se encuentran en la primera línea de atención del negocio y utilizan la plataforma para emitir alertas tempranas o solicitar auxilio en caso de emergencia. |
+| Commercial Network (Red de comercios) | Agrupación de negocios vecinos o locales ubicados en un mismo corredor geográfico que comparten información preventiva para protegerse mutuamente. |
+| Subscription Plan (Plan de suscripción) | Nivel de servicio o membresía adquirida por la organización o negocio, el cual define el acceso a características específicas de prevención y seguridad dentro de la plataforma. |
+| Silent Panic Button (Botón de pánico silencioso) | Mecanismo de activación discreta utilizado por el personal operativo para enviar una alerta de emergencia a contactos clave y autoridades sin llamar la atención de los delincuentes. |
+| Extortion Threat (Amenaza de extorsión) | Riesgo de seguridad crítico para el sector comercial (conocido localmente como "cobro de cupos"), cuyo registro y seguimiento requiere un tratamiento confidencial en el sistema. |
+| Commercial Risk Map (Mapa de riesgo comercial) | Representación geográfica que resalta las zonas y horarios con mayor incidencia delictiva, permitiendo a los negocios tomar decisiones operativas (como adelantar horarios de cierre). |
+| Incident Report (Reporte de incidente) | Aviso documentado sobre un hecho delictivo, estafa o actividad sospechosa (ej. billetes falsos, merodeadores), generado por el personal de un comercio para alertar a su red. |
+| Emergency Contacts (Contactos de emergencia) | Lista predefinida de personas clave (dueños, administradores o gerentes de locales vecinos) designadas para recibir notificaciones inmediatas ante la activación de un botón de pánico. |
+| Security Authorities (Autoridades de seguridad) | Entidades encargadas del orden público (Policía Nacional, Serenazgo), con las cuales los comercios buscan articular una respuesta rápida ante emergencias validadas. |
 
-**Nota:** Lenguaje ubicuo (Ubiquitous Language) de InstAlert, que define los principales términos del dominio utilizados para mantener una comunicación consistente entre los participantes del proyecto y el equipo de desarrollo.
+**Nota:** Lenguaje ubicuo (Ubiquitous Language) de InstAlert adaptado al entorno comercial (B2B), que define los principales términos del dominio utilizados para evitar ambigüedades y mantener una comunicación consistente entre los stakeholders y el equipo de desarrollo.
